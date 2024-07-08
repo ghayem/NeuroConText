@@ -1,4 +1,3 @@
-# README
 
 ## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
 
