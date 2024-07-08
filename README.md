@@ -35,7 +35,7 @@ The directory structure of the project should look like this:
 NeuroConText/
 │
 ├── data/
-│   └── (Downloaded data files from [https://zenodo.org/uploads/12684666](https://zenodo.org/uploads/12684666))
+│   └── (Downloaded data files from)
 │
 ├── src/
 │   ├── __init__.py
