@@ -35,7 +35,7 @@ The directory structure of the project should look like this:
 NeuroConText/
 │
 ├── data/
-│   └── (Downloaded data files from [data_NeuroConText_MICCAI24](https://zenodo.org/records/14169410?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0NmUwMWZhLWVmYzQtNDUxZS05NTg3LWJjZDdhZGY5MGRiYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDlhYjYwYWYwN2Q1Y2JmYWU0MjE0NTFlNGYzMTQxZiJ9.p7EhGnpNIBN73FOn-L5MmQ9Dz5Cx86Y9x7kZWUyVz_fTp_lLxEEb21c4aBC-wb9Fbyg7dF8r1uHycu2I_dZBXw).)
+│   └── (Downloaded data files from the link provided above.)
 │
 ├── src/
 │   ├── __init__.py
