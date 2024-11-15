@@ -15,7 +15,7 @@ Make sure you have Python installed on your system. The code has been tested wit
 ### Data
 
 To work with the code, you need to download the dataset from the following link: 
-[data_NeuroConText_MICCAI24]([https://zenodo.org/uploads/12684666](https://zenodo.org/records/14169410?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0NmUwMWZhLWVmYzQtNDUxZS05NTg3LWJjZDdhZGY5MGRiYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDlhYjYwYWYwN2Q1Y2JmYWU0MjE0NTFlNGYzMTQxZiJ9.p7EhGnpNIBN73FOn-L5MmQ9Dz5Cx86Y9x7kZWUyVz_fTp_lLxEEb21c4aBC-wb9Fbyg7dF8r1uHycu2I_dZBXw)).
+[data_NeuroConText_MICCAI24](https://zenodo.org/records/14169410?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0NmUwMWZhLWVmYzQtNDUxZS05NTg3LWJjZDdhZGY5MGRiYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDlhYjYwYWYwN2Q1Y2JmYWU0MjE0NTFlNGYzMTQxZiJ9.p7EhGnpNIBN73FOn-L5MmQ9Dz5Cx86Y9x7kZWUyVz_fTp_lLxEEb21c4aBC-wb9Fbyg7dF8r1uHycu2I_dZBXw).
 
 After downloading, save the data in the `data` folder within the working directory of this project.
 
