@@ -1,0 +1,29 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Brain Cortex**
+
+2. **Primary Motor Cortex (M1)**
+
+3. **Primary Sensory Cortex (S1)**
+
+4. **Supplemental Motor Area (SMA)**
+
+5. **Inferior Frontal Cortex**
+
+6. **Bilateral Orbital Frontal Cortices (OFCs)**
+   - Right superior orbital frontal cortex (OFC)
+   - Left inferior orbital frontal cortex (OFC)
+   - Bilateral middle orbital frontal cortices (OFCs)
+
+7. **Dorsal Anterior Cingulate Cortex (ACC)**
+   - Right anterior cingulate cortex (ACC)
+
+8. **Bilateral Anterior Insular Cortices**
+
+9. **Right Superior Temporal Gyrus**
+
+10. **Left Middle Frontal Cortex**
+
+11. **Right Putamen**
+
+These regions are involved in various cognitive, sensory, and motor functions, as well as psychological processes such as depression and anxiety.

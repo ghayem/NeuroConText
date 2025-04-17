@@ -1,0 +1,43 @@
+Based on the article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Midline**
+   - Anterior cortical midline
+   - Posterior cortical midline
+
+2. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Medial prefrontal gyrus
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+
+3. **Temporal Cortex**
+   - Lateral temporal cortex
+
+4. **Parietal Lobe**
+   - Inferior parietal lobe (IPL)
+
+5. **Posterior Cingulate Cortex (PCC)**
+   - Anteroinferior PCC
+
+6. **Cerebellum**
+   - Cerebellar posterior lobe (CPL)
+
+7. **Default Mode Network (DMN)**
+   - PCC/precuneus
+   - Bilateral IPL
+   - Medial temporal gyrus
+   - Medial prefrontal gyrus
+
+These regions are involved in various cognitive functions, including:
+
+- Emotional processing
+- Attention
+- Cognitive function
+- Visuospatial memory and processing
+- Executive functions
+- Self-referential processing
+- Social cognition
+- Visuospatial skills
+- Visuoconstructional skills
+- Language (implied through the involvement of the temporal cortex)
+- Memory (implied through the involvement of the temporal cortex and DMN)

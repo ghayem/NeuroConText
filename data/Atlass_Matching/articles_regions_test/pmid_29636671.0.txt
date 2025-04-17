@@ -1,0 +1,85 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Substantia Nigra**
+   - Pars compacta
+
+2. **Neocortex**
+
+3. **Basal Ganglia**
+
+4. **Fronto-Temporal Regions**
+
+5. **Occipital Lobe**
+
+6. **Cerebellum**
+
+7. **Middle Temporal Gyrus (MTG)**
+   - Ipsilateral
+   - Contralateral
+
+8. **Precuneus**
+   - Ipsilateral
+
+9. **Rolandic Operculum**
+   - Contralateral
+   - Extending to supramarginal gyrus
+   - Extending to postcentral gyrus
+
+10. **Precentral Gyrus**
+    - Ipsilateral
+
+11. **Inferior Temporal Gyrus (ITG)**
+    - Contralateral
+
+12. **Inferior Frontal Gyrus**
+    - Triangular part (IFTr)
+    - Ipsilateral
+
+13. **Supramarginal Gyrus**
+    - Ipsilateral
+
+14. **Superior Orbitofrontal Gyrus (SFOr)**
+    - Contralateral
+
+15. **Inferior Orbitofrontal Gyrus (IFOr)**
+    - Ipsilateral
+
+16. **Middle Orbitofrontal Gyrus (MFOr)**
+    - Contralateral
+
+17. **Amygdala**
+    - Ipsilateral
+
+18. **Pallidum**
+    - Ipsilateral
+
+19. **Vermis**
+    - Area 9
+
+20. **Insula**
+    - Ipsilateral
+
+21. **Heschel's Gyrus**
+    - Ipsilateral
+
+22. **Cerebellum**
+    - Area 10
+    - Area 4
+    - Area 5
+    - Area 6
+
+23. **Olfactory Gyrus**
+    - Contralateral
+
+24. **Caudate Nucleus (CN)**
+
+25. **Putamen (PUT)**
+    - Contralateral
+
+26. **Pallidum (PLD)**
+
+27. **Amygdala (AMYG)**
+
+28. **Cerebellum (CRBL)**
+
+These regions are involved in various motor and cognitive functions, and their alterations are associated with the pathophysiology of Parkinson's disease, particularly in the context of hemiparkinsonism.

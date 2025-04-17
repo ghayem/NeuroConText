@@ -1,0 +1,29 @@
+1. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Anterior mid cingulate cortex (aMCC)
+   - Posterior cingulate cortex
+   - Subgenual anterior cingulate cortex
+
+2. **Insular Cortex**
+   - Anterior insula (AIC)
+
+3. **Amygdala**
+
+4. **Orbitofrontal Cortex**
+
+5. **Medial Prefrontal Cortex**
+
+6. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (dlPFC)
+
+7. **Thalamus**
+
+8. **Caudate Nucleus**
+
+9. **Parahippocampal Gyrus**
+
+10. **Middle Frontal Gyrus**
+
+11. **Superior Frontal Gyrus**
+
+- These regions are involved in these cognitive functions: interoception, autonomic regulation, threat-safety discrimination, threat appraisal, explicit memory, and emotional experience.

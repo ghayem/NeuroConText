@@ -1,0 +1,43 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Auditory Cortex**
+   - Heschl's gyri (HG)
+   - Primary and secondary auditory cortices
+
+2. **Medial Prefrontal Cortex**
+   - Left medial prefrontal cortex (mPFC)
+   - Anterior cingulate cortex (ACC)
+     - Rostral anterior cingulate cortex (rACC)
+     - Left rostral anterior cingulate cortex
+   - Left superior parietal
+   - Right superior occipital
+   - Left middle temporal gyrus
+
+3. **Amygdala**
+
+4. **Left insula**
+
+5. **Left fusiform**
+
+6. **Superior parietal and superior occipital cortices**
+
+7. **Parahippocampal gyrus**
+   - Parahippocampal cortex
+   - Left parahippocampal gyrus
+   - Right parahippocampal gyrus
+
+8. **Hippocampus**
+   - Left hippocampus
+
+9. **Temporal pole**
+   - Right temporal pole
+
+10. **Anterior superior insula**
+
+11. **Inferior frontal gyrus**
+    - Left inferior frontal gyrus
+
+12. **Cuneus**
+    - Right cuneus
+
+These regions are involved in various cognitive and emotional functions, including emotion processing, appraisal of negative emotions, conflict detection/resolution, and emotional modulation of attention and perception.

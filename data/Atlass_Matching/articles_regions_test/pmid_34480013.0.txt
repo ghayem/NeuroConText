@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Amygdala**
+
+2. **Hippocampus**
+
+3. **Insula**
+   - Anterior insula
+
+4. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Ventral lateral prefrontal cortex (VLPFC)
+   - Medial prefrontal cortex (MPFC)
+
+5. **Anterior Cingulate Cortex (ACC)**
+   - Perigenual ACC
+
+6. **Cingulate Cortex**
+   - Middle cingulate gyrus (MCG)
+
+7. **Supplementary Motor Area (SMA)**
+
+8. **Precuneus**
+
+9. **Visual Cortex**
+
+10. **Inferior Frontal Gyrus**
+
+11. **Lateral Prefrontal Cortex (LPFC)**
+
+12. **Dorsomedial Prefrontal Cortex**
+
+These regions are involved in various cognitive and emotional processes, including affective processing, cognitive control, emotion regulation, stress and emotional processing, and memory.

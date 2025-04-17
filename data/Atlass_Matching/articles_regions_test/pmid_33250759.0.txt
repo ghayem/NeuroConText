@@ -1,0 +1,96 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Salience Network**
+    - Anterior insula
+
+4. **Somatomotor Network**
+
+5. **Visual Network**
+    - Lateral visual network
+    - Left visual cortex
+    - Right visual cortex
+
+6. **Speech Production Pathway**
+    - Dorsal pathway
+    - Ventral pathway
+
+7. **Semantic Processing Pathway**
+
+8. **Right Inferior Cerebellum**
+
+9. **Right Superior Motor Areas**
+    - Pre-post central gyrus
+
+10. **Right Lateral Sensorimotor Network**
+
+11. **Right Lateral Occipital Visual Network**
+
+12. **Left Lateral Occipital Visual Network**
+
+13. **Bilateral Frontal Motor Areas**
+
+14. **Right Anterior Insula**
+
+15. **Right Cerebellum**
+
+16. **Left Inferior Frontal Gyrus (LIFG)**
+
+17. **Right and Left Posterior Superior Temporal Gyrus (R and LpSTG)**
+
+18. **Right and Left Sensorimotor Network (R and LSM)**
+
+19. **Middle Prefrontal Cortex (MPFC)**
+
+20. **Bilateral Superior Frontal Gyrus**
+
+21. **Right Superior Temporal Gyrus**
+
+22. **Left Frontal Orbital and Left IFG Pars Triangularis**
+
+23. **Right Orbitofrontal Pole and Insula**
+
+24. **Right Lateral Occipital Cortex**
+
+25. **Left Superior Lateral Occipital Cortex**
+
+26. **Precuneus-PCC**
+
+27. **Left Visual Network and Precuneus**
+
+28. **Right Visual Network and Precuneus-PCC**
+
+29. **Occipital Cluster**
+
+30. **Frontal, Occipital, and Temporal Areas**
+
+31. **Left Visual Occipital Cortex and Inferior Frontal Areas**
+
+32. **Speech Motor Regions**
+
+33. **Visual Cortex and Frontal Motor Areas**
+
+34. **Inferior Frontal and Superior Temporal Regions**
+
+35. **Frontal Motor Areas**
+
+36. **Right Superior Temporal Gyrus**
+
+37. **Posterior DMN**
+
+38. **Right Inferior Frontal Gyrus (RIFG)**
+
+39. **Left Superior Frontal Gyrus**
+
+40. **Right Middle Frontal Gyrus**
+
+41. **Left Middle Frontal Gyrus**
+
+42. **Right Inferior Frontal Gyrus Pars Triangularis**
+
+These regions are involved in cognitive functions such as language, memory, executive functions, semantic processing, and motor control.

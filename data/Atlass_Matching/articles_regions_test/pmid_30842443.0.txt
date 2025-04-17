@@ -1,0 +1,45 @@
+1. **Superior Temporal Sulcus**
+
+2. **Inferior Parietal Cortex**
+
+3. **Intraparietal Sulcus**
+
+4. **Lateral Prefrontal Cortex**
+
+5. **Medial Prefrontal Cortex**
+
+6. **Insula**
+
+7. **Hippocampus**
+
+8. **Amygdala**
+
+9. **Thalamus**
+
+10. **Motor Cortex**
+
+11. **Inferior Frontal Gyrus (iFg)**
+
+12. **Anterior Insula (aIns)**
+
+13. **Lateral Premotor and Motor Cortex (M1)**
+
+14. **Parietal Cortex near the Anterior Intraparietal Sulcus (aIPs)**
+
+15. **Temporal-Parietal Junction (TPj)**
+
+16. **Supplementary and Cingulate Motor Area (SMA and CMA)**
+
+17. **Extrastriate Occipital Areas**
+
+18. **Middle Frontal Gyrus (mFg)**
+
+19. **Deep Cingulate Regions**
+
+20. **Cerebellum**
+
+21. **Midbrain**
+
+22. **Central Pons**
+
+These regions are involved in various cognitive functions such as attention, memory, language, and executive functions.

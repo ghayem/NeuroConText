@@ -1,0 +1,45 @@
+## Brain Regions and Sub-regions:
+
+1. **Left Ventro-dorsal Stream**
+    - Inferior parietal lobule (IPL)
+        - Supramarginal gyrus
+    - Inferior frontal gyrus (IFG)
+        - Ventral premotor cortex
+        - Opercular region
+        - Triangular region
+    - Precentral gyrus
+    - Rolandic operculum
+    - Insula
+
+2. **Left Frontal Cortex**
+    - Precentral gyrus
+    - Superior frontal gyrus
+    - Middle frontal gyrus
+    - Inferior frontal gyrus (IFG)
+        - Opercular region
+        - Triangular region
+        - Orbital region
+    - Rolandic operculum
+
+3. **Left Parietal Cortex**
+    - Postcentral gyrus
+    - Superior parietal lobule
+    - Inferior parietal lobule (IPL)
+        - Supramarginal gyrus
+        - Angular gyrus
+
+4. **Left Temporal Cortex**
+    - Superior temporal gyrus
+    - Superior temporal pole
+    - Middle temporal gyrus
+
+5. **Subcortical Regions**
+    - Putamen
+    - Pallidum
+    - Thalamus
+
+6. **Other Regions**
+    - Left insula
+    - Left angular gyrus
+
+These regions are involved in various cognitive functions including motor control, motor learning, visuo-motor integration, and the generation of motor predictions.

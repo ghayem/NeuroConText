@@ -1,0 +1,38 @@
+1. **Dorsal Anterior Cingulate Cortex (dACC)**
+    - Brodmann area 32
+    - Supra-genual aspects of Brodmann area 24
+
+2. **Frontal-striatal-thalamic (FSTC) circuits**
+    - Frontal regions
+    - Striatal regions
+    - Thalamic regions
+
+3. **Dorsolateral Prefrontal Cortex (dPFC)**
+    - Frontal regions
+
+4. **Parietal Cortex**
+    - Parietal regions
+
+5. **Striatum**
+    - Caudate
+    - Putamen
+
+6. **Thalamus**
+    - Ventral and posteromedial complexes
+
+7. **Basal Ganglia**
+    - Caudate
+    - Putamen
+
+8. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (dPFC)
+    - Dorsal anterior cingulate cortex (dACC)
+
+9. **Cortical-thalamic processing units**
+    - Ventral and posteromedial complexes
+
+10. **Cortical-striatal networks**
+    - Frontal regions
+    - Striatal regions
+
+These regions are involved in cognitive functions including working memory, sustained attention, cognitive control, and executive functions.

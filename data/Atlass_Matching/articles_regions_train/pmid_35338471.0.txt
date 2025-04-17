@@ -1,0 +1,60 @@
+1. **Medial Prefrontal Cortex (mPFC)**
+   - Ventral mPFC
+
+2. **Precuneus/Posterior Cingulate Cortex**
+
+3. **Posterior Superior Temporal Sulcus (STS)/Temporoparietal Junction (TPJ)**
+
+4. **Temporal Poles**
+
+5. **Anterior Insula (AI)**
+   - Inferior Frontal Gyrus (IFG)
+
+6. **Anterior Cingulate Cortex (ACC)**
+   - Midcingulate Cortex (MCC)
+   - Dorsal ACC/anterior MCC
+
+7. **Ventral Striatum**
+
+8. **Supplementary Motor Area (SMA)**
+
+9. **Dorsolateral Prefrontal Cortex (PFC)**
+
+10. **Inferior Frontal Gyrus (IFG)**
+
+11. **Medial Orbitofrontal Cortex**
+
+12. **Hippocampus**
+
+13. **Fronto-opercular Cortex**
+    - Precentral Gyrus
+
+14. **Superior Temporal Cortex**
+
+15. **Precentral Gyrus**
+
+16. **Postcentral Gyrus**
+
+17. **Temporoparietal Cortex**
+
+18. **Dorsomedial Prefrontal Cortex**
+
+19. **Superior Frontal Gyrus (BA 9, mPFC)**
+
+20. **Superior Temporal Gyrus (BA 22, posterior TPJ)**
+
+21. **Brodman’s Area (BA) 13/47**
+
+22. **Brodman’s Area (BA) 32**
+
+23. **Brodman’s Area (BA) 6**
+
+24. **Brodman’s Area (BA) 7**
+
+25. **Brodman’s Area (BA) 9**
+
+26. **Cingulate Cortex**
+
+27. **Frontal Cortex**
+
+These regions are involved in the cognitive functions and affective processes related to empathy, including cognitive empathy, affective sharing, empathic concern, and empathic distress.

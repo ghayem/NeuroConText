@@ -1,0 +1,50 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Hippocampus**
+    - Anterior hippocampus
+
+2. **Entorhinal Cortex (EC)**
+
+3. **Medial Temporal Lobe (MTL)**
+
+4. **Temporal Lobe**
+    - Anterior temporal lobe
+    - Right anterior temporal lobe
+
+5. **Parahippocampal Gyrus**
+
+6. **Cerebellum**
+
+7. **Frontal Lobe**
+    - Bilateral frontal superior gyri
+    - Superior frontal gyrus
+
+8. **Parietal Lobe**
+    - Bilateral superior parietal lobule (SPL)
+    - Left SPL
+    - Right SPL
+    - Posterior parietal cortex
+    - Paracentral lobule
+
+9. **Occipital Lobe**
+    - Bilateral occipital lobe
+    - Medioventral occipital cortex (MVOcC)
+    - Right lateral occipital cortex (LOcC)
+    - Left lateral occipital cortex (LOcC)
+
+10. **Temporal Gyrus**
+    - Rostral area of the right middle temporal gyrus (rMTG)
+
+11. **Basal Ganglia**
+
+12. **Other Mentioned Regions**
+    - Bilateral hippocampi
+    - Bilateral superior frontal gyrus
+    - Bilateral SPLs
+    - Bilateral occipital lobes
+    - Ventral stream (or the “what” pathway)
+    - Dorsal stream (or the “how” pathway)
+    - Posterior regions of the parietal cortex
+    - Medial portions of the SPL
+
+These regions are involved in cognitive functions such as spatial memory, spatial navigation, episodic memory, and visuospatial retrieval.

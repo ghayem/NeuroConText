@@ -1,0 +1,18 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Inferior Frontal Gyrus**
+
+2. **Hippocampus**
+
+3. **Fronto-Temporal Cortex**
+
+4. **Left Superior Temporal Gyrus**
+    - Extending to insula
+    - Inferior frontal gyrus
+
+5. **Bilateral Ventral Striatum**
+    - Nucleus accumbens
+
+6. **Insula**
+
+These regions are involved in various cognitive functions, including executive functions, memory, and emotional processing.

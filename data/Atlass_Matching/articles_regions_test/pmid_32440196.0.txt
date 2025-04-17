@@ -1,0 +1,56 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Pain Matrix**
+   - Frontal lobe
+   - Insular (Insula)
+   - Cerebellum
+
+2. **Occipital Lobe**
+
+3. **Temporal Lobe**
+
+4. **Brainstem**
+
+5. **Limbic Lobe**
+   - Hippocampus
+   - Parahippocampal gyrus
+
+6. **Frontal Lobe**
+   - Middle frontal gyrus
+   - Dorsolateral prefrontal lobes
+   - Anterior motor cortex
+   - Auxiliary motor cortex
+
+7. **Thalamus**
+
+8. **Parietal Lobe**
+
+9. **Ventral Striatum**
+
+10. **Amygdala**
+
+11. **Cingulate Gyrus**
+   - Anterior cingulate gyrus
+
+12. **Precuneus**
+
+13. **Caudate**
+   - Bilateral caudate
+
+14. **Supramarginal Gyrus**
+   - Right supramarginal gyrus
+
+15. **Lingual Gyrus**
+   - Right lingual gyrus
+
+16. **Superior Temporal Gyrus**
+   - Right superior temporal gyrus
+
+17. **Middle Temporal Gyrus**
+   - Right middle temporal gyrus
+
+18. **Cerebellum**
+   - Cerebellar posterior lobe
+   - Left cerebellum (Cerebelum_Crus1_L)
+
+These regions are involved in various cognitive and sensory functions, including pain perception, emotion regulation, motor control, and sensory processing.

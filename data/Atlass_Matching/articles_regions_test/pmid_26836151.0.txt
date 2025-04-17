@@ -1,0 +1,35 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+   - Notable sub-regions: CA1, presubiculum
+
+2. **Amygdala**
+   - Notable sub-regions: basomedial, basolateral
+
+3. **Thalamus**
+   - Notable sub-regions: ventrolateral part
+
+4. **Putamen**
+
+5. **Pallidum**
+
+6. **Caudate Nucleus**
+
+7. **Accumbens**
+   - Notable sub-regions: nucleus accumbens
+
+8. **Parietal Cortex**
+
+9. **Temporo-parietal Cortex**
+
+10. **Pulvinar Nucleus**
+
+11. **Dentate Nucleus**
+
+12. **Cerebral Grey Matter**
+
+13. **White Matter Bundles**
+
+14. **Subcortical Structures**
+
+These regions are involved in various cognitive functions, including memory, emotion regulation, motor control, and sensory processing.

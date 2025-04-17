@@ -1,0 +1,25 @@
+1. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Inferior parietal cortex (IPC)
+   - Precuneus
+
+2. **Anterior cingulate cortex**
+
+3. **Cerebrospinal fluid (CSF)**
+   - 4th ventricle
+
+4. **Trigeminal nerve**
+   - Maxillary division
+   - Mandibular division
+   - Ophthalmic division
+
+5. **Masseter muscle**
+
+6. **Axial slices**
+
+7. **Ventral tegmental area (VTA)** (mentioned in the context of dopamine release)
+
+8. **Insular cortex**
+
+These regions are involved in various cognitive functions such as attention, memory, prospection, self-processing, cognitive impairment, pain perception, and pain rumination.

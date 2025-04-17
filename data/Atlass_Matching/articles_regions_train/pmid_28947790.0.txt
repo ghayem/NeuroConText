@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Amygdala**
+
+2. **Prefrontal Cortex**
+
+3. **Anterior Insula (AI)**
+   - Left anterior insula
+   - Right anterior insula
+
+4. **Anterior Midcingulate Cortex (aMCC)**
+
+5. **Anterior Cingulate Cortex (ACC)**
+   - Anterior/Middle Cingulate Cortex (ACC/MCC)
+
+6. **Angular Gyrus**
+   - Bilateral angular gyrus
+
+7. **Superior Temporal Sulcus (STS)**
+
+8. **Temporo-Parietal Junction (TPJ)**
+
+9. **Calcarine Fissure**
+
+10. **Fusiform Gyrus**
+
+11. **Parietal Areas**
+
+12. **Occipital Areas**
+
+13. **Frontal Gyri**
+
+14. **Thalamus**
+
+15. **Posterior Insula**
+   - Bilateral posterior insula
+
+These regions are involved in various cognitive functions including empathy, emotional processing, pain perception, and social cognition.

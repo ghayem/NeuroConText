@@ -1,0 +1,60 @@
+## Brain Regions and Sub-Regions
+
+1. **Parahippocampal Gyrus (PHG)**
+   - Parahippocampal Place Area (PPA)
+   - Collateral Sulcus (CoS)
+
+2. **Retrosplenial Cortex (RSC)**
+
+3. **Occipital Place Area (OPA)**
+
+4. **Fusiform Gyrus**
+   - Fusiform Face Area (FFA)
+
+5. **Lateral Occipital Complex (LOC)**
+   - Object-selective Lateral Occipital Cortex (LO)
+   - Human Middle Temporal Complex (hMT+)
+
+6. **Ventral Occipitotemporal Cortex (VOT)**
+
+7. **Middle Occipital Gyrus (MOG)**
+
+8. **Middle Temporal Gyrus (MTG)**
+   - Posterior Middle Temporal Gyrus (pMTG)
+
+9. **Middle Occipital Sulcus (MOS)**
+
+10. **Orbitofrontal Cortex (OFC)**
+    - Lateral OFC (lOFC)
+    - Medial OFC (mOFC)
+    - Mid Anterior OFC (maOFC)
+
+11. **Medial Prefrontal Cortex (mPFC)**
+    - Anterior Medial Prefrontal Cortex (aMPFC)
+    - Dorsal Medial Prefrontal Cortex (dMPFC)
+    - Ventral Medial Prefrontal Cortex (vMPFC)
+
+12. **Posterior Cingulate Cortex (PCC)**
+
+13. **Inferior Parietal Lobule (IPL)**
+
+14. **Basal Ganglia**
+    - Nucleus Accumbens (NAc)
+    - Caudate
+    - Putamen
+    - Pallidum
+
+15. **Pericalcarine Cortex**
+
+16. **Default Mode Network (DMN)**
+    - Anterior Medial Prefrontal Cortex (aMPFC)
+    - Dorsal Medial Prefrontal Cortex (dMPFC)
+    - Ventral Medial Prefrontal Cortex (vMPFC)
+    - Posterior Cingulate Cortex (PCC)
+    - Inferior Parietal Lobule (IPL)
+
+17. **Superior Rostral Sulcus (SRS)**
+
+18. **Anterior Insula**
+
+These brain regions and sub-regions are involved in various cognitive functions, including perception, memory, emotion, valuation, and aesthetic evaluation.

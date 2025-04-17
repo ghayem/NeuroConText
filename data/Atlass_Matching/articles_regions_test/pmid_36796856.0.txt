@@ -1,0 +1,40 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Thalamus**
+   - Mediodorsal thalamic nucleus
+   - Ventral posterior nucleus
+   - Ventral lateral nucleus
+   - Ventral anterior nucleus
+   - Intralaminar nucleus
+   - Lateral geniculate nucleus
+   - Basal ventromedial nucleus
+
+2. **Cortical Regions**
+   - Prefrontal cortex
+   - Somatosensory cortex
+   - Primary motor cortex
+   - Premotor cortex
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior occipital gyrus
+   - Lingual gyrus
+   - Fusiform gyrus
+   - Precentral gyrus
+   - Anterior midcingulate cortex
+   - Frontoparietal cortex
+   - Somatomotor cortex
+   - Visual cortex
+   - Default mode network
+
+3. **Large-Scale Networks**
+   - Lateral frontoparietal control network
+   - Salience network
+   - Visual network
+   - Dorsal attention network
+   - Somatomotor network
+   - Default mode network
+
+These regions are involved in various cognitive and neurological functions, including attention, sensory processing, motor control, and higher-order executive functions. The article specifically focuses on the role of these regions in Attention-Deficit/Hyperactivity Disorder (ADHD).

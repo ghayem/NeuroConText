@@ -1,0 +1,43 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Frontal Lobe**
+   - Bilateral mid orbital gyri
+   - Bilateral superior orbito-frontal gyrus
+   - Right inferior frontal gyrus
+   - Right and left middle orbitofrontal gyrus
+
+2. **Parietal Lobe**
+   - Bilateral postcentral gyri
+   - Right inferior parietal lobule
+   - Right temporo-parietal region
+   - Right superior parietal lobule
+   - Left superior parietal lobule
+   - Paracentral lobule
+
+3. **Temporal Lobe**
+   - Left amygdala
+   - Left hippocampus
+
+4. **Occipital Lobe**
+   - (No specific sub-regions mentioned)
+
+5. **Limbic Lobe**
+   - Right mid cingulate cortex
+
+6. **Subcortical Regions**
+   - Right caudate
+   - Left amygdala
+   - Bilateral cerebellum
+   - Thalamus
+   - Basal ganglia
+
+7. **Other Regions**
+   - Right temporo-parietal junction (TPJ)
+   - Right dorsolateral prefrontal cortex
+   - Right anterior cingulate
+   - Right insula
+   - Sensorimotor cortex
+   - Right dorsal/sensorimotor striatum
+   - Motor mid-cingulate cortex
+
+These regions are involved in various cognitive and motor functions, including motor control, self-agency, emotion regulation, and sensory processing.

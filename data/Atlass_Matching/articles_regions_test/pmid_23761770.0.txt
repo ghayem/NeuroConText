@@ -1,0 +1,51 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala (AMY)**
+
+2. **Hippocampus (HC)**
+   - Medial-temporal lobe (MTL) structures
+
+3. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Medial prefrontal cortex (mPFC)
+   - Lateral prefrontal cortex (latPFC)
+   - Ventral prefrontal cortex
+   - Dorsal prefrontal cortex
+
+4. **Parietal Cortex (PC)**
+   - Lateral parietal cortex (LPC)
+   - Superior parietal lobule (SPL)
+   - Inferior parietal lobule (IPL)
+
+5. **Temporal Cortex**
+   - Lateral temporal cortex (LTC)
+   - Temporal-parietal cortex (TPC)
+   - Temporal-occipital cortex (TOC)
+   - Parahippocampal cortex (PHC)
+
+6. **Occipital Cortex**
+   - Lateral occipital cortex (LOC)
+
+7. **Cingulate Cortex**
+   - Posterior cingulate cortex (PCC)
+
+8. **Frontal Cortex**
+   - Middle frontal gyrus (MFG)
+   - Inferior frontal cortex
+   - Lateral frontal cortex (LFC)
+   - Precentral gyrus (PrCG)
+   - Postcentral gyrus (PoCG)
+   - Paracentral lobule (PCL)
+   - Temporal pole (TP)
+   - Rostral prefrontal cortex (rPFC)
+
+9. **Other Regions**
+   - Anterior cingulate cortex (ACC)
+   - Orbitofrontal cortex (OFC)
+   - Insula
+   - Thalamus
+   - Striatum
+   - Cerebellum
+
+These regions are involved in various cognitive functions, including emotion processing, memory, executive functions, attention, and sensory processing.

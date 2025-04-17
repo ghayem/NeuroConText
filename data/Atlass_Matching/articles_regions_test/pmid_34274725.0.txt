@@ -1,0 +1,89 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Frontal Lobe**
+   - Motor area
+   - Premotor area
+   - Left frontal lobe
+   - Right frontal area
+   - Frontal cortex
+
+2. **Precentral Gyrus**
+   - Left precentral gyrus
+   - Right precentral gyrus
+   - Bilateral middle portion of the precentral gyrus
+   - Bilateral lower portion of the precentral gyrus
+
+3. **Insular Cortex**
+   - Left insular cortex
+   - Right insular cortex
+
+4. **Corona Radiata**
+   - Left corona radiata
+
+5. **Internal Capsule**
+   - Left internal capsule
+
+6. **Precentral and Postcentral Gyri**
+   - Right precentral and postcentral gyri
+
+7. **Middle Cerebral Artery Region**
+   - Right middle cerebral artery region
+
+8. **Brain Stem**
+
+9. **Cerebellum**
+   - Left cerebellum
+   - Right cerebellum
+   - Cerebellar lobule VI
+
+10. **Basal Ganglia**
+    - Left basal ganglia
+    - Bilateral caudate
+    - Putamen
+    - Pallidum
+    - Thalamus
+
+11. **Supplementary Motor Area (SMA)**
+    - Medial frontal cortex corresponding to the SMA
+
+12. **Parietal Opercular Cortex**
+    - Left parietal opercular cortex
+
+13. **Medial Frontal Cortex**
+
+14. **Temporal Cortex**
+
+15. **Parietal Cortex**
+
+16. **Posterior Cortex**
+
+17. **Subcortical White Matter**
+
+18. **Midbrain**
+
+19. **Pons**
+    - Left pons
+    - Right pons
+
+20. **Rolandic Operculum**
+    - Lower portion of the precentral and postcentral gyrus
+
+21. **Vermal Lobule VI**
+
+22. **Inferior Frontal Corona Radiata**
+
+23. **Secondary Somatosensory Cortex**
+    - Left parietal operculum cortex
+
+24. **Frontal “AsLant Tract” (FAT)**
+
+25. **Pre-SMA (Pre-Supplementary Motor Area)**
+
+### Cognitive Functions and Associated Brain Regions:
+- **Speech Motor Function**: Bilateral middle and lower portions of the precentral gyrus, insular cortex, SMA, parietal opercular cortex, cerebellum, thalamus.
+- **Laryngeal/Phonation Area**: Middle portion of the precentral gyrus.
+- **Articulatory Movements**: Rolandic operculum, lower portion of the precentral and postcentral gyrus.
+- **Speech Initiation**: SMA.
+- **Somatosensory Feedback**: Parietal operculum.
+- **Motor Regulation of Speech**: SMA, cerebellum, thalamus.
+- **Feedforward Control System**: Trans-cerebellar pathway, thalamus, SMA.

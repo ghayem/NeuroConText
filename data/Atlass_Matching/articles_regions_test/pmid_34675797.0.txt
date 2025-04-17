@@ -1,0 +1,38 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Default Mode Network (DMN)**
+   - Precuneus
+   - Posterior cingulate cortex (PCC)
+   - Inferior parietal cortex
+   - Medial prefrontal cortex
+   - Hippocampus
+
+2. **Other Brain Regions**
+   - Bilateral cerebellum posterior lobe
+   - Right parahippocampal gyrus (PHG)
+   - Bilateral fusiform gyrus
+   - Left inferior frontal gyrus
+   - Left superior temporal gyrus
+   - Left inferior parietal lobule
+   - Right medial frontal gyrus
+   - Left limbic lobe
+   - Left anterior cingulate cortex (ACC)
+   - Bilateral precuneus
+   - Left middle occipital gyrus
+   - Right cingulate gyrus
+   - Left middle temporal gyrus
+   - Left inferior temporal gyrus
+   - Left angular gyrus
+   - Medial frontal lobe
+   - Middle frontal gyrus
+   - Middle temporal gyrus
+   - Parahippocampal gyrus
+   - Hippocampus
+   - Cerebellum
+
+3. **Specific Indices**
+   - ALFF/fALFF
+   - ReHo
+   - FC
+
+These regions are involved in various cognitive functions, including memory, language, and executive functions, and are implicated in the pathophysiology of mild cognitive impairment (MCI) and Alzheimer's disease (AD).

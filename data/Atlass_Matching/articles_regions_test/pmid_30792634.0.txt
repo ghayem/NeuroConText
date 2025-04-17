@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Occipital Lobe**
+
+2. **Cerebellum**
+
+3. **Amygdala**
+
+4. **Hippocampus**
+
+5. **Insula**
+
+6. **Frontal Lobe**
+   - Frontal poles
+   - Superior frontal gyrus
+   - Rostral middle frontal
+
+7. **Parietal Lobe**
+   - Inferior parietal
+   - Right inferior parietal regions
+   - Parietal poles
+   - Angular gyri
+   - Middle occipital lobes
+   - Posterior parietal cortex
+
+8. **Temporal Lobe**
+   - Posterior temporal
+   - Right ventromedial prefrontal cortex
+   - Superior temporal
+   - Left superior temporal
+
+9. **Corpus Callosum**
+
+10. **Precuneus**
+
+11. **Limbic Lobe**
+    - Isthmus cingulate
+    - Posterior cingulate
+
+12. **Default Mode Network**
+    - Right fusiform gyrus
+
+13. **Fronto-parietal Network**
+
+14. **Sensorimotor Network**
+
+15. **Visual Network**
+
+16. **Dorsal Attention Network**
+
+17. **Ventral Network**
+
+18. **Somatomotor Network**
+
+These regions are involved in various cognitive functions, gender differences, and neurological disorders discussed in the article.

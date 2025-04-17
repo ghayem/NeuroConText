@@ -1,0 +1,47 @@
+## Brain Regions and Sub-Regions
+
+1. **Prefrontal Lobe**
+2. **Temporal Lobe**
+3. **Corpus Callosum**
+4. **Anterior Limb of the Internal Capsule**
+5. **Corona Radiata**
+6. **Anterior Thalamic Radiation**
+7. **Posterior Thalamic Radiation**
+8. **Corticospinal Tract**
+9. **Superior Longitudinal Fasciculus**
+10. **Inferior Longitudinal Fasciculus**
+11. **Inferior Fronto-Occipital Fasciculus**
+12. **Cingulum Bundle**
+13. **Superior and Inferior Longitudinal Fasciculi**
+14. **Right Cingulum Bundle**
+15. **Internal Capsule**
+    - Anterior Limb
+    - Posterior Limb
+    - Retrolenticular Limb
+16. **External Capsule**
+17. **Sagittal Stratum**
+    - Left Sagittal Stratum
+18. **Cerebral Peduncle**
+19. **Uncinate Fasciculus**
+20. **Motor Tracts**
+21. **Supplemental Motor Area**
+22. **Precentral Gyrus**
+23. **Primary Motor Cortex**
+24. **Subcortical Structures**
+25. **Pre-SMA**
+26. **Inferior and Medial Frontal Gyrus**
+27. **Basal Ganglia**
+28. **Somatosensory Cortex**
+29. **Ventral Tegmental Area**
+30. **Amygdala**
+31. **Nucleus Accumbens**
+32. **Anterior Cingulate Cortex**
+33. **Orbitofrontal Cortex**
+34. **Frontal Lobe**
+    - Ventral Tegmental Area
+    - Amygdala
+    - Nucleus Accumbens
+    - Anterior Cingulate Cortex
+    - Orbitofrontal Cortex
+
+These regions are involved in various cognitive functions, motor behavior, and symptom dimensions in schizophrenia.

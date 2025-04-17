@@ -1,0 +1,71 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Frontal Lobe**
+   - Left frontal-temporal parietal network
+   - Left anterior (middle frontal gyrus and the inferior frontal gyrus pars operculum)
+   - Left middle frontal gyrus
+   - Left inferior frontal gyrus
+   - Left inferior frontal gyrus (dorsal and ventral BA 44; pars opercularis)
+   - Left precentral gyrus (BAs 6 and 4)
+   - Left postcentral gyrus (BAs 1–3)
+   - Left inferior frontal junction (IFJ)
+   - Left pre-frontal thalamus (PFtha)
+   - Left pre-motor thalamus (PMtha)
+
+2. **Temporal Lobe**
+   - Left middle temporal gyrus (BA 37)
+   - Left posterior superior temporal sulcus
+   - Left posterior temporal lobe (pTL)
+   - Left posterior superior temporal gyri
+   - Left superior temporal sulcus (STS)
+   - Left temporal thalamus (Ttha)
+   - Left posterior middle temporal gyrus
+
+3. **Parietal Lobe**
+   - Left angular gyrus (rostroventral BA 39)
+   - Left supramarginal gyrus of the inferior parietal lobe (rostrodorsal BA 40)
+   - Left inferior parietal lobe
+   - Left superior parietal lobe (SPL)
+   - Left inferior parietal lobe
+   - Left postcentral gyrus
+   - Left inferior parietal lobe (BA 39)
+   - Left inferior parietal lobe (BA 40)
+
+4. **Occipital Lobe**
+   - Left lateral occipital lobe (LOG)
+   - Left middle occipital gyrus (OccG)
+
+5. **Insula**
+   - Left insula
+   - Left dorsal agranular insula (Ia)
+   - Left dysgranular insula (Id)
+   - Left granular insula (Ig)
+   - Left hypergranular insula (Ih)
+
+6. **Basal Ganglia**
+   - Left basal ganglia (BG)
+   - Left caudate (Ca)
+   - Left globus pallidus (GP)
+   - Left putamen (Pu)
+
+7. **Thalamus**
+   - Left thalamus (Tha)
+   - Left parietal thalamus (Ptha)
+
+8. **Other Regions**
+   - Left Broca’s area
+   - Left inferior frontal sulcus (IFS)
+   - Left opercular BA44 (BA44op)
+   - Left BA4 (tongue and larynx region; BA4tl)
+   - Left intraparietal BA7 (BA7ip)
+   - Left postcentral BA7 (BA7pc)
+   - Left ventral (v) regions
+   - Left dorsal (d) regions
+   - Left medial (m) regions
+   - Left lateral (l) regions
+   - Left superior (s) regions
+   - Left posterior (p) regions
+   - Left rostral (r) regions
+   - Left caudal (c) regions
+
+These regions are involved in various cognitive functions, including language production, syntactic processing, lexical selection, and fluency of speech.

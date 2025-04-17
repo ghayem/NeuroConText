@@ -1,0 +1,24 @@
+## The brain regions:
+
+1. **Frontopolar prefrontal cortex (FPC)**
+   - Left frontopolar prefrontal cortex (FPC)
+   - Right frontopolar prefrontal cortex (FPC)
+
+2. **Default mode network (DMN)**
+
+3. **Hippocampus**
+   - Left hippocampus
+
+4. **Orbitofrontal cortex (OFC)**
+   - Right inferior orbitofrontal cortex (OFC)
+
+5. **Supplementary motor area (SMA)**
+   - Right supplementary motor area (SMA)
+
+6. **Superior frontal gyrus (SFG)**
+   - Right superior frontal gyrus (SFG)
+
+7. **Insula**
+   - Right insula
+
+- These regions are involved in these cognitive functions: resting-state networks, motor control, executive functions, and emotional processing.

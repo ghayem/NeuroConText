@@ -1,0 +1,23 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+    - Lateral prefrontal cortex
+    - Ventral prefrontal cortex
+    - Medial prefrontal cortex
+
+2. **Anterior Cingulate Cortex**
+
+3. **Insular Cortex**
+    - Posterior insula
+    - Middle insula
+    - Anterior insula
+
+4. **Amygdala**
+
+5. **Hippocampus**
+
+6. **Ventral Striatum**
+
+7. **Anterior Cingulate Cortex (ACC)**
+
+These regions are involved in various cognitive and emotional processes, including cognitive control, emotional arousal and feelings, interoceptive attention, awareness of internal visceral responses, emotion regulation, and the representation of bodily and emotional feeling states.

@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Anterior Cingulate Cortex (aCC)**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+3. **Frontopolar Cortex (FPC)**
+
+4. **Posterior Middle Frontal Gyrus (pMFG)**
+
+5. **Precuneus (Precun)**
+
+6. **Anterior Inferior Parietal Lobule (aIPL)**
+
+7. **Posterior Inferior Parietal Lobule (pIPL)**
+
+8. **Caudate**
+
+9. **Putamen**
+
+10. **Lateral Ventricles**
+
+11. **Corpus Callosum**
+   - Splenium
+   - Body
+   - Genu
+
+12. **Superior Longitudinal Fasciculus**
+
+13. **Anterior and Posterior Corona Radiata**
+
+14. **Brainstem**
+
+15. **Basal Ganglia**
+   - Caudate
+   - Putamen
+
+16. **Gray Matter (GM)**
+
+17. **White Matter (WM)**
+
+18. **Frontal Lobe**
+
+19. **Parietal Lobe**
+
+20. **Subcortical Structures**
+
+21. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in various cognitive functions, including working memory, executive functions, and cognitive performance. The article specifically focuses on the relationship between brain iron load, white matter microstructure, and cognitive performance in healthy older adults.

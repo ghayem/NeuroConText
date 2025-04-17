@@ -1,0 +1,34 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Cerebellum**
+   - Anterior lobe (lobules I-V)
+   - Posterior lobe (lobules VI-IX)
+   - Flocculonodular lobe (lobule X)
+   - Cerebellum anterior lobe (CAL)
+   - Lobule VIII of the cerebellum posterior lobe (CPL)
+   - Lobules VI and VII of the CPL
+
+2. **Cerebral Cortex**
+   - Primary motor cortex
+   - Medial part of the prefrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Lateral parietal cortex
+   - Precentral gyrus (PreCG)
+   - Inferior frontal gyrus (IFG)
+   - Inferior parietal lobule (IPL)
+   - Middle temporal gyrus (MTG)
+   - Middle frontal gyrus (MFG)
+   - Superior frontal gyrus
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+   - Lingual gyrus
+   - Middle cingulum gyrus
+   - Angular gyrus
+   - Precuneus
+   - Medial frontal gyrus (MedFG)
+
+3. **Other Regions**
+   - Anterior inferior cerebellum
+   - Superior cerebellum
+
+These regions are involved in various cognitive functions, including sensorimotor control, language, spatial, emotional, and executive functions.

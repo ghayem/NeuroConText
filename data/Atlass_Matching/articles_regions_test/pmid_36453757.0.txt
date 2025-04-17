@@ -1,0 +1,38 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+   - Mediodorsal thalamus (MDThal)
+   - Mediodorsal thalamic nuclei
+
+2. **Prefrontal Cortex (PFC)**
+   - Medial prefrontal cortex (mPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+
+3. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual anterior cingulate cortex (sgACC)
+
+4. **Other Cortical Regions**
+   - Precentral gyrus
+   - Postcentral gyrus
+   - Superior frontal gyrus
+   - Inferior temporal gyrus
+   - Lateral occipital cortex
+   - Supramarginal gyrus
+   - Middle temporal gyrus
+   - Cuneus
+   - Sensory parietal areas
+   - Medial prefrontal cortex (mPFC)
+
+5. **Subcortical Regions**
+   - Putamen
+   - Caudate
+   - Hippocampus
+   - Insula
+
+6. **Cerebellum**
+
+7. **Other Regions**
+   - Fusiform
+   - Superior parietal lobule
+
+These regions are involved in various cognitive and affective functions, including pain processing, affect regulation, and emotional control, as discussed in the article.

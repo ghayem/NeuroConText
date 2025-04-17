@@ -1,0 +1,27 @@
+## The brain regions:
+
+1. **Hippocampus**
+
+2. **Olfactory bulb**
+
+3. **Precuneus (PCUN)**
+   - Left precuneus
+   - Right precuneus
+
+4. **Anterior cingulate cortex (ACC)**
+   - Bilateral medial orbital superior frontal gyrus
+   - Bilateral rectus
+   - Bilateral olfactory
+
+5. **Cuneus**
+   - Bilateral cuneus
+
+6. **Orbitofrontal cortex (OFC)**
+
+7. **Default mode network (DMN)**
+   - Precuneus (PCUN)
+
+8. **Limbic system**
+   - Anterior cingulate cortex (ACC)
+
+These regions are involved in various cognitive and emotional functions, including memory, emotion processing, reward monitoring, self-introspection, and the appraisal and expression of negative emotion.

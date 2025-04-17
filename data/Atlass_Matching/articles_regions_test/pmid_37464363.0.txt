@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Basal Ganglia**
+
+3. **Lateral Nucleus**
+   - Right lateral nucleus
+
+4. **Accessory Basal Nucleus**
+   - Right accessory basal nucleus
+
+5. **Parahippocampal Gyrus (PHG)**
+   - Right parahippocampal gyrus
+
+6. **Dorsolateral Prefrontal Lobes**
+   - Left dorsolateral prefrontal lobes
+
+7. **Middle Temporal Gyrus**
+
+8. **Angular Gyrus**
+
+9. **Superior Occipital Gyrus**
+
+10. **Medial Superior Frontal Gyrus**
+
+11. **Inferior Occipital Gyrus (IOG)**
+    - Right inferior occipital gyrus
+
+12. **Lingual Gyrus**
+
+13. **Extrastriate Cortex**
+
+14. **Ventral Prefrontal**
+
+15. **Subgenual Prefrontal Cortex**
+
+16. **Ventromedial Circuitry**
+
+17. **Cuneus**
+   - Left cuneus
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Emotional processing and regulation (amygdala, ventromedial circuitry)
+- Memory (parahippocampal gyrus, hippocampus)
+- Visual processing (lingual gyrus, extrastriate cortex, inferior occipital gyrus)
+- Executive functions (dorsolateral prefrontal lobes, ventral prefrontal)
+- Spatial representation (parahippocampal gyrus)
+- Face perception (inferior occipital gyrus)
+- Visual memory (parahippocampal gyrus, inferior occipital gyrus)

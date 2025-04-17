@@ -1,0 +1,40 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Prefrontal Cortex**
+   - Ventromedial prefrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Orbitofrontal cortex (OFC)
+     - Left orbitofrontal cortex
+     - Right orbitofrontal cortex
+
+2. **Insula**
+   - Left insula
+   - Right insula
+
+3. **Anterior Cingulate Cortex**
+
+4. **Periaqueductal Gray**
+
+5. **Somatosensory Cortex**
+
+6. **Amygdala**
+   - Left amygdala
+   - Right amygdala
+
+7. **Midcingulate Cortex**
+
+8. **Striatum**
+
+9. **Hippocampus**
+   - Left hippocampus
+   - Right hippocampus
+
+10. **Piriform Cortex**
+    - Left piriform cortex
+    - Right piriform cortex
+
+11. **Entorhinal Cortex**
+    - Left entorhinal cortex
+    - Right entorhinal cortex
+
+These regions are involved in various cognitive and emotional processes, including pain processing, interoceptive awareness, emotion regulation, and olfactory perception.

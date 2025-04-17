@@ -1,0 +1,57 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Salience Network (SN)**
+   - **Anterior Insula**
+     - Left anterior insula
+     - Bilateral anterior insula
+   - **Frontoinsular Cortex**
+     - Bilateral frontoinsular cortex
+   - **Anterior Cingulate Cortex (ACC)**
+     - Bilateral anterior cingulate cortex
+     - Dorsal anterior cingulate cortex (dACC)
+     - Dorsal anterior cingulate cortex/medial prefrontal cortex (dACC/MPFC)
+     - Anterior cingulate gyrus (ACG)
+   - **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - **Ventrolateral Prefrontal Cortex**
+     - Bilateral ventrolateral prefrontal cortex
+   - **Supplementary Motor Area (SMA)**
+     - Right supplementary motor area
+     - Pre-supplementary motor area (preSMA)
+   - **Superior Temporal Gyrus (STG)**
+     - Left superior temporal gyrus
+     - Bilateral superior temporal gyrus/insula
+   - **Supramarginal Gyrus (SG)**
+     - Bilateral supramarginal gyrus
+   - **Precuneus**
+     - Left precuneus
+   - **Caudate**
+     - Bilateral caudate
+   - **Thalamus**
+   - **Middle Frontal Gyrus (MFG)**
+     - Right middle frontal gyrus
+     - Left middle frontal gyrus
+   - **Superior Frontal Gyrus (SFG)**
+   - **Inferior Frontal Gyrus (IFG)**
+     - Left inferior frontal gyrus
+   - **Precentral Gyrus (PreCG)**
+     - Left precentral gyrus
+   - **Orbital/Frontoinsular**
+     - Bilateral orbital/frontoinsular
+   - **Medial Orbitofrontal Cortex**
+   - **Midcingulate Cortex/preSMA**
+
+2. **Default Mode Network (DMN)**
+   - **Superior Frontal Gyrus (SFG)**
+
+3. **Executive Control Network (ECN)**
+   - **Middle Frontal Gyrus (MFG)**
+   - **Inferior Frontal Gyrus (IFG)**
+
+4. **Other Regions**
+   - **Cingulate Gyrus**
+   - **Medial Prefrontal Cortex (MPFC)**
+   - **Posterior Cingulate Cortex (PCC)**
+   - **Hippocampus**
+   - **Lingual Gyrus**
+
+These regions are involved in various cognitive functions, including attention, emotion, memory, executive functions, and sensory processing.

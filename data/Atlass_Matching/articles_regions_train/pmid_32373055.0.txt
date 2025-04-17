@@ -1,0 +1,28 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Prefrontal Cortex**
+
+2. **Insular Cortex**
+
+3. **Parietal Cortex**
+   - Inferior parietal lobule
+   - Superior parietal lobule
+   - Precuneus
+   - Posterior cingulate cortex
+
+4. **Hippocampus**
+
+5. **Basal Ganglia**
+
+6. **Anterior Temporal Lobe**
+   - Anterior parts of the superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Fusiform gyrus
+   - Temporal pole
+
+7. **Temporo-parietal Network**
+
+8. **Prefrontal and Antero-mesial Temporal Cortices**
+
+These regions are involved in various cognitive functions, including temporal awareness, temporal encoding, temporal computations, self-awareness, self-projection, time-keeping, temporal sequencing, scheduling, appraisal, and valuation.

@@ -1,0 +1,70 @@
+1. **Basal ganglia**
+    - Caudate
+    - Putamen
+    - Pallidum
+    - Subthalamic nucleus
+
+2. **Cerebrum**
+    - Prefrontal cortex
+    - Inferior parietal lobule
+    - Precentral gyrus
+    - Postcentral gyrus
+    - Rolandic operculum
+    - Posterior middle temporal gyrus
+    - Angular gyrus
+    - Supramarginal gyrus
+    - Middle occipital gyrus
+    - Opercular part of the inferior frontal gyrus
+
+3. **Cerebellum**
+
+4. **Hippocampus**
+
+5. **Parahippocampus**
+
+6. **Fusiform gyrus**
+
+7. **Automated Anatomical Labeling (AAL) template regions**
+    - Bilateral precentral gyrus (PreC)
+    - Postcentral gyrus (PostC)
+    - Supplementary motor area (SMA)
+    - Cerebellum
+    - Caudate
+    - Putamen
+    - Pallidum
+    - Hippocampus
+    - Parahippocampus
+    - Fusiform gyrus
+    - Superior temporal gyrus (STG)
+    - Orbital part of the medial prefrontal cortex (MPFCorb)
+    - Gyrus rectus
+    - Inferior temporal gyrus (ITG)
+    - Cerebellum anterior lobe (CAL)
+
+8. **Brainstem**
+
+9. **Left sensorimotor area**
+    - Rolandic operculum (Rol)
+    - Postcentral gyrus (PostC)
+
+10. **Left middle occipital gyrus (MOG)**
+
+11. **Left supramarginal gyrus/postcentral gyrus (SMG/PostC)**
+
+12. **Left middle temporal gyrus (MTG)**
+
+13. **Left angular gyrus (AG)**
+
+14. **Left inferior frontal gyrus, opercular part (IFGoper)**
+
+15. **Left superior temporal gyrus (STG)**
+
+16. **Left orbital part of the medial prefrontal cortex (MPFCorb)**
+
+17. **Left gyrus rectus**
+
+18. **Right inferior temporal gyrus (ITG)**
+
+19. **Left cerebellum anterior lobe (CAL)**
+
+- These regions are involved in cognitive functions, motor functions, and affective functions.

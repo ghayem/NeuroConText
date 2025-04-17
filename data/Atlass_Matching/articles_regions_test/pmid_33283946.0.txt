@@ -1,0 +1,31 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Medial Prefrontal Cortex**
+
+2. **Temporoparietal Junction**
+
+3. **Medial Temporal Lobes**
+
+4. **Anterior/Middle Cingulate Cortex**
+
+5. **Anterior/Middle Insula Cortex**
+
+6. **Inferior Frontal Gyrus (IFG)**
+   - Left IFG
+   - Right IFG (rIFG)
+   - Pars triangularis (BA 45)
+   - Pars opercularis (BA 44)
+
+7. **Vertex**
+
+8. **Left Insula**
+
+9. **Left Mid-Cingulate Cortex**
+
+10. **Bilateral Occipital Visual Areas**
+
+11. **Cerebellum**
+
+12. **Parietal Lobes**
+
+These regions are involved in the cognitive and emotional processes related to empathy, particularly empathy for pain.

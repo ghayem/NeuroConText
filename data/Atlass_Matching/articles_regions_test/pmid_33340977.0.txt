@@ -1,0 +1,47 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Thalamus**
+   - Subregions of the thalamus
+
+2. **Frontal Cortex**
+   - Frontal regions
+   - Bilateral middle frontal gyrus (Left MFG: x = −41, y = 41, z = 16; Right MFG: x = 42, y = 44, z = 14)
+
+3. **Cingulate Cortex**
+   - Cingulate regions
+   - Anterior cingulate cortex
+
+4. **Temporal Cortex**
+   - Temporal regions
+   - Superior temporal gyrus
+   - Auditory regions
+
+5. **Occipital Cortex**
+   - Occipital regions
+
+6. **Insular Cortex**
+   - Insula
+   - Subregions of the insula
+
+7. **Parietal Cortex**
+   - Parietal regions
+
+8. **Striatum**
+   - Striatal regions
+
+9. **Operculum**
+   - Operculum
+
+10. **Basal Ganglia**
+    - Basal ganglia
+
+11. **Default-Mode Network**
+    - Regions of the default-mode network
+
+12. **Central-Executive Network**
+    - Regions of the central-executive network
+
+13. **Cerebellum**
+    - Cerebellar regions
+
+These regions are involved in various cognitive functions, including sensory and cognitive processes, salience processing, error monitoring, auditory processing, and integration of sensory information.

@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions
+
+1. **Cortical Mantle**
+
+2. **Limbic and Association Cortices**
+
+3. **Cerebral Cortex**
+
+4. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+     - This region is involved in memory formation
+
+5. **Grey Matter (GM)**
+   - Global cerebrum (CE)
+   - Cortical grey matter (CGM)
+   - Subcortical grey matter (SGM)
+     - Nucleus accumbens
+     - Amygdala
+     - Caudate
+     - Pallidum
+     - Putamen
+     - Thalamus
+
+6. **White Matter (WM)**
+
+7. **Frontal Lobe**
+   - Frontal operculum
+   - Precentral gyrus
+
+8. **Parietal Lobe**
+   - Precuneus
+
+9. **Temporal Lobe**
+   - Fusiform gyrus (bilaterally)
+   - Superior temporal gyrus (bilaterally)
+   - Middle temporal gyrus (left)
+   - Inferior temporal gyrus
+   - Temporo-parieto-occipital junction (TPO)
+
+10. **Occipital Lobe**
+
+11. **Orbitofrontal Cortex**
+
+12. **Brainstem**
+
+13. **Cerebellum**
+
+### Involved Cognitive Functions
+These regions are involved in various cognitive functions including:
+- Memory
+- Language
+- Executive functions
+- Interoceptive awareness
+- Fluid intelligence
+- Motor functions
+- Sensory processing
+
+These regions are also implicated in the pathophysiology and symptomatology of Alzheimer's disease (AD) and other neurodegenerative disorders.

@@ -1,0 +1,31 @@
+## Brain Regions and Sub-regions
+
+1. **Prefrontal Cortex**
+    - Medial prefrontal cortex (mPFC)
+    - Ventral medial prefrontal cortex (vmPFC)
+    - Dorsomedial prefrontal cortex (dmPFC)
+    - Dorsolateral prefrontal cortex (dlPFC)
+
+2. **Hippocampus**
+    - Longitudinal axis of the hippocampus
+
+3. **Angular Gyrus**
+
+4. **Medial Temporal Lobe**
+    - Parahippocampal gyrus
+
+5. **Cingulate and Paracingulate Gyrus**
+
+6. **Lateral Occipital Cortex**
+
+7. **Parietal Lobe**
+
+8. **Cerebrospinal Fluid Compartments**
+
+9. **White Matter**
+
+10. **Cerebellum**
+
+11. **Brainstem**
+
+    - These regions are involved in these cognitive functions: memory, executive functions, cognitive control, schema formation, and associative memory processes.

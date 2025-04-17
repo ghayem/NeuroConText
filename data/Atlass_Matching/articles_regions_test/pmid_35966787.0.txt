@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions:
+
+1. **Posterior Cingulate Cortex**
+
+2. **Ventromedial Prefrontal Cortex**
+
+3. **Anterior Cingulate Cortex**
+
+4. **Gyrus Rectus**
+
+5. **Orbital Segment of the Superior Frontal Gyrus**
+
+6. **Middle Temporal Gyrus**
+
+7. **Hippocampus**
+
+8. **Amygdala**
+
+9. **Left Temporal Fusiform Cortex**
+
+10. **Left Lingual Gyrus**
+
+11. **Left Postcentral Gyrus**
+
+12. **Right Lingual Gyrus**
+
+13. **Right Temporal Occipital Fusiform Cortex**
+
+14. **Right Postcentral Gyrus**
+
+15. **Right Cerebellar Crus II**
+
+16. **Right Cingulate Gyrus, Posterior Division**
+
+17. **Left Cerebellar Vermis VIIIa**
+
+18. **Right Cingulate Gyrus, Posterior Division**
+
+19. **Left Cerebellar Vermis VIIIa**
+
+20. **Left Middle Temporal Gyrus**
+
+21. **Left Parahippocampal Gyrus**
+
+22. **Left Middle Frontal Gyrus**
+
+23. **Right Lateral Occipital Cortex**
+
+24. **Left Putamen**
+
+These regions are involved in various cognitive functions, including memory, somatosensory integration, emotional processing, recognition, and regulation.

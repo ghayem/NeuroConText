@@ -1,0 +1,69 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal Region**
+   - Right inferior frontal gyrus (IFG)
+   - Left IFG
+   - Right superior frontal gyrus (SFG)
+   - Left SFG
+   - Right middle frontal gyrus (MFG)
+   - Left MFG
+   - Gyrus rectus
+   - Supplementary motor area (SMA)
+   - Medial prefrontal cortex (mPFC)
+
+2. **Temporal Region**
+   - Right superior temporal gyrus (STG)
+   - Left STG
+   - Right middle temporal gyrus (MTG)
+   - Left MTG
+   - Right inferior temporal gyrus (ITG)
+   - Left Heschl gyrus
+   - Right Heschl gyrus
+   - Right inferior occipital gyrus
+   - Left inferior occipital gyrus
+   - Right superior occipital gyrus
+   - Right thalamus
+   - Left thalamus
+
+3. **Parietal Lobe**
+   - Right paracentral lobule
+   - Left postcentral gyrus
+   - Right postcentral gyrus
+   - Right precentral gyrus
+   - Left precentral gyrus
+
+4. **Limbic System**
+   - Anterior cingulate cortex (ACC)
+   - Bilateral ACC
+   - Median cingulate cortex
+   - Midcingulate cortex
+   - Amygdala
+
+5. **Striatum**
+   - Right striatum
+   - Left striatum
+   - Caudate nucleus
+   - Putamen
+
+6. **Insula**
+   - Right insula
+   - Left insula
+
+7. **Cerebellum**
+   - Left cerebellum
+
+8. **Occipital Cortex**
+   - Right cuneus cortex
+   - Right fusiform gyrus
+
+9. **Visual and Auditory Cortices**
+   - Primary sensory cortex
+   - Visual cortices
+   - Auditory cortices
+
+10. **Sensorimotor Cortex**
+    - Precentral gyrus
+    - Postcentral gyrus
+    - Sensorimotor regions
+
+These regions are involved in various cognitive functions, including perception, motor control, cognitive function, self-awareness, emotion, directed effort, mentalizing, and sensorimotor processing.

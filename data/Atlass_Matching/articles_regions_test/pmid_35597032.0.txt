@@ -1,0 +1,40 @@
+Certainly! Below is the list of brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Motor/Premotor Cortices**
+2. **Frontal Cortices**
+3. **Temporal Cortices**
+4. **Anterior Cingulate**
+5. **Corticospinal Tract (CST)**
+6. **Posterior Limb of the Internal Capsule (PLIC)**
+7. **Cerebral Peduncle**
+8. **Corona Radiata**
+9. **Precentral Gyrus (Primary Motor Cortex)**
+10. **Cerebellum**
+11. **Hippocampus**
+12. **Cingulum**
+13. **Occipital Regions**
+14. **Parietal Regions**
+15. **Superior Frontal Gyrus**
+    - Orbital Part
+    - Medial Orbital Part
+16. **Inferior Frontal Gyrus**
+    - Orbital Part
+17. **Angular Gyrus**
+18. **Olfactory Cortex**
+19. **Precentral Gyrus**
+20. **Pallidum**
+21. **Caudal Middle Frontal Gyrus**
+22. **Posterior Cingulate**
+23. **Precuneus**
+24. **Postcentral Gyrus**
+25. **Caudate**
+26. **Insula**
+27. **Amygdala**
+28. **Cuneus**
+29. **Temporal Pole**
+30. **Cerebellar Lobules**
+    - VIII
+    - IX
+    - X
+
+These regions are involved in various cognitive functions, including motor control, executive functions, behavioral and emotional regulation, language, and cognitive functions.

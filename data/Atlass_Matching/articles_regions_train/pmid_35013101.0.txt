@@ -1,0 +1,83 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Amygdala**
+    - Affective processing
+    - Emotional-appraisal network
+    - Amygdala-based resting-state node strength
+    - Amygdala-based functional connectivity network
+
+2. **Medial Prefrontal Cortex (mPFC)**
+    - Amygdala-mPFC functional connectivity
+    - Top-down modulation
+    - Emotional-appraisal network
+
+3. **Cortical Regions**
+    - Cortical-striatal-thalamic-cortical function
+    - Cortical-striatal-thalamic-cortical loops
+    - Amygdala-cortical functional connectivity
+
+4. **Striatum**
+    - Cortical-striatal-thalamic-cortical function
+    - Cortical-striatal-thalamic-cortical loops
+    - Dorsal striatum
+
+5. **Thalamus**
+    - Cortical-striatal-thalamic-cortical function
+    - Cortical-striatal-thalamic-cortical loops
+    - Subcortical regions
+
+6. **Hypothalamic-Pituitary-Adrenocortical (HPA) Axis**
+    - HPA stress-system function
+    - HPA-axis down-regulation
+
+7. **Superior Parietal Lobe**
+    - Left superior parietal lobe
+
+8. **Frontal Lobe**
+    - Frontal regions
+
+9. **Temporal Lobe**
+    - Temporal regions
+
+10. **Insula**
+    - Subcortical regions
+
+11. **Cerebellum**
+    - Intrinsically connected to the amygdala
+    - Biomarker of emotional states
+    - Amygdala-cerebellum functional connectivity
+
+12. **Cuneus**
+
+13. **Precuneus**
+
+14. **Middle Occipital Gyrus**
+
+15. **Putamen**
+    - Subcortical regions
+
+16. **Pallidum**
+    - Subcortical regions
+
+17. **Caudate**
+    - Subcortical regions
+
+18. **Nucleus Accumbens**
+    - Subcortical regions
+
+19. **Default Mode Network (DMN)**
+    - Amygdala-DMN functional connectivity
+
+20. **Visual Attention Network**
+    - Amygdala-visual attention network functional connectivity
+
+21. **Salience Network**
+    - Amygdala-salience network functional connectivity
+
+22. **Limbic Network**
+    - Amygdala-limbic network functional connectivity
+
+23. **Ventral Striatum**
+    - Reward-based models
+
+These regions are involved in various cognitive and emotional processes, including affective processing, emotional regulation, stress response, and compulsive behavior.

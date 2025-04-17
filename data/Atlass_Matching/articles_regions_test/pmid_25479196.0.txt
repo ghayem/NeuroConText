@@ -1,0 +1,49 @@
+1. **Occipital Lobe**
+    - Occipital white matter
+    - Occipital gyrus
+    - Middle occipital lobe
+    - Lingual gyrus
+    - Fusiform gyrus
+
+2. **Frontal Lobe**
+    - Right inferior frontal gyrus
+    - Right precentral gyrus
+    - Right superior frontal gyrus
+    - Left superior frontal gyrus
+    - Orbito-frontal region
+
+3. **Parietal Lobe**
+    - Inferior parietal lobule
+    - Supramarginal gyrus
+    - Precuneus
+    - Right supramarginal gyrus
+    - Paracentral gyrus
+
+4. **Temporal Lobe**
+    - Entorhinal cortex
+    - Superior temporal gyrus
+    - Right posterior temporal gyrus
+    - Inferior temporal gyrus
+
+5. **Cingulate Cortex**
+    - Posterior cingulate
+    - Anterior cingulate
+    - Midcingulate gyrus
+
+6. **Insular Cortex**
+    - Right anterior insula
+
+7. **Hippocampal Region**
+    - Hippocampi
+    - Amygdala
+    - Fornix
+
+8. **Thalamus**
+
+9. **Other Regions**
+    - Ventricles
+    - Cuneus
+    - Precentral gyrus
+    - Post-central gyrus
+
+- These regions are involved in various cognitive and perceptual functions, including visual processing, attention, memory, and emotional regulation.

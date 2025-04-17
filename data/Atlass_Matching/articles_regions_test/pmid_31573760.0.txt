@@ -1,0 +1,65 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Visual Cortex**
+   - Primary visual cortex
+   - Higher visual areas
+   - Early visual area
+
+2. **Optic Pathway**
+   - Optic nerve
+   - Optic chiasm
+   - Optic radiation
+
+3. **Occipital Lobe**
+   - Occipital gyrus
+     - Left occipital gyrus
+     - Left middle occipital gyrus (BA 18/19)
+   - Occipital white matter (WM)
+   - Suboccipital lobe
+     - Right suboccipital lobe
+   - Occipital bone
+     - Medial region of the occipital bone
+     - Left occipital bone (POS)
+   - Occipital cortex
+   - Right calcarine sulcus
+   - Right middle occipital gyrus
+   - Right superior occipital gyrus
+
+4. **Parietal Lobe**
+   - Inferior parietal lobes
+   - Right inferior parietal lobe (BA 40)
+   - Supramarginal gyrus (SMG)
+     - Right supramarginal gyrus (BA 40)
+   - Right anterior cingulate gyrus (BA 24)
+
+5. **Frontal Lobe**
+   - Motor cortex
+   - Somatosensory cortex
+
+6. **Temporal Lobe**
+   - Bilateral auxiliary exercise zone
+
+7. **Insular Cortex**
+   - Bilateral insular lobe
+   - Right insular cortex (BA 13)
+   - Left insular cortex (BA 13)
+
+8. **Limbic System**
+   - Anterior cingulate cortex (ACC)
+     - Right dorsal ACC
+
+9. **Other Regions**
+   - Lateral geniculostriate system
+   - Right margin of the right side
+   - Right anterior cingulate gyrus
+   - Cerebrospinal fluid (CSF)
+   - Gray matter (GM)
+   - White matter (WM)
+   - Right margin of the right side
+   - Bilateral insular lobe
+   - Right anterior cingulate gyrus
+   - Left occipital gyrus
+   - Right suboccipital lobe
+   - Right supra marginal (BA 40)
+
+These regions are involved in various cognitive and emotional processes, as well as visual processing and sensory functions.

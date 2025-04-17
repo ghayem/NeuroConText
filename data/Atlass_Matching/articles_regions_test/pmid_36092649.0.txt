@@ -1,0 +1,47 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Visual Cortex**
+   - Ventral V1
+   - Dorsal V1
+   - Parafoveal areas
+
+2. **Brodmann Areas**
+   - BA17
+   - BA18
+   - BA19
+
+3. **Optic Pathways**
+   - Optic nerves
+   - Optic chiasm
+   - Optic tract
+   - Optic radiations
+
+4. **Cerebellum**
+   - Left cerebellum_Crus2
+   - Left cerebellum_4_5
+   - Right cerebellum_4_5
+
+5. **Temporal Cortex**
+   - Left middle temporal gyrus
+
+6. **Parahippocampal Region**
+   - Right parahippocampal
+
+7. **Thalamus**
+   - Left thalamus
+
+8. **Postcentral Gyrus**
+   - Right postcentral
+   - Left postcentral
+
+9. **Precuneus**
+   - Left precuneus
+   - Left paracentral lobule
+
+10. **Fusiform Gyrus**
+    - Right fusiform
+
+11. **Calcarine Sulcus**
+    - Right calcarine
+
+These regions are involved in various cognitive functions and sensory processes, including visual processing, sensorimotor function, and higher cognitive functions such as memory and self-referential thought.

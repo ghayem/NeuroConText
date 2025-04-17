@@ -1,0 +1,36 @@
+Based on the article, here are the brain regions and sub-regions mentioned:
+
+1. **Brainstem**
+
+2. **Subcortical nuclei**
+
+3. **Limbic areas**
+
+4. **Neocortical areas**
+
+5. **Occipital cortex**
+
+6. **Temporal lobes**
+
+7. **Dorsal midbrain**
+    - Right-side dominant dorsal midbrain
+
+8. **Putamen**
+
+9. **Basal forebrain**
+
+10. **Pons**
+    - Right-side dominant dorsal pons
+
+11. **Medulla oblongata**
+
+12. **Cerebellum**
+    - Bilateral cerebellum
+
+13. **White matter (WM)**
+    - Dorsal mesopontine
+
+14. **Gray matter (GM)**
+    - Deep brain GM
+
+These regions are involved in various cognitive functions and are affected in conditions such as Dementia with Lewy bodies (DLB) and Alzheimer's disease (AD).

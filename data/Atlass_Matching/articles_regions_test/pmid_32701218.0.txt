@@ -1,0 +1,22 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex (PFC)**
+   - Medial PFC
+   - Lateral PFC
+   - Anterior PFC
+   - Dorsolateral PFC
+   - Posterior PFC
+   - Inferior frontal gyrus (IFG)
+     - Left IFG
+     - Right IFG
+   - Rostrolateral PFC
+   - Orbitofrontal regions
+   - Superior frontal regions
+
+2. **Parietal Regions**
+   - Parahippocampal regions
+
+3. **Temporal Regions**
+   - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in cognitive functions such as metacognition, arithmetic processing, and executive functions.

@@ -1,0 +1,20 @@
+## Brain Regions and Sub-Regions
+
+1. **Angular Gyrus**
+   - Right angular gyrus
+
+2. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus
+
+3. **Precuneus**
+   - Right precuneus
+
+4. **Sigmoid Sinus**
+   - Sigmoid sinus wall
+
+## Cognitive Functions and Associations
+
+- **Angular Gyrus**: Involved in the integration of auditory stimuli, memory-related activities, self-awareness, and self-perception. It is also related to shifting attention in chronic tinnitus patients.
+- **Middle Temporal Gyrus**: Part of the auditory association cortex, involved in auditory information processing.
+- **Precuneus**: Involved in a variety of cognitive functions, including visuospatial imagery, episodic memory retrieval, and self-processing operations.
+- **Sigmoid Sinus**: Related to vascular somatosound and hemodynamics in the context of pulsatile tinnitus.

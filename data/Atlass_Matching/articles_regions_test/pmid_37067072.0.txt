@@ -1,0 +1,78 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus (HC)**
+
+2. **Entorhinal Cortex (EC)**
+
+3. **Medial Orbitofrontal Cortex (mOFC)**
+
+4. **Inferior Parietal Lobule (IPL)**
+   - Left IPL
+   - Right IPL
+
+5. **Precuneus (PCUN)**
+   - Left PCUN
+   - Right PCUN
+
+6. **Retrosplenial Cortex (RSC)**
+   - Left RSC
+   - Right RSC
+
+7. **Supramarginal Gyrus (SMG)**
+   - Left SMG
+   - Right SMG
+
+8. **Temporoparietal Junction (TPJ)**
+   - Left TPJ
+   - Right TPJ
+
+9. **Inferior Orbitofrontal Cortex (inferior OFC)**
+   - Left inferior OFC
+   - Right inferior OFC
+
+10. **Postcentral Gyrus**
+    - Left postcentral gyrus
+
+11. **Precentral Gyrus (PreCG)**
+    - Right PreCG
+
+12. **Supplementary Motor Area (SMA)**
+
+13. **Superior Orbitofrontal Cortex (superior OFC)**
+
+14. **Middle Orbitofrontal Cortex (middle OFC)**
+
+15. **Lingual Gyrus**
+    - Right lingual gyrus
+
+16. **Middle Occipital Gyrus (MOG)**
+    - Right MOG
+    - Left MOG
+
+17. **Inferior Occipital Gyrus**
+    - Left inferior occipital gyrus
+
+18. **Middle Frontal Gyrus (MFG)**
+    - Bilateral MFG
+
+19. **Inferior Frontal Gyrus (IFG)**
+    - Bilateral IFG
+    - Right IFG
+    - Left IFG
+
+20. **Superior Frontal Gyrus (SFG)**
+    - Bilateral SFG
+
+21. **Lateral Orbitofrontal Cortex (lOFC)**
+    - Bilateral lOFC
+
+22. **Central Orbitofrontal Cortex (cOFC)**
+    - Bilateral cOFC
+
+23. **Medial Superior Frontal Gyrus**
+    - Left medial superior frontal gyrus
+
+24. **Middle Temporal Gyrus (MTG)**
+    - Right MTG
+
+These regions are involved in various cognitive functions, including spatial navigation, memory, decision-making, and the representation of abstract relational information.

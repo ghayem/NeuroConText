@@ -1,0 +1,31 @@
+1. **Hippocampus**
+
+2. **Temporal Lobe**
+
+3. **Parietal Lobe**
+
+4. **Limbic Lobe**
+
+5. **Cuneus**
+
+6. **Precuneus**
+
+7. **Cingulate Cortex**
+
+8. **Postcentral Gyrus**
+
+9. **Precentral Gyrus**
+
+10. **Medial Frontal Gyrus**
+
+11. **Lingual Gyrus**
+
+12. **Calcarine Fissure**
+
+13. **Parahippocampal Gyrus**
+
+14. **Middle Occipital Gyrus**
+
+15. **Posterior Cerebellar Lobe**
+
+These regions are involved in various cognitive functions including memory, attention, executive function, working memory, and visuospatial attention.

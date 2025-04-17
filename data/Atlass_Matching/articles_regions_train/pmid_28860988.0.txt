@@ -1,0 +1,86 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+
+2. **Parietal Lobe**
+
+3. **Occipital Lobe**
+
+4. **Hippocampus**
+
+5. **Medial Visual Cortical Network**
+
+6. **Sensorimotor Network**
+
+7. **Default Mode Network (DMN)**
+   - Ventral DMN
+   - Posterior DMN
+
+8. **Executive Control Network**
+
+9. **Temporal Network**
+
+10. **Auditory Network**
+
+11. **Cerebellar Networks**
+
+12. **Language-related Speech Network**
+
+13. **Caudate-related Network**
+
+14. **Thalamus-related Network**
+
+15. **Temporal Lobe-related Network**
+
+16. **Dorsal Attention Network (DAN)**
+   - Anterior DAN
+   - Posterior DAN
+
+17. **Bilateral Intraparietal Sulcus**
+
+18. **Temporo-occipital Cortex**
+
+19. **Parieto-occipital Cortex**
+
+20. **Superior Parietal Lobule**
+
+21. **Primary Auditory Network**
+
+22. **Motor Network**
+
+23. **Middle and Superior Frontal Gyrus**
+
+24. **Parahippocampal Gyrus**
+   - Left Parahippocampal Gyrus
+   - Right Parahippocampal Gyrus
+
+25. **Cerebellum**
+   - Primary Sensorimotor Zone
+   - Supramodal Zone
+
+26. **Medial Temporal Areas**
+
+27. **Temporal-related Area**
+
+28. **Thalamus**
+   - Right Thalamus
+   - Left Thalamus
+
+29. **Caudate**
+   - Bilateral Caudate
+
+30. **Insular**
+
+31. **Transverse Temporal Gyrus**
+
+32. **Putamen**
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Language**: Language-related speech network
+- **Memory**: Hippocampus, Parahippocampal gyrus
+- **Executive Functions**: Executive control network, Frontal lobe
+- **Sensory and Motor Functions**: Sensorimotor network, Motor network, Cerebellum
+- **Auditory Processing**: Auditory network, Primary auditory network
+- **Visual Processing**: Medial visual cortical network, Occipital lobe
+- **Default Mode Functions**: Default mode network (DMN)
+- **Attention**: Dorsal attention network (DAN)

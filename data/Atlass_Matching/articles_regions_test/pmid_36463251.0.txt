@@ -1,0 +1,18 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Inferior Frontal Gyrus (IFG)**
+   - Brodmann Area 45 (BA45)
+
+2. **Caudate**
+   - Bilateral caudate
+
+3. **Cingulate**
+   - Right cingulate
+
+4. **Superior Temporal Gyrus**
+   - Right superior temporal gyrus
+
+5. **Middle/Inferior Frontal Gyrus**
+   - Right middle/inferior frontal gyrus
+
+These regions are involved in various cognitive functions, including language processing, semantic memory, and cognitive control.

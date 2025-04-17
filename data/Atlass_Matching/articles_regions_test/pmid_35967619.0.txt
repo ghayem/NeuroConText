@@ -1,0 +1,106 @@
+### Brain Regions and Sub-Regions:
+
+1. **Posterior Parietal Cortex**
+   - Right posterior parietal cortex
+
+2. **Superior Temporal Gyrus**
+   - Left superior temporal gyrus
+
+3. **Right Hemispheric Lesions**
+   - Right hemispheric regions
+
+4. **Primary Motor Cortex**
+   - Primary motor cortex
+
+5. **Anterior Cingulate Cortex**
+   - Anterior cingulate cortex
+
+6. **Intraparietal Sulcus**
+   - Anterior part of the intraparietal sulcus
+   - Left intraparietal sulcus
+   - Right intraparietal sulcus
+
+7. **Ventral Attentional Network (VAN)**
+   - Left inferior parietal lobule (IPL)
+   - Right inferior parietal lobule (IPL)
+
+8. **Superior Parietal Lobule**
+   - Superior parietal lobule
+
+9. **Superior Frontal Gyrus**
+   - Superior frontal gyrus
+
+10. **Lateral Occipital Cortex**
+    - Lateral occipital cortex
+
+11. **Dorsal Attentional Network (DAN)**
+    - Superior parietal lobule
+    - Superior frontal gyrus
+    - Lateral occipital cortex
+
+12. **Frontal Eye Field**
+    - Frontal eye field
+
+13. **Inferior Frontal Gyrus**
+    - Right inferior frontal gyrus
+
+14. **Middle Occipital Gyrus**
+    - Middle occipital gyrus
+
+15. **Precuneus**
+    - Precuneus
+
+16. **Medial Cerebellum**
+    - Medial cerebellum
+
+17. **Vermis 4 and 5**
+    - Vermis 4
+    - Vermis 5
+
+18. **Middle Frontal Gyrus**
+    - Middle frontal gyrus
+
+19. **Inferior Occipital Gyrus**
+    - Right inferior occipital gyrus
+
+20. **Middle Temporal Gyrus**
+    - Middle temporal gyrus
+
+21. **Angular Gyrus**
+    - Left angular gyrus (L-AG1, L-AG2, L-AG3)
+    - Right angular gyrus (R-AG1)
+
+22. **Supramarginal Gyrus**
+    - Right supramarginal gyrus (R-SMG1)
+
+23. **Superior Temporal Sulcus**
+    - Superior temporal sulcus
+
+24. **Posterior Parietal Cortex**
+    - Superior parietal cortex
+
+25. **Lingual Gyrus**
+    - Lingual gyrus
+
+26. **Middle Cingulate Gyrus**
+    - Middle cingulate gyrus
+
+27. **Inferior Temporal Gyrus**
+    - Inferior temporal gyrus
+
+28. **Temporo-Parietal Junction**
+    - Temporo-parietal junction
+
+29. **Postcentral Gyrus**
+    - Postcentral gyrus
+
+30. **Superior Temporal Plane (STP)**
+    - Superior temporal plane
+
+31. **Planum Temporale (PT)**
+    - Planum temporale
+
+32. **Temporo-Parieto-Occipital Junction (TPO)**
+    - Temporo-parieto-occipital junction
+
+These regions are involved in various cognitive functions, including visuospatial processing, attention, motor control, and sensorimotor integration.

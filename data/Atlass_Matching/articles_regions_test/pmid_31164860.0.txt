@@ -1,0 +1,67 @@
+## Brain Regions and Sub-Regions:
+
+1. **Superior Temporal/Temporo-Parietal Cortices**
+
+2. **Insulae**
+
+3. **Anterior Cingulate Cortex**
+
+4. **Temporo-Parietal Cortices**
+
+5. **White Matter (WM)**
+
+6. **Gray Matter (GM)**
+
+7. **Deep Nuclei**
+
+8. **Limbic System**
+
+9. **Thalamus**
+
+10. **Putamen**
+
+11. **Caudate Nucleus**
+
+12. **Globus Pallidus**
+
+13. **Amygdala**
+
+14. **Striatum**
+
+15. **Temporal Pole**
+
+16. **Dorsal Striatum**
+
+17. **Paralimbic System**
+
+18. **Left Putamen**
+
+19. **Left Thalamus**
+
+20. **Left Anterior Insula Cortex**
+
+21. **Bilateral Amygdalae**
+
+22. **Left Caudate Nucleus**
+
+23. **Right Lateral Temporal Cortex**
+
+24. **Bilateral Amygdala**
+
+25. **Bilateral Caudate Nucleus**
+
+26. **Bilateral Pallidum**
+
+27. **Bilateral Putamen**
+
+28. **Bilateral Thalamus**
+
+29. **Bilateral Hippocampus**
+
+30. **Ventral Aspect of the Left Putamen**
+
+31. **Large Portion of the Left Thalamus**
+
+32. **Left Anterior Insula Cortex**
+
+These regions are involved in various cognitive functions including social cognition, mentalizing, empathy, emotion recognition, imitative tendencies, perspective taking, and cognitive processing speed.

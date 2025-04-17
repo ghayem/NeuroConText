@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Trigeminal Ganglion**
+
+2. **Trigeminal Nucleus**
+   - Spinal trigeminal nucleus
+
+3. **Thalamus**
+   - Pulvinar region
+   - Thalamic sub-regions based on white-matter connectivity to cortical areas
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Middle cingulate cortex (MCC)
+   - Posterior cingulate cortex (PCC)
+
+5. **Frontal Cortex**
+   - Precentral gyrus
+   - Superior frontal gyrus
+   - Orbitofrontal regions
+
+6. **Parietal Cortex**
+   - Supramarginal gyrus
+   - Inferior parietal gyrus
+   - Posterior parietal regions
+
+7. **Temporal Cortex**
+   - Temporal pole
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+   - Inferior temporal gyrus
+
+8. **Insula**
+   - Anterior insula
+   - Posterior insula
+
+9. **Occipital Cortex**
+   - Calcarine cortex
+   - Rolandic operculum
+
+10. **Cerebellum**
+
+11. **Brainstem**
+    - Pons
+    - Periaqueductal gray (PAG)
+
+12. **Basal Ganglia**
+    - Caudate
+    - Palladium
+    - Putamen
+
+13. **Other Subcortical Regions**
+    - Amygdala
+
+These regions are involved in various aspects of migraine and allodynia, including pain processing, sensory perception, emotional regulation, and cognitive functions.

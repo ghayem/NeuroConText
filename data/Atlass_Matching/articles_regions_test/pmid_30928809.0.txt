@@ -1,0 +1,31 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia (BG)**
+   - Caudate nucleus (C)
+   - Putamen (P)
+   - Globus pallidus internus (GPi)
+   - Globus pallidus externus (GPe)
+   - Subthalamic nucleus (STN)
+   - Substantia nigra pars compacta (SNC)
+   - Medium spiny neurons (MSN)
+
+2. **Thalamus (T)**
+
+3. **Cortex**
+   - Primary motor cortex (M1)
+   - Primary somatosensory cortex (S1)
+   - Secondary somatosensory cortex (S2)
+   - Occipital cortex ( mention of V1-3)
+   - Cingulate cortex
+
+4. **Cerebellum**
+   - Pontocerebellum (PoCb)
+   - Spinocerebellum (SpCB)
+
+5. **Brainstem**
+
+6. **Other Regions**
+   - Primary cortex (M)
+   - Ventral tegmental area (VTA)
+
+These regions are involved in various functions, including motor control, sensory processing, and integration of sensorimotor information. The article discusses their roles in the context of cervical dystonia (CD) and the effects of botulinum neurotoxin (BNT) treatment.

@@ -1,0 +1,25 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Amygdala**
+
+2. **Hippocampus**
+
+3. **Hypothalamus**
+   - Anterior hypothalamus
+
+4. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+     - Ventral medial prefrontal cortex (vmPFC)
+   - Orbitofrontal cortex (OFC)
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+     - Dorsal anterior cingulate cortex (dACC)
+     - Rostral anterior cingulate cortex (rACC)
+
+6. **Brain-stem nuclei**
+   - Periaqueductal gray
+
+7. **Insula**
+
+These regions are involved in various cognitive and emotional processes, including fear responses, inhibition and extinction of fear, stress responses, arousal, and emotion regulation.

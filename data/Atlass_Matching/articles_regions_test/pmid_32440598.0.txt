@@ -1,0 +1,45 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Midbrain**
+   - Superior colliculus
+   - Periaqueductal gray (PAG)
+
+2. **Brainstem**
+   - Lower brainstem
+   - Locus coeruleus
+
+3. **Thalamus**
+   - Pulvinar
+
+4. **Limbic System**
+   - Amygdala
+   - Parahippocampal gyrus
+
+5. **Hypothalamus**
+
+6. **Cortex**
+   - Frontolimbic neural circuits
+   - Ventromedial prefrontal cortex
+   - Medial prefrontal cortex
+   - Posterior cingulate cortex
+   - Posterior parietal cortex
+   - Anterior cingulate cortex
+   - Superior frontal gyrus
+   - Right angular gyrus
+   - Precuneus
+   - Right middle frontal gyrus
+   - Right posterior orbital gyrus
+   - Left middle temporal gyrus
+
+7. **Spinal Cord**
+
+8. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex
+   - Posterior cingulate cortex
+   - Posterior parietal cortex
+   - Precuneus
+   - Anterior cingulate cortex
+
+9. **Intrinsic Connectivity Network (ICN)**
+
+These regions are involved in various cognitive and emotional functions, including threat detection, defensive responses, self-referential processing, autobiographical memory retrieval, and emotional regulation.

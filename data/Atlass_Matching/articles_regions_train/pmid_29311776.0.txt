@@ -1,0 +1,54 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+   - Inferior frontal sulcus (IFS)
+   - Anterior insula and adjacent frontal operculum (AI/FO)
+   - Presupplementary motor area and adjacent dorsal anterior cingulate (pre-SMA/ACC)
+   - Rostrolateral prefrontal cortex (RPFC)
+   - Dorsal premotor area
+   - Rostral cingulate region
+   - Inferior frontal gyrus
+   - Dorsolateral prefrontal cortex
+   - Dorsal premotor cortex
+   - Supplementary motor area
+   - Precentral gyrus
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+
+2. **Parietal Cortex**
+   - Intraparietal sulcus (IPS)
+   - Inferior parietal lobule
+   - Superior parietal lobule
+   - Postcentral gyrus
+   - Angular gyrus
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus
+
+4. **Occipital Cortex**
+   - Middle occipital gyrus
+   - Superior occipital gyrus
+   - Inferior occipital gyrus
+   - Bilateral occipital lobe
+
+5. **Other Regions**
+   - Perisylvian language area
+   - Anterior cingulate cortex
+   - Cerebrospinal fluid
+   - Gray matter (GM)
+   - White matter (WM)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Working memory
+- Task novelty
+- Response selection
+- Executive functions
+- Attentional control
+- Motor imagery
+- Auditory-motor interactions
+- Auditory working memory processing
+- Visuomotor control
+- Musical transposition
+- Creative novelty competencies
+- Language processing (syntactic elements in music)
+- Music perception and production

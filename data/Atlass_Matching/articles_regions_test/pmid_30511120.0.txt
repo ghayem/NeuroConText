@@ -1,0 +1,51 @@
+## Brain Regions and Sub-regions
+
+1. **Basal Ganglia**
+
+2. **Bilateral Angular Gyrus**
+
+3. **Left Fourth Occipital Gyrus**
+
+4. **Right Supramarginal Gyrus**
+
+5. **Right Occipitotemporal Region**
+
+6. **Precuneus**
+
+7. **Superior Parietal Lobule**
+
+8. **Left Frontal Areas**
+    - Middle Frontal Gyrus
+    - Superior Frontal Gyrus
+    - Precentral Gyrus
+
+9. **Left Temporoparietal Junction (TPJ)**
+    - Left Angular Gyrus
+    - Left Supramarginal Gyrus
+    - Left Superior Temporal Gyrus
+
+10. **Right Putamen**
+
+11. **Right Insula**
+
+12. **Lingual Gyrus**
+
+13. **Right Orbitofrontal Gyrus**
+
+14. **Right Superior Frontal Gyrus**
+
+15. **Right 8th Cerebellar Hemisphere**
+
+16. **Pontine Region**
+
+17. **Striatal Region**
+    - Caudate Nucleus
+    - Putamen
+
+18. **Occipital Gyrus**
+
+19. **Fusiform Gyrus**
+
+20. **Left Parietotemporal Junction**
+
+21. **Parietotemporooccipital Junction**

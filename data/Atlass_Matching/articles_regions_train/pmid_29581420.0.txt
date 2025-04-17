@@ -1,0 +1,33 @@
+Based on the article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Primary auditory cortex**
+2. **Superior temporal cortex**
+   - Bilateral superior temporal cortex
+3. **Middle temporal cortex**
+4. **Inferior frontal gyrus**
+5. **Hippocampus**
+6. **Parahippocampus**
+   - Parahippocampal gyrus
+   - Lingual/parahippocampal complex
+7. **Default mode network (DMN)**
+   - Precuneus
+   - Posterior cingulate cortex
+8. **Salience network (SN)**
+   - Insula
+     - Left insula
+     - Right insula
+     - Bilateral insula
+   - Anterior cingulate cortex
+   - Ventral striatum
+9. **Striatum**
+10. **Claustrum**
+    - Left claustrum
+11. **Angular gyrus**
+    - Bilateral angular gyrus
+12. **Cerebellum**
+    - Bilateral posterior cerebellum
+    - Left posterior cerebellum
+13. **Postcentral gyrus**
+    - Right postcentral gyrus
+
+These regions are involved in various cognitive functions, including auditory perception, language, memory, salience processing, and sensory integration.

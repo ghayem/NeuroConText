@@ -1,0 +1,41 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Amygdala**
+
+2. **Prefrontal Cortex**
+
+3. **Frontal Lobes**
+
+4. **Cerebellum**
+   - Bilateral cerebellum
+
+5. **Middle Temporal Gyrus (MTG)**
+   - Left middle temporal gyrus
+
+6. **Medial Frontal Orbital Gyrus (MFOG)**
+   - Left medial frontal orbital gyrus
+
+7. **Fusiform Gyrus (FG)**
+
+8. **Posterior Cingulate Cortex (PCC)**
+   - Bilateral posterior cingulate cortex
+
+9. **Temporal Lobe**
+   - Parahippocampal gyrus
+   - Entorhinal cortex
+
+10. **Ventromedial Prefrontal Cortex**
+
+11. **Dorsomedial Prefrontal Cortex**
+
+12. **Inferior Parietal Lobule**
+
+13. **Orbital Frontal Gyrus**
+
+14. **Dorsal Prefrontal Cortex**
+
+15. **Insula**
+
+16. **Default Mode Network (DMN)**
+
+These regions are involved in various cognitive and emotional functions, including language, emotion, long-term memory, visual recognition, cognitive control, and emotional processing.

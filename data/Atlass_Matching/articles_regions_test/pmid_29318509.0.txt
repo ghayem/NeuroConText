@@ -1,0 +1,40 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+
+2. **Temporoparietal Junction (TPJ)**
+   - Posterior TPJ (pTPJ)
+   - Inferior parietal lobule (IPL)
+
+3. **Superior Temporal Sulcus (STS)**
+   - Posterior STS (pSTS)
+   - Middle temporal gyrus (MTG)
+
+4. **Striatum**
+   - Putamen
+
+5. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+
+6. **Insula**
+   - Anterior insula
+
+7. **Supplementary Motor Area (SMA)**
+
+8. **Precuneus**
+
+9. **Angular Gyrus**
+
+These regions are involved in various cognitive functions, including:
+
+- Social cognition and mentalizing (mPFC, STS, TPJ)
+- Self-regulation and cognitive control (vlPFC, dlPFC)
+- Reward processing and anticipation (striatum)
+- Conflict monitoring and error detection (dACC, anterior insula)
+- Motor control and planning (SMA)
+- Episodic memory retrieval and self-processing (precuneus)
+- Language and semantic processing (angular gyrus, MTG)

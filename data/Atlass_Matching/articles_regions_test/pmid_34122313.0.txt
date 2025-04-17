@@ -1,0 +1,47 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Regions**
+   - Cortical-cortical regions
+   - Subcortical-cortical regions
+   - Temporal lobes
+     - Mesial temporal lobe
+     - Lateral temporal lobes
+   - Frontal regions
+   - Insular regions
+   - Parieto-occipital regions
+   - Rolandic region
+     - Postcentral gyrus (bilateral)
+     - Rolandic operculum (right)
+   - Temporo-parieto-occipital junction
+   - Intraparietal sulcus (right)
+
+2. **Subcortical Regions**
+   - Hippocampus (bilateral)
+   - Thalamus (bilateral)
+   - Putamen (bilateral)
+
+3. **Specific Gyri and Sulci**
+   - Superior temporal gyrus (bilateral)
+   - Temporoparietal junction (left)
+
+4. **Functional Networks (Resting State Networks - RSNs)**
+   - Executive Control Network (ECN)
+   - Dorsal Attention Network (DAN)
+   - Ventral Attention Network (VAN)
+   - Default Mode Network (DMN)
+     - Anterior DMN (aDMN)
+     - Posterior DMN (pDMN)
+   - Salience Network (SAN)
+   - Sensorimotor Network (SMN)
+     - Medial SMN (mSMN)
+     - Lateral SMN (lSMN)
+   - Auditory Network (AN)
+   - Visual Network (VN)
+
+5. **Other Specific Regions**
+   - Sphenoid electrodes (left and right)
+   - Centro-temporal regions (bilateral)
+   - Centro-parieto-temporal regions (bilateral)
+   - Centro-fronto-temporal regions (bilateral)
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, attention, motor control, and visual processing.

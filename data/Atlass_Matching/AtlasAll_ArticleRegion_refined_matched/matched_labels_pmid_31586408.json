@@ -1,0 +1,50 @@
+{
+  "AAL": [
+    "Insula_L",
+    "Insula_R",
+    "Putamen_L",
+    "Putamen_R"
+  ],
+  "Harvard_Oxford": [],
+  "DiFuMo": [
+    "Anterior insula LH",
+    "Anterior insula anterior LH",
+    "Anterior insula anterior RH",
+    "Anterior insula antero-inferior RH",
+    "Anterior insula antero-superior",
+    "Anterior insula inferior LH",
+    "Anterior insula mid-inferior LH",
+    "Anterior insula posterior RH",
+    "Anterior insula superior RH",
+    "Central sulcus of the insula postero-inferior",
+    "Circular sulcus of the insula antero-superior LH",
+    "Circular sulcus of the insula inferior",
+    "Circular sulcus of the insula mid-posterior RH",
+    "Circular sulcus of the insula posterior LH",
+    "Circular sulcus of the insula posterior RH",
+    "Circular sulcus of the insula superior",
+    "Insula inferior RH",
+    "Insula middle superior",
+    "Insula superior LH",
+    "Posterior insula RH",
+    "Posterior insula inferior",
+    "Posterior insula inferior LH",
+    "Posterior insula inferior RH",
+    "Posterior insula postero-superior RH",
+    "Posterior insula superior LH",
+    "Putamen and globus pallidus anterior LH",
+    "Putamen anterior",
+    "Putamen anterior LH",
+    "Putamen anterior RH",
+    "Putamen inferior RH",
+    "Putamen middle LH",
+    "Putamen posterior LH",
+    "Putamen posterior RH",
+    "Putamen superior RH"
+  ],
+  "Juelich": [
+    "GM Insula Id1",
+    "GM Insula Ig1",
+    "GM Insula Ig2"
+  ]
+}

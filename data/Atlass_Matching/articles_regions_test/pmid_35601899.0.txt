@@ -1,0 +1,18 @@
+## The brain regions:
+
+1. **Frontal lobe**
+2. **Cingulate cortex**
+3. **Anterior insular lobe**
+4. **Hippocampus**
+5. **Right superior temporal gyrus**
+6. **Right inferior frontal gyrus (IFG)**
+7. **Right paracentric lobule**
+8. **Right cingulate gyrus**
+9. **Parietal lobe**
+10. **Supplementary motor area**
+11. **Right precentral gyrus**
+12. **Right middle frontal gyrus**
+13. **Bilateral cingulate cortex**
+14. **Bilateral precuneus**
+
+    - These regions are involved in various cognitive functions, including executive functions, emotion regulation, memory, and motor control.

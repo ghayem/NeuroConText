@@ -1,0 +1,25 @@
+1. **Primary odour sensing regions**
+   - Olfactory bulbs
+
+2. **Secondary odour processing regions**
+   - Piriform cortex (Pir)
+   - Orbitofrontal cortex (OFC)
+     - Left orbitofrontal cortex (L-OFC)
+     - Right orbitofrontal cortex (R-OFC)
+   - Insula cortex
+     - Anterior insula (AI)
+     - Left anterior insula (L-AI)
+     - Left insula cortex
+   - Fusiform gyrus
+   - Visual association cortex
+   - Dorsal anterior cingulate cortex (dACC)
+   - Ventral posterior cingulate cortex
+   - Posterior hippocampus
+   - Cerebellum
+     - Left Crus I
+     - Right IX
+     - Right Crus I
+   - Thalamus
+     - Left thalamus
+
+These regions are involved in these cognitive functions: olfactory processing, sensory integration, cognitive processing, and memory recall/processing.

@@ -1,0 +1,97 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default Mode Network (DMN)**
+   - Middle prefrontal cortex
+   - Posterior cingulate cortex (PCC)
+   - Bilateral inferior parietal lobules
+
+2. **Precuneus Network**
+   - Precuneus
+
+3. **Dorsal Attention Network**
+
+4. **Anterior Salience Network**
+   - Right inferior parietal lobule
+
+5. **Executive Control Network**
+   - Left prefrontal cortex
+   - Right executive control network
+
+6. **Sensorimotor Network**
+
+7. **Language Network**
+
+8. **Primary Visual Network**
+
+9. **Higher Visual Network**
+
+10. **Basal Ganglia Network**
+
+11. **Hippocampal Region**
+    - Hippocampal sclerosis
+
+12. **Arteriovenous Malformation**
+    - Scar of ruptured arteriovenous malformation
+
+13. **Cortical Regions**
+    - Focal cortical dysplasia
+    - Orbitofrontal cortices
+    - Superior frontal gyrus
+    - Middle cingulate gyrus
+
+14. **Parietal Lobe**
+    - Inferior parietal lobule
+    - Superior parietal lobule
+    - Subcentral gyrus
+    - Inferior transverse parietal gyrus
+
+15. **Temporal Lobe**
+    - Mesial temporal lobe
+    - Lateral temporal lobe
+    - Posterior temporal lobe
+
+16. **Frontal Lobe**
+    - Orbitofrontal cortices
+    - Superior frontal gyrus
+    - Middle cingulate gyrus
+
+17. **White Matter (WM)**
+
+18. **Gray Matter (GM)**
+
+19. **Cerebrospinal Fluid (CSF)**
+
+20. **Cerebellum**
+
+21. **Amygdala**
+    - Amygdalo-hippocampectomy
+
+22. **Brainstem**
+
+23. **Cerebral Cortex**
+
+24. **Subcortical Structures**
+
+25. **Thalamus**
+
+26. **Hypothalamus**
+
+27. **Brain Contusion**
+    - Scar of brain contusion
+
+28. **Cavernous Malformation**
+
+29. **Tumors**
+    - Dysembryoplastic neuroepithelial tumor
+    - Pilocytic astrocytoma
+    - Pleomorphic xanthoastrocytoma
+
+30. **Ventricles**
+
+31. **Corpus Callosum**
+
+32. **Anterior Cingulate Cortex**
+
+33. **Posterior Cingulate Cortex**
+
+These regions are involved in various cognitive functions including language, memory, executive functions, attention, salience, sensorimotor processing, and visual processing.

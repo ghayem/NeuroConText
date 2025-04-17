@@ -1,0 +1,55 @@
+## Brain Regions and Sub-regions:
+
+1. **Gray Matter (GM)**
+
+2. **Left superior frontal area**
+
+3. **Frontal lobe**
+
+4. **Cingulate cortex**
+
+5. **Frontal network**
+
+6. **Parietal network**
+
+7. **Salience network (SN)**
+
+8. **Cerebellum**
+
+9. **Vision component**
+
+10. **Midcingulate cortex**
+
+11. **Amygdala**
+
+12. **Left calcarine (CAL.L)**
+
+13. **Left middle temporal gyrus**
+
+14. **High visual network**
+
+15. **Prime visual network**
+
+16. **Language network**
+
+17. **Dorsal default mode network (DMN)**
+
+18. **Posterior insula network**
+
+19. **Precuneus network**
+
+20. **Left occipital cortex**
+
+21. **Left lingual gyrus**
+
+22. **Medial visual network**
+
+23. **Primary visual network**
+
+24. **Somatosensory/motor areas**
+
+25. **Frontal and temporal lobes of the left hemisphere**
+
+26. **Dorsal DMN**
+
+These regions are involved in cognitive functions such as vision, language, pain processing, and cognitive and emotional aspects of pain.

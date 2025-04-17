@@ -1,0 +1,33 @@
+## The brain regions:
+
+1. **Occipital cortex**
+
+2. **Visual cortex**
+
+3. **Anterior cingulate cortex (ACC)**
+   - Left anterior cingulate
+
+4. **Paracingulate cortex (PaC)**
+
+5. **Precuneus**
+   - Left precuneus
+
+6. **Parietal lobe**
+   - Right inferior parietal lobe
+   - Left inferior parietal lobe
+   - Superior parietal lobule
+
+7. **Inferior parietal lobule (IPL)**
+   - Angular (ANG) gyrus
+   - Supramarginal (SMG) gyrus
+
+8. **Corpus callosum**
+
+9. **Prefrontal cortex**
+   - Dorsal part of the lateral prefrontal cortex
+
+10. **Cuneus**
+
+11. **Superior parietal lobule**
+
+These regions are involved in various cognitive functions, including visuospatial imagery, episodic memory retrieval, consciousness, higher cognitive functions (mathematical cognition, semantics, and thought processing), oculomotor and attentional mechanisms, and adaptive recalibration of eye-hand coordination, movement, and monitoring of response conflicts.

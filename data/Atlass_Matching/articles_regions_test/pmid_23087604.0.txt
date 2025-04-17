@@ -1,0 +1,35 @@
+Based on the provided neuroscience article, here are the brain regions and sub-regions mentioned:
+
+1. **Striatum**
+   - Ventral striatum
+   - Caudate nucleus
+   - Putamen
+
+2. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+   - Middle frontal gyrus
+   - Inferior frontal gyrus (BA47, BA45)
+   - Superior/medial frontal gyrus (BA10)
+
+3. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Subgenual anterior cingulate cortex (sgACC)
+   - Ventral anterior cingulate cortex (vACC)
+   - Cingulate cortex (BA24)
+
+4. **Midbrain**
+   - Midbrain dopaminergic (DA) nuclei
+
+5. **Temporal Cortex**
+   - Superior temporal gyrus (STG)
+   - Superior temporal sulcus (STS)
+   - Temporo-parieto-occipital junction (TPO)
+
+6. **Insula**
+
+7. **Amygdala**
+
+8. **Parietal Cortex**
+   - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in various cognitive functions, including reward processing, social learning, decision-making, trust behavior, and reputation building.

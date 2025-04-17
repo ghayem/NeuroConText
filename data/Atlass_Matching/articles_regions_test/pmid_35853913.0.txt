@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Orbital frontal cortex
+
+2. **Temporal Lobe**
+   - Inferior temporal gyrus
+   - Fusiform gyrus
+   - Parahippocampal gyrus
+   - Amygdala
+
+3. **Occipital Lobe**
+   - Middle occipital gyrus
+   - Superior occipital gyrus
+   - Inferior occipital gyrus
+
+4. **Limbic System**
+   - Hippocampus
+   - Amygdala
+   - Parahippocampal gyrus
+
+5. **Insula**
+   - Bilateral insula
+
+6. **Cerebellum**
+
+7. **Sensory-Motor Cortices**
+
+8. **Visual Processing Areas**
+   - Primary visual cortex
+   - Ventral visual pathway
+
+9. **Other Regions**
+   - Cerebrospinal fluid
+   - Gray matter
+   - White matter
+
+These regions are involved in various cognitive functions, including sensory processing, emotional regulation, memory, and higher-order cognitive functions.

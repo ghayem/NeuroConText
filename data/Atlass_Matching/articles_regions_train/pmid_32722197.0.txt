@@ -1,0 +1,26 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Frontal Cortex**
+   - Prefrontal cortex
+     - Ventromedial prefrontal cortex (vmPFC)
+     - Dorsolateral prefrontal cortex (dlPFC)
+     - Ventrolateral prefrontal cortex (vlPFC)
+   - Premotor cortex (Brodmann area 6)
+
+2. **Periaqueductal Gray (PAG)**
+
+3. **Thalamus**
+   - Prefrontal radiation of the thalamus
+
+4. **Brainstem**
+   - Rostroventromedial medulla
+   - Caudal ventrolateral medulla
+   - Dorsal reticular nucleus
+
+5. **Anterior Cingulate Cortex**
+
+6. **Insula**
+
+7. **Pons**
+
+These regions are involved in various cognitive functions, including executive functioning, pain processing, and descending pain modulation.

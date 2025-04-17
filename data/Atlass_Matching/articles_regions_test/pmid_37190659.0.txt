@@ -1,0 +1,41 @@
+1. **Amygdala**
+   - Right amygdala
+
+2. **Hippocampus**
+   - Anterior hippocampus
+   - Right hippocampus
+
+3. **Dorsal precuneus**
+   - Left dorsal precuneus
+
+4. **Salience Network (SN)**
+
+5. **Default Mode Network (DMN)**
+   - Medial superior frontal cortex (smFC)
+     - Right smFC (Cluster 1)
+     - Right smFC (Cluster 2)
+     - Left smFC (Cluster 3)
+   - Right middle temporal gyrus (MTG)
+
+6. **Ventral Attention Network (VAN)**
+
+7. **Dorsal Attention Network (DAN)**
+   - Superior parietal lobule (SPL)
+     - Right SPL
+
+8. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+9. **Gray Matter Volume (GMV)**
+   - Right SPL
+   - Hippocampus
+   - DLPFC
+
+10. **Executive Control Network**
+
+11. **Supplementary Motor Area (SMA)**
+
+12. **Presupplementary Motor Area (preSMA)**
+
+13. **Precuneus**
+
+These regions are involved in various cognitive functions such as emotional regulation, memory, attention, cognitive control, and executive functions.

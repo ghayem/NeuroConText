@@ -1,0 +1,19 @@
+# Brain Regions and Sub-Regions
+
+1. **Ventral Striatum (VS)**
+   - Caudate
+   - Putamen
+
+2. **Septal Area (SA)**
+
+3. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+4. **Temporo-parietal Junction (TPJ)**
+
+5. **Ventral Medial Prefrontal Cortex (VMPFC)**
+
+6. **Dorsal Striatum**
+
+7. **Amygdala**
+
+These regions are involved in various cognitive functions, including reward processing, social cognition, decision-making, and emotional regulation.

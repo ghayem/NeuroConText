@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobe**
+   - Superior temporal gyrus (STG)
+     - Anterior superior temporal gyrus (aSTG)
+   - Superior temporal sulcus (STS)
+     - Posterior superior temporal sulcus (pSTS)
+     - Anterior portion of the STS
+   - Planum temporale (PT)
+   - Middle temporal gyrus
+
+2. **Frontal Lobe**
+   - Precentral gyrus (PreC)
+     - Dorsal precentral gyrus (dPreC)
+   - Inferior frontal gyrus
+     - Inferior frontal gyrus, opercular part (IFG-Operc)
+     - Pars opercularis
+
+3. **Parietal Lobe**
+   - Posterior parietal cortex
+
+4. **Occipital Lobe**
+   - Fusiform cortex
+     - Fusiform gyrus
+
+5. **Cerebellum**
+   - Superior posterior cerebellum
+
+6. **Other Regions**
+   - Premotor cortex
+     - Dorsal premotor regions
+   - Brodmann's Area 6
+   - Brodmann's Area 44
+   - Brodmann's Area 45
+   - Primary auditory cortex
+   - Auditory cortex
+
+These regions are involved in various cognitive functions, including language processing, auditory perception, motor control, and working memory.

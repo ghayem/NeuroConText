@@ -1,0 +1,116 @@
+### Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Superior Temporal Cortex**
+    - Superior temporal gyrus (STG)
+    - Primary auditory cortex
+
+2. **Middle Temporal Cortex**
+    - Middle temporal gyrus
+    - Middle temporal sulcus
+
+3. **Inferior Temporal Cortex**
+    - Inferior temporal gyrus
+    - Posterior inferior temporal cortex (PITC)
+
+4. **Inferior Frontal Cortex**
+    - Inferior frontal gyrus
+    - Ventral portion of the right inferior frontal gyrus
+
+5. **Frontal Cortex**
+    - Superior frontal gyrus
+    - Medial part of the superior frontal gyrus
+    - Middle frontal gyrus
+    - Anterior insula
+    - Premotor area
+    - Primary motor cortex
+    - Ventral inferior frontal gyrus (BA 47)
+
+6. **Fusiform Gyrus**
+    - Anterior part of the fusiform gyrus
+
+7. **Parahippocampal Gyrus**
+
+8. **Posterior Cingulate Gyrus**
+    - Cingulate gyrus (BA 32)
+
+9. **Angular Gyrus**
+    - Left angular gyrus
+
+10. **Temporo-Occipital Cortex**
+    - Bilateral temporo-occipital cortex (BA 39)
+    - Left temporo-occipital cortex (BA 19)
+    - Right temporo-occipital cortex
+
+11. **Parietal Cortex**
+    - Somatosensory areas
+    - Precuneus
+
+12. **Occipital Cortex**
+    - Inferior occipital cortex
+
+13. **Temporal Lobe**
+    - Anterior part of the temporal lobe
+    - Extrasylvian temporal lobe
+
+14. **Temporal Sulcus**
+    - Left temporal sulcus
+
+15. **Cerebellum**
+
+16. **Heschl's Gyrus**
+
+### Cognitive Functions and Associated Brain Regions:
+
+- **Language and Speech Perception:**
+    - Superior temporal gyrus (STG)
+    - Primary auditory cortex
+    - Inferior frontal gyrus
+    - Fusiform gyrus
+    - Anterior insula
+    - Premotor area
+    - Primary motor cortex
+
+- **Memory:**
+    - Middle temporal gyrus
+    - Middle temporal sulcus
+    - Inferior temporal gyrus
+    - Posterior inferior temporal cortex (PITC)
+    - Superior frontal gyrus
+    - Medial part of the superior frontal gyrus
+    - Middle frontal gyrus
+    - Parahippocampal gyrus
+    - Posterior cingulate gyrus
+    - Angular gyrus
+    - Temporo-occipital cortex
+    - Parietal cortex
+    - Precuneus
+    - Occipital cortex
+    - Temporal lobe
+    - Temporal sulcus
+    - Cerebellum
+
+- **Executive Functions:**
+    - Inferior frontal gyrus
+    - Ventral inferior frontal gyrus (BA 47)
+    - Anterior insula
+    - Premotor area
+    - Primary motor cortex
+
+- **Semantic Memory:**
+    - Fusiform gyrus
+    - Inferior occipital cortex
+    - Superior frontal gyrus
+    - Cingulate gyrus (BA 32)
+    - Temporo-occipital cortex
+    - Right middle temporal sulcus
+    - Precuneus
+    - Angular gyrus
+
+- **Melodic Processing:**
+    - Bilateral temporo-occipital cortex (BA 39)
+    - Left temporo-occipital cortex (BA 19)
+    - Right temporo-occipital cortex
+    - Right middle temporal sulcus
+    - Precuneus
+    - Right fronto-parietal regions
+    - Premotor and somatosensory areas

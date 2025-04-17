@@ -1,0 +1,64 @@
+1. **Pedunculopontine Nucleus (PPN)**
+
+2. **Vestibular Nuclei**
+
+3. **Deep Cerebellar Nuclei**
+
+4. **Premotor Cortex**
+
+5. **Supplementary Motor Cortex**
+
+6. **Primary Motor Cortex**
+
+7. **Thalamus**
+
+8. **Basal Ganglia**
+    - Subthalamic Nucleus
+    - Substantia Nigra
+    - Globus Pallidus Interna
+    - Dorsal Striatum
+    - Caudate Nucleus
+
+9. **Limbic System**
+    - Amygdala
+
+10. **Corpus Callosum**
+    - Body
+    - Genu
+
+11. **Superior Corona Radiata**
+
+12. **Pre-supplementary Motor Area**
+
+13. **Primary Somatosensory Cortex (S1)**
+
+14. **Ventral Premotor Cortex**
+
+15. **Dorsal Pre-motor Cortex**
+
+16. **Somatosensory Cortex**
+
+17. **Ventral Tegmental Area**
+
+18. **Mesencephalic Locomotor Region (MLR)**
+    - Cuneiform Nucleus
+
+19. **Inferior Cerebellar Peduncle**
+
+20. **Corticopontine Tracts**
+
+21. **Spinal Cord**
+
+22. **Central Nucleus of the Amygdala**
+
+23. **Parietal Cortex**
+
+24. **Right Hemisphere’s Locomotor Network**
+
+25. **Subcortical Locomotor Network**
+
+26. **Laterodorsal Tegmental Nucleus**
+
+27. **Gray Matter of the Amygdala**
+
+- These regions are involved in these functions: motor planning, gait initiation, balance, cognitive control, emotional processing, arousal, and sensorimotor integration.

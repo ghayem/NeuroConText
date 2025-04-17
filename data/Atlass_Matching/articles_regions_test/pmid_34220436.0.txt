@@ -1,0 +1,48 @@
+## Brain Regions and Sub-regions:
+
+1. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Superior frontal gyrus (SFG)
+
+3. **Ventrolateral Prefrontal Cortex (VLPFC)**
+    - Inferior frontal gyrus (IFG)
+    - Left IFG
+    - Right IFG
+
+4. **Parietal Lobes**
+    - Superior parietal lobe (SPL)
+    - Inferior parietal lobe (IPL)
+
+5. **Temporal Gyrus**
+    - Superior temporal gyrus (STG)
+    - Middle temporal gyrus (MTG)
+    - Inferior temporal gyrus (ITG)
+
+6. **Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+    - Subgenual anterior cingulate cortex (ACC)
+    - Middle cingulate cortex (MCC)
+
+7. **Motor Cortex**
+    - Supplementary motor area (SMA)
+    - Postcentral/precentral gyrus
+
+8. **Rolandic Operculum**
+
+9. **Cerebellum**
+
+10. **Fusiform Gyrus**
+
+11. **Occipital Gyrus**
+
+12. **Insula**
+    - Right insula
+
+13. **Precuneus**
+
+14. **Supramarginal Gyrus**
+
+15. **Amygdala**
+
+These regions are involved in various cognitive functions including emotion regulation, cognitive control, semantic processing, attention control, and performance monitoring.

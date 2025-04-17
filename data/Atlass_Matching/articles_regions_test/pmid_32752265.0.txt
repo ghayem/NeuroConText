@@ -1,0 +1,64 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Precentral Gyrus**
+   - Motor Cortex
+
+2. **Postcentral Gyrus**
+   - Sensory Cortex
+
+3. **Frontal Lobe**
+   - Prefrontal Cortex (PFC)
+     - Medial Prefrontal Cortex (mPFC)
+     - Dorsolateral Prefrontal Cortex (dlPFC)
+     - Rostral Prefrontal Cortex (rPFC)
+     - Orbital Frontal Cortex
+       - Orbital Middle Frontal Gyrus
+       - Orbital Superior Frontal Gyrus
+       - Orbital Inferior Frontal Gyrus
+     - Superior Frontal Gyrus (SFG)
+     - Middle Frontal Gyrus (MFG)
+     - Inferior Frontal Gyrus (IFG)
+       - Opercular Inferior Frontal Gyrus
+       - Triangular Inferior Frontal Gyrus
+   - Supplementary Motor Area (SMA)
+   - Premotor Cortex
+
+4. **Parietal Lobe**
+   - Superior Parietal Lobule (SPL)
+   - Inferior Parietal Lobule
+     - Supramarginal Gyrus (SMG)
+     - Angular Gyrus (AG)
+   - Precuneus (PCu)
+   - Posterior Parietal Cortex
+
+5. **Occipital Lobe**
+   - Superior Occipital Gyrus (SOG)
+   - Middle Occipital Gyrus (MOG)
+   - Inferior Occipital Gyrus (IOG)
+   - Calcarine Sulcus
+   - Cuneus
+
+6. **Temporal Lobe**
+   - Superior Temporal Gyrus (STG)
+     - Superior Temporal Pole (STP)
+   - Middle Temporal Gyrus (MTG)
+     - Middle Temporal Pole (MTP)
+   - Inferior Temporal Gyrus (ITG)
+   - Temporal Pole (TMP)
+
+7. **Limbic System**
+   - Hippocampus
+   - Parahippocampal Gyrus
+
+8. **Other Cortical Regions**
+   - Rolandic Operculum
+   - Paracentral Lobule
+
+9. **Subcortical Regions**
+   - Hippocampus
+
+10. **White Matter Pathways**
+    - Corpus Callosum
+    - Internal Capsule
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, motor control, sensory processing, and spatial awareness.

@@ -1,0 +1,31 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontoparietal Network**
+   - Medial superior parietal lobule (SPL)
+   - Intraparietal sulcus (IPS)
+   - Precentral sulcus/gyrus
+
+2. **Visual Cortex**
+   - Visual area V4
+   - Visual area V1
+
+3. **Attention Shift Network**
+   - Inferior parietal lobule (IPL)
+   - Temporal gyri
+   - Superior parietal lobule (SPL)
+   - Intraparietal sulcus (IPS)
+
+4. **Other Regions**
+   - Ventral areas
+   - Superior parietal regions
+   - Lateral intraparietal area (LIP) (in monkeys)
+   - Superior colliculus (SC) (in monkeys)
+   - Frontal eye field (FEF) (in monkeys)
+   - Striate and extrastriate cortex (in monkeys)
+
+These regions are involved in various cognitive functions, including:
+- Attention allocation and shifts
+- Saccade execution and planning
+- Visual processing and perception
+- Spatial processing and updating
+- Reference frame transformations (retinotopic and spatiotopic)

@@ -1,0 +1,42 @@
+## Brain Regions and Sub-regions:
+
+1. **Anterior Insula (AI)**
+
+2. **Anterior Cingulate Cortex (ACC)**
+
+3. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Ventrolateral prefrontal cortex (VLPFC)
+
+4. **Ventral Striatum**
+
+5. **Ventromedial Prefrontal Cortex (VMPFC)**
+
+6. **Retrosplenial Cortex**
+
+7. **Right Insula**
+
+8. **Left Ventral Striatum**
+
+9. **Prefrontal Cortex**
+
+10. **Right Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Left Dorsolateral Prefrontal Cortex (DLPFC)
+
+11. **Right Ventral Striatum**
+
+12. **Left Ventromedial Prefrontal Cortex (VMPFC)**
+
+13. **Right Ventromedial Prefrontal Cortex (VMPFC)**
+
+14. **Superior Temporal Cortex**
+    - Posterior superior temporal gyrus and sulcus (pSTG/S)
+    - Middle superior temporal cortex
+    - Anterior portion of the pSTG/S
+
+15. **Left Posterior Superior Temporal Cortex**
+    - Superior temporal plane (STP)
+    - Planum temporale (PT)
+    - Posterior superior temporal gyrus and sulcus (pSTG/S)
+    - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in cognitive functions such as emotional processing, decision-making, reward processing, and social cognition.

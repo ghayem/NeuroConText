@@ -1,0 +1,11 @@
+## Brain Regions and Sub-regions
+
+1. **Ventral Striatum**
+    - Nucleus accumbens (Nacc)
+
+2. **Prefrontal Cortex**
+    - Dorsomedial prefrontal cortex
+    - Ventromedial prefrontal cortex
+    - Medial prefrontal cortex
+
+These regions are involved in cognitive functions such as reward processing, social behavior, and decision-making.

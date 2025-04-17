@@ -1,0 +1,50 @@
+## Brain regions and sub-regions mentioned in the article:
+
+1. **Brainstem**
+   - Substantia nigra
+   - Tegmentum
+   - Superior colliculus
+
+2. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+   - Medial frontal lobe
+   - Lateral frontal lobe
+
+3. **Midbrain**
+   - Midbrain tegmentum
+   - Basal midbrain
+
+4. **Anterior Cingulate Gyrus**
+
+5. **Middle Temporal Gyrus**
+   - Right middle temporal gyrus
+
+6. **Thalamus**
+   - Bilateral thalami
+
+7. **Rectal Gyrus**
+   - Bilateral rectal gyri
+
+8. **Hippocampus**
+
+9. **Parahippocampal Gyrus**
+
+10. **Striatal Nucleus**
+
+11. **Cortex**
+    - Frontal cortex
+    - Temporal cortex
+    - Parietal cortex
+    - Occipital cortex
+
+12. **Periventricular Area**
+
+13. **Deep Brain Structures**
+
+14. **Frontal Behavioral Inventory**
+
+15. **Temporo-parieto-occipital Junction (TPO)**
+
+These regions are involved in various cognitive functions such as memory, executive functions, and motor control.

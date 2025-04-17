@@ -1,0 +1,29 @@
+1. **Fusiform gyri**
+2. **Amygdalae**
+3. **Temporal cortices**
+   - Superior temporal sulci (STS)
+4. **V5**
+5. **Inferior frontal gyri**
+6. **Orbital frontal gyri**
+7. **Lingual gyri**
+8. **Inferior occipital gyri**
+9. **Middle occipital gyri**
+10. **Rolandic operculum**
+11. **Insula**
+12. **Thalamus**
+13. **Middle temporal gyri**
+14. **Inferior temporal gyri**
+15. **Postcentral gyri**
+16. **Supramarginal gyri**
+17. **Cuneus**
+18. **Calcarine sulcus**
+19. **Superior temporal gyri**
+20. **Superior occipital gyri**
+21. **Superior frontal gyri**
+   - Superior frontal gyrus, dorsal (SFGd)
+   - Medial frontal gyrus (SFGm)
+   - Middle frontal gyrus (MFG)
+22. **Fronto-striatal circuits**
+23. **White matter**
+24. **Cerebrospinal fluid (CSF)**
+25. **Whole brain**

@@ -1,0 +1,28 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Left middle cerebral artery**
+2. **Cerebral language-related areas**
+3. **Left hemisphere**
+   - Perilesional regions
+   - Spare region
+   - Language-related regions
+   - Left-hemispheric language areas
+   - Left superior cerebellum (CRBLCrus1.L and CRBL6.L)
+   - Left inferior temporal gyrus (ITG.L)
+   - Left fusiform gyrus (FFG.L)
+   - Left postcentral gyrus (PoCG.L)
+4. **Right hemisphere**
+   - Right language-homologous brain regions
+5. **Bilateral domain-general networks**
+6. **Cerebellar network (CBN)**
+7. **Left fronto-temporo-parietal network (FTPN)**
+   - Left middle temporal gyrus
+   - Left superior temporal gyrus
+   - Left inferior temporal gyrus (ITG.L)
+   - Left fusiform gyrus (FFG.L)
+8. **White matter**
+9. **Cerebrospinal fluid**
+10. **Cerebellar**
+11. **Brainstem**
+
+These regions are involved in various cognitive functions, including language, motor functions, and cognitive and affective processes.

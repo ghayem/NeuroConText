@@ -1,0 +1,41 @@
+1. **Caudate**
+
+2. **Ventral Tegmental Area**
+
+3. **Hippocampus (HIPP)**
+
+4. **Amygdala (AMY)**
+
+5. **Posterior Cingulate Cortex (PCC)**
+
+6. **Precuneus**
+
+7. **Insula**
+
+8. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+9. **Anterior Cingulate Cortex (ACC)**
+
+10. **Putamen (PUT)**
+
+11. **Supplementary Motor Area (SMA)**
+
+12. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+13. **Prefrontal Cortex (PFC)**
+
+14. **Striatum**
+
+15. **Limbic Regions**
+
+16. **Ventral Striatum**
+
+17. **Posterior Cingulate Cortex (PCC)**
+
+18. **Supplementary Motor Area (SMA)**
+
+19. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+20. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+These regions are involved in these cognitive functions: reward processing, emotion/memory, self-referential processing, interoception, inhibitory control, motor behavior, executive control, and self-referential thinking.

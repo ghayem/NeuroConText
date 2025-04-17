@@ -1,0 +1,35 @@
+### Brain Regions and Sub-Regions:
+
+1. **Occipital Face Area (OFA)**
+
+2. **Fusiform Face Area (FFA)**
+   - Fusiform Gyrus (FG)
+
+3. **Superior Temporal Sulcus (STS)**
+
+4. **Lateral Occipital Area (LO)**
+
+5. **Parahippocampal Place Area (PPA)**
+
+6. **Amygdala**
+
+7. **Frontal Lobe**
+
+8. **Temporal Lobe**
+
+9. **Extrastriate Cortex**
+
+10. **Ventral Temporal Lobe**
+
+11. **Ventral Visual Pathway**
+
+12. **Ventral Occipital-Temporal Cortex**
+
+### Cognitive Functions:
+These regions are involved in various cognitive functions including:
+- Face processing
+- Object recognition
+- Visual perception
+- Emotional processing
+- Memory
+- Executive functions

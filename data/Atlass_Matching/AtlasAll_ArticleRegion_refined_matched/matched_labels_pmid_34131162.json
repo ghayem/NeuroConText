@@ -1,0 +1,30 @@
+{
+  "AAL": [
+    "Caudate_L",
+    "Caudate_R"
+  ],
+  "Harvard_Oxford": [],
+  "DiFuMo": [
+    "Caudate",
+    "Caudate LH",
+    "Caudate anterior RH",
+    "Caudate antero-superior",
+    "Caudate posterior ",
+    "Caudate posterior LH",
+    "Caudate posterior RH",
+    "Caudate superior anterior",
+    "Caudate superior posterior",
+    "Parietal operculum anterior RH",
+    "Parietal operculum medial RH",
+    "Parietal operculum posterior RH",
+    "Pons inferior",
+    "Pons middle",
+    "Pons superior"
+  ],
+  "Juelich": [
+    "GM Secondary somatosensory cortex / Parietal operculum OP1",
+    "GM Secondary somatosensory cortex / Parietal operculum OP2",
+    "GM Secondary somatosensory cortex / Parietal operculum OP3",
+    "GM Secondary somatosensory cortex / Parietal operculum OP4"
+  ]
+}

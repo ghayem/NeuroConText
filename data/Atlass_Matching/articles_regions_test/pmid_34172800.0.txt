@@ -1,0 +1,21 @@
+1. **Visual Cortex**
+
+2. **Ventrolateral Prefrontal Cortex (VLPFC)**
+
+3. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+4. **Anterior Temporal Lobe (ATL)**
+    - This region is assumed to be a "hub" for integrating semantic information from multiple modalities.
+
+5. **Left Ventrolateral Prefrontal Cortex (VLPFC)**
+    - This region is involved in contextual categorization and executive control of semantic concepts.
+
+6. **Temporal Cortex**
+    - This region is involved in semantic processing and neural adaptation.
+
+7. **Left Inferior Parietal Lobule (IPL)**
+
+8. **Posterior Cingulate Cortex (PCC)**
+    - These regions are part of the default mode network and are involved in attentional processing.
+
+These regions are involved in cognitive functions such as semantic processing, categorization, and executive control.

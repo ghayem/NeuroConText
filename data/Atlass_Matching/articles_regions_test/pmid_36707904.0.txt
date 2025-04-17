@@ -1,0 +1,43 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Frontal cortex
+   - Superior frontal gyrus
+   - Inferior frontal gyri
+   - Middle frontal gyrus
+
+2. **Temporal Lobe**
+   - Temporal cortex
+   - Anterior temporal lobes
+   - Medial temporal lobes
+   - Lateral temporal lobes
+   - Temporal superior gyrus
+   - Temporal fusiform gyrus
+
+3. **Parietal Lobe**
+   - Insula
+
+4. **Occipital Lobe**
+   - (No specific regions mentioned)
+
+5. **Basal Ganglia**
+   - Caudate nucleus
+   - Putamen
+
+6. **Cerebellum**
+   - Cerebellum posterior lobes
+
+7. **Brainstem**
+   - (Mentioned but no specific regions)
+
+8. **White Matter**
+   - White matter (WM)
+
+9. **Grey Matter**
+   - Grey matter (GM)
+
+10. **Other Regions**
+    - Pons (mentioned as a reference region for PET scans)
+    - Cerebrospinal fluid (CSF) spaces (mentioned in the context of MRI segmentation)
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, and motor control. The article specifically discusses their involvement in semantic variant primary progressive aphasia (svPPA) and related neurodegenerative processes.

@@ -1,0 +1,107 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Brainstem**
+
+2. **Cortex**
+
+3. **Cerebellum**
+
+4. **Spinal Cord**
+
+5. **Olfactory Brain Regions**
+   - Inferior frontal lobe
+   - Temporal lobe
+
+6. **Olfactory Bulbs**
+
+7. **Olfactory Tracts**
+
+8. **Orbitofrontal Cortex**
+
+9. **Insular Cortex**
+
+10. **Rostrum–Medial Regions of the Temporal Lobe**
+
+11. **Bilateral Middle Frontalis**
+
+12. **Bilateral Insular Lobe**
+
+13. **Bilateral Superior Marginal Gyrus**
+
+14. **Bilateral Orbital Frontalis**
+
+15. **Right Thalamus**
+
+16. **Right Anterior Central Gyrus**
+
+17. **Bilateral Cingulate Gyrus**
+
+18. **Bilateral Hippocampus**
+
+19. **Bilateral Almond Nucleus**
+
+20. **Bilateral Superior Frontalis Gyrus**
+
+21. **Right Cerebellum**
+
+22. **Left Superior Temporal Gyrus**
+
+23. **Right Inferior Frontalis Gyrus**
+
+24. **Right Amygdala Nucleus**
+
+25. **Right Inferior Forehead Gyrus**
+
+26. **Right Middle Forehead Gyrus**
+
+27. **Left Superior Marginal Gyrus**
+
+28. **Piriform Cortex**
+
+29. **Olfactory Tubercle**
+
+30. **Anterior Olfactory Nucleus**
+
+31. **Periamygdaloid Cortex**
+
+32. **Orbitofrontal Cortex (OFC)**
+
+33. **Parahippocampal Gyrus**
+
+34. **Striatum**
+
+35. **Hypothalamus**
+
+36. **Mediodorsal Thalamus**
+
+37. **Right Orbitofrontal Gyrus**
+
+38. **Left Piriform Cortex**
+
+39. **Left Suprafrontal Gyrus**
+
+40. **Left Insular Lobe**
+
+41. **Left Almond Nucleus**
+
+42. **Lateral Periventricular Lesions**
+
+43. **Proximal Cortical Lesions**
+
+44. **Frontotemporal Lobe Lesions**
+
+45. **Hippocampal Lesions**
+
+46. **Subfrontal Lobe**
+
+47. **Olfactory Sulcus**
+
+48. **Olfactory Event-Related Potential (OERP)**
+
+49. **Fractional Anisotropy (FA)**
+
+50. **Mean Diffusivity (MD)**
+
+51. **Mediodorsal Thalamus**
+
+52. **Trigeminal Nerve**

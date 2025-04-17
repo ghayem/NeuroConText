@@ -1,0 +1,19 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default-Mode Network (DMN)**
+   - **Medial Prefrontal Cortex (mPFC)**
+   - **Posterior Cingulate Cortex (PCC)**
+   - **Lateral Parietal Cortex (LatPar)**
+   - **Hippocampal Formation (HF)**
+
+2. **Task-Positive Network (TPN)**
+   - **Frontal Eye Field (FEF)**
+   - **Intraparietal Cortex (IPS)**
+   - **Middle Temporal Area (MT+)**
+
+3. **Right Fronto-Insular Cortex (RFIC)**
+
+## Cognitive Functions:
+- The DMN is involved in internally directed, self-reflective processes, such as introspection and self-referential thought.
+- The TPN is involved in external attention-demanding tasks, elevated alertness, response preparation, and selection.
+- The RFIC is critically involved in switching between the DMN and TPN.

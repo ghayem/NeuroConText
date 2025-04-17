@@ -1,0 +1,45 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Auditory Cortex**
+   - Primary auditory cortex
+   - Secondary auditory cortex
+   - Heschl gyrus
+   - Planum temporale
+
+2. **Temporal Cortex**
+   - Left temporal pole
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Medial temporal gyrus
+
+3. **Frontal Cortex**
+   - Medial prefrontal cortex
+   - Inferior frontal gyrus
+
+4. **Parietal Cortex**
+   - Inferior parietal gyrus
+   - Precuneus
+
+5. **Occipital Cortex**
+   - Fusiform
+   - Cuneus
+
+6. **Visual Cortex**
+   - Primary visual cortex
+   - Secondary visual cortex
+
+7. **Default Mode Network (DMN)**
+   - Anterior DMN (aDMN)
+     - Medial prefrontal cortex
+   - Posterior DMN (pDMN)
+     - Precuneus
+
+8. **Frontoparietal Network**
+   - Inferior frontal gyrus
+   - Inferior parietal gyrus
+
+9. **Dorsal Attention Network**
+   - Frontoparietal network
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, sensory processing, and attention.

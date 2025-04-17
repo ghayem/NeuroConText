@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Right dorsolateral prefrontal cortex
+   - Left dorsolateral prefrontal cortex
+   - Anterior-ventral region of DLPFC
+   - Posterior-dorsal region of DLPFC
+
+2. **Frontal Cortex**
+   - Gyrus frontalis medialis
+
+3. **Parietal Cortex**
+   - Gyrus parietalis inferior
+   - Gyrus supramarginalis
+
+4. **Temporal Cortex**
+   - Gyrus temporalis medialis
+
+5. **Cingulate Cortex**
+   - Gyrus cinguli
+   - Anterior cingulate cortex
+
+6. **Anterior Prefrontal Cortex**
+
+7. **Hippocampus**
+
+8. **Cerebellum**
+
+9. **Basal Ganglia**
+
+10. **Bilateral Intraparietal Sulci**
+
+These regions are involved in various cognitive functions, including working memory, attention, action inhibition, action execution, and language processing.

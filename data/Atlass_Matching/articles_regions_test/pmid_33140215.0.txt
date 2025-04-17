@@ -1,0 +1,25 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Limbic System**
+   - Ventral striatum
+   - Dopaminergic midbrain nuclei
+
+2. **Striatum**
+   - Nucleus accumbens
+   - Putamen
+
+3. **Midbrain**
+
+4. **Thalamus**
+
+5. **Inferior Frontal Gyrus**
+
+6. **Fusiform Gyrus**
+
+7. **Cerebellum**
+
+8. **Cingulate Cortex**
+
+9. **Insula**
+
+These regions are involved in various cognitive functions, including reward processing, associative learning, and motor control.

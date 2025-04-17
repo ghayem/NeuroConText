@@ -1,0 +1,23 @@
+## Brain Regions and Sub-regions
+
+1. **Anterior Insula**
+
+2. **Prefrontal Cortex**
+
+3. **Anterior Cingulate Cortex**
+    - Subgenual ACC
+    - Pregenual ACC
+    - Supracallosal ACC
+
+4. **Temporoparietal Junction**
+
+5. **Supplementary Motor Area**
+    - Left supplementary motor area
+    - Right supplementary motor area
+
+6. **Occipital Gyrus**
+    - Middle occipital gyrus (MOG)
+    - Superior occipital gyrus (SOG)
+    - Cuneus
+
+These regions are involved in cognitive functions such as empathy, emotional regulation, and visuospatial information processing.

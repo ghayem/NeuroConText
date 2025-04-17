@@ -1,0 +1,69 @@
+1. **Thalamus**
+
+2. **Primary sensory/motor areas**
+
+3. **Insula**
+   - Anterior insula/inferior frontal gyrus
+
+4. **Anterior cingulate cortex (ACC)**
+   - Rostral anterior cingulate cortex (rACC)
+   - Brodmann Area (BA) 32
+
+5. **Hippocampus**
+
+6. **Supplementary motor area (SMA)**
+
+7. **Primary somatosensory cortex (SI)**
+
+8. **Secondary somatosensory cortex (SII)**
+
+9. **Ventro-medial prefrontal cortex (VMPFC)**
+
+10. **Amygdala**
+
+11. **Putamen**
+
+12. **Ventral pallidum**
+
+13. **Premotor area**
+   - Right premotor area
+   - Left premotor area
+
+14. **Frontal gyri**
+   - Right inferior frontal gyrus
+   - Right middle frontal gyrus
+   - Right superior frontal gyrus
+   - Left middle frontal gyrus
+   - Left inferior frontal gyrus
+
+15. **Parietal lobule**
+   - Right superior parietal lobule
+   - Left inferior parietal lobule
+
+16. **Temporal cortex**
+   - Right temporal cortex
+   - Left temporal cortex
+
+17. **Dorsal striatum**
+   - Caudate
+
+18. **Ventral striatum**
+   - Nucleus accumbens
+
+19. **Brainstem**
+
+20. **Cerebellum**
+
+21. **Frontal operculum**
+   - Left frontal operculum
+
+22. **Dorso-medial prefrontal cortex**
+
+23. **Ventral striatum**
+   - Caudate and putamen
+
+24. **Posterior cingulate cortex**
+
+25. **Visual cortex**
+
+These regions are involved in the processing and perception of pain, as well as emotional and cognitive aspects related to chronic pain.

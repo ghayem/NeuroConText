@@ -1,0 +1,28 @@
+## Brain Regions and Sub-Regions:
+
+1. **Insula**
+    - Left insula (Insula_L)
+
+2. **Parietal Lobe**
+    - Superior parietal lobe (Parietal_sup_L)
+    - Inferior parietal lobe (Parietal_Inf_L)
+
+3. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (DLPFC)
+
+4. **Posterior Parietal Cortex (PPC)**
+    - Posterior parietal cortex (PPC)
+
+5. **Default Mode Network (DMN)**
+    - Default mode network (DMN)
+
+6. **Hippocampus**
+    - Hippocampus
+
+7. **Ventral Parietal Lobe**
+    - Ventral parietal lobe
+
+8. **Lateral and Medial Parietal Frontal Cortex**
+    - Lateral and medial parietal frontal cortex
+
+- These regions are involved in these cognitive functions: memory, visceral sensations, affection, addiction, pain regulation, language, cardiac activity, perception, calculation, attention, episodic recall, spatial cognition, cognitive control processes, and executive functions.

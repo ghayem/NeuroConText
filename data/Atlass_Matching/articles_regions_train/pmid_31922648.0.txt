@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Frontoparietal Network**
+   - Frontoparietal regions
+   - Premotor cortex
+   - Dorsal premotor areas (dPM)
+   - Superior frontal gyrus
+   - Inferior frontal gyrus
+   - Middle frontal gyrus
+   - Precentral gyrus
+   - Posterior parietal regions
+   - Parietal opercula
+   - Supplementary motor area
+
+2. **Motor and Somatosensory Regions**
+   - Primary motor cortex
+   - Medial premotor cortex
+   - Lateral premotor cortex
+   - Somatosensory cortex
+   - Vestibular cortex
+
+3. **Visual and Visuo-Motor Regions**
+   - Occipital lobe
+   - Parietal lobe
+   - Visual cortex
+   - Visuo-motor areas
+
+4. **Subcortical Regions**
+   - Basal ganglia
+   - Mesencephalic regions
+   - Thalamus
+   - Cerebellum
+
+5. **Other Cortical Regions**
+   - Insula
+   - Middle cingulum
+   - Paracentral lobule
+   - Supramarginal gyrus
+
+6. **Frontal Lobe Regions**
+   - Prefrontal cortex
+   - Median wall regions
+
+These regions are involved in various cognitive and motor functions, including motor control, navigation, obstacle negotiation, gait motor control, and the adaptation of gait patterns to environmental cues.

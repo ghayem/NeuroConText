@@ -1,0 +1,35 @@
+1. **Dopaminergic Mesolimbic System**
+
+2. **Orbitofrontal Cortex**
+
+3. **Anterior Cingulate Cortex**
+
+4. **Subcortical Regions**
+
+5. **Ventral Striatum (VS)**
+
+6. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+7. **Anterior Insula**
+
+8. **Right Dorsolateral Prefrontal Cortex (DLPFC)**
+
+9. **Dorsomedial Prefrontal Cortex (dmPFC)**
+
+10. **Left Inferior Parietal (IP) Region**
+
+11. **Medial Orbitofrontal Cortex/Ventromedial Prefrontal Cortex (mOFC/vmPFC)**
+
+12. **Rostral Anterior Cingulate Cortex/Ventromedial Prefrontal Cortex (rACC/vmPFC)**
+
+13. **Nucleus Accumbens**
+
+14. **Caudate Head**
+
+15. **Medial Orbitofrontal Cortex (mOFC)**
+
+16. **Anterior Dorsal Part of vmPFC**
+
+17. **Posterior Ventral Part of vmPFC**
+
+These regions are involved in cognitive functions such as reward processing, decision-making, error processing, attention, and feedback learning.

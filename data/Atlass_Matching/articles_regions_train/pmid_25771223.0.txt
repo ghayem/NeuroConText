@@ -1,0 +1,76 @@
+Based on the provided article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Anterior Temporal Lobes (ATLs)**
+   - Bilateral ATLs
+   - Right ATL
+   - Left ATL
+   - Ventrolateral surface of ATLs
+
+2. **Temporal Pole**
+   - Temporal pole proper
+   - BA 38
+
+3. **Superior Temporal Gyrus (STG)**
+   - Bilateral STG
+   - Left STG
+   - Right STG
+   - BA 22
+   - Anterior STG
+
+4. **Middle Temporal Gyrus (MTG)**
+   - Bilateral MTG
+   - Left MTG
+   - Right MTG
+   - BA 21
+
+5. **Inferior Temporal Gyrus (ITG)**
+   - Anterior ITG
+   - Left ITG
+   - Right ITG
+   - BA 20
+
+6. **Fusiform Gyrus**
+   - Anterior fusiform gyrus
+   - BA 20
+   - Anterior fusiform
+
+7. **Parahippocampal Gyrus**
+   - BA 34
+
+8. **Hippocampus**
+   - Bilateral hippocampus
+
+9. **Inferior Frontal Gyrus**
+   - Pars orbitalis
+
+10. **Posterior Ventral Temporal Lobe**
+
+11. **Temporoparietal Junction**
+
+12. **Orbitofrontal Cortex**
+
+13. **Posterior Middle Temporal Gyrus (MTG)**
+
+14. **Inferior Prefrontal Cortex**
+
+15. **Ventral Occipito-Temporal (vOT)**
+
+16. **Uncinate Fasiculus**
+
+17. **Inferior Longitudinal Fasiculus**
+
+18. **Middle Longitudinal Fasiculus**
+
+19. **Extreme Capsule Complex**
+
+20. **Arcuate Fasiculus**
+
+21. **Ventral Language Pathway**
+
+22. **Dorsal Language Pathway**
+
+23. **Limen Insula**
+
+24. **Medial Temporal Structures**
+
+These regions are involved in various cognitive functions, including semantic representation, word retrieval, visual recognition, social cognition, and emotional processing.

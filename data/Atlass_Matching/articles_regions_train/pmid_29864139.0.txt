@@ -1,0 +1,39 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Amygdala**
+   - Right amygdala
+   - Left amygdala
+
+2. **Temporal Lobe**
+   - Anteromedial temporal lobe
+   - Inferior temporal lobe/gyrus fusiformis
+   - Medial temporal gyri (posterior portion)
+
+3. **Visual Cortex**
+
+4. **Precentral Gyrus**
+   - Right precentral gyrus
+
+5. **Inferior Frontal Gyrus**
+   - Right inferior frontal gyrus
+
+6. **Orbitofrontal Cortex**
+   - Medial orbitofrontal cortex
+
+7. **Pallidum/Caudate**
+
+8. **Fusiform Gyrus**
+
+9. **Parahippocampal Cortex**
+
+10. **Inferior Frontal Gyrus/Frontal Operculum**
+
+These regions are involved in various cognitive and emotional processes, including:
+- Emotional salience detection and processing (amygdala)
+- Face recognition (fusiform gyrus)
+- Visual processing (visual cortex)
+- Motor planning and execution (precentral gyrus)
+- Language processing and production (inferior frontal gyrus)
+- Decision-making and reward processing (orbitofrontal cortex)
+- Memory and spatial navigation (parahippocampal cortex)
+- Motor control and cognitive functions (pallidum/caudate)

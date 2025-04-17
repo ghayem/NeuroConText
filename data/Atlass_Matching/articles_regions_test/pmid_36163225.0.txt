@@ -1,0 +1,52 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Motor Cortex**
+    - Premotor cortex
+    - Primary motor cortex
+    - Dorsal motor cortex
+
+2. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Brodmann area 9 (BA 9)
+    - Brodmann area 46 (BA 46)
+
+3. **Frontal Cortex**
+    - Inferior frontal cortex (Broca’s area)
+    - Prefrontal cortex
+    - Frontal executive
+    - Frontal-temporal-occipital lobes
+
+4. **Temporal Cortex**
+    - Superior temporal cortex (Wernicke’s area)
+    - Temporo-parieto-occipital junction (TPO)
+    - Inferior temporal cortex
+    - Temporo-occipital cortex
+
+5. **Parietal Cortex**
+    - Inferior parietal cortex
+    - Intraparietal sulcus
+    - Angular gyrus
+    - Superior parietal cortex
+
+6. **Occipital Cortex**
+    - Inferior occipital cortex
+
+7. **Supplementary Motor Area (SMA)**
+    - Dorsal SMA
+
+8. **Central Executive**
+
+9. **Hippocampus**
+
+10. **Cerebellum**
+
+11. **Subcortical Regions**
+    - Basal ganglia
+
+12. **Connector Hubs**
+    - Multimodal areas with high degree of connectivity
+
+13. **Sensorimotor Cortex**
+    - Frontocentral sensorimotor cortex
+
+These regions are involved in various cognitive functions including language processing, motor control, working memory, and semantic processing.

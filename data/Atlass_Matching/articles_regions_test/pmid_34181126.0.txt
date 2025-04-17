@@ -1,0 +1,28 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex**
+
+2. **Primary Motor Cortex (M1)**
+
+3. **Primary Somatosensory Cortex (S1)**
+
+4. **Supplementary Motor Area (SMA)**
+
+5. **Cingulate Motor Area (CMA)**
+
+6. **Anterior Intraparietal Sulcus (aIPs)**
+
+7. **Posterior Intraparietal Sulcus (pIPs)**
+
+8. **Anterior Insula (aIns)**
+
+9. **Inferior Frontal Gyrus (iFg)**
+   - Pars Opercularis
+
+10. **Ventrolateral Prefrontal Cortex (VLPC)**
+
+11. **Cerebral Cortex**
+
+12. **Cerebellum**
+
+These regions are involved in various cognitive and motor functions, including executive functions, motor planning, response execution, and inhibitory processes.

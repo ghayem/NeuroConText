@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions
+
+1. **Cerebellum**
+
+2. **Precuneus**
+
+3. **Bilateral Precuneus**
+
+4. **Right Inferior Parietal Lobule**
+
+5. **Bilateral Middle Cingulate Gyrus**
+
+6. **Right Superior Parietal Lobule**
+
+7. **Right Supramarginal Gyrus**
+
+8. **Right Angular Gyrus**
+
+9. **Central Nervous System**
+
+10. **Vestibular Nuclei**
+
+11. **Temporoparietal Cortex**
+
+12. **Parietal Operculum**
+
+13. **Anterior Cingulum**
+
+14. **Anterior Insula**
+
+15. **Hippocampus**
+
+16. **Premotor Cortex**
+
+17. **Midcingulate Gyrus**
+
+18. **Frontoparietal Operculum**
+
+19. **Cingulate Cortex**
+
+20. **Postcentral Gyrus**
+
+21. **Retroinsular Cortex**
+
+22. **Angular Gyrus**
+
+23. **Supramarginal Gyrus**
+
+24. **Superior Parietal Lobule**
+
+25. **Inferior Parietal Lobule**
+
+These regions are involved in these cognitive functions: vestibular processing, central adaptation, plasticity, multisensory interactions, visual information processing, and self-motion perception.

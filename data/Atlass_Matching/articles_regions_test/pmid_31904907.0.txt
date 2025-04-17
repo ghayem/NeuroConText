@@ -1,0 +1,27 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontoparietal Network**
+   - **Frontal Regions**
+     - **Bilateral Middle Frontal Gyrus**
+       - Left Middle Frontal Gyrus (LMFG)
+       - Right Middle Frontal Gyrus (RMFG)
+     - **Precentral Gyrus**
+   - **Parietal Regions**
+     - **Bilateral Superior Parietal Lobule**
+       - Left Superior Parietal Lobule (LSPL)
+       - Right Superior Parietal Lobule (RSPL)
+     - **Precuneus**
+
+2. **Other Regions**
+   - **Right Cerebellum**
+   - **Left Basal Ganglia**
+   - **Default Mode Network**
+     - **Anterior Cingulate Cortex (ACC)**
+   - **Bilateral Temporo-Opercular Regions**
+
+3. **Other Sub-Regions Mentioned**
+   - **Dorsolateral Prefrontal Cortex**
+   - **Inferior Parietal Lobule**
+   - **Premotor Regions**
+
+These regions are involved in cognitive functions such as working memory, executive functions, and task modulations.

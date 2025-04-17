@@ -1,0 +1,16 @@
+## Brain Regions and Sub-Regions
+
+1. **Posterior Medial Frontal Cortex (pMFC)**
+   - Dorsal medial prefrontal cortex (dMPFC)
+   - Dorsal anterior cingulate cortex (dACC)
+   - Pre-supplementary motor area (pre-SMA)
+
+2. **Anterior Insula (AI)**
+
+3. **Inferior Frontal Gyrus (IFG)**
+
+4. **Lateral Orbitofrontal Cortex (LOFC)**
+
+5. **Angular Gyrus (AG)**
+
+- These regions are involved in cognitive dissonance, conflict monitoring, reinforcement learning, and cognitive control.

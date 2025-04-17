@@ -1,0 +1,63 @@
+## Brain Regions and Sub-Regions
+
+1. **Temporal-Parietal Junction**
+
+2. **Ventral Posterior Regions**
+    - Inferior parietal cortex
+    - Intraparietal sulcus
+
+3. **Lateral Prefrontal Regions**
+
+4. **Dorsal Posterior Parietal Cortex**
+
+5. **Ventral Posterior Parietal Cortex**
+
+6. **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Medial frontal gyrus (BA 6/32)
+    - Middle frontal gyrus (BA 9/46)
+
+7. **Inferior Frontal Gyrus**
+    - Pars orbitalis (BA 47)
+
+8. **Anterior Insular Cortex**
+    - (BA 13)
+
+9. **Parietal Lobe**
+    - Inferior parietal lobule
+        - Angular gyrus (BA 39)
+        - Supramarginal gyrus (BA 40)
+
+10. **Superior Temporal Lobe**
+    - Superior temporal gyrus (BA 41/42)
+    - Transverse temporal gyrus (BA 41/42)
+
+11. **Basal Ganglia**
+    - Caudate body
+
+12. **Thalamic Nuclei**
+    - Anterior
+
+13. **Cerebellum**
+    - Anterior and posterior lobes
+
+14. **Frontal Lobe**
+    - Medial frontal gyrus (BA 6/32)
+    - Middle frontal gyrus (BA 9/46)
+    - Inferior frontal gyrus (BA 47/pars orbitalis)
+    - Anterior insular cortex (BA 13)
+
+15. **Parietal Lobe**
+    - Inferior parietal lobule
+        - Angular gyrus (BA 39)
+        - Supramarginal gyrus (BA 40)
+
+16. **Superior Temporal Gyrus**
+    - Including and extending around the transverse temporal gyrus (BA 41/42)
+
+17. **Sub-cortical Regions**
+    - Basal ganglia (caudate body)
+    - Thalamic nuclei (anterior)
+
+18. **Anterior and Posterior Lobes of the Cerebellum**
+
+These regions are involved in cognitive functions including attention, memory encoding and retrieval, and executive control.

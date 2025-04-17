@@ -1,0 +1,30 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Default Mode Network (DMN)**
+
+2. **Fronto-limbic Network**
+
+3. **Hate Circuit**
+   - Superior frontal gyrus (SFG)
+   - Insula
+   - Putamen
+
+4. **Supplementary Motor Area (SMA)**
+
+5. **Medial Superior Frontal Gyrus (SFGmed)**
+
+6. **Medial Orbitofrontal Gyrus**
+
+7. **Cerebellum**
+
+8. **Frontoparietal Top-Down Control Network**
+
+9. **Affective Network**
+
+10. **Auditory Network**
+
+11. **Visual Network**
+
+12. **Language Processing Cortex**
+
+These regions are involved in various cognitive functions, emotional processing, and motor control. The study specifically focuses on the global-brain functional connectivity (GFC) abnormalities in these regions in patients with major depressive disorder (MDD).

@@ -1,0 +1,61 @@
+## Brain Regions and Sub-regions:
+
+1. **Frontal Cortex**
+   - Inferior frontal cortex
+   - Medial prefrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Anterior prefrontal cortex
+   - Middle frontal gyrus
+   - Frontal eye field
+
+2. **Parietal Cortex**
+   - Superior parietal lobule
+   - Inferior parietal lobule
+   - Parietal lobule
+   - Intraparietal sulcus
+   - Angular gyrus
+   - Precuneus
+
+3. **Temporal Cortex**
+   - Inferior temporal cortex
+   - Lateral occipital cortex
+
+4. **Occipital Cortex**
+   - Occipital pole (V1)
+   - Lateral occipital cortex
+
+5. **Cingulate Cortex**
+   - Posterior cingulate cortex
+   - Dorsal anterior cingulate cortex
+
+6. **Insula**
+   - Anterior insula/frontal operculum
+
+7. **Salience Network (SAL)**
+   - Anterior prefrontal cortex
+   - Dorsal anterior cingulate cortex
+   - Anterior insula/frontal operculum
+
+8. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex
+   - Medial prefrontal cortex
+   - Left and right angular gyrus
+   - Left and right precuneus
+   - Left and right superior frontal gyrus
+
+9. **Frontoparietal Network (FPN)**
+   - Middle frontal gyrus/dorsolateral prefrontal cortex
+   - Parietal lobule (inferior and superior)
+
+10. **Dorsal Attention Network (DAN)**
+    - Intraparietal sulcus
+    - Frontal eye field
+
+11. **Visual Network (VIS)**
+    - Occipital pole (V1)
+
+12. **Lateral Ventricle**
+
+13. **White Matter**
+
+These regions are involved in cognitive functions such as attention, executive control, working memory, inhibition, and cognitive flexibility.

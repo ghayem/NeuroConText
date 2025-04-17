@@ -1,0 +1,39 @@
+Based on the article, the brain regions and sub-regions mentioned are:
+
+1. **Frontolateral Regions**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Rostrolateral prefrontal cortex (rlPFC)
+
+2. **Frontomedial Regions**
+   - Medial prefrontal cortex (mPFC)
+   - Dorsal anterior cingulate cortex/presupplementary motor area (dACC/pre-SMA)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Subgenual anterior cingulate cortex (sgACC)
+
+3. **Parietal Regions**
+   - Parietal cortex
+   - Precuneus (PCUN)
+   - Posterior parietal cortex
+   - Supramarginal gyrus (SMG)
+
+4. **Temporal Regions**
+   - Ventral striatum
+
+5. **Other Regions**
+   - Posterior medial prefrontal cortex (PFC)
+   - Paracingulate cortex
+   - Insula (bilateral)
+   - Inferior frontal gyrus/insula (IFG/insula)
+   - Middle frontal gyri
+   - Superior frontal gyri (SFG)
+   - Cingulo-opercular network
+   - Frontoparietal network
+   - Anterior prefrontal cortex
+   - Middle cingulate gyrus
+   - Hippocampus
+   - Cerebellum
+   - Ventricles
+   - Precentral and postcentral gyri
+   - Occipital regions
+
+- These regions are involved in these cognitive functions: metacognition, confidence estimation, decision making, memory, perception, and cognitive control.

@@ -1,0 +1,61 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Orbitalfrontal Cortex**
+   - Medial orbitalfrontal cortex
+
+2. **Striatum**
+   - Ventral striatum
+
+3. **Insula**
+
+4. **Lingual Gyri**
+
+5. **Parietal Lobule**
+   - Inferior parietal lobule
+
+6. **Caudate**
+
+7. **Putamen**
+   - Left putamen
+
+8. **Frontal Lobe**
+   - Bilateral medial frontal
+   - Precentral gyri
+   - Right postcentral gyrus
+   - Left superior frontal gyrus (SFG)
+   - Left inferior frontal gyri
+   - Bilateral frontal
+   - Medial superior frontal gyrus (SFGmed)
+     - Left medial superior frontal gyrus (SFGmed.L)
+   - Dorsolateral superior frontal gyrus (SFGdor)
+     - Left dorsolateral superior frontal gyrus (SFGdor.L)
+
+9. **Temporal Lobe**
+   - Bilateral temporal
+   - Right superior temporal gyrus (STG.R)
+
+10. **Parietal Lobe**
+    - Bilateral parietal
+    - Right superior parietal
+
+11. **Posterior Cingulate Cortex**
+    - Left dorsal posterior cingulate cortex
+    - Left ventral posterior cingulate cortex
+
+12. **Cingulate and Paracingulate Gyri**
+    - Right median cingulate and paracingulate gyri (DCG.R)
+    - Left median cingulate and paracingulate gyri (DCG.L)
+
+13. **Amygdala**
+
+14. **Hypothalamus**
+
+15. **Paracentral Lobule**
+
+16. **Precuneus**
+
+17. **Thalamus**
+
+18. **Middle Cingulate Cortex**
+
+These regions are involved in various cognitive functions, including self-regulation, reward processing, body image perception, inhibitory functions, self-control, and emotional processing.

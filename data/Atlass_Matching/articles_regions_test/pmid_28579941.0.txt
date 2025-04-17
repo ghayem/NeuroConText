@@ -1,0 +1,62 @@
+1. **Prefrontal cortex**
+
+2. **Frontal gyrus**
+
+3. **Anterior cingulate cortex (ACC)**
+
+4. **Midbrain**
+
+5. **Posterior cingulate cortex (PCC)**
+
+6. **Visual cortex**
+
+7. **Striatum**
+
+8. **Frontal white matter**
+
+9. **Corpus callosum**
+
+10. **Sagittal striatum (SS)**
+    - Right side
+
+11. **Posterior thalamic radiation (PTR)**
+    - Right side
+    - Left side
+
+12. **Middle temporal gyrus white matter (MTG-WM)**
+    - Left side
+
+13. **Inferior frontal gyrus WM (IFG-WM)**
+    - Left side
+
+14. **Retrolenticular limb of the internal capsule (RLIC)**
+    - Right side
+
+15. **Superior longitudinal fasciculus (SLF)**
+    - Right side
+
+16. **Fronto-thalamo-temporal network**
+
+17. **Striato-thalamic network**
+
+18. **Fronto-parietal/occipital network**
+
+19. **Inferior longitudinal fasciculus**
+
+20. **Inferior fronto-occipital fasciculus**
+
+21. **Cortico-striato-thalamic circuitry**
+
+22. **Caudate nucleus**
+
+23. **Lateral prefrontal cortex pathway**
+
+24. **Thalamus**
+
+25. **Occipital lobe**
+
+26. **Parietal lobe**
+
+27. **Fronto-parietal white matter**
+
+28. **Temporo-parietal cortices**

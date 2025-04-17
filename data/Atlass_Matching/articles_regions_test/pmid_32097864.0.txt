@@ -1,0 +1,86 @@
+## Brain Regions and Sub-Regions:
+
+1. **Superior temporal gyrus**
+
+2. **Occipital lobe**
+    - Left superior occipital gyrus
+    - Middle occipital gyrus
+
+3. **Visual cortex**
+
+4. **Middle frontal gyrus**
+
+5. **Precuneus**
+    - Right precuneus
+    - Bilateral precuneus
+
+6. **Cuneus**
+
+7. **Precentral gyrus**
+    - Left precentral gyrus
+
+8. **Anterior insula**
+
+9. **Hippocampus**
+
+10. **Anterior cingulate cortex**
+
+11. **Corpus callosum**
+    - Bilateral corpus callosum
+
+12. **Premotor cortex**
+    - Left premotor cortex
+
+13. **Posterior cingulate gyrus**
+
+14. **Medial prefrontal lobe**
+
+15. **Posterior parietal cortex**
+
+16. **Supplementary motor area**
+
+17. **Postcentral gyrus**
+
+18. **Precentral gyrus**
+
+19. **Premotor area**
+
+20. **Posterior default mode network (pDMN)**
+
+21. **Anterior default mode network (aDMN)**
+
+22. **Occipital pole visual network (oVN)**
+
+23. **Medial visual network (mVN)**
+
+24. **Lateral visual network (lVN)**
+
+25. **Auditory network (AN)**
+
+26. **Sensorimotor network (SMN)**
+
+27. **Executive control network (ECN)**
+
+28. **Cerebellar network (CB)**
+
+29. **Salience network (SN)**
+
+30. **Dorsal attention network (DAN)**
+
+31. **Right frontoparietal network (rFPN)**
+
+32. **Left frontoparietal network (lFPN)**
+
+33. **Temporal cortex**
+
+34. **Parietal cortex**
+
+35. **Frontal cortex**
+
+36. **Sylvian fissure**
+
+37. **Posterior parietal cortex**
+
+38. **Prefrontal cortex**
+
+These regions are involved in various cognitive and sensory functions, including visual processing, vestibular processing, motor control, and multisensory integration.

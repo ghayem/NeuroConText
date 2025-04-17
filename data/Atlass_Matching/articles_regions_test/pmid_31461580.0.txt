@@ -1,0 +1,55 @@
+Based on the article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Anterior cingulate cortex
+   - Frontal pole
+   - Prefrontal cortex
+   - Superior frontal gyrus
+
+2. **Temporal Lobe**
+   - Temporal pole
+   - Hippocampus
+   - Amygdala
+
+3. **Parietal Lobe**
+   - Superior parietal region
+   - Precuneus
+   - Cuneus
+   - Parietal regions
+   - Postcentral gyrus
+
+4. **Occipital Lobe**
+   - Occipital cortex
+   - Lingual gyrus
+
+5. **Limbic System**
+   - Insula
+   - Cingulate cortex
+
+6. **Basal Ganglia**
+   - Caudate
+   - Putamen
+   - Nucleus accumbens
+
+7. **Thalamus**
+
+8. **Cerebellum**
+
+9. **Brainstem**
+   - Midbrain (implied through the mention of autonomic dysfunction and structures controlling autonomic function)
+
+10. **Other**
+    - Central opercular cortex
+    - Precentral gyrus
+    - Ventromedial prefrontal cortex
+    - Ventral striatum
+    - Hypothalamus (mentioned in the context of neuroendocrine inputs and interactions with the pituitary and gynoid axis)
+
+These regions are involved in various cognitive functions, including:
+- Reward processing and evaluation (insula, caudate, putamen, nucleus accumbens, thalamus, ventromedial prefrontal cortex, ventral striatum, amygdala, anterior insula)
+- Autonomic function (temporal pole, hippocampus, amygdala, insula, anterior cingulate cortex, parietal regions, precuneus, nucleus accumbens, thalamus, cerebellum)
+- Goal-directed behavior (thalamus)
+- Language, memory, and executive functions (implied through the mention of cognitive changes and structures such as the temporal pole, hippocampus, and prefrontal cortex)
+- Visuospatial processing (occipital cortex, lingual gyrus, cuneus, precuneus, parietal regions)
+- Motor function (precentral gyrus, central opercular cortex, postcentral gyrus)
+- Emotion regulation (amygdala, anterior cingulate cortex, insula)

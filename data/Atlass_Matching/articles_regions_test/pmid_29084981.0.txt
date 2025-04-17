@@ -1,0 +1,34 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Parahippocampal gyrus (PHG)
+
+2. **Posterior Midline Cortex (PMC)**
+   - Precuneus
+   - Posterior cingulate cortex (PCC)
+
+3. **Angular Gyrus (AG)**
+
+4. **Middle Temporal Gyrus (MTG)**
+   - Inferior temporal gyrus
+   - Occipital gyrus
+
+5. **Fusiform Gyrus**
+
+6. **Parahippocampal Gyrus**
+
+7. **Middle Cingulate Cortex**
+
+8. **Inferior Frontal Gyrus**
+
+9. **Temporal Pole**
+
+10. **Precentral Gyrus**
+
+11. **Supramarginal Gyrus**
+
+12. **Higher-order Visual Regions**
+
+13. **Pre-SMA (pre-supplementary motor area)**
+
+These regions are involved in various cognitive functions, including episodic memory retrieval, sensory detail processing, and memory consolidation.

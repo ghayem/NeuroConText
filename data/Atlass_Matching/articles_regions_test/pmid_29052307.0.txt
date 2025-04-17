@@ -1,0 +1,37 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Pregenual sub-region
+
+2. **Putamen**
+   - Part of the dorsal striatum
+
+3. **Orbitofrontal Cortex (OFC)**
+
+4. **Prefrontal Cortex (PFC)**
+   - Dorsal prefrontal cortex
+
+5. **Hippocampus**
+
+6. **Amygdala**
+
+7. **Caudate**
+   - Part of the dorsal striatum
+
+8. **Ventral Striatum**
+
+9. **Cerebellum**
+
+10. **Thalamus**
+
+11. **Midbrain**
+
+12. **Middle Frontal Gyri**
+   - Bilateral middle frontal gyri
+
+13. **Cuneus**
+
+14. **Midbrain/Thalamus**
+   - Associated with arousal
+
+These regions are involved in various cognitive functions including learning, attention, emotion regulation, and cognitive flexibility.

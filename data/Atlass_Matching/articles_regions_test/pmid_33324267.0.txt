@@ -1,0 +1,56 @@
+Sure, here are the brain regions and sub-regions mentioned in the article, formatted accordingly:
+
+1. **Anterior Insula (AI)**
+    - Ventral anterior insula (vAI)
+    - Dorsal anterior insula (dAI)
+
+2. **Mid-Cingulate Cortex (MCC)**
+    - Anterior mid-cingulate cortex (aMCC)
+
+3. **Cingulate Cortex**
+    - Posterior cingulate
+
+4. **Frontal Gyrus**
+    - Middle frontal gyrus
+    - Superior frontal gyrus
+    - Inferior frontal gyrus (IFG)
+
+5. **Temporal Gyrus**
+    - Middle temporal gyrus
+    - Superior temporal gyrus
+    - Inferior temporal gyrus
+
+6. **Parietal Lobule**
+    - Inferior parietal lobule (IPL)
+
+7. **Occipital Gyrus**
+    - Middle occipital gyrus
+    - Inferior occipital gyrus
+
+8. **Lingual Gyrus**
+
+9. **Supramarginal Gyrus**
+
+10. **Postcentral Gyrus**
+
+11. **Fusiform Gyrus**
+
+12. **Precuneus**
+
+13. **Supplementary Motor Area**
+
+14. **Temporo-Parieto-Occipital Junction (TPO)**
+
+15. **Superior Temporal Sulcus**
+
+16. **Montreal Neurological Institute (MNI) Space**
+
+17. **Default Mode Network (DMN)**
+    - Posterior cingulate
+    - Precuneus
+
+18. **Frontoparietal Network**
+    - Inferior parietal lobule (IPL)
+    - Inferior frontal gyrus (IFG)
+
+These regions are involved in various cognitive functions, including empathy, pain perception, self-referential processing, attention, and emotional processing.

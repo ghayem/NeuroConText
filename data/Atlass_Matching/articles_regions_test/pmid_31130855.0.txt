@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobes**
+
+2. **Temporal Structures**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+
+3. **Parietal Structures**
+   - Post-central gyrus
+   - Supramarginal gyrus
+
+4. **Occipital Lobe**
+   - Lingual gyrus
+
+5. **Subcortical Structures**
+   - Thalamus
+   - Caudate nucleus
+
+6. **Other Cortical Regions**
+   - Anterior cingulate cortex
+   - Insula
+
+7. **White Matter**
+   - Cerebral spinal fluid
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Frontal Lobes**: Executive functions, attentional and memory difficulties, cognitive flexibility and control.
+- **Temporal Structures**: Language processing, memory, face recognition, and access to word meaning.
+- **Parietal Structures**: Somatosensory processing, language perception and processing, phonological word choices.
+- **Occipital Lobe**: Visual processing and encoding visual memories.
+- **Subcortical Structures**: Integration of neocortical inputs and outputs, executive functions such as memory, learning, inhibitory control.
+- **Other Cortical Regions**: Emotion processing, cognitive control, and error detection.
+- **White Matter**: Structural connectivity and information relay between different brain regions.

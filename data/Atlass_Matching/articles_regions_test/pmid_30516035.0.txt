@@ -1,0 +1,54 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Mesial prefrontal cortex (mPFC)
+    - Left inferior parietal lobe (LIPL)
+    - Right inferior parietal lobe (RIPL)
+    - Left temporal lobe
+    - Right temporal lobe (RTL)
+
+2. **Frontal Regions**
+    - Mesial prefrontal cortex (mPFC)
+
+3. **Parietal Regions**
+    - Left inferior parietal lobe (LIPL)
+    - Right inferior parietal lobe (RIPL)
+
+4. **Temporal Regions**
+    - Left temporal lobe
+    - Right temporal lobe (RTL)
+
+5. **Cingulate Cortex**
+    - Posterior cingulate cortex (PCC)
+
+6. **Thalamus**
+
+- These regions are involved in cognitive functions such as memory, executive functions, and consciousness.
+
+## Additional Sub-Regions and Structures:
+
+- **Electrocardiogram**
+- **Electrooculogram**
+- **Electroencephalogram (EEG)**
+    - MR-compatible EEG electrodes
+    - EEG data
+    - EEG clock
+    - Gradient artifact
+    - EEG-defined sleep stage
+    - EEG montage
+
+- **Temporo-parieto-occipital junction (TPO)**
+- **Superior temporal plane (STP)**
+- **Planum temporale (PT)**
+- **Posterior superior temporal gyrus and sulcus (pSTG/S)**
+- **Anterior portion of the pSTG/S**
+
+- These regions are involved in cognitive functions such as language, memory, and executive functions.
+
+## Other Neuroanatomical Structures:
+
+- **White matter**
+- **Cerebrospinal fluid**
+
+- These structures are involved in the neural and physiological processes that support brain function.

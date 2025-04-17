@@ -1,0 +1,76 @@
+## Brain Regions and Sub-regions:
+
+1. **Orbitofrontal Cortex**
+
+2. **Hippocampus-Amygdala Complex**
+
+3. **Precuneus**
+
+4. **Posterior Cingulate Cortex (PCC)**
+
+5. **Prefrontal Cortex**
+   - Superior frontal gyrus
+
+6. **Insula**
+
+7. **Amygdala**
+
+8. **Frontal Lobes**
+
+9. **Frontal Medial Cortex**
+
+10. **Frontolimbic Cortex**
+
+11. **Middle Temporal Gyrus (MTG)**
+   - Left middle temporal gyrus (MTG_L)
+
+12. **Supramarginal Gyrus**
+   - Left supramarginal gyrus
+
+13. **Angular Gyrus**
+   - Left angular gyrus
+
+14. **Inferior Occipital Gyrus**
+   - Left inferior occipital gyrus (IOG_L)
+
+15. **Lingual Gyrus**
+   - Right lingual gyrus
+
+16. **Cuneus**
+   - Bilateral cuneus
+
+17. **Anterior Cingulate Cortex**
+
+18. **Inferior Parietal Lobule**
+
+19. **Superior Frontal Gyrus**
+
+20. **Inferior Frontal Gyrus**
+
+21. **Frontal Medial Cortex**
+
+22. **Frontolimbic Cortex**
+
+23. **Central Executive Network (CEN)**
+
+24. **Salience Network (SN)**
+
+25. **Default Mode Network (DMN)**
+
+26. **Middle Occipital Gyrus**
+   - Left middle occipital gyrus (MOG_L)
+
+27. **Paracingulate Cortex**
+   - Anterior paracingulate cortex
+
+28. **Posterior Superior Temporal Cortex**
+
+29. **Temporo-Parieto-Occipital Junction (TPO)**
+
+30. **Superior Temporal Plane (STP)**
+
+31. **Planum Temporale (PT)**
+
+32. **Temporal-Limbic Region**
+
+These regions are involved in various cognitive functions including emotional regulation, self-referential processing, interpersonal and social-cognitive functions, emotional saliency, cognitive control, and self-injurious behaviors.

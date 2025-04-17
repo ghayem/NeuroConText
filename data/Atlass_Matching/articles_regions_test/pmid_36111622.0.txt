@@ -1,0 +1,49 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Fusiform face area (FFA)**
+
+2. **Temporoparietal junction (TPJ)**
+
+3. **Bilateral Heschl's gyrus**
+
+4. **Lateral occipital cortex**
+
+5. **Insular cortex**
+
+6. **Inferior frontal gyrus**
+
+7. **Superior parietal lobule**
+
+8. **Bilateral inferior parietal lobule**
+
+9. **Middle frontal gyrus**
+
+10. **Paracingulate gyrus**
+
+11. **Left middle temporal gyrus**
+
+12. **Bilateral temporal pole**
+
+13. **Dorsomedial prefrontal cortex (dMPFC)**
+
+14. **Middle medial prefrontal cortex (mMPFC)**
+
+15. **Ventromedial prefrontal cortex (vMPFC)**
+
+16. **Precuneus (PC)**
+
+17. **Occipital face area (OFA)**
+
+18. **Extrastriate body area (EBA)**
+
+19. **Posterior superior temporal sulcus (pSTS)**
+
+20. **Bilateral lateral occipital complex (LOC)**
+
+21. **Superior parietal lobule (SPL)**
+
+22. **Fusiform gyrus (FG)**
+
+23. **Middle occipital gyrus (MOG)**
+
+These regions are involved in various cognitive functions, including social cognition, perception, language comprehension and production, and theory of mind.

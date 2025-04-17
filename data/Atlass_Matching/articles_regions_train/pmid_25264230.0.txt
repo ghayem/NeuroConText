@@ -1,0 +1,39 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Basal Ganglia**
+   - Pallidum
+     - Rostral pallidum
+   - Putamen
+     - Caudal putamen
+     - Ventral part of putamen
+   - Caudate
+     - Body of the caudate
+     - Head of caudate
+   - Substantia nigra
+     - Substantia nigra pars compacta (SNc)
+   - Globus pallidus (GP)
+
+2. **Thalamus**
+   - Lateral geniculate body of thalamus
+   - Thalamic pulvinar
+
+3. **Cerebellum**
+   - Cerebellar dentate
+
+4. **Cortex**
+   - Cingulate cortex
+     - Anterior cingulate
+   - Prefrontal cortex
+   - Sensory-motor cortex
+   - Primary sensorimotor cortex
+
+5. **Other Regions**
+   - Brainstem
+   - White matter (WM)
+   - Cerebral-spinal fluid (CSF)
+   - Lateral part of the pallidum
+   - Dorsal part of the putamen
+   - Dorsal caudate
+   - Dorso-lateral putamen
+
+- These regions are involved in various neurological and neuropsychiatric disorders, brain development, healthy aging, and neurodegenerative diseases.

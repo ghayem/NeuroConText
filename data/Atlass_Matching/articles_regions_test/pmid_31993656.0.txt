@@ -1,0 +1,30 @@
+### Brain Regions and Sub-Regions
+
+1. **Parietal-Frontal Circuit**
+   - Parietal cortex
+   - Frontal cortex
+
+2. **Ventromedial Prefrontal Cortex (vmPFC)**
+   - Ventromedial prefrontal cortex
+   - Medial orbitofrontal cortex (mOFC)
+
+3. **Amygdala**
+
+4. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Dorsolateral prefrontal cortex
+   - Lateral PFC
+
+5. **Striatum**
+
+### These regions are involved in these cognitive functions:
+- Intention formation
+- Episodic future thinking (prospective thinking)
+- Subjective valuation of choice options
+- Reward processing
+- Planning and execution of choices
+- Value coding during dynamic persistence
+- Multi-step reinforcement learning
+- Economic saving behavior
+- Temporal discounting
+- Representation of goal states
+- Imagining future states (episodic prospection)

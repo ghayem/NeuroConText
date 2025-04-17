@@ -1,0 +1,28 @@
+## Brain Regions and Sub-Regions
+
+1. **Posterior Superior Temporal Cortex**
+   - Posterior superior temporal gyrus and sulcus (pSTG/S)
+   - Planum temporale (PT)
+   - Inferior parietal cortex
+   - Temporo-parieto-occipital junction (TPO)
+
+2. **Anterior Sensorimotor Cortex**
+   - Prefrontal cortex
+   - Anterior temporal cortex
+   - Anterior sensorimotor region
+   - Inferior frontal gyrus (IFG)
+
+3. **Angular Gyrus**
+   - Left angular gyrus
+
+4. **Pre-central and Post-central Gyri**
+   - Inferolateral post-central gyrus
+   - Inferior two-thirds of the pre-central and post-central gyri
+
+5. **Temporal Pole**
+   - Left temporal pole
+
+6. **Auditory Cortex**
+   - Auditory processing networks
+
+These regions are involved in cognitive functions such as language, auditory processing, and perceptual learning.

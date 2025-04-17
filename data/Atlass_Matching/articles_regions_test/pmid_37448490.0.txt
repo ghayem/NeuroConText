@@ -1,0 +1,51 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex
+   - Medial frontal gyrus (BA 10)
+   - Superior frontal gyrus (SFG) (BA 8)
+   - Middle frontal gyrus (MFG) (BA 6)
+
+2. **Temporal Cortex**
+   - Middle temporal gyrus (MTG) (BA 39)
+   - Superior temporal gyrus (STG) (BA 39, BA 21, BA 22)
+   - Inferior temporal cortex
+
+3. **Parietal Cortex**
+   - Inferior parietal lobule (IPL) (BA 40)
+   - Superior parietal lobule (BA 7)
+   - Postcentral gyrus (BA 7)
+
+4. **Limbic System**
+   - Amygdala
+   - Hippocampus
+   - Parahippocampal gyrus (PHG) (BA 36)
+   - Cingulate cortex (BA 32, BA 31)
+   - Posterior cingulate (BA 29)
+   - Anterior cingulate
+
+5. **Occipital Cortex**
+   - Middle occipital gyrus (BA 19)
+   - Cuneus (BA 7)
+
+6. **Insula** (BA 13)
+
+7. **Cerebellum**
+   - Culmen
+   - Posterior cerebellar hemispheres
+   - Lobules I-IV/V, VI/Crus I/II, VIII
+
+8. **Basal Ganglia**
+   - Caudate
+   - Lentiform nucleus
+
+9. **Other Regions**
+   - Precuneus (BA 7)
+   - Fusiform gyrus (BA 19)
+   - Precentral gyrus (BA 6)
+   - Planum temporale (PT)
+   - Occipital face area (OFA)
+   - Fusiform face area (FFA)
+   - Superior temporal sulcus area (pSTS-FA)
+
+These regions are involved in various cognitive functions, including emotion processing, memory, sensory processing, cognitive control, and self-referential processing. They are also part of different networks like the default mode network (DMN), salience network (SN), and executive control network (ECN).

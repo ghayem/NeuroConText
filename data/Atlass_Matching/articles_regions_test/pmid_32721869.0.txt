@@ -1,0 +1,22 @@
+1. **Lateral prefrontal cortex**
+2. **Orbitofrontal cortex**
+3. **Superior parietal lobule**
+4. **Intraparietal sulcus**
+5. **Angular gyrus**
+6. **Supramarginal gyrus**
+7. **Posterior cingulate cortex/precuneus**
+8. **Lateral occipital cortex**
+9. **Cuneus**
+10. **Calcarine sulcus**
+11. **Lingual gyrus**
+12. **Posterior portion of lateral temporal cortex**
+13. **Thalamus**
+14. **Dorsomedial prefrontal cortex**
+15. **Paracentral lobule**
+16. **Anterior and middle parts of lateral temporal cortex**
+17. **Medial temporal cortex**
+18. **Inferior temporal gyrus**
+   - Left inferior temporal gyrus
+   - Right inferior temporal gyrus
+19. **Insula**
+   - Left insula

@@ -1,0 +1,32 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Amygdala**
+
+2. **Hippocampus**
+
+3. **Prefrontal Cortex (PFC)**
+    - Dorsolateral prefrontal cortex (dlPFC)
+    - Ventrolateral prefrontal cortex (vlPFC)
+
+4. **Posterior Parietal Cortex**
+
+5. **Default Mode Network (DMN)**
+
+6. **Executive Control Network (ECN)**
+
+7. **Superior Frontal Gyrus (SFG)**
+
+8. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+9. **Salience Network (SN)**
+
+These regions are involved in various cognitive and emotional functions, including but not limited to:
+- **Amygdala**: Emotion processing, detection of behaviorally salient environmental cues.
+- **Hippocampus**: Memory encoding, associative learning.
+- **Prefrontal Cortex (PFC)**: Executive control processes, memory, cognitive control, emotion regulation, goal-concordant decision making.
+- **Posterior Parietal Cortex**: Executive control processes, memory.
+- **Default Mode Network (DMN)**: Internally guided cognitive processes such as self-directed thinking, episodic memory, social reasoning.
+- **Executive Control Network (ECN)**: Executive functions such as cognitive control, emotion regulation.
+- **Superior Frontal Gyrus (SFG)**: Part of the executive control network.
+- **Dorsal Anterior Cingulate Cortex (dACC)**: Part of the salience network, involved in cognitive control and emotional processing.
+- **Salience Network (SN)**: Detecting and filtering salient stimuli, as well as recruiting relevant functional networks.

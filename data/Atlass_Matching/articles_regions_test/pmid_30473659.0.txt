@@ -1,0 +1,63 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Motor Cortex**
+   - M1 (Primary Motor Cortex; Precentral Gyrus)
+   - Premotor Cortex (BA6)
+
+2. **Somatosensory Cortex**
+   - Primary Somatosensory Cortex (BA2; Postcentral Gyrus)
+
+3. **Supplementary Motor Area**
+   - Superior Frontal Gyrus
+
+4. **Cerebellum**
+   - Anterior Cerebellum (Lobule I-IV)
+   - Lobule VI
+   - Crus I-II
+   - Dentate Nucleus
+   - Lobule VIIIa
+
+5. **Frontal Lobe**
+
+6. **Temporal Lobe**
+
+7. **Parahippocampal Gyrus**
+
+8. **Lingual Gyrus**
+
+9. **Brodmann Areas (BA)**
+   - BA2
+   - BA4 (M1)
+   - BA6 (Premotor Cortex)
+   - BA19
+   - BA37
+
+10. **Deep Gray Matter (GM)**
+    - Thalamus
+    - Insular Cortex
+    - Limbic Lobe
+
+11. **White Matter (WM)**
+    - Corpus Callosum (CC)
+    - Paracentral Lobule
+    - Medial Frontal Gyrus
+    - Corticospinal Tract (CST)
+    - Posterior Cingulum
+    - Supramarginal Gyrus
+    - Superior Longitudinal Fasciculus
+
+12. **Cerebral Cortex**
+
+13. **Axonal Initial Segment**
+
+14. **Ranvier Nodes**
+
+15. **Cingulum**
+
+16. **Virchow-Robin Space Volume (VRSV)**
+
+17. **Glymphatic System**
+
+18. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in various cognitive functions, including motor control, sensory processing, and executive functions.

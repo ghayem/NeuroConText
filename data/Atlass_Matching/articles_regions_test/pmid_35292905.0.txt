@@ -1,0 +1,87 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned, along with their associated cognitive functions:
+
+1. **Posterior Cingulate Cortex (PCC)**
+   - Involved in: Self-referential processing, internally generated thought processes, emotional and social events, self-directed cognitions, self-awareness, attention to internal/external events, emotional responses.
+
+2. **Default Mode Network (DMN)**
+   - Involved in: Self-referential processing, emotional processing.
+   - Sub-regions:
+     - Posterior Cingulate Cortex (PCC)
+     - Medial Prefrontal Cortex (mPFC)
+     - Angular Gyrus (AG)
+     - Hippocampus
+     - Inferior Parietal Lobule (IPL)
+
+3. **Amygdala**
+   - Involved in: Emotional awareness, emotional processing.
+
+4. **Insula**
+   - Involved in: Interoceptive awareness, emotional awareness.
+
+5. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Involved in: Attentional control, cognitive-behavioral processes.
+
+6. **Ventromedial Prefrontal Cortex (vmPFC)**
+   - Involved in: Emotional regulation, self-referential processing.
+
+7. **Frontocingulate Regions**
+   - Involved in: Attentional control.
+
+8. **Precuneus**
+   - Involved in: Self-referential processing, emotional processing.
+
+9. **Parahippocampal Gyrus**
+   - Involved in: Memory, emotional processing.
+
+10. **Hippocampus**
+    - Involved in: Memory, emotional processing.
+
+11. **Thalamus**
+    - Involved in: Sensory processing, motor control, consciousness.
+
+12. **Putamen**
+    - Involved in: Motor control, learning.
+
+13. **Caudate Nucleus**
+    - Involved in: Motor control, learning, memory, reward processing.
+
+14. **Supramarginal Gyrus**
+    - Involved in: Language perception and processing, emotional processing.
+
+15. **Inferior Frontal Gyrus (IFG)**
+    - Involved in: Language processing, inhibitory control.
+
+16. **Dorsal Anterior Cingulate Cortex (dACC)**
+    - Involved in: Cognitive control, emotional regulation.
+
+17. **Posterior Insula**
+    - Involved in: Interoceptive awareness, emotional processing.
+
+18. **Temporal Pole**
+    - Involved in: Socio-emotional processing.
+
+19. **Middle Frontal Gyrus (MFG)**
+    - Involved in: Cognitive control, working memory.
+
+20. **Brainstem**
+    - Involved in: Basic life functions, arousal, consciousness.
+
+21. **Parietal Lobule**
+    - Involved in: Sensory processing, spatial awareness.
+
+22. **Cerebellum**
+    - Involved in: Motor control, cognitive functions, emotional processing.
+
+23. **Middle Temporal Gyrus**
+    - Involved in: Language and semantic memory processing, visual perception.
+
+24. **Precentral Gyrus**
+    - Involved in: Motor control.
+
+25. **Superior Frontal Gyrus**
+    - Involved in: Working memory, cognitive control.
+
+26. **Postcentral Gyrus**
+    - Involved in: Somatosensory processing.
+
+These regions are involved in various cognitive functions including self-referential processing, emotional regulation, interoceptive awareness, attentional control, memory, and motor control.

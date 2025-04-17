@@ -1,0 +1,37 @@
+Based on the provided article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Anterior middle cingulate cortex
+
+2. **Insula**
+   - Bilateral anterior insula (AI)
+   - Anterior mesial frontal cortex
+
+3. **Parietal Lobe**
+   - Parietofrontal mirror system
+   - Inferior parietal lobule (IPL)
+
+4. **Frontal Lobe**
+   - Inferior frontal gyrus (IFG)
+   - Supplementary motor area
+   - Ventromedial prefrontal cortex (vmPFC)
+
+5. **Temporal Lobe**
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus (MTG)
+   - Temporoparietal junction (TPJ)
+
+6. **Cerebellum**
+   - Right cerebellum
+
+7. **Limbic System**
+   - Amygdala
+
+8. **Other Regions**
+   - Mid-cingulate cortex (MCC)
+   - Fusiform gyrus
+   - Precentral gyrus
+   - Superior frontal gyrus
+
+These regions are involved in various cognitive and emotional functions, including empathy, affective behaviors, facial actions, motor actions, intention coding, and emotion regulation.

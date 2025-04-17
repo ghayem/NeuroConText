@@ -1,0 +1,48 @@
+## Brain Regions and Sub-Regions:
+
+1. **Basal Ganglia**
+2. **Corpus Callosum**
+3. **Frontal Lobe**
+4. **Temporal Lobe**
+5. **Hippocampus**
+6. **Amygdala**
+7. **Thalamus (THA)**
+8. **Superior Temporal Gyrus (STG)**
+9. **Lateral Ventricles**
+10. **Third Ventricle**
+11. **Whole Brain**
+12. **Medial Prefrontal Areas**
+13. **Dorsolateral Prefrontal Areas**
+14. **Gray Matter Volume (GMV)**
+15. **White Matter (WM)**
+16. **Left Inferior Frontal Gyrus (IFG; Broca’s area)**
+17. **Cerebrospinal Fluid (CSF)**
+18. **Right Fusiform Gyrus (FFG)**
+19. **Left Middle Occipital Gyrus (MOG)**
+20. **Left Posterior Cingulate Gyrus (PCG)**
+21. **Left Parahippocampal Gyrus (PHG)**
+22. **Left Postcentral Gyrus (PoCG)**
+23. **Right Cuneus (CUN)**
+24. **Left Superior Temporal Gyrus (STG)**
+25. **Right Lingual Gyrus (LING)**
+26. **Bilateral Middle Occipital Gyrus (MOG)**
+27. **Left Superior Frontal Gyrus (SFG)**
+28. **Left Thalamus (THA)**
+29. **Right Precuneus (PCUN)**
+30. **Left Medial Superior Frontal Gyrus (SFGmed)**
+31. **Left Temporal Pole (TPO)**
+32. **Right Putamen (PUT)**
+33. **Right Superior Temporal Gyrus (STG)**
+34. **Right Middle Frontal Gyrus (MFG)**
+35. **Left Inferior Parietal Lobule (IPL)**
+36. **Right Middle Temporal Gyrus (MTG)**
+37. **Right Paracentral Lobule (PCL)**
+38. **Right Calcarine (CAL) Cortex**
+39. **Left Middle Orbital Frontal Cortex (ORB)**
+40. **Bilateral Middle Frontal Gyrus (MFG)**
+41. **Bilateral Superior Frontal Gyrus (SFG)**
+42. **Bilateral Precentral Gyrus (PreCG)**
+43. **Left Caudate (CAU)**
+44. **Left Middle Temporal Gyrus (MTG)**
+
+These regions are involved in various cognitive functions such as language, memory, executive functions, sensory processing, and motor control.

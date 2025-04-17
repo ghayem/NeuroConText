@@ -1,0 +1,55 @@
+### Brain Regions and Sub-Regions
+
+1. **Hypothalamus**
+   - Paraventricular nucleus
+
+2. **Limbic System**
+   - Amygdala
+
+3. **Midbrain**
+
+4. **Hindbrain**
+
+5. **Prefrontal Cortex**
+   - Prefrontal cortical networks
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Lateral orbitofrontal cortex (OFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Anterior cingulate cortex (ACC)
+   - Supplementary motor area (SMA)
+
+6. **Pituitary**
+   - Posterior pituitary
+
+7. **Brain Stem**
+   - Caudal brain stem nuclei
+
+8. **Parahippocampus**
+
+9. **Fusiform Gyrus**
+
+10. **Frontal Gyrus**
+
+11. **Putamen**
+
+12. **Caudate**
+   - Left caudate
+   - Bilateral caudate
+
+13. **Frontal Inferior Operculum**
+
+14. **Motor Cortex**
+
+15. **Insula**
+   - Bilateral insula
+
+16. **Medial OFC**
+
+17. **Precentral Gyrus**
+
+18. **Striatum**
+   - Bilateral striatum
+
+19. **Midbrain**
+
+These regions are involved in various cognitive and behavioral functions, including psychosocial function, affective processing, emotion regulation, reward circuitry, dopaminergic signalling, food intake control, and reward processing.

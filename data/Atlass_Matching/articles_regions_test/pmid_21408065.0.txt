@@ -1,0 +1,52 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Pre-supplementary motor area (pre-SMA, bilateral)
+   - Dorsolateral prefrontal cortex
+   - Orbital prefrontal cortex
+
+2. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Middle cingulate cortex (MCC, right)
+
+3. **Parietal Lobe**
+   - Paracentral lobule (bilateral)
+   - Precuneus (right)
+   - Superior parietal lobule (right)
+   - Postcentral gyrus (right)
+
+4. **Temporal Lobe**
+   - Middle temporal gyrus (bilateral)
+   - Superior temporal gyrus (right)
+   - Temporal pole (right)
+
+5. **Frontal Lobe**
+   - Middle frontal gyrus (left)
+   - Superior frontal gyrus (left)
+   - Superior medial gyrus (bilateral)
+   - Middle orbital gyrus (left)
+
+6. **Thalamus**
+   - Mediodorsal (MD) nucleus (left)
+   - Ventral anterior (VA) nucleus (left)
+   - Anterior thalamus (left)
+
+7. **Basal Ganglia**
+   - Caudate nucleus (left)
+   - Putamen (left)
+   - Anterior striatum (right)
+
+8. **Insular Cortex**
+   - Posterior insula (right)
+
+9. **Cerebellum**
+   - Cerebellum VIII (left)
+
+10. **Occipital Lobe**
+    - (Not explicitly mentioned but implied in the context of decision-making and visual processing)
+
+11. **Subcortical Structures**
+    - Ventral striatum
+    - Amygdala
+
+These regions are involved in various cognitive functions, including decision-making, conflict resolution, uncertainty processing, and emotional regulation.

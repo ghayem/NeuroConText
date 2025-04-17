@@ -1,0 +1,42 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Thalamus**
+
+2. **Accumbens**
+   - Accumbo-frontal circuitry
+
+3. **Insula**
+   - Local connectivity
+
+4. **Cortico-limbic circuitry**
+
+5. **Executive control network**
+
+6. **Frontal cortex**
+   - Thalamo-frontal circuitry
+   - Accumbo-frontal circuitry
+
+7. **Cerebellum**
+   - Left cerebellar VI lobule
+   - Left cerebellar II lobule
+   - Right vermis
+   - Left crus II
+
+8. **Putamen**
+   - Left putamen
+
+9. **Occipital fusiform gyrus**
+   - Left occipital fusiform gyrus
+
+10. **Lingual gyrus**
+
+11. **Posterior inferior temporal gyrus**
+   - Right posterior inferior temporal gyrus (pITG)
+
+12. **Superior parietal lobule**
+   - Left superior parietal lobule (SPL)
+
+13. **Lateral superior occipital cortex**
+   - Lateral superior occipital cortex (sLOC)
+
+These regions are involved in various cognitive and emotional processes, including reward processing, cognitive control, visual and homeostatic integration, facial processing, social cognition, and executive functions.

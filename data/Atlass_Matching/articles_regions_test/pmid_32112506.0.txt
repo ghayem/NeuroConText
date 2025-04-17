@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions
+
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate/precuneus
+    - Medial prefrontal cortex
+    - Bilateral inferior parietal lobules
+
+2. **Precuneus/Posterior Cingulate Cortex (PCC)**
+    - Precuneus
+    - Posterior cingulate
+
+3. **Auditory Cortex**
+    - Bilateral superior temporal gyrus
+
+4. **Parietal Memory Network (PMN)**
+    - Precuneus
+    - Middle/posterior cingulate cortex
+    - Bilateral inferior parietal lobules
+
+5. **Auditory Network (AN)**
+    - Bilateral superior temporal gyrus
+    - Right Heschl's gyrus (rHG)
+    - Right superior temporal gyrus (rSTG)
+    - Right posterior superior temporal gyrus (rpSTG)
+
+6. **Temporal Cortices**
+    - Posterior cingulate/precuneus
+
+7. **Medial Prefrontal Cortex**
+
+8. **Inferior Parietal Lobules**
+    - Bilateral inferior parietal lobules
+
+9. **Middle/Posterior Cingulate Cortex**
+
+10. **Bilateral Superior Temporal Gyrus**
+
+11. **Posterior Cingulate Cortex (PCC)**
+    - Left posterior cingulate cortex (lPCC)
+
+12. **Precuneus**
+    - Left precuneus (lPCU)
+    - Right precuneus (rPCU)
+
+13. **Heschl's Gyrus**
+    - Right Heschl's gyrus (rHG)
+
+14. **Superior Temporal Gyrus (STG)**
+    - Right superior temporal gyrus (rSTG)
+
+15. **Posterior Superior Temporal Gyrus (pSTG)**
+    - Right posterior superior temporal gyrus (rpSTG)
+
+16. **Medial Frontal Cortex**
+
+17. **Temporoparietal Junction**
+
+These regions are involved in cognitive functions such as self-referential processing, memory-based reality monitoring, source memory or judgment, familiarity labeling in memory and learning, and auditory or language processing.

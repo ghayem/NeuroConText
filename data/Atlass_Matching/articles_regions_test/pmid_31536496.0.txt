@@ -1,0 +1,51 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontal Cortex**
+   - Inferior frontal gyrus
+   - Middle frontal gyrus
+   - Left frontal cortex
+
+2. **Temporal Cortex**
+   - Inferior temporal gyrus
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+3. **Parietal Cortex**
+   - Inferior parietal lobule
+   - Lateral parietal cortex
+   - Precuneus
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Middle cingulate cortex
+
+5. **Motor Cortex**
+   - Supplementary motor area (SMA/preSMA)
+
+6. **Occipital Cortex**
+   - Visual cortex
+
+7. **Subcortical Regions**
+   - Thalamus
+
+8. **Other Regions**
+   - Auditory cortex
+   - Planum temporale
+   - Posterior cingulate cortex (PCC)
+   - Medial orbitofrontal areas
+   - Anterior and middle cingulate cortex
+   - Dorsolateral and inferior frontal cortex
+   - Retrosplenial cortex
+   - Somato-sensory association cortex
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Language processing
+- Memory
+- Executive functions
+- Attention and vigilance
+- Perception
+- Cognitive control functions
+- Hemispheric asymmetry
+- Higher cognitive functions
+- Task processing and resting states

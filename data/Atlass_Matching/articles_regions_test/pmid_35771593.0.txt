@@ -1,0 +1,34 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Cerebrum**
+    - **Premotor Cortex (PMC)**
+    - **Primary Motor Cortex (M1)**
+    - **Inferior Parietal Areas**
+    - **Superior Parietal Lobule (SPL)**
+    - **Temporo–parietal Junction (TPJ)**
+    - **Precuneus (PCun)**
+    - **Primary Somatosensory Cortex (S1)**
+    - **Postcentral Gyrus (PoCG)**
+    - **Precentral Gyrus (PrCG)**
+    - **Central Operculum (COp)**
+    - **Supplementary Motor Cortex (SMC)**
+    - **Superior Frontal Gyrus (SFG)**
+    - **Heschl’s Gyrus (HG)**
+    - **Planum Temporale (PT)**
+    - **Planum Polare (PP)**
+    - **Temporal Pole (TP)**
+
+2. **Cerebellum**
+    - **Cerebellar Sensorimotor Regions IV and V**
+    - **Cerebellar Motor Region VIII**
+    - **Cerebellar Lobule VIIIb**
+
+3. **Basal Ganglia (BG)**
+    - **Pallidum**
+    - **Putamen**
+    - **Caudate Nucleus**
+
+4. **Brainstem**
+    - **Thalamus**
+
+These regions are involved in various cognitive functions including sensorimotor integration, motor control, timing and rhythm processing, audio-motor coordination, and self-other integration and segregation during joint action.

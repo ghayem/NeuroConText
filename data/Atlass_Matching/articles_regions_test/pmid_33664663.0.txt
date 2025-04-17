@@ -1,0 +1,28 @@
+## Brain Regions and Sub-Regions
+
+1. **Striatum**
+    - Caudate nucleus
+    - Anterior putamen (APU)
+    - Posterior putamen (PPU)
+
+2. **Telencephalon**
+    - Claustrum
+
+3. **Frontal Cortex**
+    - Inferior frontal gyrus (opercular part)
+    - Medial frontal gyrus [supplementary motor area (SMA)]
+
+4. **Temporal Cortex**
+    - Superior temporal gyrus
+
+5. **Parietal Cortex**
+    - Paracentral lobule
+
+6. **Limbic Cortex**
+    - Cingulate gyrus
+
+7. **Insula**
+
+8. **Occipital Cortex**
+
+These regions are involved in these cognitive functions: executive function, memory, visuospatial function, and language.

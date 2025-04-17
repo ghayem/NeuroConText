@@ -1,0 +1,66 @@
+## Brain Regions and Sub-regions Mentioned in the Article
+
+1. **Basal Ganglia**
+   - Globus pallidus internus (GPi)
+
+2. **Sensorimotor Cortex**
+   - Primary sensorimotor cortex (SM1)
+
+3. **Cerebellum**
+   - Anterior cerebellar lobe
+   - Posterior cerebellar lobe
+   - Cerebellar vermis IV/V
+   - Cerebellar lobules IV/V
+   - Cerebellar lobule VIII
+   - Cerebellar lobules crus I
+   - Cerebellar lobules crus II
+   - Cerebellar lobules VII
+   - Cerebellar lobules VIIb
+   - Cerebellar lobule VI
+   - Cerebellar lobule VIIIb
+
+4. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+5. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Inferior frontal gyrus (IFG)
+   - Middle frontal gyrus
+   - Precentral gyrus
+   - Supplementary motor area (SMA)
+   - Dorsal premotor cortex (dorsal PMC)
+
+6. **Parietal Lobe**
+   - Inferior parietal gyrus
+   - Superior parietal gyrus
+   - Supramarginal gyrus
+   - Precuneus
+   - Postcentral gyrus
+
+7. **Temporal Lobe**
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+   - Temporal pole
+   - Inferior temporal gyrus
+
+8. **Occipital Lobe**
+   - Middle occipital gyrus
+   - Calcarine fissure
+   - Lingual gyrus
+   - Visual cortex
+
+9. **Cingulate Cortex**
+   - Anterior cingulate
+   - Paracingulate
+   - Middle cingulate
+
+10. **Insular Cortex**
+
+11. **Hippocampus**
+
+12. **Olfactory Cortex**
+
+13. **Rolandic Operculum**
+
+14. **Fusiform Gyrus**
+
+These regions are involved in various cognitive functions, including motor planning, sensory processing, visual perception, emotional processing, and spatial information processing.

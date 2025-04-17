@@ -1,0 +1,50 @@
+## Brain Regions and Sub-regions
+
+1. **Occipitotemporal Region**
+
+2. **Postcentral Gyrus**
+
+3. **Dorsolateral Prefrontal Cortex**
+
+4. **Extrastriate Visual Cortex**
+
+5. **Primary Somatosensory Cortex**
+
+6. **Dorsal Premotor Cortex**
+   - Brodmann’s area (BA) 6
+
+7. **Ventral Premotor Cortex**
+   - Brodmann’s area (BA) 6
+
+8. **Superior Parietal Lobule (SPL)**
+
+9. **Inferior Parietal Lobule (IPL)**
+   - Inferior Parietal Lobule, ventral portion (IPLv)
+   - Inferior Parietal Lobule, dorsal portion (IPLd)
+
+10. **Temporo-Parieto-Occipital Junction (TPO)**
+
+11. **Supplementary Motor Area (SMA)**
+
+12. **Inferior Frontal Gyrus (IFG)**
+    - Brodmann’s area (BA) 45
+
+13. **Extrastriate Body Area (EBA)**
+    - Brodmann’s area (BA) 37
+
+14. **Primary Somatosensory Area (SI)**
+    - Brodmann’s area (BA) 2/3
+
+15. **Dorsal Premotor Area (PMd)**
+    - Brodmann’s area (BA) 6
+
+16. **Ventral Premotor Area (PMv)**
+    - Brodmann’s area (BA) 6
+
+17. **Superior Parietal Lobule (SPL)**
+
+18. **Inferior Temporal Gyrus/Fusiform Gyrus (ITG/FG)**
+
+19. **Mediodorsal Premotor Cortex**
+
+These regions are involved in cognitive functions related to action observation, sensory processing, motor representation, and visuomotor integration.

@@ -1,0 +1,27 @@
+## The brain regions:
+
+1. **Thalamus**
+   - Bilateral thalamus
+
+2. **Supplemental Motor Area (SMA)**
+   - Right supplemental motor area (SMA)
+   - Rostral anterior cingulate cortex (rACC)
+
+3. **Superior Frontal Gyrus (SFG)**
+   - Right superior frontal gyrus (SFG)
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Anterior cingulate cortex (ACC)
+   - Rostral anterior cingulate cortex (rACC)
+
+5. **Precuneus (PCU)**
+   - Right precuneus (PCU)
+
+6. **Middle Frontal Gyrus (MFG)**
+   - Right middle frontal gyrus (MFG)
+   - Right dorsolateral prefrontal cortex (DLPFC)
+
+7. **Precentral Gyrus**
+   - Left precentral gyrus
+
+- These regions are involved in these cognitive functions: pain modulation, pain cognition, and pain-related emotional response.

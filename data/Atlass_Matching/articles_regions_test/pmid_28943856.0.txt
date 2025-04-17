@@ -1,0 +1,43 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Hippocampus**
+
+3. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Lingual gyrus
+   - Fusiform gyrus
+
+4. **Prefrontal Cortex**
+   - Ventromedial prefrontal cortex (vmPFC)
+
+5. **Parietal Lobe**
+   - Superior parietal cortex
+   - Inferior parietal cortex
+
+6. **Frontal Lobe**
+   - Inferior frontal gyrus (IFG)
+
+7. **Occipital Lobe**
+   - Visual cortex
+     - Calcarine gyrus
+     - Middle occipital cortex
+     - Inferior occipital cortex
+
+8. **Anterior Cingulate Cortex (ACC)**
+
+9. **Ventral Striatum**
+
+10. **Insula**
+    - Posterior insular cortex
+
+11. **Hypothalamus**
+
+12. **Thalamus**
+
+13. **Amygdala**
+
+14. **Precentral Gyrus (PG)**
+
+These regions are involved in various cognitive functions, including reward processing, memory, imagery, attention, semantic decoding, word comprehension, aesthetic judgments, emotional responses, and visuo-spatial processes.

@@ -1,0 +1,31 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Visual Cortex**
+    - V1 (primary visual cortex)
+    - V2
+    - V3
+
+2. **Temporal Lobe**
+    - Bilateral temporal areas
+    - Right occipito-temporal hemisphere
+    - Inferior temporal
+    - Middle temporal
+
+3. **Parietal Lobe**
+    - Bilateral parietal areas
+    - Inferior parietal
+
+4. **Orbitofrontal Cortex**
+
+5. **Prefrontal Cortex (PFC)**
+
+6. **Lateral Occipital Complex**
+
+7. **Inferotemporal Cortex**
+
+These regions are involved in the following cognitive functions:
+- Semantic processing (temporal and parietal areas)
+- Object recognition and scene perception (visual cortex, lateral occipital complex, inferotemporal cortex)
+- Gist perception (orbitofrontal cortex, prefrontal cortex)
+- Attentional processing (parietal lobe)
+- Perceptual binding and integration (temporal and parietal areas)

@@ -1,0 +1,16 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Fusiform Gyrus**
+   - Fusiform face area (FFA)
+
+4. **Anterior Cingulate Cortex**
+
+5. **Insula**
+
+6. **Thalamus**
+
+These regions are involved in these cognitive functions: implicit responses, emotional processing, face recognition, and implicit racial bias.

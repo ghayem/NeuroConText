@@ -1,0 +1,57 @@
+## Brain Regions and Sub-Regions
+
+1. **Prefrontal Gyrus (PFG)**
+    - Inferior Frontal Gyrus (IFG)
+    - Dorsal Anterior Cingulate Gyrus (ACG)
+    - Dorsolateral Prefrontal Gyrus (DLPFG)
+    - Right Inferior Frontal Gyrus (rIFG)
+
+2. **Subthalamic Nucleus (STN)**
+    - Part of the Basal Ganglia
+
+3. **Pre-Supplementary Motor Area (preSMA)**
+
+4. **Primary Motor Gyrus (PMG)**
+
+5. **Right Temporal-Parietal Junction (rTPJ)**
+
+6. **Left Inferior Parietal Gyrus (IPG)**
+
+7. **Right Middle Occipital Gyrus (rMOG)**
+    - Left Middle Occipital Gyrus (lMOG)
+
+8. **Right Middle Frontal Gyrus (rMFG)**
+    - Left Inferior Frontal Gyrus (lIFG)
+
+9. **Right Inferior Occipital Gyrus (IOG)**
+    - Left Inferior Occipital Gyrus (IOG)
+
+10. **Right Superior Temporal Gyrus (STG)**
+
+11. **Fusiform Gyrus**
+
+12. **Right Precuneus**
+
+13. **Right Postcentral Gyrus**
+
+14. **Left Insula**
+
+15. **Middle Temporal Gyrus**
+
+16. **Amygdala**
+
+### These regions are involved in these cognitive functions:
+- Inhibitory control
+- Attentional control
+- Executive control
+- Visual form perception and recognition
+- Spatial attention
+- Motor control
+- Error detection
+- Conflict monitoring
+- Performance monitoring
+- Face recognition
+- Emotional processing
+- Theory-of-mind (ToM) network
+- Moral judgments
+- Attentional reorienting

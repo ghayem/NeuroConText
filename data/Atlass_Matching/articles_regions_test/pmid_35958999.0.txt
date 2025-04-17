@@ -1,0 +1,68 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex**
+   - Anterior insular cortex
+   - Right anterior insula
+   - Dorsal and anterior regions (dorsal DMN)
+   - Medial prefrontal cortex (MPFC)
+   - Right ventrolateral prefrontal cortex [RPFC(R)]
+   - Left ventrolateral prefrontal cortex [RPFC(L)]
+   - Frontal eye field [FEF(L)]
+   - Frontal eye field [FEF(R)]
+
+2. **Parietal Cortex**
+   - Paracentral lobule [LP(L)]
+   - Paracentral lobule [LP(R)]
+   - Intraparietal sulcus [IPS(L)]
+   - Intraparietal sulcus [IPS(R)]
+   - Posterior parietal cortex [PPC(L)]
+   - Posterior parietal cortex [PPC(R)]
+
+3. **Temporal Cortex**
+   - Posterior and medial temporal regions (ventral DMN)
+   - Posterior cingulate cortex (PCC)
+
+4. **Occipital Cortex**
+   - Visual cortex
+   - Medial occipital cortex
+   - Lateral occipital cortex (left and right)
+
+5. **Thalamus**
+
+6. **Salience Network (SN)**
+   - Anterior cingulate cortex (ACC)
+   - Right anterior insula
+   - Left anterior insula
+   - Left supramarginal gyrus [SMG(L)]
+   - Right supramarginal gyrus [SMG(R)]
+
+7. **Default Mode Network (DMN)**
+   - Dorsal DMN
+   - Ventral DMN
+
+8. **Sensorimotor Network (SMN)**
+   - Left and right lateral sensorimotor regions
+   - Superior sensorimotor regions
+
+9. **Visual Network (VN)**
+   - Medial visual regions
+   - Occipital visual regions
+   - Left and right lateral visual regions
+
+10. **Dorsal Attention Network (DAN)**
+    - Left frontal eye field [FEF(L)]
+    - Right frontal eye field [FEF(R)]
+    - Left intraparietal sulcus [IPS(L)]
+    - Right intraparietal sulcus [IPS(R)]
+
+11. **Ventral Attention Network (VAN)**
+
+12. **Frontal-Parietal Control Network (FPN)**
+    - Left lateral prefrontal cortex [LPFC(L)]
+    - Right lateral prefrontal cortex [LPFC(R)]
+    - Left posterior parietal cortex [PPC(L)]
+    - Right posterior parietal cortex [PPC(R)]
+
+13. **Subcortical Network**
+
+These regions are involved in various cognitive functions, including sensory perception, visual information processing, emotional regulation, working memory, vigilant attention, executive control functions, introspective self-oriented processes, decision-making, and cognitive information processing.

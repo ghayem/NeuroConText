@@ -1,0 +1,57 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Ventral Striatum (VS)**
+
+2. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+3. **Amygdala**
+
+4. **Parahippocampal Gyrus**
+
+5. **Cingulate**
+   - Anterior cingulate cortex (ACC)
+     - Dorsal anterior cingulate cortex (dACC)
+   - Posterior cingulate cortex
+
+6. **Inferior Occipital Gyrus**
+
+7. **Anterior Insula**
+
+8. **Inferior Frontal Gyrus (IFG)**
+   - Lateral prefrontal region
+
+9. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Brodmann areas 8 and 9
+
+10. **Ventrolateral Prefrontal Cortex (vlPFC)**
+
+11. **Prefrontal Cortex (PFC)**
+
+12. **Postcentral Gyrus**
+   - Left postcentral gyrus
+
+13. **Lingual Gyrus**
+   - Right lingual gyrus
+
+14. **Fusiform Gyrus**
+   - Right fusiform gyrus
+
+15. **Inferior Temporal Gyrus**
+   - Right inferior temporal gyrus
+
+16. **Supramarginal Gyrus**
+   - Left supramarginal gyrus
+   - Right supramarginal gyrus
+
+17. **Post-medial Frontal Gyrus**
+   - Right post-medial frontal gyrus
+
+18. **Midbrain**
+
+19. **Cerebellum**
+   - Left cerebellum
+
+20. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+
+These regions are involved in various cognitive functions, including reward processing, incentive valuation, inhibitory control, regulation of cravings, decision-making, and cognitive control.

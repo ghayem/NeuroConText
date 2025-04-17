@@ -1,0 +1,68 @@
+Based on the article, the brain regions and sub-regions mentioned are:
+
+1. **Inferior Parietal Lobule**
+   - Anterior inferior parietal lobule
+   - Left anterior inferior parietal lobule
+   - Right anterior inferior parietal lobule
+
+2. **Inferior Frontal Gyrus**
+
+3. **Prefrontal Cortex**
+   - Dorsal/ventrolateral prefrontal cortices
+   - Right dorsolateral PFC (RDLPFC)
+   - Left DLPFC
+
+4. **Hippocampus**
+
+5. **Precuneus**
+   - Bilateral precuneus
+
+6. **Posterior Cingulate Cortex**
+   - Posterior cingulate gyrus
+
+7. **Anterior Insula**
+   - Bilateral anterior insula
+
+8. **Amygdala**
+   - Bilateral amygdala
+
+9. **Anterior Cingulate Cortex**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Subgenual ACC (sgACC)
+
+10. **Medial Prefrontal Cortex**
+    - Medial PFC (mPFC)
+
+11. **Angular Gyrus**
+
+12. **Lateral Occipital Cortex**
+
+13. **Postcentral Gyrus**
+
+14. **Inferior Temporal Gyrus**
+
+15. **Inferior Frontal Gyrus**
+
+16. **Intracalcarine Cortex**
+
+17. **Occipital Fusiform Gyrus**
+
+18. **Superior Parietal Lobule**
+    - Left superior parietal lobule
+    - Right superior parietal lobule
+
+19. **Frontal Pole**
+
+20. **Middle Frontal Gyrus**
+
+21. **Middle Temporal Gyrus**
+
+22. **Cerebellum**
+
+23. **Frontal Orbital Cortex**
+
+24. **Frontal Operculum Cortex**
+
+25. **Precentral Gyrus**
+
+These regions are involved in various cognitive and emotional functions, including sensory processing, cognitive and attentional functioning, memory, rumination, negative affect, self-referential processing, and more.

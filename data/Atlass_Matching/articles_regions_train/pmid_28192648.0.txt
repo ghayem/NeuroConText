@@ -1,0 +1,43 @@
+## Brain Regions and Sub-regions
+
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Prefrontal Cortex (PFC)**
+
+3. **Thalamus**
+
+4. **Insular Cortex**
+
+5. **Limbic Brain Regions**
+
+6. **Supplementary Motor Area (SMA)**
+
+7. **Supramarginal Gyrus (SMG)**
+
+8. **Middle Temporal Gyrus (MTG)**
+
+9. **Cerebellum**
+
+10. **Precuneus**
+
+11. **Superior Parietal Lobule (SPL)**
+
+12. **Mid Cingulate Cortex (MCC)**
+
+13. **Calcarine**
+
+14. **Fusiform Gyri (FG)**
+
+15. **Inferior Orbito-frontal Cortex (OFC)**
+
+16. **Superior Parietal Gyrus**
+
+17. **Amygdala**
+
+18. **Hippocampus**
+
+19. **Primary Motor Cortex**
+
+20. **Primary Somatosensory Cortex (SI)**
+
+21. **Secondary Somatosensory Cortex (SII)**

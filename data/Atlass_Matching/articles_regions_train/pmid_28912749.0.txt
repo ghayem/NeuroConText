@@ -1,0 +1,72 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebral Cortex**
+   - Frontal lobe
+     - Frontotemporal regions
+     - Frontopolar regions
+     - Prefrontal cortex
+     - Premotor cortex
+   - Temporal lobe
+     - Mesial temporal lobe
+     - Superior temporal gyrus (STG)
+     - Superior temporal pole
+     - Inferior temporal gyrus (ITG)
+     - Midcingulate area
+   - Parietal lobe
+   - Occipital lobe
+     - Occipital lobe
+     - Inferior occipital cortex
+     - Lingual gyrus
+   - Postcentral gyrus
+   - Rolandic operculum
+   - Medial frontal gyrus
+
+2. **Corpus Callosum (CC)**
+   - Genu of CC
+   - Anterior CC
+
+3. **Cerebellum**
+   - Lobule VI of the cerebellar hemisphere
+   - Lobule III of the vermis
+   - Cerebellum 3
+   - Cerebellum 4 5
+   - Cerebellum 8
+   - Cerebellum 9
+   - Cerebellum 10
+   - Vermis_4_5
+
+4. **Subcortical Structures**
+   - Putamen
+   - Amygdala
+   - Hippocampus
+   - Caudate nucleus
+   - Pallidum
+   - Thalamus
+
+5. **Other Regions**
+   - Insula
+   - Anterior cingulate and paracingulate gyri
+   - Calcarine fissure and surrounding cortex
+   - Fusiform gyrus
+   - Heschl gyrus
+   - Inferior frontal gyrus
+     - Triangular part
+     - Orbital part
+   - Paracentral lobule
+   - Precentral gyrus
+   - Superior frontal gyrus
+     - Dorsolateral
+     - Medial
+   - Superior occipital gyrus
+   - Middle occipital gyrus
+   - Temporal pole: middle temporal gyrus
+   - Temporal pole: superior temporal gyrus
+
+6. **White Matter (WM)**
+
+7. **Resting-State Networks (RSNs)**
+   - Default mode network (DMN)
+   - Executive control network (ECN)
+   - Sensorimotor network (SMN)
+
+These regions are involved in various cognitive functions and neural processes, including language, memory, executive functions, sensory and motor processes, and the propagation of epileptic activity.

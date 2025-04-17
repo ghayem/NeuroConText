@@ -1,0 +1,52 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Lateral Orbitofrontal PFC
+   - Middle Frontal Regions
+   - Left Inferior and Superior Frontal Gyri
+   - Frontal Poles
+   - Lateral Prefrontal Regions
+   - Rostro-Lateral PFC
+
+2. **Parietal Regions**
+   - Superior Parietal
+   - Posterior Parietal Regions
+   - Postcentral Gyrus
+   - Inferior Parietal Lobule
+   - Supramarginal Cortex
+
+3. **Temporal Regions**
+   - Superior Temporal Regions
+   - Middle Temporal
+   - Superior and Middle Temporal Cortex
+   - Middle Occipital
+   - Parahippocampal
+   - Lingual Cortex
+
+4. **Cingulate Regions**
+   - Anterior Cingulate
+   - Posterior Cingulate
+   - Retrosplenial
+
+5. **Insular Regions**
+   - Anterior Insular Regions
+   - Posterior Insula
+
+6. **Occipital Regions**
+   - Lateral Occipito-Temporal Regions
+   - Cuneus
+   - Lingual Gyrus
+
+7. **Other Regions**
+   - Sensorimotor
+   - Angular Gyrus
+   - Precuneus
+   - Caudate Nucleus
+   - Cerebellum
+   - Thalamus
+   - Putamen
+   - Globus Pallidus
+   - Brodmann Area 2
+
+These regions are involved in various cognitive functions including reasoning, problem-solving, working memory, sensory processing, motor control, and higher-level cognitive processes.

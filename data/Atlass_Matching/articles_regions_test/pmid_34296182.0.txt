@@ -1,0 +1,62 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Temporal Cortex**
+   - **Posterior Superior Temporal Gyrus (pSTG)**
+   - **Sylvian Fissure at the Parietotemporal Boundary (SPT)**
+
+2. **Cerebellum**
+   - **Posterior Lobules**
+   - **Superior Lateral Cerebellum**
+   - **Anterior Para-vermal Parts of the Cerebellum**
+   - **Posterior Cerebellum**
+     - **Right Posterolateral Cerebellar Crus I**
+   - **Superior Medial Cerebellum**
+
+3. **Medial Frontal Cortex**
+   - **Presupplementary Motor Area (pre-SMA)**
+   - **Anterior Cingulate Cortex (ACC)**
+
+4. **Frontal Cortex**
+   - **Medial Frontal Cortex**
+   - **Dorsolateral Prefrontal Cortex**
+
+5. **Parietal Cortex**
+   - **Inferior Parietal Lobule**
+
+6. **Basal Ganglia**
+
+7. **Insular Cortex**
+
+8. **Middle Temporal Gyrus**
+
+9. **Inferior Frontal Gyrus**
+   - **Area 44**
+   - **Area 45**
+
+10. **Midcingulate Cortex**
+
+11. **Auditory Cortex**
+
+12. **Parietotemporal Boundary**
+
+13. **Left Superior Medial Gyrus**
+
+14. **Cerebral Cortex**
+
+15. **Sylvian Fissure**
+
+16. **Planum Temporale**
+
+17. **Temporoparietal Junction**
+
+18. **Lobule VI of the Cerebellum**
+
+19. **Auditory Perception**
+
+20. **Temporal Lobe**
+
+21. **Parietal Lobe**
+
+22. **Occipital Lobe**
+
+These regions are involved in various cognitive functions, including language processing, error monitoring, motor control, and cognitive control.

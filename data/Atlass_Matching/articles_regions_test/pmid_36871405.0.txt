@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Temporal DMN
+
+2. **Hippocampus**
+
+3. **Prefrontal Cortex**
+
+4. **Parietal Cortex**
+
+5. **Temporal Cortex**
+
+6. **Subcortical Network (SCN)**
+
+7. **Auditory Network (ADN)**
+
+8. **Sensorimotor Network (SMN)**
+
+9. **Visual Network (VSN)**
+   - Visual sensory network (VSN)
+   - Primary visual cortex
+   - Secondary visual cortex
+   - Associative visual cortex
+
+10. **Cognitive Control Network (CCN)**
+
+11. **Cerebellar Network (CBN)**
+
+12. **Whole Brain**
+    - 53 independent components (ICs) identified across the whole brain
+
+These regions are involved in various cognitive functions, including memory, sensory processing, motor control, and cognitive control. The article also discusses the functional connectivity between these regions and how they are affected by genetic risks for Alzheimer's disease.

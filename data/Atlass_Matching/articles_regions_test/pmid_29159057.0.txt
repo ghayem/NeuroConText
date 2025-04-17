@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **White Matter (WM)**
+
+2. **Gray Matter (GM)**
+
+3. **Cortex**
+
+4. **Anterior Cingulate Gyri**
+
+5. **Posterior Cingulate Gyri**
+
+6. **Precentral Gyrus**
+
+7. **Supplementary Motor Cortex**
+
+8. **Insula**
+
+9. **Thalamus**
+
+10. **Caudate**
+
+11. **Nucleus Accumbens**
+
+12. **Pallidum**
+
+13. **Cerebellum**
+
+14. **Parahippocampal Gyrus**
+
+15. **Lingual Gyrus**
+
+16. **Hippocampus**
+
+17. **Putamen**
+
+18. **Deep Gray Matter**
+
+19. **Cingulate Cortex**
+
+These regions are involved in various cognitive and motor functions, including memory, learning, motor control, and emotional processing.

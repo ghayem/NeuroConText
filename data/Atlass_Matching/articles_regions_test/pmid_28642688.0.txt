@@ -1,0 +1,62 @@
+## Brain Regions and Sub-Regions
+
+1. **Periaqueductal Gray (PAG)**
+
+2. **Brainstem**
+
+3. **Cerebellum**
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual anterior cingulate cortex (sgACC)
+   - Rostral anterior cingulate cortex (rACC)
+   - Anterior midcingulate cortex (aMCC)
+
+5. **Prefrontal Cortex (PFC)**
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+
+6. **Premotor Cortex (PMC)**
+
+7. **Supplementary Motor Area (SMA)**
+
+8. **Hippocampus**
+
+9. **Striatum**
+
+10. **Precuneus**
+
+11. **Angular Gyrus (AG)**
+
+12. **Posterior Cingulate Cortex (PCC)**
+
+13. **Cuneus**
+
+14. **Retrosplenial Cortex**
+
+15. **Lingual Gyrus**
+
+16. **Supramarginal Gyrus**
+
+17. **Superior Parietal Lobule**
+
+18. **Temporal Pole**
+
+19. **Orbitofrontal Cortex (OFC)**
+
+20. **Rostroventral Medulla (RVM)**
+
+21. **Lateral Occipital Cortex (LOC)**
+
+22. **Medulla**
+
+23. **Default Mode Network (DMN)**
+
+24. **Salience Network (SN)**
+
+25. **White Matter (WM)**
+
+26. **Cerebrospinal Fluid (CSF)**
+
+- These regions are involved in cognitive functions such as pain perception, emotional reaction, executive functions, memory, and motor functions.

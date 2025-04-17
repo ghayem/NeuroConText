@@ -1,0 +1,21 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia**
+   - Striatum
+     - Ventral striatum
+       - Nucleus accumbens (NAcc)
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Precuneus**
+   - Parietal midline area
+
+4. **Left Midfrontal Gyrus**
+
+5. **Left Inferior Prefrontal Cortex**
+
+6. **Left Precentral Gyrus**
+
+7. **Right Caudate**
+
+These regions are involved in various cognitive functions, including reward processing, mentalizing, social moral processing, and emotional salience.

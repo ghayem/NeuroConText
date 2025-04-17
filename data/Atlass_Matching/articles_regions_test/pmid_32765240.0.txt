@@ -1,0 +1,32 @@
+1. **Parietal Cortex**
+   - **Bilateral intraparietal sulcus (IPS)**
+     - Horizontal segment of the intraparietal sulcus (hIPS)
+   - **Left angular gyrus (AG)**
+   - **Posterior superior parietal area**
+
+2. **Frontal Cortex**
+   - **Right middle frontal gyrus**
+   - **Left precentral gyrus**
+   - **Left superior frontal gyrus**
+
+3. **Temporal Cortex**
+   - **Right middle temporal gyrus**
+
+4. **Occipital Cortex**
+   - **Extrastriate visual areas**
+
+5. **Cingulate Cortex**
+   - **Middle cingulate cortex**
+
+6. **Motor Cortex**
+   - **Primary motor cortex**
+     - Representation of the right abductor pollicis brevis (APB) muscle
+
+7. **Other Regions**
+   - **Retrosplenial cortex**
+   - **Hippocampal system**
+   - **Ventral pathway (via middle longitudinal fascicle)**
+   - **Dorsal pathway (via superior longitudinal fascicle)**
+   - **Cortical cingulate route**
+
+These regions are involved in these cognitive functions: arithmetic processing, numerical knowledge, working memory, strategy selection, verbal processing of numbers, spatial and non-spatial attention, memory retrieval, and motor functions.

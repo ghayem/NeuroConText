@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions:
+
+1. **Auditory Cortex**
+   - Primary auditory cortex
+   - Left superior temporal gyrus
+   - Heschl’s gyrus
+
+2. **Language Centres**
+   - Broca’s area
+   - Wernicke’s area
+
+3. **Left Inferior Frontal Gyrus**
+   - Broca’s area
+
+4. **Left Superior Temporal Gyrus**
+   - Primary auditory cortex for speech perception
+   - Wernicke’s area for speech comprehension
+
+5. **Anterior Cingulate Cortex**
+
+6. **Left Inferior Parietal Lobule**
+   - Postcentral gyrus
+
+7. **Insula**
+   - Left insula
+   - Right insula
+
+8. **Cerebellum**
+   - Right anterior lobe of the cerebellum
+   - Culmen
+   - Dentate
+
+9. **Left Arcuate Fasciculus**
+
+10. **Right Arcuate Fasciculus**
+
+11. **Claustrum**
+
+12. **Putamen**
+
+These regions are involved in cognitive functions such as inner speech production, inner speech perception, self-referential processing, and salience attribution.

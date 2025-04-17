@@ -1,0 +1,21 @@
+Based on the article, the following brain regions and sub-regions are mentioned:
+
+1. **Amygdala**
+
+2. **Cingulate Cortex (CC)**
+   - Right dorsal anterior CC
+   - Left dorsal anterior CC
+
+3. **Orbitofrontal Cortex (OFC)**
+   - Left ventral OFC
+   - Bilateral ventral OFC
+   - Right anterior prefrontal cortex
+   - Left prefrontal cortex
+
+4. **Nucleus Accumbens (NAcc)**
+
+5. **Ventral Tegmental Area (VTA)**
+
+6. **Prefrontal Cortex**
+
+These regions are involved in various cognitive and emotional processes, including emotion regulation, reward processing, and cognitive control.

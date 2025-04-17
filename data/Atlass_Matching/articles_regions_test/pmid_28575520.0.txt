@@ -1,0 +1,62 @@
+1. **Amygdala**
+    - Left amygdala
+    - Right amygdala
+
+2. **Anterior Insula (AI)**
+    - Left anterior insula
+    - Right anterior insula
+
+3. **Medial Pre-Frontal Cortex (MPFC)**
+    - Dorsal medial pre-frontal cortex (dMPFC)
+    - Ventral medial pre-frontal cortex (vMPFC)
+
+4. **Anterior Cingulate Cortex (ACC)**
+    - Posterior cingulate cortex (pACC)
+
+5. **Inferior Frontal Gyrus (IFG)**
+    - Right inferior frontal gyrus
+
+6. **Anterior Temporal Pole (aTP)**
+
+7. **Inferior Parietal Sulcus (IPS)**
+    - Left inferior parietal sulcus
+    - Right inferior parietal sulcus
+
+8. **Central Sulcus (CS)**
+
+9. **Superior Frontal Gyrus (SFG)**
+
+10. **Posterior Insula (pInsula)**
+
+11. **Orbitorfrontal Cortex (OFC)**
+
+12. **Superior Temporal Sulcus (STS)**
+
+13. **Ventrolateral Pre-Frontal Cortex (vLPFC)**
+
+14. **Supramarginal Gyrus (Supramarg. G)**
+
+15. **Subcortical Structures**
+    - Medial thalamus
+    - Other sub-cortical and para-limbic structures
+
+16. **Frontal Eye Field (FEF)**
+    - Left frontal eye field
+    - Right frontal eye field
+
+17. **Auditory Cortex (A1+)**
+
+18. **Visual Cortex (V1+)**
+
+19. **Inferior Parietal Lobule (IPL)**
+
+20. **Temporal and Posterior Regions**
+    - Involved in social cognition tasks
+
+21. **Temporal Sulcus**
+    - Extended auditory cortex in the vicinity of temporal sulcus (A1+)
+
+22. **Calcarine Sulcus**
+    - Extended visual cortex in the vicinity of calcarine sulcus (V1+)
+
+These regions are involved in emotional processing, social cognition, and the integration of sensory inputs with stored knowledge and evaluative processes.

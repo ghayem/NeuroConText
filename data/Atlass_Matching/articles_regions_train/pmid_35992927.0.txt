@@ -1,0 +1,32 @@
+## Brain Regions and Sub-regions
+
+1. **Trigeminal Cervical Complex (TCC)**
+    - Rostral Ventromedial Medulla (RVM)
+
+2. **Thalamus**
+
+3. **Medial Prefrontal Cortex (mPFC)**
+
+4. **Temporal Gyrus**
+    - Superior temporal gyrus (TSG)
+    - Middle temporal gyrus (TMG)
+
+5. **Middle Cingulate Cortex (MCC)**
+
+6. **Precuneus**
+
+7. **Postcentral Gyrus**
+
+8. **Insula**
+
+9. **Frontal Middle Gyrus (FMG)**
+
+10. **Frontal Superior Gyrus (FSG)**
+
+11. **Orbitofrontal Gyrus (OFG)**
+
+12. **Post Cingulate Cortex (PCC)**
+
+13. **Supplementary Motor Area (SMA)**
+
+- These regions are involved in trigeminal spinal-thalamo-cortical pathways, default mode network (DMN), auditory network, and descending pain modulation system (DPMS).

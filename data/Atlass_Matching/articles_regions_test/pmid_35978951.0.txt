@@ -1,0 +1,66 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Auditory Cortex**
+   - Bilateral middle temporal gyrus
+   - Superior temporal gyrus
+   - Temporal pole
+   - Insular
+
+2. **Basal Ganglia**
+
+3. **Prefrontal Cortex**
+
+4. **Parahippocampal Regions**
+
+5. **Insula**
+
+6. **Cerebral Cortex**
+
+7. **Frontostriatal Regions**
+
+8. **Auditory–Sensory Regions**
+
+9. **Executive Control Network (ECN)**
+   - Left lateral frontoparietal network (LFPN)
+   - Right lateral frontoparietal network (RFPN)
+   - Middle frontal gyrus (MFG)
+   - Inferior parietal lobule
+   - Superior parietal lobule
+   - Angular gyrus
+
+10. **Default Mode Network (DMN)**
+    - Precuneus/posterior cingulate cortex
+    - Inferior lateral parietal lobule
+    - Medial prefrontal cortex
+    - Superior frontal gyrus
+    - Angular gyrus
+
+11. **Sensorimotor Network (SMN)**
+    - Bilateral precentral and postcentral gyrus
+    - Supplementary motor area
+
+12. **Cerebellum Network (CN)**
+    - Bilateral cerebellum hemispheres
+    - Left cerebellum_crus2
+
+13. **Visual Network (VN)**
+    - Middle occipital gyrus
+    - Superior occipital gyrus
+    - Temporal-occipital regions
+    - Fusiform gyrus
+    - Left calcarine gyrus
+
+14. **Ventral Attention Network (VAN)**
+    - Left and right superior temporal sulci
+    - Temporal poles
+    - Insula
+    - Middle frontal gyrus
+    - Supplementary motor area
+
+15. **Dorsal Attention Network (DAN)**
+
+16. **Salience Network**
+
+17. **Basal Ganglia Network**
+
+These regions are involved in various cognitive functions, including auditory processing, executive functions, attention, memory, and sensory-perceptual processing.

@@ -1,0 +1,38 @@
+## The brain regions:
+
+1. **Orbitofrontal cortex (OFC)**
+
+2. **Anterior cingulate cortex (ACC)**
+
+3. **Insula**
+
+4. **Basal ganglia**
+    - Caudate nucleus
+    - Putamen
+    - Nucleus accumbens
+
+5. **Cingulate cortex**
+
+6. **Prefrontal cortex**
+
+7. **Striatum**
+
+8. **Mediotemporal regions**
+
+9. **Frontostriatal circuit**
+    - Frontal cortex
+    - Striatum
+
+10. **Medial prefrontal cortex**
+
+11. **Inferior OFC**
+
+12. **Superior OFC**
+
+13. **Ventral striatum**
+
+14. **Medial OFC**
+
+15. **Insular cortex**
+
+These regions are involved in these cognitive functions: reward processing, motivation, hedonic response, emotion processing, sensory integration, and salience network.

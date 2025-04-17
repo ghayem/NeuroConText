@@ -1,0 +1,13 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Ventral Striatum**
+
+2. **Ventromedial Prefrontal Cortex (vmpFC) / Medial Orbitofrontal Cortex (mOFC)**
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+These regions are involved in various cognitive functions, including:
+
+- **Ventral Striatum:** Reward processing, vicarious reward processing, and social valuation.
+- **Ventromedial Prefrontal Cortex (vmpFC) / Medial Orbitofrontal Cortex (mOFC):** Value processing, prosocial decisions, and social outcomes.
+- **Anterior Cingulate Cortex (ACC):** Decision-making, tracking the negative value of decisions, and conflict monitoring.

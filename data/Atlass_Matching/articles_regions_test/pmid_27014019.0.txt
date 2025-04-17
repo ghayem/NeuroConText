@@ -1,0 +1,32 @@
+Based on the article, the brain regions and sub-regions mentioned are:
+
+1. **Frontal Cortex**
+   - Superior frontal cortex
+   - Inferior frontal cortex
+     - Left inferior frontal cortex
+   - Premotor cortices
+   - Prefrontal cortex
+     - Right prefrontal cortex (rPFC)
+       - Posterior region of middle and superior frontal gyrus
+         - Brodmann's Areas 8 and 9 (BA8 and BA9)
+       - Dorsomedial prefrontal cortex (dmPFC; BA9)
+       - Dorsolateral prefrontal cortex (rDLPFC)
+
+2. **Temporal Cortex**
+   - Right superior temporal sulcus region (rSTS)
+   - Left temporo-parietal junction
+
+3. **Parietal Cortex**
+   - (Mentioned as part of the temporo-parietal junction)
+
+These regions are involved in various cognitive functions, including:
+
+- Social cognition and interaction
+- Decision-making
+- Planning complex movements
+- Prospective memory
+- Theory of mind (ToM)
+- Processing socially relevant information (e.g., body or facial movement)
+- Goal-oriented social interaction
+- Social decision-making
+- Cooperative social behavior

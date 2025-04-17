@@ -1,0 +1,51 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Structures**
+   - Cortical structures (general mention)
+
+2. **Subcortical Structures**
+   - Subcortical structures (general mention)
+   - Putamen
+   - Red nucleus
+
+3. **White and Gray Matter**
+   - White matter
+   - Gray matter
+
+4. **Hippocampus**
+   - Post-synaptic receptor density in the hippocampus (specific mention)
+
+5. **Motor Cortex**
+   - Motor cortex (general mention)
+   - Primary sensorimotor cortex
+
+6. **Cerebellum**
+   - Cerebellum (general mention)
+   - Anterior lobe of the cerebellum
+   - Cerebellar circuits
+
+7. **Basal Ganglia**
+   - Basal ganglia (general mention)
+
+8. **Prefrontal Cortex**
+   - Medial prefrontal cortex
+   - Dorsolateral prefrontal cortex
+
+9. **Auditory Cortex**
+   - Auditory cortex (general mention)
+   - Primary auditory cortex
+
+10. **Parietal Cortex**
+    - Superior parietal lobule
+    - Posterior parietal cortex
+
+11. **Temporal Cortex**
+    - Superior temporal plane (STP)
+    - Planum temporale (PT)
+    - Posterior superior temporal gyrus and sulcus (pSTG/S)
+    - Temporo-parieto-occipital junction (TPO)
+
+12. **Frontal Cortex**
+    - Fronto-striatal networks
+
+These regions are involved in various cognitive and motor functions, including motor control, timing, temporal prediction, sequence processing, sensory-motor integration, and executive functions.

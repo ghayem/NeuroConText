@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual anterior cingulate cortex
+   - Rostral anterior cingulate cortex
+   - Dorsal anterior cingulate cortex
+
+3. **Prefrontal Cortex (PFC)**
+   - Anterior medial prefrontal cortex (PFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Inferior PFC
+   - Superior PFC
+
+4. **Hippocampus**
+
+5. **Ventral Striatum**
+
+6. **Parahippocampal Gyrus**
+
+7. **Precuneus**
+
+8. **Temporo-Parietal Junction (TPJ)**
+
+9. **Temporal Pole**
+
+10. **Dorsomedial Prefrontal Cortex (dmPFC)**
+
+11. **Subcortical Regions**
+    - Amygdala
+    - Hippocampus
+    - Nucleus accumbens
+    - Insula
+    - Orbitofrontal cortex
+
+12. **Subgenual Anterior Cingulate Cortex (ACC)**
+
+13. **Cortical Regions**
+    - Medial PFC
+    - Dorsolateral PFC
+    - Temporo-parietal junction (TPJ)
+
+   - These regions are involved in these cognitive functions: social processing, emotional regulation, and decision-making.

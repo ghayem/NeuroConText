@@ -1,0 +1,674 @@
+## Brain Regions and Sub-Regions:
+
+1. **Dorsal Striatum**
+
+2. **Amygdala**
+
+3. **Hippocampus**
+
+4. **Temporal Lobe**
+
+5. **Precuneus**
+
+6. **Ventral Striatum**
+   - Nucleus accumbens (NAcc)
+
+7. **Frontal Hemisphere**
+
+8. **Bilateral Cuneus**
+
+9. **Insula**
+
+10. **Putamen**
+
+11. **Inferior Frontal Gyrus**
+    - Pars opercularis
+    - Pars triangularis
+
+12. **Fusiform Gyrus**
+
+13. **Inferior Temporal Gyrus**
+
+14. **Parahippocampal Gyrus**
+
+15. **Cerebellum**
+
+16. **Inferior Parietal Lobule**
+
+17. **Angular Gyrus**
+
+18. **Middle Occipital Gyrus**
+
+19. **Precentral Gyrus**
+
+20. **Middle Frontal Gyrus**
+
+21. **Medial Frontal Gyrus**
+
+22. **Anterior Cingulate Cortex**
+
+23. **Medial Orbito-Frontal Cortex**
+
+24. **Thalamus**
+
+25. **Caudate Nucleus**
+
+26. **Globus Pallidus**
+
+27. **Substantia Nigra**
+
+28. **Ventral Tegmental Area**
+
+29. **Subthalamic Nucleus**
+
+30. **Pons**
+
+31. **Medulla**
+
+32. **Midbrain**
+
+33. **Hypothalamus**
+
+34. **Pituitary Gland**
+
+35. **Pineal Gland**
+
+36. **Corpus Callosum**
+
+37. **Fornix**
+
+38. **Mammillary Bodies**
+
+39. **Septum**
+
+40. **Basal Ganglia**
+
+41. **Caudate Nucleus**
+
+42. **Globus Pallidus**
+
+43. **Substantia Nigra**
+
+44. **Ventral Tegmental Area**
+
+45. **Subthalamic Nucleus**
+
+46. **Red Nucleus**
+
+47. **Substantia Nigra Pars Compacta**
+
+48. **Substantia Nigra Pars Reticulata**
+
+49. **Ventral Tegmental Area**
+
+50. **Cerebral Peduncles**
+
+51. **Corticospinal Tract**
+
+52. **Corticobulbar Tract**
+
+53. **Internal Capsule**
+
+54. **External Capsule**
+
+55. **Extreme Capsule**
+
+56. **Corona Radiata**
+
+57. **Centrum Semiovale**
+
+58. **Genu of the Corpus Callosum**
+
+59. **Splenium of the Corpus Callosum**
+
+60. **Rostrum of the Corpus Callosum**
+
+61. **Body of the Corpus Callosum**
+
+62. **Anterior Commissure**
+
+63. **Posterior Commissure**
+
+64. **Habenula**
+
+65. **Stria Medullaris**
+
+66. **Stria Terminalis**
+
+67. **Fornix**
+
+68. **Mammillothalamic Tract**
+
+69. **Mammillotegmental Tract**
+
+70. **Dorsal Column-Medial Lemniscus Pathway**
+
+71. **Lateral Spinothalamic Tract**
+
+72. **Anterior Spinothalamic Tract**
+
+73. **Spinocerebellar Tract**
+
+74. **Corticopontine Tract**
+
+75. **Pontocerebellar Tract**
+
+76. **Medial Longitudinal Fasciculus**
+
+77. **Lateral Lemniscus**
+
+78. **Inferior Colliculus**
+
+79. **Superior Colliculus**
+
+80. **Medial Geniculate Nucleus**
+
+81. **Lateral Geniculate Nucleus**
+
+82. **Pulvinar**
+
+83. **Dorsomedial Nucleus**
+
+84. **Ventral Posterolateral Nucleus**
+
+85. **Ventral Posteromedial Nucleus**
+
+86. **Anteroventral Nucleus**
+
+87. **Anterodorsal Nucleus**
+
+88. **Laterodorsal Nucleus**
+
+89. **Centromedian Nucleus**
+
+90. **Parafascicular Nucleus**
+
+91. **Subparafascicular Nucleus**
+
+92. **Zona Incerta**
+
+93. **Red Nucleus**
+
+94. **Substantia Nigra Pars Compacta**
+
+95. **Substantia Nigra Pars Reticulata**
+
+96. **Ventral Tegmental Area**
+
+97. **Periaqueductal Gray**
+
+98. **Superior Colliculus**
+
+99. **Inferior Colliculus**
+
+100. **Medial Geniculate Nucleus**
+
+101. **Lateral Geniculate Nucleus**
+
+102. **Pulvinar**
+
+103. **Dorsomedial Nucleus**
+
+104. **Ventral Posterolateral Nucleus**
+
+105. **Ventral Posteromedial Nucleus**
+
+106. **Anteroventral Nucleus**
+
+107. **Anterodorsal Nucleus**
+
+108. **Laterodorsal Nucleus**
+
+109. **Centromedian Nucleus**
+
+110. **Parafascicular Nucleus**
+
+111. **Subparafascicular Nucleus**
+
+112. **Zona Incerta**
+
+113. **Red Nucleus**
+
+114. **Substantia Nigra Pars Compacta**
+
+115. **Substantia Nigra Pars Reticulata**
+
+116. **Ventral Tegmental Area**
+
+117. **Periaqueductal Gray**
+
+118. **Superior Colliculus**
+
+119. **Inferior Colliculus**
+
+120. **Medial Geniculate Nucleus**
+
+121. **Lateral Geniculate Nucleus**
+
+122. **Pulvinar**
+
+123. **Dorsomedial Nucleus**
+
+124. **Ventral Posterolateral Nucleus**
+
+125. **Ventral Posteromedial Nucleus**
+
+126. **Anteroventral Nucleus**
+
+127. **Anterodorsal Nucleus**
+
+128. **Laterodorsal Nucleus**
+
+129. **Centromedian Nucleus**
+
+130. **Parafascicular Nucleus**
+
+131. **Subparafascicular Nucleus**
+
+132. **Zona Incerta**
+
+133. **Red Nucleus**
+
+134. **Substantia Nigra Pars Compacta**
+
+135. **Substantia Nigra Pars Reticulata**
+
+136. **Ventral Tegmental Area**
+
+137. **Periaqueductal Gray**
+
+138. **Superior Colliculus**
+
+139. **Inferior Colliculus**
+
+140. **Medial Geniculate Nucleus**
+
+141. **Lateral Geniculate Nucleus**
+
+142. **Pulvinar**
+
+143. **Dorsomedial Nucleus**
+
+144. **Ventral Posterolateral Nucleus**
+
+145. **Ventral Posteromedial Nucleus**
+
+146. **Anteroventral Nucleus**
+
+147. **Anterodorsal Nucleus**
+
+148. **Laterodorsal Nucleus**
+
+149. **Centromedian Nucleus**
+
+150. **Parafascicular Nucleus**
+
+151. **Subparafascicular Nucleus**
+
+152. **Zona Incerta**
+
+153. **Red Nucleus**
+
+154. **Substantia Nigra Pars Compacta**
+
+155. **Substantia Nigra Pars Reticulata**
+
+156. **Ventral Tegmental Area**
+
+157. **Periaqueductal Gray**
+
+158. **Superior Colliculus**
+
+159. **Inferior Colliculus**
+
+160. **Medial Geniculate Nucleus**
+
+161. **Lateral Geniculate Nucleus**
+
+162. **Pulvinar**
+
+163. **Dorsomedial Nucleus**
+
+164. **Ventral Posterolateral Nucleus**
+
+165. **Ventral Posteromedial Nucleus**
+
+166. **Anteroventral Nucleus**
+
+167. **Anterodorsal Nucleus**
+
+168. **Laterodorsal Nucleus**
+
+169. **Centromedian Nucleus**
+
+170. **Parafascicular Nucleus**
+
+171. **Subparafascicular Nucleus**
+
+172. **Zona Incerta**
+
+173. **Red Nucleus**
+
+174. **Substantia Nigra Pars Compacta**
+
+175. **Substantia Nigra Pars Reticulata**
+
+176. **Ventral Tegmental Area**
+
+177. **Periaqueductal Gray**
+
+178. **Superior Colliculus**
+
+179. **Inferior Colliculus**
+
+180. **Medial Geniculate Nucleus**
+
+181. **Lateral Geniculate Nucleus**
+
+182. **Pulvinar**
+
+183. **Dorsomedial Nucleus**
+
+184. **Ventral Posterolateral Nucleus**
+
+185. **Ventral Posteromedial Nucleus**
+
+186. **Anteroventral Nucleus**
+
+187. **Anterodorsal Nucleus**
+
+188. **Laterodorsal Nucleus**
+
+189. **Centromedian Nucleus**
+
+190. **Parafascicular Nucleus**
+
+191. **Subparafascicular Nucleus**
+
+192. **Zona Incerta**
+
+193. **Red Nucleus**
+
+194. **Substantia Nigra Pars Compacta**
+
+195. **Substantia Nigra Pars Reticulata**
+
+196. **Ventral Tegmental Area**
+
+197. **Periaqueductal Gray**
+
+198. **Superior Colliculus**
+
+199. **Inferior Colliculus**
+
+200. **Medial Geniculate Nucleus**
+
+201. **Lateral Geniculate Nucleus**
+
+202. **Pulvinar**
+
+203. **Dorsomedial Nucleus**
+
+204. **Ventral Posterolateral Nucleus**
+
+205. **Ventral Posteromedial Nucleus**
+
+206. **Anteroventral Nucleus**
+
+207. **Anterodorsal Nucleus**
+
+208. **Laterodorsal Nucleus**
+
+209. **Centromedian Nucleus**
+
+210. **Parafascicular Nucleus**
+
+211. **Subparafascicular Nucleus**
+
+212. **Zona Incerta**
+
+213. **Red Nucleus**
+
+214. **Substantia Nigra Pars Compacta**
+
+215. **Substantia Nigra Pars Reticulata**
+
+216. **Ventral Tegmental Area**
+
+217. **Periaqueductal Gray**
+
+218. **Superior Colliculus**
+
+219. **Inferior Colliculus**
+
+220. **Medial Geniculate Nucleus**
+
+221. **Lateral Geniculate Nucleus**
+
+222. **Pulvinar**
+
+223. **Dorsomedial Nucleus**
+
+224. **Ventral Posterolateral Nucleus**
+
+225. **Ventral Posteromedial Nucleus**
+
+226. **Anteroventral Nucleus**
+
+227. **Anterodorsal Nucleus**
+
+228. **Laterodorsal Nucleus**
+
+229. **Centromedian Nucleus**
+
+230. **Parafascicular Nucleus**
+
+231. **Subparafascicular Nucleus**
+
+232. **Zona Incerta**
+
+233. **Red Nucleus**
+
+234. **Substantia Nigra Pars Compacta**
+
+235. **Substantia Nigra Pars Reticulata**
+
+236. **Ventral Tegmental Area**
+
+237. **Periaqueductal Gray**
+
+238. **Superior Colliculus**
+
+239. **Inferior Colliculus**
+
+240. **Medial Geniculate Nucleus**
+
+241. **Lateral Geniculate Nucleus**
+
+242. **Pulvinar**
+
+243. **Dorsomedial Nucleus**
+
+244. **Ventral Posterolateral Nucleus**
+
+245. **Ventral Posteromedial Nucleus**
+
+246. **Anteroventral Nucleus**
+
+247. **Anterodorsal Nucleus**
+
+248. **Laterodorsal Nucleus**
+
+249. **Centromedian Nucleus**
+
+250. **Parafascicular Nucleus**
+
+251. **Subparafascicular Nucleus**
+
+252. **Zona Incerta**
+
+253. **Red Nucleus**
+
+254. **Substantia Nigra Pars Compacta**
+
+255. **Substantia Nigra Pars Reticulata**
+
+256. **Ventral Tegmental Area**
+
+257. **Periaqueductal Gray**
+
+258. **Superior Colliculus**
+
+259. **Inferior Colliculus**
+
+260. **Medial Geniculate Nucleus**
+
+261. **Lateral Geniculate Nucleus**
+
+262. **Pulvinar**
+
+263. **Dorsomedial Nucleus**
+
+264. **Ventral Posterolateral Nucleus**
+
+265. **Ventral Posteromedial Nucleus**
+
+266. **Anteroventral Nucleus**
+
+267. **Anterodorsal Nucleus**
+
+268. **Laterodorsal Nucleus**
+
+269. **Centromedian Nucleus**
+
+270. **Parafascicular Nucleus**
+
+271. **Subparafascicular Nucleus**
+
+272. **Zona Incerta**
+
+273. **Red Nucleus**
+
+274. **Substantia Nigra Pars Compacta**
+
+275. **Substantia Nigra Pars Reticulata**
+
+276. **Ventral Tegmental Area**
+
+277. **Periaqueductal Gray**
+
+278. **Superior Colliculus**
+
+279. **Inferior Colliculus**
+
+280. **Medial Geniculate Nucleus**
+
+281. **Lateral Geniculate Nucleus**
+
+282. **Pulvinar**
+
+283. **Dorsomedial Nucleus**
+
+284. **Ventral Posterolateral Nucleus**
+
+285. **Ventral Posteromedial Nucleus**
+
+286. **Anteroventral Nucleus**
+
+287. **Anterodorsal Nucleus**
+
+288. **Laterodorsal Nucleus**
+
+289. **Centromedian Nucleus**
+
+290. **Parafascicular Nucleus**
+
+291. **Subparafascicular Nucleus**
+
+292. **Zona Incerta**
+
+293. **Red Nucleus**
+
+294. **Substantia Nigra Pars Compacta**
+
+295. **Substantia Nigra Pars Reticulata**
+
+296. **Ventral Tegmental Area**
+
+297. **Periaqueductal Gray**
+
+298. **Superior Colliculus**
+
+299. **Inferior Colliculus**
+
+300. **Medial Geniculate Nucleus**
+
+301. **Lateral Geniculate Nucleus**
+
+302. **Pulvinar**
+
+303. **Dorsomedial Nucleus**
+
+304. **Ventral Posterolateral Nucleus**
+
+305. **Ventral Posteromedial Nucleus**
+
+306. **Anteroventral Nucleus**
+
+307. **Anterodorsal Nucleus**
+
+308. **Laterodorsal Nucleus**
+
+309. **Centromedian Nucleus**
+
+310. **Parafascicular Nucleus**
+
+311. **Subparafascicular Nucleus**
+
+312. **Zona Incerta**
+
+313. **Red Nucleus**
+
+314. **Substantia Nigra Pars Compacta**
+
+315. **Substantia Nigra Pars Reticulata**
+
+316. **Ventral Tegmental Area**
+
+317. **Periaqueductal Gray**
+
+318. **Superior Colliculus**
+
+319. **Inferior Colliculus**
+
+320. **Medial Geniculate Nucleus**
+
+321. **Lateral Geniculate Nucleus**
+
+322. **Pulvinar**
+
+323. **Dorsomedial Nucleus**
+
+324. **Ventral Posterolateral Nucleus**
+
+325. **Ventral Posteromedial Nucleus**
+
+326. **Anteroventral Nucleus**
+
+327. **Anterodorsal Nucleus**
+
+328. **Laterodorsal Nucleus**
+
+329. **Centromedian Nucleus**
+
+330. **Parafascicular Nucleus**
+
+331. **Subparafascicular Nucleus**
+
+332. **Zona Incerta**
+
+333. **Red Nucleus**
+
+334. **Substantia Nigra Pars Compacta**
+
+335. **Substantia Nigra Pars Reticulata**

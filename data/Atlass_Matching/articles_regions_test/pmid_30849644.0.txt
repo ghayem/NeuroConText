@@ -1,0 +1,100 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+
+2. **Amygdala**
+
+3. **Basal Ganglia**
+
+4. **Prefrontal Cortex**
+
+5. **Anterior Cingulate Cortex (ACC)**
+
+6. **Corpus Callosum (CC)**
+   - Body
+   - Genu
+   - Splenium
+
+7. **Internal Capsule**
+   - Anterior Limb (ALIC)
+   - Posterior Limb (PLIC)
+
+8. **Superior Longitudinal Fasciculus (SLF)**
+
+9. **White Matter (WM)**
+
+10. **Cingulum**
+
+11. **Inferior Longitudinal Fasciculus (ILF)**
+
+12. **Posterior Thalamic Radiation (PTR)**
+
+13. **Anterior Corona Radiata (ACR)**
+
+14. **Superior Corona Radiata**
+
+15. **Superior Striatum**
+
+16. **Posterior Limb of the Internal Capsule (PLIC)**
+
+17. **Parahippocampal Gyrus**
+
+18. **Parietal Lobe**
+
+19. **Temporal Lobe**
+
+20. **Occipital Lobe**
+
+21. **Frontotemporal Connections**
+
+22. **Frontolimbic Connections**
+
+23. **Corticocortical Connectivity**
+
+24. **Pre-Supplementary Motor Area (pre-SMA)**
+
+25. **Dorsolateral Prefrontal Cortex**
+
+26. **Rostral Anterior Cingulate Cortex**
+
+27. **Lateral Geniculate Body**
+
+28. **Pulvinar**
+
+29. **Optic Radiation**
+
+30. **Caudate Nucleus**
+
+31. **Striatum**
+
+32. **Parieto-occipital Cortex**
+
+33. **Anterior Thalamic Radiation**
+
+34. **Motor Areas**
+
+35. **Association Areas**
+
+36. **Occipital Lobes**
+
+37. **Posterior Parietal Cortex**
+
+38. **Thalamus**
+
+39. **Frontal-Limbic Network**
+
+40. **Frontal-Subcortical Neural Circuit**
+
+41. **Frontotemporal and Frontolimbic Connections**
+
+42. **Temporo-parieto-occipital Junction (TPO)**
+
+43. **Default Mode Network**
+
+44. **Cognitive Control Network**
+
+45. **Executive Functioning Network**
+
+46. **Motivation Circuit**
+
+These regions are involved in various cognitive functions, emotional regulation, and behavioral deficits associated with depression.

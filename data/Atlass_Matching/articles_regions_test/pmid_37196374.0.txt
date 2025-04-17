@@ -1,0 +1,26 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Ventral Occipitotemporal Cortex (vOTC)**
+   - Visual Word Form Area (VWFA)
+   - Letter Form Area (LFA)
+
+2. **Superior Temporal Cortex**
+   - Superior Temporal Gyrus (STG)
+     - Posterior Superior Temporal Gyrus (pSTG)
+     - Middle Superior Temporal Gyrus (mSTG)
+   - Superior Temporal Sulcus
+   - Primary Auditory Cortex
+
+3. **Inferior Frontal Gyrus (IFG)**
+   - Pars Opercularis
+   - Precentral Gyrus
+
+4. **Parietal Regions**
+
+5. **Occipitotemporal Regions**
+   - Fusiform Gyrus
+   - Occipital Gyri
+
+6. **Temporo-parieto-occipital Junction (TPO)**
+
+These regions are involved in various cognitive functions, including language processing, visual processing, audiovisual integration, and reading.

@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Medial Temporal Lobe**
+
+2. **Frontal Lobe**
+   - Frontal cortex
+   - Bilateral middle frontal gyrus (MFG)
+   - Left superior frontal gyrus
+   - Right inferior parietal lobule (IPL)
+   - Right supplementary motor area (SMA)
+
+3. **Posterior Brain Regions**
+
+4. **Temporal Cortex**
+   - Bilateral middle temporal gyrus
+   - Left inferior temporal gyrus
+
+5. **Parietal Cortex**
+   - Bilateral angular gyrus
+   - Right precuneus
+
+6. **Basal Ganglia**
+   - Bilateral putamen
+   - Left thalamus
+
+7. **Other Subcortical Structures**
+   - Left postcentral gyrus
+   - Right putamen
+
+8. **Default Mode Network (DMN)**
+   - Right inferior parietal lobule (IPL)
+   - Right precuneus
+
+These regions are involved in various cognitive functions, including memory, executive functions, visual space, language, and motor control.

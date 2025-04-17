@@ -1,0 +1,111 @@
+## Brain Regions and Sub-regions
+
+1. **Posterior Parietal Cortex**
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Inferior Frontal Sulcus**
+
+4. **Lateral Prefrontal Cortex**
+
+5. **Posterior Parietal Cortices**
+
+6. **Medial Frontal Cortex (MFC)**
+
+7. **Superior Frontal Cortex**
+
+8. **Middle Frontal Gyrus**
+
+9. **Inferior Frontal Junction Area**
+
+10. **Bilateral Insulae**
+
+11. **Occipito-parietal Cluster**
+
+12. **Occipital Poles**
+
+13. **Medial Frontal and Orbitofrontal Cortices**
+    - Pars triangularis of the inferior frontal gyrus
+    - Mid-portion of the middle temporal gyrus
+    - Right hippocampus
+
+14. **Supplementary Motor Area (SMA)**
+
+15. **Anterior Midcingulate Cortex (aMCC)**
+
+16. **Fronto-parietal Network**
+
+17. **Anterolateral Prefrontal Cortex (alPFC)**
+
+18. **Posterior Dorsal MFC**
+    - Rostral cingulate zone (RCZ)
+    - Pre-supplementary motor cortex (pre-SMA)
+
+19. **Frontal Poles**
+
+20. **Orbitofrontal Cortex**
+
+21. **Superior Frontal Cortex**
+
+22. **Left Inferior Parietal Cortex**
+
+23. **Right Lateral Occipital Cortex**
+
+24. **Left Precuneus**
+
+25. **Medial Superior Frontal Gyrus (SFG)**
+
+26. **Right Inferior Frontal Sulcus**
+    - Extending into middle frontal gyrus
+
+27. **Suborbital Sulcus (SSO)**
+
+28. **Anterior Part of the Cingulate Gyrus and Sulcus**
+
+29. **Orbital Part of the Inferior Frontal Gyrus (IFG-orbit)**
+
+30. **Orbital Gyri (G-orb)**
+
+31. **Frontal Poles**
+
+32. **Bilateral Superior Frontal Cortex**
+
+33. **Left Middle Frontal Gyrus**
+
+34. **Left Inferior Parietal Cortex**
+
+35. **Right Lateral Occipital Cortex**
+
+36. **Left Precuneus**
+
+37. **Anterolateral Prefrontal Cortex**
+
+38. **Posterior Dorsal MFC**
+    - Rostral cingulate zone (RCZ)
+    - Pre-supplementary motor cortex (pre-SMA)
+
+39. **Right Inferior Frontal Sulcus**
+    - Extending into middle frontal gyrus
+
+40. **Medial Superior Frontal Gyrus (SFG)**
+    - Posteriorly bordering at the pre-SMA
+
+41. **Anterior Dorsal MFC**
+    - Medial superior frontal gyrus (SFG)
+    - Anterior parts of the pre-SMA
+
+42. **Ventrolateral Prefrontal Cortex (VLPFC)**
+
+## Cognitive Functions Involved
+
+- Cognitive control
+- Emotional interference
+- Executive control
+- Inhibitory control
+- Task switching
+- Emotion regulation
+- Psychological resilience
+- Coping with stress
+- Affective flexibility
+- Cognitive and affective brain systems interaction
+- Emotion and cognition interaction

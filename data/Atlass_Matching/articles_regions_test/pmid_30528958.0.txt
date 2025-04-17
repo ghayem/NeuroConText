@@ -1,0 +1,38 @@
+## Brain Regions and Sub-Regions
+
+1. **Anterior Cingulate Cortex**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Rostral middle frontal cortex (RMFC)
+    - Superior frontal cortex (SFC)
+    - Caudal middle frontal cortex (CMFC)
+
+3. **Orbitofrontal Cortex**
+
+4. **Amygdala**
+
+5. **Thalamus**
+
+6. **Putamen**
+
+7. **Caudate**
+
+8. **Pallidum**
+
+9. **Hippocampus**
+
+10. **Nucleus Accumbens**
+
+11. **Frontal Alpha Asymmetry**
+
+12. **Cortical-Limbric Areas**
+
+13. **Cortical-Striatal-Pallidal-Thalamic Circuit**
+
+14. **Nucleus Accumbens**
+
+15. **Medio-Dorsal Thalamus**
+
+16. **Default Mode Network (DMN)**
+
+- These regions are involved in various cognitive and emotional functions, such as attention, performance monitoring, self-evaluation, and behavioral adjustment.

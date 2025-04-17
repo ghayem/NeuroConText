@@ -1,0 +1,32 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Anterior hippocampus
+   - Posterior hippocampus
+
+2. **Prefrontal Cortex (PFC)**
+   - Ventromedial PFC (vmPFC)
+   - Lateral orbitofrontal cortex (OFC)
+   - Medial prefrontal cortex (mPFC)
+   - Orbitofrontal ventral regions
+
+3. **Inferior Frontal Gyrus (iFG)**
+   - Right iFG
+   - Left iFG
+   - Brodmann areas: BA 44, BA 45, BA 47
+
+4. **Frontal Cortex**
+   - Frontal_Inf_Oper
+   - Frontal_Inf_Orb
+   - Frontal_Inf_Tri
+   - Frontal Sup_Orb
+   - Frontal_Mid_Orb
+   - Frontal_Med_Orb
+   - Frontal_Sup_Medial
+
+5. **Anterior Cingulate Cortex (ACC)**
+   - Anterior commissure
+
+6. **Posterior Commissure (PC)**
+
+These regions are involved in various cognitive functions, including context processing, response inhibition, decision-making, attention, memory formation and retrieval, and executive control.

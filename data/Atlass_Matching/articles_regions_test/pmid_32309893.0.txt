@@ -1,0 +1,27 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Prefrontal Cortex (PFC)**
+    - Dorsomedial Prefrontal Cortex (dmPFC)
+    - Ventromedial Prefrontal Cortex (vmPFC)
+
+3. **Anterior Cingulate Cortex (ACC)**
+    - Subgenual Anterior Cingulate Cortex (sgACC)
+    - Rostral Anterior Cingulate Cortex (rACC)
+
+4. **Superior Frontal Gyrus (SFG)**
+
+5. **Temporoparietal Junction (TPJ)**
+
+6. **Hypothalamus**
+
+7. **Hippocampus**
+
+8. **Insula**
+
+9. **Orbitofrontal Cortex**
+
+10. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+These regions are involved in these cognitive functions: emotion regulation, social cognition, decision-making, and memory.

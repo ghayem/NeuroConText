@@ -1,0 +1,79 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontotemporal Neural Circuitry**
+
+2. **Anterior Cingulate**
+
+3. **Insula**
+
+4. **Amygdala**
+
+5. **Hippocampus**
+
+6. **Nucleus Accumbens**
+
+7. **Posterior Superior Temporal Gyrus**
+
+8. **Angular Gyrus**
+
+9. **Supramarginal Gyrus**
+
+10. **Precuneus**
+
+11. **Anterior Superior Temporal Gyrus**
+
+12. **Middle Temporal Gyrus**
+
+13. **Temporal Pole**
+
+14. **Inferior Frontal Gyrus**
+    - Pars Orbitalis
+
+15. **Putamen**
+
+16. **Caudate**
+
+17. **Supplementary Motor Area**
+
+18. **Pre-supplementary Motor Area**
+
+19. **Prefrontal Cortex**
+
+20. **Orbitofrontal Cortex**
+
+21. **Ventral Striatum**
+    - Nucleus Accumbens
+
+22. **Dorsal Striatum**
+    - Putamen
+    - Caudate
+
+23. **Default-Mode Network**
+    - Middle Temporal Gyrus
+    - Precuneus
+    - Hippocampus
+
+24. **Salience Network**
+    - Anterior Insula
+    - Anterior Cingulate Cortex
+    - Supplementary Motor Area
+
+### These regions are involved in these cognitive functions:
+- Predictive coding
+- Error detection and monitoring
+- Ambiguity and conflict resolution
+- Probabilistic learning
+- Risk evaluation and decision making
+- Deviance detection
+- Processing surprise and prior uncertainty
+- Sensory pattern analysis
+- Semantic appraisal
+- Emotion and reward evaluation
+- Salience processing and motor output
+- Auditory scene analysis
+- Semantic control processes
+- Physiological arousal
+- Integration of cognitive and affective information
+- Resolving musical uncertainty
+- Processing auditory expectations
+- Preparing behavioural responses to salient and arousing events

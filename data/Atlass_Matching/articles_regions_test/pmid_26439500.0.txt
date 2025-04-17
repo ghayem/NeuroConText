@@ -1,0 +1,67 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Occipital Lobe**
+   - Bilateral cuneus
+   - Lingual gyrus
+   - Inferior/middle occipital gyrus
+   - Superior/middle/inferior occipital gyrus
+   - Calcarine
+
+2. **Temporal Lobe**
+   - Middle temporal-occipital area
+   - Fusiform gyrus
+   - Right middle temporal gyrus
+
+3. **Subcortical Structures**
+   - Left occipital lobe
+   - Right temporal lobe
+
+4. **Posterior Cingulate**
+   - Right posterior cingulate
+
+5. **Cerebellum**
+   - Right cerebellum posterior lobe
+
+6. **Frontal Lobe**
+   - Superior/middle/inferior frontal gyrus
+   - Middle frontal gyrus
+
+7. **Parietal Lobe**
+   - Superior parietal lobule
+   - Bilateral superior parietal lobule
+   - Precuneus
+   - Bilateral inferior part of precuneus
+
+8. **Cingulate Gyrus**
+   - Anterior cingulate gyrus
+   - Posterior cingulate gyrus
+
+9. **Thalamus**
+
+10. **Midbrain**
+
+11. **Parahippocampal Gyrus**
+    - Right parahippocampal gyrus
+
+12. **Brodmann Area 17 (BA17)**
+    - Primary visual cortex (V1)
+
+13. **Brodmann Area 18 (BA18)**
+    - Extrastriate visual area (V2)
+
+14. **Brodmann Area 19 (BA19)**
+    - Extrastriate visual area (V3)
+
+15. **Ventral Pathway**
+
+16. **Dorsal Pathway**
+
+17. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+    - Medial prefrontal cortex
+    - Anterior cingulate cortex
+    - Inferior temporal cortex
+    - Inferior parietal cortex
+
+These regions are involved in various cognitive functions and neurological conditions, including visual processing, epilepsy, and default mode network activity.

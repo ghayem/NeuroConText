@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Angular Gyrus**
+   - Anterior angular gyrus (aANG)
+   - Posterior angular gyrus (pANG)
+
+2. **Lateral Parietal Cortex (LPC)**
+
+3. **Inferior Parietal Gyrus (IPG)**
+
+4. **Middle Cingulate Cortex (MCC)**
+
+5. **Calcarine Sulcus (CAL)**
+
+6. **Prefrontal Cortex**
+
+7. **Cingulate Cortex**
+
+8. **Limbic System**
+
+9. **Hippocampus**
+
+10. **Hypothalamus**
+
+11. **Amygdala**
+
+12. **Default Mode Network (DMN)**
+    - Anterior default mode network (aDMN)
+    - Posterior default mode network (pDMN)
+
+13. **Dorsal Attention Network (DAN)**
+
+14. **Ventral Attention Network (VAN)**
+
+15. **Visual Networks**
+    - Posterior visual network (pVN)
+    - Medial visual network (mVN)
+
+16. **Frontoparietal Networks**
+    - Left frontoparietal network (lFPN)
+    - Right frontoparietal network (rFPN)
+
+17. **Sensorimotor Network (SMN)**
+
+18. **Salience Network (SN)**
+
+19. **Auditory Network (AN)**
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Attention**: DAN, VAN
+- **Memory**: DMN (especially pDMN), hippocampus
+- **Executive Functions**: FPN, SMN
+- **Emotion Regulation**: Limbic system, amygdala, cingulate cortex
+- **Sensory Processing**: Visual networks (pVN, mVN), auditory network (AN)
+- **Salience Processing**: Salience network (SN)

@@ -1,0 +1,31 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Insula**
+   - Right anterior insula
+   - Posterior insula
+
+2. **Salience Network (SN)**
+   - Bilateral insular cortex
+   - Midline cingulate cortex
+
+3. **Default Mode Network (DMN)**
+   - Ventromedial frontal areas
+
+4. **Visual Cortex**
+
+5. **Temporal Areas**
+
+6. **Frontal Areas**
+   - Left superior frontal gyrus (SFG)
+   - Premotor cortex
+
+7. **Secondary Somatosensory Cortex**
+   - Parietal operculum
+   - Posterior insula
+
+8. **Auditory Cortex**
+   - Left secondary somatosensory (auditory) cortex
+
+9. **Fronto-insular Network**
+
+These regions are involved in various cognitive functions, including social cognition, emotion processing, pragmatic language processing, and multimodal integration of social cues.

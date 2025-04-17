@@ -1,0 +1,24 @@
+## Brain Regions and Sub-regions:
+
+1. **Dorsal Striatum**
+    - Dorsolateral striatum
+        - Putamen (in humans)
+    - Dorsomedial striatum
+        - Caudate (in humans)
+
+2. **Insular Cortex**
+
+3. **Cingulate Cortex**
+
+4. **Putamen**
+    - Left putamen
+    - Right putamen
+
+5. **Insula**
+    - Left insula
+    - Right insula
+
+6. **Cingulate**
+    - Right cingulate
+
+- These regions are involved in these cognitive functions: instrumental learning, goal-directed learning, avoidance conditioning and learning, and Pavlovian-to-instrumental transfer (PIT).

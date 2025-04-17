@@ -1,0 +1,35 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Cerebellum**
+
+2. **Cortical Language Network**
+
+3. **Dominant Hemisphere**
+   - Left hemisphere
+
+4. **Non-Dominant Hemisphere**
+   - Right hemisphere
+
+5. **Frontal Region**
+   - Broca area
+   - Anterior cingulate
+   - Posterior cingulate
+   - Middle frontal gyrus
+   - Superior frontal gyrus
+
+6. **Temporal Region**
+   - Temporal gyrus
+   - Temporo-parietal region
+
+7. **Parietal Region**
+   - Temporo-parietal region
+   - Postcentral gyrus
+
+8. **Precentral Gyrus**
+
+9. **Thalamus**
+
+10. **Broca Area Homologue**
+    - Right frontal area
+
+These regions are involved in cognitive functions such as language, memory, and executive functions.

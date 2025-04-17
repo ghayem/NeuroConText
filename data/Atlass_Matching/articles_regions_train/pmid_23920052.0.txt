@@ -1,0 +1,35 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontolimbic Cortices**
+   - (No specific sub-regions mentioned)
+
+2. **Parieto-Temporal-Cerebellar Regions**
+   - (No specific sub-regions mentioned)
+
+3. **Default Mode Network (DMN)**
+   - Posterior DMN
+     - Left precuneus
+
+4. **Limbic-Paralimbic-Neocortical Network**
+   - (No specific sub-regions mentioned)
+
+5. **Somatosensory Cortex**
+   - Post-central gyrus
+
+6. **Motor Cortical Regions**
+   - Precentral gyrus
+     - Primary motor cortex (or somatomotor cortex)
+     - Lateral premotor cortex
+
+7. **Insula**
+   - Bilateral insula
+   - Right insula
+   - Left insula
+
+8. **Precentral Gyrus**
+   - Left precentral gyrus
+
+9. **Precuneus**
+   - Left precuneus
+
+These regions are involved in various cognitive functions, sensory processing, and motor control, as discussed in the article.

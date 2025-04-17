@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Occipital Lobe**
+   - Superior occipital gyrus
+   - Middle occipital gyrus
+
+2. **Parietal Lobe**
+
+3. **Temporal Lobe**
+
+4. **Frontal Lobe**
+
+5. **Subcortical Region**
+
+6. **Corpus Callosum**
+   - Forceps major (FMajor)
+   - Forceps minor (FMin)
+
+7. **Cingulum**
+   - Cingulum—angular bundle (Cab)
+   - Cingulum—cingulate gyrus bundle (Ccg)
+
+8. **Thalamus**
+   - Anterior thalamic radiations (ATR)
+
+9. **Cerebral Cortex**
+   - Gray matter
+   - White matter
+
+10. **White Matter Tracts**
+    - Arcuate fasciculus (AF)
+    - Corticospinal tract (CST)
+    - Inferior longitudinal fasciculus (ILF)
+    - Superior longitudinal fasciculus—parietal branch (SLFp)
+    - Superior longitudinal fasciculus—temporal branch (SLFt)
+    - Uncinate fasciculus (UNC)
+
+These regions are involved in various cognitive functions, including psychomotor processing speed, executive functions, visual processing, and attention.

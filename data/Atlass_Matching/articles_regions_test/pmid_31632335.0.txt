@@ -1,0 +1,51 @@
+# Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Prefrontal Cortex**
+   - Medial prefrontal cortex
+
+2. **Insular Cortex**
+   - Anterior insular cortex
+     - Right anterior insular cortex
+
+3. **Amygdala**
+
+4. **Precuneus**
+   - Left precuneus
+
+5. **Caudate**
+   - Caudate nucleus
+   - Head of the caudate nucleus
+   - Right head of the caudate nucleus
+
+6. **Ascending Reticular Activating System**
+
+7. **Hypothalamus**
+
+8. **Thalamus**
+
+9. **Hippocampus**
+
+10. **Anterior Cingulate**
+    - Anterior cingulate gyrus
+    - Bilateral anterior cingulate gyrus
+
+11. **Middle Frontal Gyrus**
+    - Left middle frontal gyrus
+    - Bilateral superior frontal gyrus
+
+12. **Precentral Gyrus**
+    - Left precentral gyrus
+
+### Sub-Regions and Specific Areas:
+- Brodmann Area 48 (BA48)
+- Brodmann Area 8 (BA8)
+
+### Additional Notes:
+- These regions are involved in various cognitive and emotional functions, including arousal, memory consolidation, alertness, attention, higher-order cognitive processes, and emotional regulation.
+
+### Cognitive Functions Involved:
+- Arousal and insomnia
+- Memory consolidation
+- Alertness, attention, and higher-order cognitive processes
+- Emotional regulation and affective symptoms
+- Hyperarousal and affective symptoms in insomnia

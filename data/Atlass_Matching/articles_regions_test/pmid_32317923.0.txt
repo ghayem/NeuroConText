@@ -1,0 +1,55 @@
+### Brain Regions and Sub-Regions:
+
+1. **Basal Ganglia**
+    - Caudate
+    - Putamen
+
+2. **Hippocampus**
+    - Hippocampal dentate gyrus
+
+3. **Cerebellum**
+
+4. **Brainstem**
+
+5. **Pallidum**
+
+6. **Nucleus Accumbens**
+
+7. **Posteromedial Cortex**
+
+8. **Mediodorsal Thalamus**
+
+9. **Corona Radiata**
+
+10. **Capsula Interna**
+    - Anterior limb
+    - Retrolenticular part
+
+11. **Corpus Callosum**
+    - Genu
+    - Body
+    - Splenium
+
+12. **Inferior Frontal Gyrus (IFG)**
+
+13. **Amygdala**
+
+14. **Superior Temporal Gyrus (STG)**
+
+15. **Anterior Cingulate Cortex (ACC)**
+
+16. **Posterior Cingulate Cortex (PCC)**
+
+17. **Supplementary Motor Area (SMA)**
+
+18. **Posterior Thalamic Radiation**
+
+19. **Sagittal Stratum**
+
+20. **Fornix/Stria Terminalis**
+
+21. **Superior Longitudinal Fasciculus**
+
+22. **External Capsule**
+
+These regions are involved in various cognitive functions including memory, cognition, and motor control.

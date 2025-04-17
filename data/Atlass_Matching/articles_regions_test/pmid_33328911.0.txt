@@ -1,0 +1,28 @@
+1. **Medial Temporal Lobe**
+   - Hippocampus (HC)
+
+2. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex
+   - Posterior parietal cortex
+   - Hippocampus (HC)
+   - Precuneus
+   - Inferior parietal lobe
+   - Lateral temporal lobe
+
+3. **Default Mode Network (DMN) Subsystem**
+   - Posterior cingulate cortex
+   - Inferior parietal cortex
+   - Lateral temporal cortex
+
+4. **Regions of Interest (ROIs) within DMN**
+   - Dorsomedial prefrontal cortex (DMPFC)
+   - Posterior cingulate cortex (PCC)
+   - Angular gyrus (AG)
+   - Middle temporal gyrus (MTG)
+   - Hippocampus (HC)
+
+5. **Other Brain Regions**
+   - Posterior cingulate
+   - Temporoparietal junction
+
+- These regions are involved in these cognitive functions: memory encoding, successful memory function, and subsequent memory outcomes.

@@ -1,0 +1,55 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Somato-sensory Cortex**
+
+2. **Visual Cortex**
+
+3. **Thalamus**
+   - Thalamo-cortical neurons
+   - Medial geniculate nucleus
+
+4. **Reticular Thalamic Cells**
+
+5. **Cortical Neurons**
+
+6. **Auditory Cortex**
+   - Primary auditory cortex (Heschl’s transverse gyrus)
+   - Superior temporal gyrus (STG)
+   - Nuclei of the lateral lemniscus
+   - Inferior colliculus
+   - Heschl’s gyri
+
+7. **Pons**
+
+8. **Cerebellum**
+
+9. **Middle Frontal Gyrus**
+
+10. **Precuneus**
+
+11. **Posterior Cingulate Gyrus**
+
+12. **Amygdala**
+
+13. **Prefrontal Cortex**
+   - Ventral prefrontal cortex
+
+14. **Caudate Nuclei**
+
+15. **Brainstem**
+   - Cochlear nuclear groups
+   - Trapezoid bodies
+   - Superior olivary complex
+
+16. **Frontal Cortex**
+   - Frontal EEG array (Fp1, Fp2, F3, F4, F7, F8, Fz, F1, F2, AF3, AF4, F5, F6, AF7, AF8, AFz)
+
+17. **Parietal Cortex**
+   - Temporo-parieto-occipital junction (TPO)
+
+18. **Occipital Cortex**
+
+19. **Temporal Cortex**
+   - Anterior portion of the pSTG/S
+
+These regions are involved in various cognitive functions, including sensory processing, sleep regulation, and higher-order cognitive processes such as attention and memory.

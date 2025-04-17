@@ -1,0 +1,42 @@
+Based on the neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Frontal motor cortex
+   - Inferior frontal gyrus (IFG)
+   - Precentral gyrus
+
+2. **Parietal Lobe**
+   - Precuneus (Pcu)
+   - Postcentral gyrus
+   - Parahippocampal gyrus (PHG)
+
+3. **Occipital Lobe**
+   - Lingual gyrus (LG)
+   - Cuneus (CU)
+   - Calcarine gyri
+   - Visual association cortex
+
+4. **Temporal Lobe**
+   - Parahippocampal gyrus (PHG)
+
+5. **Limbic Lobe**
+   - Posterior cingulate
+
+6. **Corpus Callosum**
+
+7. **Cerebellum**
+   - Left cerebellar anterior lobe
+   - Left cerebellar posterior lobe
+
+8. **White Matter (WM)**
+   - Cingulum bundle
+   - Frontal lobe WM
+   - Deep gray matter
+
+9. **Other**
+   - Basal ganglia
+   - Sensorimotor areas
+   - Premotor areas
+   - Primary somatosensory area
+
+These regions are involved in various cognitive functions, including executive functions, visuospatial abilities, visual memory, reasoning, attention, and memory.

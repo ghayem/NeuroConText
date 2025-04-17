@@ -1,0 +1,47 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Salience Network (SN)**
+    - Insula
+    - Anterior cingulate cortex (ACC)
+
+2. **Prefrontal Cortex**
+
+3. **Left Angular Gyrus**
+
+4. **Medial and Lateral Temporal Cortex**
+
+5. **Bilateral Temporal Lobes**
+    - Right superior occipital gyrus
+    - Left supramarginal gyrus
+
+6. **Bilateral Frontal Lobes**
+
+7. **Occipital Lobes**
+
+8. **Right Cerebellum**
+
+9. **Right Fusiform Gyrus**
+
+10. **Right Hippocampus**
+
+11. **Bilateral Superior Parietal Gyri**
+
+12. **Left Calcarine**
+
+13. **Left Caudate**
+
+14. **Right Fronto-Insula Cortex**
+
+15. **Right Inferior Frontal Gyrus**
+
+16. **Left Lingual Gyrus**
+
+17. **Left Rolandic Operculum**
+
+18. **Right Superior Frontal Lobe**
+
+19. **Right Fronto-Insula Seed**
+
+20. **Left ACC**
+
+These regions are involved in various cognitive functions, including emotional processing, depression, social cognition, reward, explicit memory, negative emotion, visual-spatial abilities, frontal lobe function, and depressive state or severity in Parkinson's disease with mild cognitive impairment (PD-MCI).

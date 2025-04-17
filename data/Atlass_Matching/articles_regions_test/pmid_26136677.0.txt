@@ -1,0 +1,48 @@
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral PFC
+   - Orbitofrontal cortex (OFC)
+   - Anterior cingulate cortex (ACC)
+
+2. **Striatum**
+   - Caudate
+     - Inferior ventral striatum (VSi)
+     - Superior ventral striatum (VSs)
+     - Dorsal caudate (DC)
+   - Putamen
+     - Ventral rostral putamen (VRP)
+     - Dorsal rostral putamen (DRP)
+     - Dorsal caudal putamen (DCP)
+   - Nucleus accumbens
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Anterior Thalamus**
+   - Ventral anterior thalamus
+   - Ventral lateral thalamus
+
+5. **Subcortical Areas**
+   - Putamen
+   - Pallidum
+   - Insula
+
+6. **Inferior Frontal Gyrus (IFG)**
+
+7. **Frontal Lobe**
+   - Left ventral lateral thalamus
+   - Right ventral lateral thalamus
+
+8. **Caudal Cingulate Motor Area**
+
+9. **Subcallosal ACC**
+
+10. **Dorsal Lateral PFC**
+
+11. **Primary and Secondary Sensorimotor Areas**
+
+12. **Rostral ACC**
+
+13. **Middle Frontal Gyrus**
+
+14. **Superior Frontal Gyrus**
+
+- These regions are involved in cognitive functions such as reward processing, affective and motivational processing, cognitive control, inhibitory control, conflict monitoring, error processing, and motor control.

@@ -1,0 +1,25 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Posterior Cingulate Cortex (PCC)**
+
+3. **Ventral Striatum**
+
+4. **Frontal Cortex**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Parietal Cortex
+
+5. **Precuneus**
+
+6. **Frontoparietal Network (FPN)**
+
+7. **Default Mode Network (DMN)**
+
+8. **Posterior Cerebellum**
+
+9. **Dorsal/Ventral Striatum**
+
+10. **Temporal Cortices**
+
+These regions are involved in various cognitive functions such as self-referential processing, cognitive control, and social cognition.

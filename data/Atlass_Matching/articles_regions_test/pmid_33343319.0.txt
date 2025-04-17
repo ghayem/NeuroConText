@@ -1,0 +1,32 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Middle Frontal Gyrus (MFG)**
+   - Left middle frontal gyrus
+
+2. **Orbitofrontal Cortex (OFC)**
+
+3. **Thalamus**
+   - Left thalamus
+
+4. **Pituitary**
+
+5. **Precuneus**
+   - Left precuneus
+
+6. **Medial Frontal Gyrus (MedFG)**
+   - Left medial frontal gyrus
+
+7. **Cuneus**
+
+8. **Caudate Nucleus**
+
+9. **Globus Pallidus**
+
+Additionally, the following networks and general areas are mentioned:
+
+- **White Matter**
+- **Gray Matter (GM)**
+- **Default Mode Network (DMN)**
+- **Visual Network**
+
+These regions are involved in various cognitive functions such as self-consciousness, memory, executive function, visual processing, and self-referential processing.

@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions:
+
+1. **Wernicke's Area**
+    - First temporal gyrus
+    - Second temporal gyrus
+    - Brodmann areas 21 and 22 (BA21 and BA22)
+    - Angular gyrus
+    - Supramarginal gyrus
+
+2. **Left Hemisphere**
+    - Anterior temporal lobes
+    - Left dorsomedial prefrontal cortex
+    - Posterior cingulate cortex
+    - Left superior temporal gyrus
+    - Left middle temporal gyrus
+    - Left inferior temporal gyrus
+    - Posterior inferior temporal-occipital region
+    - Inferior parietal lobe
+    - Left temporal lobe
+    - Left prefrontal cortex (BA46 and BA9)
+    - Left inferior frontal lobe (BA47)
+    - Left inferior temporal lobe (BA37)
+    - Cingulate gyrus (BA30)
+    - Occipital gyrus (BA19)
+    - Middle temporal gyrus
+    - Fusiform gyrus
+    - Angular gyrus (BA39)
+    - Temporal pole (BA38)
+    - Ectorhinal area (BA36)
+    - Posterior inferior temporal gyrus, fusiform gyrus (BA37)
+    - Supramarginal gyrus (BA40)
+    - Primary auditory cortex (BA41 and BA42)
+
+3. **Right Hemisphere**
+
+4. **Other Regions**
+    - Peri-Sylvian area of the left hemisphere
+    - Inferior temporal gyrus
+    - Anterior part of the fusiform gyrus (BA20)
+    - Insula (BA13)
+
+These regions are involved in various cognitive functions, including language processing, auditory processing, and semantic understanding.

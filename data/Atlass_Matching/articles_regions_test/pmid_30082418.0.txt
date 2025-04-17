@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+   - Anterior medial hippocampus
+     - Pre/parasubiculum
+   - Posterior hippocampus
+   - Anterior lateral hippocampus
+     - Prosubiculum/CA1
+
+2. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Entorhinal cortex (ENT)
+   - Perirhinal cortex (PRC)
+   - Parahippocampal cortex (PHC)
+   - Retrosplenial cortex (RSC)
+   - Posterior cingulate cortex (PCC)
+
+3. **Early Visual Cortices (EVCs)**
+   - Precuneus (inferior portions)
+   - Calcarine sulcus
+   - Lingual gyrus
+   - Posterior fusiform cortex
+
+4. **Other Regions**
+   - Anterior medial hippocampus
+     - Uncus
+   - Posterior portions of the EVC
+   - Anterior lateral hippocampus
+     - Prosubiculum/CA1
+   - Left anterior medial hippocampus
+
+- These regions are involved in these cognitive functions: memory, spatial navigation, scene perception, short-term memory, constructing mental representations, imagining the future, decision-making, mind-wandering, object processing, spatial processing, and associative processing.

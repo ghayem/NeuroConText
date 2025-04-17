@@ -1,0 +1,62 @@
+1. **Cortical Areas**
+   - Widespread cortical areas
+
+2. **Anterior Cingulate Cortex**
+
+3. **Posterior Cingulate Cortex**
+   - Precuneus
+   - Ventral posterior cingulate cortex
+   - Dorsal posterior cingulate cortex
+   - Retrosplenial cortex
+
+4. **Subgenual Anterior Cingulate Cortex**
+
+5. **Dorsal Anterior Cingulate Cortex**
+
+6. **Ventromedial Prefrontal Cortex**
+
+7. **Parahippocampal Area**
+   - Ant thalamus (connected to the retrosplenial cortex)
+   - Hippocampus
+   - Parahippocampus
+
+8. **Lingual Gyrus**
+
+9. **Auditory Cortex**
+
+10. **Default Mode Network**
+    - Posterior cingulate cortex ( hub)
+    - Precuneus
+    - Dorsolateral prefrontal cortex
+    - Subgenual anterior cingulate cortex
+    - Ventromedial prefrontal cortex
+    - Parahippocampal area
+    - Amygdala
+    - Insula
+
+11. **Salience Network**
+    - Dorsal anterior cingulate cortex (core region)
+    - Medial thalamic nuclei
+    - Insula
+    - Prefrontal cortices
+    - Amygdala
+
+12. **Distress Network**
+    - Subgenual anterior cingulate cortex/ventromedial prefrontal cortex
+    - Parahippocampus
+    - Dorsal anterior cingulate cortex
+    - Posterior cingulate cortex
+
+13. **Loudness Network**
+    - Parahippocampal area
+    - Subgenual anterior cingulate cortex/ventromedial prefrontal cortex
+
+These regions are involved in these cognitive functions and processes:
+- Tinnitus loudness and distress
+- Auditory sensory uncertainty and prediction
+- Self-referential processing and adaptation
+- Memory retrieval and processing
+- Attention and cognitive processing
+- Emotional and cognitive distress
+- Salience-based cognitive auditory comparator function
+- Cross-frequency coupling and communication between cortically distant areas

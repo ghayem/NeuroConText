@@ -1,0 +1,57 @@
+1. **Cerebellum**
+   - Cerebellar hemispheres
+   - Cerebellar hemispheric lobule III–VI
+   - Cerebellar hemispheric lobule VIII/IX
+   - Cerebellar vermis
+   - Cerebellar vermis lobule III-VI
+   - Cerebellar vermis lobule VIII/X
+   - Cerebellar vermis lobule VI/VII
+
+2. **Brainstem**
+   - Pons
+   - Pontine tegmentum
+   - Basal part of the pons
+
+3. **Cortical Regions**
+   - Right lingual gyrus
+   - Right fusiform gyrus
+   - Right Rolandic operculum
+   - Left insula
+   - Right precentral gyrus
+
+4. **White Matter Regions**
+   - Middle cerebellar peduncles
+   - Right corticospinal tract
+   - Left lingual gyrus
+
+5. **Subcortical Regions**
+   - Subcortical gray matter
+
+6. **Frontal Lobe**
+   - Frontal lobe
+
+7. **Parietal Lobe**
+   - Parietal lobe
+
+8. **Temporal Lobe**
+   - Temporal lobe
+
+9. **Occipital Lobe**
+   - Occipital lobe
+
+10. **Basal Ganglia**
+    - Basal ganglia
+
+11. **Cerebral Cortex**
+    - Cerebral cortex
+
+12. **Cerebral Hemispheres**
+    - Cerebral hemispheres
+
+13. **Midbrain**
+    - Midbrain
+
+14. **Cerebellar Peduncles**
+    - Cerebellar peduncles
+
+- These regions are involved in various motor and cognitive functions, including motor coordination, visuospatial tasks, verbal memory, executive tasks, visual guidance of movement, balance and gait, eye movement control, visual recognition, episodic memory, emotional control, and cognitive impairment.

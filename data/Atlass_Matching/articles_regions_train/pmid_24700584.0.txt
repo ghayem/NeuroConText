@@ -1,0 +1,35 @@
+1. **Medial Prefrontal Cortex (mPFC)**
+   - Dorsal mPFC
+   - Ventral mPFC
+
+2. **Sensorimotor Cortex**
+
+3. **Posterior Cortical Regions**
+
+4. **Medial Cortical Regions**
+
+5. **Medial Parietal Cortex**
+
+6. **Left Lateral Temporo-Parietal Cortex**
+
+7. **Left Inferior Frontal Cortex**
+
+8. **Left Middle Temporal Cortex**
+
+9. **Left Inferior Lateral Parietal Cortex**
+
+10. **Left Dorsolateral Prefrontal Cortex (PFC)**
+
+11. **Medial Frontal Cortex**
+
+12. **Bilateral Anterior Insula**
+
+13. **Striatum**
+
+14. **Secondary Visual Regions**
+
+15. **Right Parietal Cortex**
+
+16. **Anterior Rostral Medial PFC**
+
+These regions are involved in these cognitive functions: social cognition, self-referential processing, episodic memory, conceptual self-processing, bodily self-processing, retrieval processes, postretrieval processing, decision making, and value judgments.

@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions:
+
+1. **Central Nervous System (CNS)**
+
+2. **Ventral Striatum**
+
+3. **Cingulate Cortex**
+
+4. **Caudate Nucleus**
+
+5. **Orbitofrontal Cortex**
+
+6. **Medial Prefrontal Cortex (mPFC)**
+
+7. **Prefrontal Cortex**
+
+8. **Temporal Cortex**
+
+9. **Occipital Cortex**
+
+10. **Nucleus Accumbens**
+
+11. **Ventral Tegmental Area**
+
+12. **Amygdala**
+
+13. **Thalamus**
+
+14. **Hippocampus**
+
+15. **Parietal Cortex**
+
+16. **Frontal Cortex**
+
+17. **Anterior Cingulate Cortex (ACC)**
+
+18. **Lateral Posterior Cingulate Cortex**
+
+19. **Occipital Gyrus**
+
+20. **Temporal Gyrus**
+
+21. **Lateral Occipital Cortex**
+
+22. **Middle Frontal Gyrus**

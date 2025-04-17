@@ -1,0 +1,44 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Thalamus**
+   - Right thalamus
+
+2. **Cingulate Gyrus**
+   - Anterior cingulate gyrus
+   - Mid cingulate gyrus
+
+3. **Frontal Lobe**
+   - Frontal pole
+   - Inferior frontal gyrus
+
+4. **Temporal Lobe**
+   - Temporal lobe
+   - Hippocampus
+   - Amygdala
+
+5. **Cortical Regions**
+   - Focal cortical dysplasia
+   - Cingulate cortex
+
+6. **Parietal Lobe**
+   - Parieto-occipital regions
+
+7. **Occipital Lobe**
+   - Occipital regions
+
+8. **Other Regions**
+   - Rolandic area
+   - Epileptogenic focus
+
+9. **Vascular and Hemodynamic Regions**
+   - Cerebral blood flow (CBF)
+   - Oxyhemoglobin (HbO)
+   - Deoxyhemoglobin (Hb)
+   - Total hemoglobin (HbT)
+
+10. **Physiological Regions**
+    - Respiratory system
+    - Cardiac system
+    - Autonomic nervous system
+
+These regions are involved in various cognitive and physiological functions, including language, memory, executive functions, respiratory control, and consciousness.

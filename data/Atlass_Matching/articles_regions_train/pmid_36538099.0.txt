@@ -1,0 +1,34 @@
+## Brain Regions and Sub-regions:
+
+1. **Ventral Tegmental Area (VTA)**
+
+2. **Prefrontal Cortex (PFC)**
+
+3. **Ventral Striatum (VS)**
+
+4. **Putamen**
+
+5. **Insula**
+   - Sub-units:
+     - Subjective processing of emotionally relevant content
+     - Processing of uncertainty
+
+6. **Medial Prefrontal Cortex**
+
+7. **Nucleus Accumbens (Nacc)**
+
+8. **Ventral Pallidum**
+
+9. **Amygdala**
+
+10. **Midbrain**
+
+11. **Orbitofrontal Cortex (OFC)**
+
+12. **Precentral Gyri**
+
+13. **Anterior Cingulate Cortex (ACC)**
+
+14. **Thalamus**
+
+15. **Red Nucleus**

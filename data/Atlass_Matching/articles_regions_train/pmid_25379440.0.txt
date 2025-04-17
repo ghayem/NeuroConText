@@ -1,0 +1,60 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Mid-cingulate cortex (MCC)
+
+2. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Medial prefrontal cortex (mPFC)
+
+3. **Insula**
+   - Left insula
+   - Right insula
+   - Mid-insula
+
+4. **Hypothalamus**
+
+5. **Precuneus**
+   - Dorsal precuneus
+
+6. **Sensorimotor Cortex**
+
+7. **Posterior Temporal Cortex**
+
+8. **Hippocampus**
+   - Right hippocampus
+   - Left hippocampus
+
+9. **Parahippocampus**
+   - Right parahippocampus
+
+10. **Caudate Nucleus**
+
+11. **Retrosplenial Cortex**
+
+12. **Medulla/Pons**
+
+13. **Cerebellum**
+
+14. **Primary Motor Cortex**
+   - Left primary motor cortex
+   - Right primary motor cortex
+
+15. **Premotor Cortex**
+   - Left premotor cortex
+
+16. **Occipital Lobe**
+
+17. **Amygdala**
+   - Left amygdala
+   - Right amygdala
+
+18. **Posterior Cingulate**
+   - Right posterior cingulate
+
+19. **Rostral Ventrolateral Medulla (RVLM)**
+
+20. **Nucleus Tractus Solitarius (NTS)**
+
+These regions are involved in various functions, including autonomic control, sympathetic nerve activity, and cardiovascular regulation.

@@ -1,0 +1,36 @@
+## Brain Regions and Sub-regions:
+
+1. **Amygdala**
+    - Left amygdala
+    - Right amygdala
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Rostral Anterior Cingulate Cortex (rACC)**
+    - Left rostral anterior cingulate cortex (rACC)
+
+4. **Dorsal/Midcingulate Cortex**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+6. **Subgenual Anterior Cingulate Cortex (sgACC)**
+
+7. **Superior Temporal Gyrus (STG)**
+    - Left superior temporal gyrus (STG)
+
+8. **Insula**
+    - Left insula
+
+9. **Postcentral Gyrus (PCG)**
+    - Bilateral postcentral gyrus (PCG)
+
+10. **Parahippocampal Gyrus (PHG)**
+    - Right parahippocampal gyrus (PHG)
+
+11. **Inferior Frontal Gyrus (IFG)**
+    - Right inferior frontal gyrus (IFG)
+
+12. **Cerebellum**
+    - Right cerebellum
+
+These regions are involved in emotional processing, cognitive control, memory encoding, language comprehension, sensory information processing, and executive functions.

@@ -1,0 +1,41 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontal Lobe**
+    - Orbitofrontal cortex (BA 10, BA 11)
+    - Middle frontal cortex
+    - Right primary motor regions
+
+2. **Temporal Lobe**
+    - Anterior temporal brain regions
+    - Right temporal pole (BA 38)
+
+3. **Parietal Lobe**
+    - Posterior cingulate
+    - Precuneus
+
+4. **Occipital Lobe**
+    - Left occipital cortex (BA 18)
+
+5. **Insula**
+    - Anterior insula
+
+6. **Limbic System**
+
+7. **White Matter (WM) Regions**
+    - Superior longitudinal fasciculus (SLF)
+    - Corticospinal tract (CST)
+    - Inferior longitudinal fasciculus (ILF)
+    - Inferior fronto-occipital fasciculus (IFO)
+    - Cingulum
+    - Corpus callosum
+    - Uncinate fasciculus
+    - Frontal corpus callosum
+    - Splenium of corpus callosum
+
+8. **Additional Subcortical Areas**
+    - Subcortical gray matter (GM)
+    - Cortical GM
+    - Brainstem
+    - Cerebellum
+
+These regions are involved in cognitive functions such as behavior, language, executive functions, and memory, which are affected in frontotemporal degeneration (FTD).

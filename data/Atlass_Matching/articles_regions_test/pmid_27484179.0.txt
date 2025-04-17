@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+
+2. **Temporal Lobe**
+   - Lateral temporal lobes
+   - Medial temporal lobes
+
+3. **Frontal Lobe**
+   - Frontal lobe
+   - Inferior frontal gyrus
+   - Medial frontal gyrus
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Anterior part of the insula
+
+4. **Precuneus**
+
+5. **Parietal Lobe**
+   - Superior parietal lobe
+   - Posterior cingulate
+   - Mid-cingulate
+   - Anterior cingulate cortex
+   - Left anterior cingulate
+
+6. **Basal Ganglia**
+   - Putamen
+   - Pallidum
+   - Substantia nigra
+   - Substantia innominata
+
+7. **Hypothalamus**
+
+8. **Right Insula**
+
+9. **Cerebellum**
+
+10. **Occipital Lobe**
+    - Inferior occipital lobe
+
+11. **Middle Temporal Gyrus**
+
+12. **Cuneus**
+   - Left cuneus
+
+13. **Insulae**
+   - Bilateral insulae
+   - Anterior insulae
+   - Right anterior part of the insula
+
+14. **Right Hippocampus**
+
+15. **Left Hippocampus**

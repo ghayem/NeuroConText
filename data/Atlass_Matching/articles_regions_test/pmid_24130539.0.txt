@@ -1,0 +1,90 @@
+### Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Inferior Temporal Cortex**
+   - Involved in visual stimuli processing.
+
+2. **Primary Somatosensory Cortex**
+   - Involved in tactile stimuli processing.
+
+3. **Primary Auditory Cortex**
+   - Involved in auditory stimuli processing.
+
+4. **Posterior Auditory Fields**
+   - Involved in auditory stimuli processing.
+
+5. **Posterior Association Cortices**
+   - Involved in representing cross-modal associations.
+
+6. **Prefrontal Association Cortices**
+   - Involved in representing cross-modal associations.
+
+7. **Medial Temporal Cortex**
+   - Involved in mediating memory traces.
+
+8. **Inferior Temporal Sulcus**
+   - Involved in linguistic AV memory.
+
+9. **Inferior Parietal Lobule**
+   - Involved in lexical/semantic processing.
+     - **Angular Gyrus (AG)**
+       - Involved in semantic processing and supramodal integration.
+
+10. **Posterior Cingulate Cortex (PCC)**
+    - Involved in lexical/semantic processing and episodic memory.
+
+11. **Inferior Frontal Gyri**
+    - Involved in word processing, comprehension, and naming.
+     - **Pars Triangularus**
+     - **Pars Opercularis**
+
+12. **Superior Temporal Sulcus**
+    - Involved in linguistic AV memory.
+
+13. **Superior Temporal Gyrus**
+    - Involved in linguistic AV memory.
+     - **Middle Temporal Gyrus**
+       - Involved in lexical access or comprehension.
+
+14. **Anterior Cingulate Cortex**
+    - Involved in linguistic AV memory.
+
+15. **Supplementary Motor Area**
+    - Involved in linguistic AV memory.
+
+16. **Ventral Thalamus**
+    - Involved in linguistic AV memory.
+
+17. **Motor Cortex**
+    - Involved in linguistic AV memory.
+
+18. **Intraparietal Sulcus**
+    - Involved in spatial representation, visual search, and visual working memory.
+     - **Ventral Intraparietal Sulcus (HIP1)**
+
+19. **Rolandic Operculum**
+    - Involved in non-linguistic auditory processing.
+
+20. **Hippocampus**
+    - Involved in episodic memory and semantic memory.
+
+21. **Insula**
+    - Involved in linguistic AV memory.
+
+22. **Primary Visual Cortex**
+    - Involved in linguistic AV memory.
+
+23. **Middle Longitudinal Fasciculus**
+    - Connects AG with middle temporal gyrus and other linguistically related temporal areas.
+
+24. **Posterior Segment of the Arcuate Fasciculus**
+    - Connects AG with other linguistically related temporal areas.
+
+25. **Third Branch of the Superior Longitudinal Fasciculus**
+    - Connects AG and Broca's area.
+
+### Cognitive Functions Involved:
+
+- **Language**: Involves regions such as the inferior frontal gyri, angular gyrus, and middle temporal gyrus.
+- **Memory**: Involves regions such as the medial temporal cortex, hippocampus, and posterior cingulate cortex.
+- **Executive Functions**: Involves regions such as the prefrontal association cortices and anterior cingulate cortex.
+- **Sensory Processing**: Involves regions such as the inferior temporal cortex, primary somatosensory cortex, and primary auditory cortex.

@@ -1,0 +1,33 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Amygdala**
+    - Basolateral amygdala
+    - Right amygdala
+    - Left amygdala
+
+2. **Hippocampus**
+
+3. **Frontal Regions**
+    - Anterior cingulate cortex (ACC)
+        - Dorsal ACC
+        - Pregenual ACC
+    - Medial prefrontal cortex (mPFC)
+    - Dorsomedial prefrontal cortex (dmPFC)
+    - Ventromedial prefrontal cortex (vmPFC)
+    - Dorsolateral prefrontal cortex (dlPFC)
+
+4. **Cingulate Cortex**
+    - Middle cingulate cortex (MCC)
+
+5. **Insular Cortex**
+    - Anterior insular cortex
+
+6. **Fusiform Regions**
+    - Fusiform gyrus
+
+7. **Supplementary Motor Area**
+    - Premotor supplementary motor area (SMA)
+
+8. **Posterior Dorsomedial Frontal Cortex**
+
+These regions are involved in various cognitive and emotional functions, including emotion processing, emotional responses, cognitive control, and emotional regulation.

@@ -1,0 +1,106 @@
+## Brain Regions and Sub-regions:
+
+1. **Subcortical White Matter**
+
+2. **Corticospinal Tract (CST)**
+
+3. **Central Part of the Corpus Callosum**
+
+4. **Frontal Areas**
+
+5. **Corona Radiata**
+
+6. **Pons**
+
+7. **Crus Cerebri**
+
+8. **Precentral Gyrus**
+
+9. **Supplementary Motor Cortex**
+
+10. **Parahippocampal Gyrus**
+
+11. **Postcentral Gyrus**
+
+12. **Premotor Area**
+
+13. **Temporal Areas**
+
+14. **Internal Capsule**
+
+15. **External Capsule**
+
+16. **Gyrus Frontalis Medialis**
+
+17. **Insula**
+
+18. **Limbic System**
+   - Amygdala
+   - Fusiform Gyrus
+   - Uncus
+
+19. **Thalamus**
+
+20. **Culmen (Cerebellum)**
+
+21. **Declive (Cerebellum)**
+
+22. **Cerebellum (Anterior Lobe, Dentatus, Fastigium)**
+
+23. **Mesencephal**
+
+24. **Right Middle Frontal Gyrus**
+
+25. **Brain Stem**
+
+26. **Parietal Lobe**
+
+27. **Corpus Callosum**
+
+28. **White Matter of Precentral Gyrus**
+
+29. **Cerebellum**
+
+30. **Central Sulcus**
+
+31. **Orbitofrontal Cortex**
+
+32. **Frontal Cortices**
+
+33. **Hippocampal Formations**
+
+34. **Cingulum**
+
+35. **Frontal White Matter**
+
+36. **Basal Ganglia**
+
+37. **Sensorimotor Network**
+
+38. **Motor System**
+
+39. **Pyramidal Motor System**
+
+40. **Frontotemporal Areas**
+
+41. **Frontal Lobes**
+
+42. **Parieto-occipital Junction**
+
+43. **Temporo-parieto-occipital Junction (TPO)**
+
+44. **Superior Temporal Plane (STP)**
+
+45. **Planum Temporale (PT)**
+
+46. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+47. **Middle Superior Temporal Cortex**
+
+48. **Anterior Portion of the pSTG/S**
+
+49. **Frontal Cortex**
+
+50. **Premotor Cortex**
+
+These regions are involved in various cognitive functions, including motor control, language, memory, and executive functions.

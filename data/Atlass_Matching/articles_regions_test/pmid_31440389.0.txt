@@ -1,0 +1,55 @@
+1. **Substantia Nigra (SN)**
+
+2. **Brainstem**
+
+3. **Cortex**
+
+4. **Putamen**
+   - Bilateral putamen
+
+5. **Caudate**
+   - Bilateral caudate
+
+6. **Anterior Cingulate**
+
+7. **Parietal Lobe**
+   - Bilateral parietal lobes
+
+8. **Temporal Lobe**
+   - Bilateral temporal lobes
+
+9. **Prefrontal Cortex**
+   - Prefrontal area
+
+10. **Cerebellum**
+    - Vermis
+
+11. **Pallido-thalamic**
+
+12. **Pontine**
+
+13. **Supplementary Motor Area (SMA)**
+
+14. **Parietal Association**
+
+15. **Premotor Cortex**
+
+16. **Medial Frontal**
+
+17. **Parietal Associated Regions**
+
+18. **Lateral Frontal Cortices**
+
+19. **Middle Temporal Gyrus**
+
+20. **Bilateral Parietal Association Cortices**
+
+21. **Bilateral Occipital Cortices**
+
+22. **Striatum**
+
+23. **Subthalamic Nucleus**
+
+24. **Frontal Lobe**
+
+These regions are involved in various cognitive functions, motor control, and other neurological processes affected by Parkinson's disease.

@@ -1,0 +1,106 @@
+## Brain Regions and Sub-regions
+
+1. **Thalamus**
+
+2. **Cerebellum**
+
+3. **Amygdala**
+   - Right amygdala
+   - Left amygdala
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Anterior cingulate gyri
+   - Dorsal anterior cingulate cortex (dACC)
+
+5. **Hippocampus**
+   - Right hippocampus
+   - Left hippocampus
+
+6. **Insular Cortex**
+   - Right insular regions
+   - Left insular cortex
+
+7. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex
+
+8. **Parahippocampal Gyrus**
+
+9. **Supplementary Motor Area (SMA)**
+   - Right SMA
+   - Left SMA
+
+10. **Middle Temporal Gyrus (MTG)**
+    - Right MTG
+    - Left MTG
+
+11. **Superior Temporal Gyrus (STG)**
+    - Left temporal pole (of the STG)
+
+12. **Fusiform Gyrus**
+    - Right fusiform gyrus
+
+13. **Orbitofrontal Cortex (OFC)**
+
+14. **Caudate Nucleus**
+    - Right caudate nucleus
+    - Left caudate nucleus
+
+15. **Putamen**
+    - Right putamen
+    - Left putamen
+
+16. **Middle Cingulate Cortex (MCC)**
+    - Right middle cingulate cortex
+
+17. **Posterior Cingulate Cortex (PCC)**
+    - Left posterior cingulate cortex
+    - Right posterior cingulate cortex
+
+18. **Cerebellar Lobules**
+    - Cerebellar lobule Crus I
+    - Cerebellar lobule Crus II
+    - Cerebellum 3
+    - Cerebellum 6
+    - Cerebellum 7b
+    - Cerebellum 9
+
+19. **Primary and Secondary Somatosensory Cortices (SI, SII)**
+
+20. **Rolandic Operculum**
+    - Left rolandic operculum
+
+21. **Corpus Callosum**
+    - Forceps major
+    - Forceps minor
+    - Tapetum corporis callosi
+
+22. **Corticospinal Tract**
+    - Left corticospinal tract
+    - Right corticospinal tract
+
+23. **Fornix**
+    - Bilateral fornix
+
+24. **Superior Corticostriatal Tract**
+    - Bilateral superior corticostriatal tract
+
+25. **Superior Thalamic Radiation**
+    - Right superior thalamic radiation
+
+26. **Arcuate Fasciculus**
+    - Left arcuate fasciculus
+
+27. **Dentato-rubro-thalamic Tract**
+    - Left dentato-rubro-thalamic tract
+
+28. **Medial Lemniscus**
+    - Bilateral medial lemniscus
+
+29. **Middle Cerebellar Peduncle**
+    - Bilateral middle cerebellar peduncle
+
+30. **Parolfactory Cingulum**
+    - Right parolfactory cingulum
+
+31. **Inferior Fronto-occipital Fasciculus**
+    - Right inferior fronto-occipital fasciculus

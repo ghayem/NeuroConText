@@ -1,0 +1,101 @@
+1. **Amygdala**
+
+2. **Anterior Cingulate Cortex (ACC)**
+
+3. **Hippocampus**
+
+4. **Insula**
+
+5. **Cingulate Cortices**
+
+6. **Striatum**
+
+7. **Anterior cingulate cortex (ACC)**
+
+8. **Bilateral ACC**
+
+9. **Bilateral Insula**
+
+10. **Bilateral Amygdala**
+
+11. **Bilateral Middle Temporal Gyrus (MTG)**
+
+12. **Paracingulate Gyrus**
+
+13. **Inferior Frontal Gyrus**
+
+14. **Lateral Occipital Cortex**
+
+15. **Parietal Lobules**
+
+16. **Left Parietal Lobule**
+
+17. **Precentral Gyrus**
+
+18. **Lateral Occipital Cortex**
+
+19. **Mid Frontal Gyrus**
+
+20. **Superior Parietal Lobule (SPL)**
+
+21. **Precentral, Midfrontal, and Lateral Occipital Regions**
+
+22. **Inferior Frontal Gyrus**
+
+23. **Inferior Parietal Lobule**
+
+24. **Cingulate and Paracingulate Cortices**
+
+25. **Right Thalamus**
+
+26. **Parietal Lobules**
+
+27. **Inferior Frontal Gyrus**
+
+28. **Inferior Parietal Lobule**
+
+29. **Supramarginal Gyrus**
+
+30. **Middle Frontal Gyrus**
+
+31. **Frontoparietal Network**
+
+32. **Temporoparietal Junction**
+
+33. **Medial Prefrontal Cortex**
+
+34. **Inferior Frontal Gyrus**
+
+35. **Medial Frontal Gyrus**
+
+36. **Subgenual Cingulate Region**
+
+37. **Hypothalamus**
+
+38. **Postcentral Gyrus**
+
+39. **Subcortical Regions**
+
+40. **Striatum**
+
+41. **Parietal Lobules**
+
+42. **Inferior Frontal Gyrus**
+
+43. **Inferior Parietal Lobule**
+
+44. **Cingulate**
+
+45. **Paracingulate Cortices**
+
+46. **Prefrontal Cortex**
+
+47. **Pre and Postcentral Cortex**
+
+48. **Dorsal and Medial Raphe Nuclei of the Brainstem**
+
+49. **Limbic and Cortical Regions**
+
+50. **Raphe Nuclei**
+
+These regions are involved in various cognitive functions including emotion processing, attention, cognitive control of negative emotions, and neural mechanisms associated with depression.

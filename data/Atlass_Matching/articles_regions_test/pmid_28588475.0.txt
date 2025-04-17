@@ -1,0 +1,33 @@
+Based on the neuroscientific article, the mentioned brain regions and sub-regions are as follows:
+
+1. **Substantia Nigra**
+2. **Striatum**
+3. **Prefrontal Cortex**
+4. **Insula**
+5. **Brain Stem**
+6. **Cerebellum**
+7. **Striato-cerebellar Circuitry**
+8. **Striatal Regions**
+   - Posterior Caudate
+   - Right Posterior Putamen
+   - Ipsilateral Putamen
+   - Contralateral Putamen
+   - Caudate Nucleus
+      - Ipsilateral Caudate Nucleus
+      - Contralateral Caudate Nucleus
+9. **Motor Cortex**
+10. **Premotor Cortex**
+11. **Vermis**
+12. **Bilateral Cerebellar Regions**
+13. **Precuneal Regions**
+14. **Occipital Regions**
+15. **Right Temporal Regions**
+16. **Posterior Insular Regions**
+17. **Bilateral Premotor Regions**
+18. **Supplementary Motor Area**
+19. **Anterior Cingulate Regions**
+20. **Middle Cingulate Regions**
+21. **Dorsolateral Prefrontal Regions**
+22. **Temporo-parietal Junction**
+
+These regions are involved in various motor and non-motor symptoms covered by the Unified Parkinson’s Disease Rating Scale (UPDRS) and its revised version (MDS-UPDRS). Specifically, the article discusses their roles in mood, physiology, automatized motor functions, motor deficits, and executive functions.

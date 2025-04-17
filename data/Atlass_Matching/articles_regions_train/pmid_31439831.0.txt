@@ -1,0 +1,40 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Mesostriatal pathway**
+   - Striatum
+     - Ventral striatum (VS)
+   - Midbrain
+
+2. **Medial temporal lobe (MTL)**
+   - Hippocampus
+   - Medial hippocampi
+   - Subicula
+
+3. **Reward processing regions**
+   - Ventral pallidum
+   - Midbrain
+   - Posterior cingulate cortex (PCC)
+   - Middle frontal gyrus (MFG)
+   - Superior frontal gyrus (SFG)
+   - Right inferior parietal lobule
+   - Right anterior insula
+
+4. **Salience network (SN)**
+   - Anterior cingulate cortex (ACC)
+   - Insular cortex (IC)
+     - Right insula
+     - Left insula
+     - Left insula/parietal operculum (PO)
+     - Left insula/claustrum
+   - Bilateral frontal operculae (FO)
+     - Left frontal operculum
+     - Right frontal operculum
+
+5. **Other regions**
+   - Ventral tegmentum
+   - Cingulate
+   - Right cerebellum posterior lobe
+   - Superior temporal gyrus
+   - Inferior frontal gyrus opercular part
+
+These regions are involved in various cognitive functions, including reward processing, salience processing, and psychotic symptom generation.

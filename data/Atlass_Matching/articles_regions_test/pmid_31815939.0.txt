@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Inferior Frontal Gyrus**
+
+2. **Dorsal Anterior Cingulate Cortex**
+
+3. **Posterior Parietal Cortex**
+
+4. **Posterior Cingulate Cortex (PCC)**
+   - Part of the posterior node of the default mode network (DMN)
+
+5. **Precuneus (PCu)**
+   - Part of the posterior node of the default mode network (DMN)
+
+6. **Dorsolateral Prefrontal Cortex/Frontal Pole**
+   - Left
+   - Right
+
+7. **Supramarginal Gyri**
+   - Left
+   - Right
+
+8. **Anterior Insula**
+   - Left
+   - Right
+
+9. **Primary Visual Cortex**
+   - Left
+
+10. **Cerebellum**
+    - Left
+
+- These regions are involved in these cognitive functions: executive control, response inhibition, attention, and default mode network functioning.

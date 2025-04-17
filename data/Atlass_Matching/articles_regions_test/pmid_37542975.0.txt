@@ -1,0 +1,30 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Cortical Regions**
+    - Anterior temporal poles
+    - Middle temporal gyrus (MTG)
+    - Precuneus (PCU)
+    - Lateral occipital gyrus (LOC)
+
+2. **Subcortical Regions**
+    - Deep gray matter
+        - Caudate
+        - Putamen
+        - Thalamus
+    - Basal ganglia
+
+3. **White Matter**
+    - White matter hyperintensities (WMHs)
+    - Normal-appearing white matter (NAWM)
+
+4. **Cerebral Small Vessel Disease (cSVD) Imaging Characteristics**
+    - White matter hyperintensities (WMHs)
+    - Cerebral microbleeds (CMBs)
+    - Enlarged perivascular spaces (ePVS)
+    - Lacunes
+
+5. **Other Regions**
+    - Entire brain
+    - Corticosubcortical regions
+
+- These regions are involved in various cognitive functions: memory, executive function, attention, working memory, visuospatial abilities, and language performance.

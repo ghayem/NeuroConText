@@ -1,0 +1,21 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Orbitofrontal Cortex**
+
+2. **Temporo-Occipital Cortex**
+
+3. **Nucleus Accumbens**
+
+4. **Caudate Nucleus**
+
+5. **Fusiform Gyrus (FG)**
+
+6. **Cerebellum**
+
+7. **Amygdala**
+
+8. **Posterior Superior Temporal Sulcus (pSTS)**
+
+9. **Inferior Frontal Gyrus**
+
+These regions are involved in various cognitive functions, including social perception, biological motion perception, and social network properties.

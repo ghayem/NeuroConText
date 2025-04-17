@@ -1,0 +1,16 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Parieto-occipital Areas**
+   - Occipital visual areas (BA 18, BA 19)
+   - Posterior middle temporal gyrus (pMTG; BA 37, BA 39)
+   - Parietal areas (PPC; BA 40, BA 7)
+
+2. **Motor Areas**
+   - Dorsal premotor areas (PMd; BA 6)
+   - Cortical motor areas (associated with beta oscillations)
+
+3. **Other Mentioned Regions**
+   - Inferior parietal lobule (ILP)
+   - Primary motor cortex
+
+These regions are involved in various cognitive and motor functions, including visuo-spatial attention, motor preparation, and action observation.

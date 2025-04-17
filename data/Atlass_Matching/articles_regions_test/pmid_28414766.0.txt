@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Lobe**
+    - Prefrontal cortex
+        - Dorsolateral prefrontal cortex (DLPFC)
+        - Ventrolateral prefrontal cortex (VLPFC)
+    - Orbito-frontal cortex (OFC)
+    - Inferior frontal gyrus
+
+2. **Temporal Lobe**
+    - Superior temporal gyrus
+    - Inferior temporal gyrus
+    - Temporo-parietal junction
+    - Angular gyrus (AG)
+
+3. **Parietal Lobe**
+    - Precuneus
+    - Inferior parietal lobule
+    - Superior parietal lobule
+
+4. **Occipital Lobe**
+    - Fusiform gyrus
+
+5. **Insula**
+
+6. **Limbic System**
+    - Hippocampus
+
+7. **Cingulate Cortex**
+    - Anterior cingulate
+    - Posterior cingulate
+
+8. **Other Regions**
+    - Insular cortex
+
+These regions are involved in various cognitive functions, including:
+- **Insight and self-awareness**: Prefrontal cortex, precuneus, insula
+- **Language and social cognition**: Superior temporal gyrus
+- **Face recognition**: Fusiform gyrus
+- **Memory and self-processing**: Precuneus, hippocampus
+- **Decision making and social behavior**: Orbito-frontal cortex
+- **Self-reflection and metacognition**: Dorsomedial and ventromedial prefrontal cortex, anterior and posterior cingulate, anterior insula, temporo-parietal junction, inferior parietal lobule

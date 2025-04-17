@@ -1,0 +1,83 @@
+## Brain Regions and Sub-Regions
+
+1. **Insula**
+    - Right insula
+    - Left ventral anterior insula
+
+2. **Anterior Cingulate Cortex (ACC)**
+    - Right anterior cingulate cortex
+
+3. **Hippocampus**
+    - Hippocampal volume
+
+4. **Brainstem**
+    - Periaqueductal grey
+
+5. **White Matter Tracts**
+    - Left forceps major
+    - Cingulum
+    - Right uncinate fasciculus
+    - Inferior longitudinal fasciculus
+
+6. **Basal Ganglia**
+    - Bilateral basal ganglia
+    - Left caudate
+    - Right basal ganglia
+
+7. **Thalamus**
+    - Bilateral thalamus
+
+8. **Cuneus**
+    - Bilateral cuneus
+
+9. **Calcarine**
+    - Bilateral calcarine
+
+10. **Lingual Gyrus**
+    - Bilateral lingual gyrus
+
+11. **Precentral Gyrus (PreCG)**
+    - Bilateral precentral gyrus
+    - Left precentral gyrus
+
+12. **Postcentral Gyrus (PostCG)**
+    - Bilateral postcentral gyrus
+    - Left postcentral gyrus
+
+13. **Parietal Lobe**
+    - Bilateral parietal lobe
+
+14. **Inferior Parietal Lobule (IPL)**
+    - Left inferior parietal lobule
+
+15. **Supramarginal Gyrus**
+    - Left supramarginal gyrus
+
+16. **Caudate**
+    - Left caudate
+
+17. **Cingulate Gyrus**
+    - Left anterior cingulate
+    - Bilateral cingulate gyrus
+
+18. **Ganglia**
+    - Bilateral ganglia
+
+19. **Broca's Area**
+    - Brodmann Area (BA) 17/18/19
+    - Brodmann Area (BA) 4/6
+    - Brodmann Area (BA) 3
+
+20. **Visual Cortex**
+    - Visual contact area
+    - Secondary visual cortex (V2)
+    - Primary visual center (V1)
+
+21. **Motor and Sensory Centers**
+    - Motor center (M1)
+    - Sensory center (S1)
+
+22. **Frontoparietal Network**
+    - Inferior parietal lobule (ILP)
+
+These regions are involved in various cognitive functions, including emotion, motor control, sensory processing, memory, and visual functions.

@@ -1,0 +1,52 @@
+## Brain Regions and Sub-Regions
+
+1. **Ventral Anterior Cingulate Cortex**
+
+2. **Amygdala**
+
+3. **Medial Frontal Gyrus**
+   - Anterior cingulate cortex (ACC)
+   - Medial frontal cortex
+
+4. **Ventrolateral Prefrontal Cortex**
+   - Inferior frontal gyrus (IFG)
+     - Brodmann area 47 (BA 47)
+
+5. **Posterior Cingulate Cortex (PCC)**
+   - Precuneus
+   - Mid cingulate cortex (MCC)
+
+6. **Lateral Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Ventrolateral prefrontal cortex (VLPFC)
+
+7. **Insula**
+
+8. **Inferior Parietal Cortex**
+
+9. **Left Temporal Cortex**
+
+10. **Left Parietal Cortex**
+    - Lateral parietal cortex
+
+11. **Precentral Sulcus**
+
+12. **Medial Frontal Regions**
+    - Medial frontal gyrus/anterior cingulate
+
+13. **Posterior Regions**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+
+14. **Parietal Midline Regions**
+    - Right dorsal PCC
+    - Right precuneus
+    - Right postcentral sulcus
+
+15. **Medial Frontal Cortex**
+
+16. **Parietal Midline Regions**
+
+17. **Lateral Parietal Cortex**
+
+These regions are involved in various cognitive functions, including emotional regulation, executive control, self-referential processing, memory encoding, and working memory tasks.

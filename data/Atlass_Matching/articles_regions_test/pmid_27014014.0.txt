@@ -1,0 +1,27 @@
+1. **Cortex**
+    - Posterior parietal cortex
+    - Right posterior parietal cortex
+    - Superior parietal lobule (SPL)
+    - Inferior parietal lobule (IPL)
+    - Temporal parietal junction (TPJ)
+    - Premotor cortex (BA6)
+    - Precuneus
+    - Postcentral gyrus
+    - Precentral gyrus
+    - Supplementary motor area (SMA)
+
+2. **Subcortical Regions**
+    - Substantia nigra
+    - Red nucleus
+    - Subthalamic nuclei
+    - Thalamus
+
+3. **Cerebellum**
+    - Cerebellar lobule VIIIa Vermis
+    - Cerebellar lobule VIIa Crus I
+    - Cerebellar lobule VI vermis and hemisphere
+
+4. **Other Regions**
+    - Insula
+
+These regions are involved in various cognitive functions including attention, visual search, learning, memory, motor function, and cognitive processing.

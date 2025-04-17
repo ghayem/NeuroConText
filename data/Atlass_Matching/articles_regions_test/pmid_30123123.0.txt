@@ -1,0 +1,43 @@
+# Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Anterior Frontal Areas**
+2. **Posterior Occipital Areas**
+3. **Medial Temporal Areas**
+4. **Left Inferior Frontal Cortex**
+5. **Right Inferior Frontal Cortex**
+6. **Left-Hemispheric Regions**
+7. **Right Hemisphere**
+8. **Frontal Lobe**
+9. **Temporal Lobe**
+10. **Parietal Lobe**
+11. **Occipital Lobe**
+12. **Cerebellum**
+   - **Cerebellar Regions Involved in Cognitive Functions**
+13. **Entorhinal Cortex of the Medial Temporal Lobe**
+14. **Prefrontal Regions**
+15. **Middle Frontal Gyrus (BA 10)**
+16. **Inferior Frontal Gyrus (BA 45, 47)**
+17. **Insula**
+18. **Supramarginal Gyrus (BA 40)**
+19. **Superior Occipital Gyrus (BA 18)**
+20. **Right Angular Gyrus (BA 39)**
+21. **Superior Temporal Gyrus (BA 41)**
+22. **Left Postero-Superior Temporal Gyrus (BA 22)**
+23. **Post-Central Gyrus (BA 3, 2, 1)**
+24. **Right Cerebellar Hemisphere**
+   - **Lobule Crus I**
+25. **Frontal Cortex**
+26. **Temporal Cortex**
+27. **Parietal Cortex**
+28. **Occipital Cortex**
+29. **Left Frontal Cortex**
+30. **Right Supramarginal Gyrus**
+31. **Right Angular Gyrus**
+32. **Left Superior Temporal Gyrus**
+33. **Bilateral Superior Occipital Gyri**
+34. **Transverse Temporal Gyrus (Primary Auditory Cortex)**
+35. **Right Lobule HVIIa**
+   - **Crus I**
+   - **Crus II**
+
+These regions are involved in various cognitive functions including attention, language, executive functions, memory, and processing speed.

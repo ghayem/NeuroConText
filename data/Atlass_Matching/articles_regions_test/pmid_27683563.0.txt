@@ -1,0 +1,27 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex (PFC)**
+   - Ventromedial Prefrontal Cortex (vmPFC)
+     - Rostral Anterior Cingulate Cortex (rACC)
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+
+2. **Hippocampus**
+   - Left Hippocampus
+   - Right Hippocampus
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Sensorimotor Cortex**
+   - Right Sensorimotor Cortex
+
+5. **Paracentral Lobe**
+
+6. **Presupplementary Motor Area (preSMA)**
+
+7. **Postcentral Gyrus**
+
+These regions are involved in various cognitive functions, including:
+- **PFC**: Response inhibition, cognitive control, inhibition of fear and non-emotional responses.
+- **Hippocampus**: Contextual learning, memory, regulation of inhibitory processes.
+- **PCC**: Internally directed cognition, controlling focus of attention.
+- **Sensorimotor Cortex, Paracentral Lobe, preSMA, Postcentral Gyrus**: Response inhibition, motor control, and sensory processing.

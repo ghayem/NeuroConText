@@ -1,0 +1,42 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Cerebellum**
+   - Left cerebellar hemisphere (lobules VI, VII, and VIIIa)
+   - Bilateral paravermis area (lobule XI)
+
+2. **Pre-supplementary motor area (pre-SMA)**
+   - Extending to the dorsal tier of the anterior cingulate cortex (ACC)
+
+3. **Anterior cingulate cortex (ACC)**
+   - Dorsal tier (Brodmann’s areas 24c and 32)
+   - Ventral (limbic) tier (Brodmann’s areas 24a and 24b, and subcallosal area 25)
+
+4. **Anterior medial frontal cortex**
+
+5. **Fusiform gyrus**
+
+6. **Anterior superior temporal gyri**
+
+7. **Posterior superior temporal gyri**
+
+8. **Medial prefrontal cortex**
+
+9. **Orbitofrontal cortex**
+
+10. **Amygdala**
+
+11. **Parietal lobe**
+
+12. **Premotor cortex**
+
+13. **Caudal part of the inferior frontal gyrus**
+
+14. **Insula**
+
+15. **Dorsal anterior insular cortex (dAIC)**
+
+16. **Middle occipital gyrus (MOG)**
+
+17. **Lateral occipitotemporal cortex (LOTC)**
+
+These regions are involved in various cognitive functions, including social interaction, attention, emotion, motor control, and sensory processing.

@@ -1,0 +1,110 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Cerebellum**
+
+2. **Cortical Regions**
+    - **Frontal Cortex**
+        - **Premotor Cortex**
+            - Right premotor cortex
+        - **Inferior Frontal Gyrus**
+            - Pars opercularis (BA44)
+            - Pars triangularis (BA45)
+        - **Superior Frontal Gyrus (SFG)**
+        - **Frontal Pole (FP)**
+        - **Ventral Primary Motor Cortex**
+        - **Motor Cortex (M1)**
+    - **Insula**
+    - **Operculum**
+    - **Auditory Cortex**
+    - **Somatosensory Cortex (S1)**
+    - **Supplementary Motor Area (SMA)**
+    - **Anterior Cingulate Cortex (ACC)**
+        - Dorsal ACC
+    - **Paracingulate Gyrus (PCG)**
+    - **Posterior Cingulate Gyrus/Precuneus**
+    - **Occipital Cortex**
+    - **Parietal Cortex**
+        - **Inferior Parietal Lobule**
+            - Supramarginal Gyrus (SMG)
+        - **Superior Parietal Lobule**
+    - **Temporal Cortex**
+        - **Superior Temporal Cortex**
+            - Posterior superior temporal gyrus and sulcus (pSTG/S)
+    - **Hippocampal Complex**
+    - **Nucleus Accumbens**
+    - **Putamen**
+    - **Globus Pallidus**
+        - Globus pallidus internus
+        - External segment of the globus pallidus (GPe)
+    - **Caudate Nucleus (CN)**
+    - **Subthalamic Nucleus**
+    - **Ventral Intermediate Nucleus of the Thalamus**
+    - **Mediodorsal Nucleus of the Thalamus**
+    - **Thalamus**
+        - Left lateral thalamus
+        - Left medial dorsal nucleus (MD)
+    - **Hypothalamus**
+        - Right hypothalamus
+    - **Pulvinar**
+        - Left pulvinar
+    - **Deep Orbital Cortex**
+    - **Medial Prefrontal Cortex**
+
+3. **Basal Ganglia**
+    - **Striatum**
+        - Dorsal striatum
+        - Ventral striatum
+    - **Substantia Nigra (SN)**
+        - Substantia nigra pars compacta (SNc)
+        - Substantia nigra pars reticularis (SNr)
+    - **Pedunculopontine Nucleus**
+    - **Red Nucleus (RN)**
+    - **Ventral Tegmental Area (VTA)**
+    - **Substantia Nigra/Ventral Tegmental Area (SN/VTA)**
+
+4. **Brainstem**
+    - **Lower Brainstem**
+
+5. **Cortico-Basal Ganglia Circuits**
+    - **Cortico-Striatal Pathways**
+    - **Cortico-Striatal-Pallidal Synaptic Transmissions**
+    - **Cortico–Subthalamic Nucleus Projections**
+    - **Cortico–Basal Ganglia–Thalamo–Cortical Loops**
+    - **Cortico-Striatal Input Systems**
+    - **Striato-Nigral Output Systems**
+
+6. **Default Mode Network**
+
+7. **Somatosensory Cortex**
+
+8. **Motor Cortex**
+
+9. **Neocortex**
+
+10. **Deep Grey Matter Structures**
+
+11. **White Matter Structures**
+
+12. **Left Fronto-Parieto-Temporal Brain Regions**
+
+13. **Right Fronto-Polar Cortex**
+
+14. **Left Middle Frontal Gyrus**
+
+15. **Left Anterior Intra-Parietal Sulcus**
+
+16. **Left Superior Parietal Lobule**
+
+17. **Left and Right Posterior Lobes of the Cerebellum**
+
+18. **Bilateral Insula**
+
+19. **Dorsomedial Frontal Cortex**
+
+20. **Somatomotor Cortex**
+
+21. **Perigenual ACC**
+
+22. **Subthalamic Nucleus**
+
+These regions are involved in various cognitive functions, including speech production, motor control, and sensorimotor integration.

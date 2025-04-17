@@ -1,0 +1,32 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Default Mode Network (DMN)**
+   - Rostral anterior cingulate cortex (rACC)
+
+2. **Fronto-Parietal Network (FPN)**
+
+3. **Cingulo-Opercular Network (CON)**
+
+4. **Dorsal Attention Network (DAN)**
+
+5. **Ventral Attention Network (VAN)**
+   - Inferior frontal regions
+
+6. **Somatomotor Network**
+   - Post-central gyral regions
+
+7. **Affective Network (AN)**
+
+8. **Visual Network**
+
+9. **Limbic Network**
+
+10. **Auditory Network**
+
+11. **Fronto-parietal and somatomotor networks**
+
+12. **Cingulo-opercular and dorsal attention network regions**
+
+13. **Anterior insula**
+
+These regions are involved in various cognitive and emotional processes, including awareness of internal states, external awareness, top-down regulation of attention and emotion, processing of emotion, and monitoring for salient events.

@@ -1,0 +1,105 @@
+## Brain Regions and Sub-Regions
+
+1. **Cerebellum**
+    - Cerebellar cortex
+    - Cerebellar lobules: Crus I, Crus II, Crus I/II
+    - Cerebellum_crus1_r
+    - Cerebellum_crus2
+    - Cerebellum_4_5_r
+    - Cerebellum_6_l
+    - Lobules VI, VIIb, VIII, IX
+    - Right Crus I/II
+    - Left Crus II/I
+
+2. **Occipitotemporal Regions**
+    - Right inferior temporal gyrus
+    - Left superior occipital gyrus
+
+3. **Prefrontal Structures**
+    - Prefrontal cortex
+
+4. **Parietal Lobe**
+    - Right parietal lobe
+    - Left parietal lobe
+    - Precuneus
+    - Inferior parietal lobule
+    - Superior parietal lobule
+    - Postcentral gyrus
+    - Cingulate gyrus
+    - Subgyral (white matter)
+
+5. **Lingual Gyrus**
+    - Right lingual gyrus
+
+6. **Thalamus**
+    - Thalamocortical functional connectivity
+
+7. **Pituitary Gland**
+    - Pituitary volumes
+
+8. **Caudate Nucleus**
+    - Caudate nucleus volume
+
+9. **Insula**
+    - Right insula
+
+10. **White Matter (WM)**
+    - Significant white matter changes
+    - Subgyral (white matter)
+
+11. **Other Brain Regions**
+    - Infratentorial structures
+    - Brainstem
+    - Supratentorial gray matter (GM)
+    - Total intracranial volume (TIV)
+
+### Functional Connectivity (FC) Regions
+- Right crus I crus II (ROI 1)
+- Right parietal lobe
+- Left parietal lobe
+- Right lingual gyrus
+- Precuneus
+- Inferior parietal lobule
+- Superior parietal lobule
+- Postcentral gyrus
+- Cingulate gyrus
+- Subgyral (white matter)
+
+### Cognitive and Emotional Functions
+- Emotion regulation
+- Impulse inhibition for decision-making
+- Attention
+- Working memory
+- Negative affect processing
+- Nociceptive processing
+- Cognitive impairment
+- Learning
+- Word generation
+- Language
+- Memory
+- Executive functions
+- Somatosensory processing
+- Pain perception
+- Visual encoding
+- Divergent thinking
+- Inhibition function
+
+### Psychiatric Symptoms and Scales
+- Hamilton Anxiety Scale (HAMA)
+- Generalized Anxiety Disorder (GAD-7)
+- Patient Health Questionnaire (PHQ-7)
+- Hamilton Depression Scale (HAMD)
+- Disease duration
+- Depressive symptoms
+- Anxiety symptoms
+- Major depression
+- Schizophrenia
+- Bipolar disorder
+- Substance abuse
+- Dependence
+- Dementia
+- Stroke
+- Neurodevelopmental disorders
+- Neurogenetic disorders
+- Common chronic diseases
+- Other neurological and psychiatric disorders

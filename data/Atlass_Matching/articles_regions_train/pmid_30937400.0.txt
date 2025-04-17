@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Primary/premotor motor cortex**
+   - Extending several centimetres along the central sulcus
+
+2. **Mouth motor cortex**
+   - Tongue
+   - Lips
+   - Palate
+   - Jaw
+
+3. **Premotor cortex (PM)**
+   - Red area in figures
+
+4. **Primary somatosensory cortex (S1)**
+   - Blue area in figures
+
+5. **Broca’s area (BR)**
+   - Brodmann’s area 44 and 45
+   - Yellow area in figures
+
+6. **Prefrontal cortex (PF)**
+
+7. **Inferior parietal cortex (IPC)**
+
+8. **Superior parietal cortex (SPC)**
+
+9. **Parietal operculum (OP)**
+
+10. **Central Sulcus (CS)**
+
+11. **Lateral Sulcus (LS)**
+
+These regions are involved in the control and execution of orofacial movements, including speech production, laughing, smiling, and lip-licking.

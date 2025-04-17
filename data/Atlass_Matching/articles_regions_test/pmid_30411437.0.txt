@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions
+
+1. **Hippocampus**
+    - Anterior hippocampus
+    - Posterior hippocampus
+    - Bilateral hippocampus
+
+2. **Medial Temporal Lobe (MTL)**
+    - Perirhinal cortex (PRC)
+    - Parahippocampal cortex (PHC)
+    - Entorhinal cortex
+
+3. **Prefrontal Cortex**
+    - Superior medial prefrontal cortex (BA 10)
+    - Superior lateral prefrontal cortex (BA 8/9)
+    - Inferior prefrontal cortex (BA 45)
+    - Middle frontal gyrus (BA 8)
+
+4. **Parietal Lobe**
+    - Angular gyrus (BA 39/40)
+    - Inferior parietal lobe (BA 39/40)
+    - Superior parietal lobe (BA 7)
+    - Precuneus (BA 7)
+    - Posterior cingulate cortex (BA 31)
+    - Retrosplenial cortex
+
+5. **Temporal Cortex**
+    - Middle temporal gyrus (BA 21)
+    - Middle occipital gyrus (BA 19)
+    - Fusiform gyrus (BA 19/37)
+
+6. **Occipital Cortex**
+    - Middle occipital gyrus (BA 19)
+
+7. **Subcortical Structures**
+    - Caudate nucleus
+    - Thalamus (ventral lateral thalamus)
+    - Dorsomedial nucleus of the thalamus
+
+8. **Other Cortical Regions**
+    - Superior frontal gyrus (BA 6)
+    - Inferior frontal gyrus (BA 45)
+
+These regions are involved in various cognitive functions, including memory (recollection and familiarity), language, and executive functions.

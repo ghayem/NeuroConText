@@ -1,0 +1,69 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Frontal Cortex**
+   - Inferior parietal gyrus
+   - Left middle frontal gyrus
+   - Dorsolateral prefrontal cortex
+   - Ventrolateral prefrontal cortex
+   - Premotor areas
+   - Medial superior frontal gyrus
+   - Left precentral gyrus
+   - Medial frontal gyrus
+   - Anterior cingulate gyrus
+   - Anterior cingulate cortex
+
+2. **Parietal Cortex**
+   - Inferior parietal cortex
+   - Left inferior parietal cortex
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Left inferior parietal cortex
+   - Middle temporal gyrus
+   - Inferior frontal gyrus
+   - Fusiform gyrus
+   - Left fusiform gyrus
+   - Superior and middle occipital gyrus
+   - Left occipitotemporal sulcus
+   - Heschl’s gyrus
+   - Hippocampal areas
+   - Lingual gyrus
+   - Right lingual gyrus
+
+4. **Occipital Cortex**
+   - Occipital pole
+   - Inferior occipital gyrus
+   - Superior and middle occipital gyrus
+   - Left occipitotemporal sulcus
+
+5. **Insular Cortex**
+   - Insular network
+
+6. **Subcortical Structures**
+   - Thalamus
+   - Amygdala
+   - Cerebellum
+   - Left cerebellum
+
+7. **Default Mode Network (DMN)**
+   - Anterior default mode network
+   - Posterior default mode network
+   - Medial prefrontal cortex
+   - Anterior cingulate gyrus
+   - Angular gyrus
+   - Posterior cingulate gyrus
+   - Precuneus
+
+8. **Other Networks**
+   - Fronto-parietal network
+   - Left fronto-parietal network
+   - Right fronto-parietal network
+   - Auditory network
+   - Language network
+   - Medial visual network
+   - Lateral visual network
+   - Dorsal attention network
+   - Sensory-motor network
+   - Executive network
+
+These regions are involved in various cognitive functions, including memory (working memory, short-term memory, long-term memory), language processing, executive functions, and cognitive control.

@@ -1,0 +1,52 @@
+## Brain Regions and Sub-Regions
+
+1. **Anterior Insula (aINS)**
+   - Mutually inhibited modules
+
+2. **Prefrontal Cortex (PFC)**
+   - Submodule FS
+   - Submodule D1
+   - Submodule D2
+   - Submodule R
+
+3. **Primary Auditory Area**
+   - Brodmann Area 41
+   - Transverse temporal gyrus
+
+4. **Medial Temporal Lobe (MTL)**
+   - Entorhinal cortex (EC)
+
+5. **Superior Temporal Cortex (ST)**
+   - Superior temporal gyrus
+   - Superior temporal sulcus
+   - Rostral supratemporal plane
+
+6. **Inferior Temporal Cortex (IT)**
+
+7. **Visual Cortex**
+   - V1/V2
+   - V4
+
+8. **Auditory Cortex**
+   - A1
+   - A2
+   - ST (superior temporal cortex)
+   - MTL (medial temporal lobe)
+
+9. **Frontal Lobe**
+   - Superior frontal gyrus
+
+10. **Temporal Lobe**
+    - Medial temporal lobe (MTL)
+    - Superior temporal cortex (ST)
+
+11. **Parietal Lobe**
+    - Inferior parietal lobule
+
+12. **Occipital Lobe**
+    - V1/V2 (primary visual cortex)
+    - V4 (visual association cortex)
+
+13. **Thalamus**
+
+These regions are involved in various cognitive functions, including attention, working memory, and sensory processing.

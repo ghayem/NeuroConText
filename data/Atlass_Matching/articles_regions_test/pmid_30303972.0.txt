@@ -1,0 +1,62 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Cuneus Cortex**
+   - Left cuneus cortex
+
+2. **Superior Frontal Gyrus**
+   - Left medial superior frontal gyrus (mSFG)
+   - Orbital part of left superior frontal gyrus (SFG)
+
+3. **Anterior Cingulate Cortex**
+   - Right dorsal anterior cingulate cortex (dACC)
+
+4. **Temporal Gyrus**
+   - Inferior temporal gyrus (ITG)
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+5. **Caudate Nucleus**
+   - Right caudate nucleus (CN)
+
+6. **Parahippocampal Region**
+
+7. **Cerebellum**
+
+8. **Parietal Cortex**
+
+9. **Prefrontal Cortex**
+
+10. **Hippocampus**
+
+11. **Fusiform Gyrus**
+
+12. **Precuneus**
+   - Right precuneus
+
+13. **Inferior Frontal Gyrus**
+   - Right inferior frontal gyrus (IFG)
+
+14. **Cortico-Spinal Projections**
+   - Bilateral cortico-spinal projections
+
+15. **Medial Prefrontal Cortex (mPFC)**
+   - Left medial superior frontal gyrus (mSFG)
+
+16. **Orbital Frontal Cortex (OFC)**
+   - Orbital part of left superior frontal gyrus (SFG)
+   - Left medial orbital frontal cortex
+
+17. **Visual Recognition Network**
+   - Cuneus
+   - Fusiform gyrus
+
+18. **Salience Network**
+   - Orbital frontal cortex (OFC)
+   - Dorsal anterior cingulate cortex (dACC)
+
+19. **Default Mode Network (DMN)**
+   - Inferior temporal gyrus (ITG)
+   - Medial prefrontal cortex (mPFC)
+   - Precuneus
+
+These regions are involved in various cognitive functions, including emotion regulation, language comprehension, cognition, visual perception, learning, memory, interactions with the visual world, social regulation, social cognition, theory of mind, decision-making, cognitive control, and attention.

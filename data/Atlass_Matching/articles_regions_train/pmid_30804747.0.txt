@@ -1,0 +1,39 @@
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Striatum**
+   - Caudate
+   - Ventral striatum
+
+3. **Insula**
+   - Bilateral insula
+
+4. **Middle Frontal Gyrus (MFG)**
+   - Bilateral middle frontal gyrus
+
+5. **Rostral Cingulate Zone (RCZ)**
+
+6. **Nucleus Accumbens**
+
+7. **Ventral Medial Prefrontal Cortex (vmPFC)**
+
+8. **Anterior Cingulate Cortex (ACC)**
+
+9. **Superior Temporal Gyrus (STG)**
+
+10. **Parahippocampal Gyrus**
+    - Bilateral parahippocampal gyrus
+
+11. **Middle Occipital Gyrus (MOG)**
+
+12. **Middle Temporal Gyrus (MTG)**
+    - Bilateral middle temporal gyrus
+
+13. **Postcentral Gyrus**
+
+14. **Inferior Parietal Lobule (IPL)**
+
+15. **Superior Frontal Gyrus (SFG)**
+
+16. **Inferior Temporal Gyrus (ITG)**
+
+These regions are involved in various cognitive functions including reward processing, behavioral adjustment, decision-making, perspective-taking, and social influence.

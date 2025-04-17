@@ -1,0 +1,29 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Insula**
+
+3. **Occipital**
+
+4. **Frontal**
+
+5. **Temporal**
+
+6. **Cingulate Cortex**
+   - Anterior Cingulate Cortex (ACC)
+   - Posterior Cingulate
+
+7. **Nucleus Accumbens**
+
+8. **Dorsolateral Prefrontal Cortex**
+   - Bilateral Dorsolateral Prefrontal Cortex
+
+9. **Middle Frontal Gyrus (MFG)**
+
+10. **Inferior Frontal Gyrus (IFG)**
+
+11. **Hippocampus**
+   - Right Hippocampus/Amygdala
+
+These regions are involved in various cognitive functions, including emotional processing, theory of mind, cognitive functions, impulsivity control, and emotional regulation.

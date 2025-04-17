@@ -1,0 +1,49 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+
+2. **Amygdala**
+
+3. **Anterior Cingulate Gyrus**
+
+4. **Cingulate Cortex**
+
+5. **Medial Prefrontal Cortex**
+
+6. **Cerebellum**
+
+7. **Anterior Cingulate**
+
+8. **Right Parietal Cortex**
+
+9. **Frontal Cortex**
+
+10. **Superior Temporal Cortex**
+
+11. **Right Superior Frontal Gyrus**
+
+12. **Left Frontal Lobe**
+
+13. **Right Frontal Lobe**
+
+14. **Right Corpus Callosum**
+
+15. **Precuneus**
+
+16. **Posterior Cingulate Cortex**
+
+17. **Left Inferior Parietal Lobule**
+
+18. **Right Inferior Frontal Gyrus**
+
+19. **Ventricles**
+
+20. **White Matter (WM)**
+
+21. **Gray Matter (GM)**
+
+22. **Cerebrospinal Fluid (CSF)**
+
+23. **Default Mode Network (DMN)** (a network rather than a specific region, but mentioned in the context of the precuneus)
+
+These regions are involved in various cognitive functions, including memory formation and maintenance, emotional processing, executive functions, spatial and temporal orientation, and the integration of past experiences with recent memories.

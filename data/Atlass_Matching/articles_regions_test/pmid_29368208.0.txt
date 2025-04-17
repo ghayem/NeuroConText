@@ -1,0 +1,38 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Premotor Cortex**
+   - Premotor area (BA 6)
+   - Supplementary motor area (BA 6)
+
+2. **Parietal Lobule**
+   - Inferior parietal lobule (BA 40)
+   - Superior parietal lobule (BA 7, 5)
+   - Parietal association area (BA 7, 40)
+
+3. **Occipital Cortex**
+   - Middle occipital gyrus (BA 18, 37)
+   - Occipital gyrus (BA 19)
+   - Occipitotemporal area (BA 37)
+
+4. **Temporal Cortex**
+   - Fusiform gyrus (BA 37)
+   - Parahippocampal gyrus (BA 37)
+
+5. **Cingulate Cortex**
+   - Posterior cingulate (BA 31)
+   - Agranular retrolimbic area (BA 30)
+
+6. **Post-central Gyrus**
+   - Post-central gyrus (BA 3)
+
+7. **Insula**
+   - Insula (BA 13)
+
+8. **Frontal Cortex**
+   - Middle frontal gyrus
+
+9. **Subcortical Structures**
+   - Putamen
+   - Caudate nucleus
+
+These regions are involved in various cognitive functions, including motor imagery, mental rotation, visuospatial cognition, and sensorimotor integration.

@@ -1,0 +1,58 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Anterior cingulate cortex (BA32)
+
+2. **Anterior Insular Cortex (AIC)**
+   - Anterior insular cortex (intersection of BA13 and BA47)
+
+3. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Dorsolateral prefrontal cortex (BA9 and BA46)
+
+4. **Posterior Parietal Cortex (PPC)**
+   - Posterior parietal cortex (BA40)
+
+5. **Thalamus**
+
+6. **Middle Frontal Gyrus**
+   - Middle frontal gyrus
+
+7. **Inferior Parietal Cortex**
+   - Inferior parietal cortex
+
+8. **Inferior Frontal Gyrus**
+   - Inferior frontal gyrus
+
+9. **Ventrolateral Prefrontal Cortex**
+   - Ventrolateral prefrontal cortex
+
+10. **Temporal Lobe**
+    - Temporal lobe
+
+11. **Parietal Cortex**
+    - Parietal cortex
+
+12. **Frontal Operculum**
+    - Frontal operculum (BA 47)
+
+### Cognitive Functions Involved:
+- Working memory
+- Attention
+- Cognitive effort
+- Executive functions
+- Salience detection
+- Cognitive control
+- Intelligence
+- Problem-solving skills
+- Language comprehension
+- Reading skills
+- Reasoning
+- Planning
+- Motivation
+- Spontaneity
+- Willpower
+- Homeostatic signals (e.g., pain, body temperature)
+- Tonic alertness
+- Task set maintenance
+
+These regions and functions are integral to understanding the neural mechanisms underlying complex cognitive processes, especially those involving working memory and cognitive effort.

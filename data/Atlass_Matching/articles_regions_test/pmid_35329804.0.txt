@@ -1,0 +1,56 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Optic Tract**
+
+2. **Visual Cortex**
+
+3. **Cerebrum**
+
+4. **Frontal Lobe**
+   - **Middle Frontal Gyrus**
+   - **Left Middle Frontal Gyrus**
+
+5. **Precuneus**
+   - **Left Precuneus**
+
+6. **Inferior Parietal Lobule**
+   - **Right Inferior Parietal Lobule**
+
+7. **Posterior Cingulate**
+
+8. **Occipital Lobe**
+
+9. **Temporal Lobe**
+
+10. **Cerebellum**
+    - **Left Cerebellum Posterior Lobe**
+
+11. **Left Parietal Lobe**
+
+12. **Left Superior Parietal Lobule**
+
+13. **Medial Temporal Lobes**
+
+14. **Medial Frontal Cortex**
+
+15. **Inferior Parietal Cortex**
+
+16. **Posterior Cingulate Cortices**
+
+17. **Anterior Cingulate Cortices**
+
+18. **Supramarginal Gyrus**
+
+19. **Angular Gyrus**
+
+20. **Intraparietal Sulcus**
+
+21. **Dorsolateral Prefrontal Cortex**
+
+22. **Visual Pathway**
+
+23. **Bilateral Superior Lobules**
+
+24. **Left VI Area**
+
+These regions are involved in various cognitive and sensory functions, including visual processing, motor coordination, pain perception, cognitive and attention functions, emotional processing, and spatial visual information processing.

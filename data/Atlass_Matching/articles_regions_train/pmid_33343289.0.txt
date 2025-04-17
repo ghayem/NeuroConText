@@ -1,0 +1,60 @@
+1. **Subcortical Nucleus**
+
+2. **Frontal Lobe**
+
+3. **Parietal Lobe**
+
+4. **Occipital Lobe**
+
+5. **Temporal Lobe**
+
+6. **Cerebellar Cortices**
+
+7. **Cingulate Cortex**
+
+8. **White Matter (WM)**
+
+9. **Lenticular Nuclei**
+
+10. **Visual Cortex**
+
+11. **Thalamus**
+    - Medial nucleus
+    - Mediodorsal nucleus (MD)
+    - Ventral posterolateral nucleus
+
+12. **Right Calcarine**
+    - Extended to the right lingual
+
+13. **Right Cuneus**
+
+14. **Left Lingual**
+
+15. **Left Hippocampus**
+
+16. **Left Parahippocampus**
+    - Extended to the left lingual
+    - Left fusiform
+
+17. **Posterior Cingulate Cortex (PCC)**
+
+18. **Left Angular (BA39)**
+
+19. **Precuneus/Superior Parietal Lobe**
+    - BA5
+    - BA7
+
+20. **Right Dorsolateral Prefrontal Cortex (DLPFC)**
+
+21. **Left Somatosensory Association Cortex**
+
+22. **Prefrontal Pars Triangularis**
+
+23. **Anterior Cingulate Cortex**
+
+24. **Putamen**
+
+25. **Primary Visual Area**
+    - Calcarine cortex
+
+These regions are involved in cognitive functions such as memory, executive function, attention, working memory, fine motor skills, verbal and language abilities, and visuospatial memory.

@@ -1,0 +1,111 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article, along with their cognitive functions where applicable:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Anterior midcingulate cortex (aMCC)
+
+2. **Thalamus**
+
+3. **Hypothalamus**
+
+4. **Amygdala**
+
+5. **Precentral Gyrus (PreCG)**
+   - Primary motor cortex
+
+6. **Postcentral Gyrus (PosCG)**
+   - Primary and secondary somatosensory (SS) cortices
+
+7. **Ventromedial Prefrontal Cortex**
+
+8. **Dorsolateral Prefrontal Cortex**
+
+9. **Inferior Parietal Lobule (IPL)**
+   - Anterior/dorsal to the temporoparietal junction (TPJ)
+
+10. **Temporoparietal Junction (TPJ)**
+
+11. **Superior Temporal Gyrus (STG)**
+
+12. **Fusiform Gyrus**
+
+13. **Anterior Insula (AI)**
+
+14. **Inferior Frontal Gyrus (IFG)**
+   - Bilaterally (BA 44/45)
+
+15. **Superior Frontal Gyrus (SFG)**
+   - Supplementary motor area (SMA)
+
+16. **Cingulate Motor Area**
+
+17. **Middle Frontal Gyrus (MFG)**
+
+18. **Middle Temporal Gyrus (MTG)**
+
+19. **Inferior Occipital Gyrus (IOG)**
+
+20. **Middle Occipital Gyrus (MOG)**
+
+21. **Subcortical and Limbic Structures**
+   - Thalamus
+   - Putamen
+   - AI
+   - Amygdala
+   - Anterior cingulate
+
+22. **Temporal–occipital Regions**
+   - Left IOG
+   - Inferior temporal gyrus (ITG)
+   - Extrastriate body area (EBA)/occipital face area (OFA)
+
+23. **Supplementary Motor Area (SMA)**
+
+24. **Cerebellum**
+   - Anterior lobe of the cerebellum
+
+25. **Lateral Globus Pallidus (LGP)**
+
+26. **Claustrum**
+
+27. **Putamen**
+
+28. **Precuneus**
+
+29. **Posterior Insula (PI)**
+
+30. **Superior Parietal Lobule (SPL)**
+   - Bilateral SPL
+   - Right SPL
+
+31. **Secondary SS Cortex (SII)**
+
+32. **Ventral Premotor Cortex**
+
+33. **Caudal Part of the IFG**
+
+34. **Ventral Anterior and Ventral Lateral Nucleus of the Thalamus**
+
+35. **Lentiform Nucleus/Striatum**
+
+36. **Culmen**
+
+37. **Caudate Head**
+
+38. **Posterior Cingulate Cortex**
+
+39. **Rostal ACC**
+
+40. **Broca’s Area (BA 44/45)**
+
+These regions are involved in various cognitive functions such as:
+- **Executive Control**: Ventromedial prefrontal cortex, dorsolateral prefrontal cortex
+- **Attentional Processes**: ACC, thalamus, hypothalamus, amygdala
+- **Emotional Processes**: Amygdala, ACC, AI
+- **Sensorimotor Processes**: PreCG, PosCG, SPL, IPL
+- **Visuospatial Processes**: IPL, TPJ, STG
+- **Motor Planning**: SMA, cingulate motor area
+- **Language**: IFG (Broca's area), superior temporal gyrus
+- **Memory**: Hippocampus, temporal cortex
+- **Visual Processing**: Occipital gyrus, fusiform gyrus
+- **Social Cognition**: TPJ, fusiform gyrus
+- **Empathy**: AI, ACC, IFG, IPL, SPL, STG

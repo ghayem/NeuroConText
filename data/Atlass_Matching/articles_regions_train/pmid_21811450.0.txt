@@ -1,0 +1,48 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Medial Temporal Lobe**
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Perirhinal cortex
+
+2. **Frontal Lobe**
+   - Inferior frontal gyrus
+   - Middle frontal gyrus
+   - Orbitofrontal cortex
+
+3. **Parietal Lobe**
+   - Supramarginal gyrus
+   - Angular gyrus
+   - Precuneus
+   - Posterior cingulate gyrus
+
+4. **Occipital Lobe**
+   - Middle occipital gyrus
+   - Superior occipital gyrus
+   - Lateral occipital gyrus
+   - Cuneus
+
+5. **Temporal Lobe**
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+6. **Limbic System**
+   - Amygdala
+   - Anterior cingulate gyrus
+   - Posterior cingulate gyrus
+
+7. **Basal Ganglia**
+   - Putamen
+   - Caudate nucleus
+
+8. **Other Subcortical Regions**
+   - Thalamus
+   - Insular cortex
+   - Cerebellum
+
+9. **Olfactory Regions**
+   - Piriform cortex
+     - Anterior piriform cortex
+     - Posterior piriform cortex
+
+These regions are involved in various cognitive functions, including memory (encoding, retrieval, recognition, familiarity, and recollection), olfactory processing, and decision-making processes.

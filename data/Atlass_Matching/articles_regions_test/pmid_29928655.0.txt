@@ -1,0 +1,83 @@
+## Brain Regions and Sub-regions
+
+1. **Prefrontal Cortex**
+   - Frontopolar area (fpPFC)
+   - Orbitofrontal cortex (OFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Medial prefrontal cortex (mPFC)
+
+2. **Anterior Cingulate Cortex**
+   - Subgenual anterior cingulate cortex (sACC)
+
+3. **Motor Cortex**
+   - Precentral gyrus
+   - Primary motor cortical areas
+   - Paramedian motor cortex (leg region)
+   - Postcentral gyrus
+   - Supplementary motor area (SMA)
+
+4. **Visual Cortex (VC)**
+
+5. **Thalamus**
+   - Bilateral thalamus
+   - Prefrontal projection zone of the thalamus
+   - Mediodorsal thalamus
+
+6. **Cerebellum**
+   - Cerebellar lobules
+   - Cerebellar vermis
+   - Posterior cerebellar lobules
+   - Cerebellar lobule VI
+
+7. **Parietal Cortex**
+   - Supramarginal gyrus (SMG)
+   - Posterior parietal cortex (PPC)
+   - Superior parietal lobule
+
+8. **Frontal Eye Fields (FEF)**
+
+9. **Parietal Eye Fields (PEF)**
+
+10. **Supplemental Eye Fields (SEF)**
+
+11. **Medial Superior Temporal (MST)**
+
+12. **Insular Cortex**
+   - Anterior insula (AI)
+   - Insular sulcus
+
+13. **Amygdala**
+
+14. **Parahippocampal Gyrus**
+
+15. **Temporal Cortex**
+   - Middle temporal gyrus
+
+16. **Occipital Cortex**
+   - Middle occipital gyrus
+   - Calcarine fissure
+
+17. **Lingual Gyrus**
+
+18. **Cuneus**
+
+19. **Precuneus**
+
+20. **Vestibular Cortex**
+   - Postero-insular vestibular cortex
+
+21. **Hippocampus**
+
+22. **Somatosensory Cortex (SC)**
+
+23. **Dentate Gyrus (DG)**
+
+24. **Fear-Generation Network (FGN)**
+
+25. **Interoceptive Network (IN)**
+
+26. **Orbitofrontal Network (OFN)**
+
+These regions are involved in various cognitive and emotional functions, including mood regulation, motor control, emotional processing, and interoception.

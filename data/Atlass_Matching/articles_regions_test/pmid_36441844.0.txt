@@ -1,0 +1,82 @@
+## The brain regions:
+
+1. **Anterior Cingulate Cortex (ACC)**
+    - dorsal ACC (dACC)
+
+2. **Insula**
+    - Bilateral insula
+
+3. **Putamen**
+    - Right putamen
+
+4. **Caudate**
+    - Left caudate
+
+5. **Dorsolateral Prefrontal Cortex (dlPFC)**
+    - Right dlPFC
+
+6. **Midbrain**
+
+7. **Thalamus**
+    - Right thalamus
+
+8. **Frontal Lobe**
+    - Left frontal lobe
+
+9. **Frontal Orbital Cortex**
+
+10. **Supramarginal Gyrus**
+    - Right supramarginal gyrus
+    - Right posterior supramarginal gyrus
+
+11. **Cingulate Gyrus**
+
+12. **Lateral Occipital Cortex**
+
+13. **Paracingulate Gyrus**
+
+14. **Posterior Cingulate Gyrus**
+
+15. **Precentral Gyrus**
+
+16. **Superior Parietal Lobule**
+    - Left superior parietal lobule
+
+17. **Frontal Pole**
+    - Left frontal pole
+    - Right frontal pole
+
+18. **Lateral Middle Frontal Gyrus**
+
+19. **Temporal Pole**
+    - Right temporal pole
+
+20. **Inferior Temporal Gyrus**
+    - Right inferior temporal gyrus
+
+21. **Parahippocampal Gyrus**
+    - Left parahippocampal gyrus
+
+22. **Hippocampus**
+    - Left hippocampus
+
+23. **Cerebellum**
+    - Bilateral cerebellum
+    - Left cerebellum
+    - Right cerebellum
+
+24. **Planum Temporale**
+
+25. **Frontal-Parietal Control Network**
+
+26. **Reward System**
+    - Striatum
+
+27. **Salience Network**
+    - Insula
+    - ACC
+
+28. **Executive Control Network**
+    - dlPFC
+
+- These regions are involved in these cognitive functions: risk-taking, reward processing, cognitive control, salience, and ambiguous decision-making.

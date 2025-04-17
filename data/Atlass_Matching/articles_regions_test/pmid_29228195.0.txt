@@ -1,0 +1,96 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Right Frontal Cortical Areas**
+    - Right primary motor cortex
+    - Right premotor cortex
+    - Right supplementary motor area (SMA)
+    - Right pre-SMA
+    - Right inferior frontal gyrus (IFG)
+    - Right insula
+    - Right frontal operculum
+    - Right rolandic operculum
+    - Right precentral gyrus
+    - Brodmann area (BA) 4/6
+
+2. **Subcortical Structures**
+    - Subthalamic nucleus
+    - Basal ganglia
+    - Putamen
+    - Caudate
+    - Thalamus
+
+3. **Right Hemisphere White Matter Structures**
+    - Right superior longitudinal fasciculus (SLF)
+    - Right frontal aslant tract (FAT)
+    - Right anterior fasciculus
+    - Right anterior thalamic radiation
+    - Right uncinate fasciculus
+    - Right extreme capsule fibre system
+
+4. **Left Hemisphere White Matter Structures**
+    - Left superior longitudinal fasciculus (SLF)
+    - Left frontal aslant tract (FAT)
+    - Left arcuate fasciculus
+    - Left anterior segment of the arcuate fasciculus
+    - Left inferior parietal lobule
+    - Left posterior division of the supramarginal gyrus
+    - Left posterior midbody of the corpus callosum
+
+5. **Other Regions**
+    - Right frontal pole
+    - Right medial frontal gyrus
+    - Right middle frontal gyrus (MFG)
+    - Right anterior insular cortex
+    - Right superior frontal gyrus
+    - Right frontal orbital cortex
+    - Right superior parietal lobule
+    - Right inferior parietal regions
+    - Right postcentral cortex
+    - Right posterior superior temporal gyrus
+    - Right planum temporale
+    - Right posterior middle temporal gyrus
+    - Right posterior IFG pars opercularis
+    - Right preSMA
+    - Right SMA
+    - Right anterior insula
+    - Right anterior limb of the internal capsule
+    - Right external capsule
+    - Right posterior limb of the internal capsule
+    - Right superior thalamic radiation
+    - Right cortical spinal/pontine tract
+    - Right cerebellar peduncle
+    - Right anterior thalamic radiation
+    - Right anterior nucleus of the thalamus
+    - Right medial dorsal nucleus of the thalamus
+    - Right forceps minor
+    - Right superior corona radiata
+    - Right anterior intraparietal sulcus
+    - Right inferior frontal sulcus
+    - Right fundus of the central sulcus
+    - Right ventral lateral nucleus of the thalamus
+    - Right subthalamic nucleus
+    - Right ventral lateral nucleus of the thalamus
+
+6. **Cognitive Functions Associated with These Regions**
+    - Speech production
+    - Motor imagery
+    - Imitation and action observation
+    - Proactive and reactive working memory control
+    - Task switching
+    - Cognitive flexibility
+    - Go/no-go control
+    - Response inhibition
+    - Executive control
+    - Attentional gating
+    - Task monitoring
+    - Proactive inhibition
+    - Multisensory monitoring of speech motor acts
+    - Feedback control
+    - Syntactic processing
+    - Articulation and repetition
+    - Language acquisition
+    - Online control of perturbed auditory feedback
+    - Perturbed somatosensory feedback
+    - Speech-production networks
+
+This comprehensive list includes all brain regions, sub-regions, and associated cognitive functions mentioned in the neuroscientific article on persistent developmental stuttering.

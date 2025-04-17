@@ -1,0 +1,45 @@
+## Brain Regions and Sub-regions:
+
+1. **Primary Somatosensory Cortex**
+
+2. **Secondary Somatosensory Cortex**
+
+3. **Insula Cortex**
+
+4. **Anterior Cingulate Cortex**
+
+5. **Prefrontal Cortex**
+
+6. **Thalamus**
+
+7. **Cerebellar Cortex**
+
+8. **Right Lingual Gyrus (RLG)**
+
+9. **Right Precentral Gyrus**
+
+10. **Left Middle Temporal Gyrus**
+
+11. **Right Postcentral Gyrus**
+
+12. **Bilateral Anterior Insula**
+
+13. **Cingulate Gyrus**
+
+14. **Left Middle Occipital Gyrus (LMOG)**
+
+15. **Right Superior Occipital Gyrus (RSOG)**
+
+16. **Right Gyrus**
+
+17. **Left Sensorimotor Cortex**
+
+18. **Temporal Lobe**
+
+19. **Frontal Lobe**
+
+20. **Amygdala**
+
+21. **Hippocampus**
+
+These regions are involved in various cognitive functions, including pain perception, emotional regulation, and cognitive processing.

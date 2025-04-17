@@ -1,0 +1,55 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Left superior temporal gyrus**
+   - Posterior part (Wernicke’s area)
+
+2. **Left inferior frontal cortices**
+   - Rostral part (Broca’s area)
+
+3. **Bilateral regions**
+   - Temporal
+   - Parietal
+   - Prefrontal
+   - Putamen
+
+4. **Cerebellum**
+
+5. **Left hemisphere frontotemporal subnetwork**
+   - Involved in language comprehension
+
+6. **Right hemisphere subnetwork**
+   - Involved in linguistic working memory capacity
+
+7. **Bilateral inferior frontal gyri (bi-IFG)**
+
+8. **Bilateral middle frontal gyri (bi-MFG)**
+
+9. **Bilateral superior temporal gyri (bi-STG)**
+
+10. **Medial cingulate cortices**
+    - Anterior
+    - Posterior
+
+11. **Bilateral cerebellar cortices**
+
+12. **Left frontal module**
+
+13. **Left temporal module**
+
+14. **Contralateral homologues**
+    - Right frontal module
+    - Right temporal module
+
+15. **Left frontal glioma subgroup (LFG)**
+
+16. **Left temporal glioma subgroup (LTG)**
+
+17. **Right frontal glioma subgroup (RFG)**
+
+18. **Right temporal glioma subgroup (RTG)**
+
+19. **Intracranial structures (mentioned in the context of functional connectivity)**
+   - White matter
+   - Cerebrospinal fluid
+
+These regions are involved in various cognitive functions, including language comprehension and production, linguistic working memory, and functional connectivity within the language network.

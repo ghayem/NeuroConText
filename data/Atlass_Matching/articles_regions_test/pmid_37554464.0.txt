@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions:
+
+1. **Intraparietal Sulcus (IPS)**
+   - Left intraparietal sulcus (lIPS)
+
+2. **Dorsal Lateral Prefrontal Cortex (DLPFC)**
+
+3. **Medial Temporal Lobe (MTL)**
+
+4. **Visual Cortex**
+
+5. **Inferior Temporal Gyrus (ITG)**
+
+6. **Fusiform Gyrus**
+
+7. **Angular Gyrus**
+   - Left angular gyrus (lAG)
+
+8. **Parietal Lobe**
+
+9. **Prefrontal Cortex**
+
+10. **Left Cerebellum Crus II (lcrus2)**
+
+11. **Right Temporal Pole (rTP)**
+
+12. **Right Parahippocampal/Fusiform Gyrus (rPHG/rFG)**
+
+13. **Left Precentral/Postcentral Gyrus (lPreG/lPoG)**
+
+14. **Right Precentral/Postcentral Gyrus (rPreG/rPoG)**
+
+15. **Right Precentral Gyrus/Paracentral Lobule**
+
+16. **Sensorimotor Cortex**
+
+17. **Left Cerebellum Crus II**
+
+18. **Right IPS (rIPS)**
+
+19. **Left Precentral/Postcentral Gyrus (lPreG/lPoG)**
+
+20. **Bilateral Precentral/Postcentral Gyrus**
+
+These regions are involved in the cognitive function of numerosity perception.

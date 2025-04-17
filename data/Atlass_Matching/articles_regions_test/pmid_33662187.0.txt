@@ -1,0 +1,43 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Ventral Striatum**
+   - Nucleus accumbens
+   - Putamen
+
+2. **Dorsal Striatum**
+
+3. **Dorsomedial Prefrontal Cortex (dmPFC)**
+
+4. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+5. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+6. **Subgenual Prefrontal Cortex (sgPFC)**
+
+7. **Anterior Cingulate Cortex (ACC)**
+
+8. **Insula**
+
+9. **Caudate**
+
+10. **Amygdala**
+
+11. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+12. **Posterior Cingulate Cortex**
+
+13. **Middle Cingulate Cortex**
+
+14. **Middle Temporal Gyrus**
+
+15. **Superior Temporal Gyrus**
+
+16. **Superior Frontal Gyrus**
+
+17. **Middle Frontal Gyrus**
+
+18. **Posterior Superior Temporal Lobe**
+   - Inferior Parietal Lobe
+   - Angular Gyrus
+
+These regions are involved in various cognitive functions, including emotional processing and regulation, reward processing, social evaluation, and executive control.

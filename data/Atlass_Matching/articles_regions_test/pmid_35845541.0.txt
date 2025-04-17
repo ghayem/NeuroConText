@@ -1,0 +1,58 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex
+
+2. **Temporal Lobe**
+   - Temporal cortex
+   - Left middle temporal gyrus (L_MTG)
+   - Right superior temporal gyrus (R_STG)
+
+3. **Limbic System**
+   - Cingulate cortex
+
+4. **Frontal Lobe**
+   - Frontal cortex
+   - Right middle frontal gyrus (R_MFG)
+   - Left inferior frontal gyrus (L_IFG), triangle part
+   - Right superior frontal gyrus (R_SFG)
+   - Left superior frontal gyrus (L_SFG)
+
+5. **Parietal Lobe**
+   - Right supramarginal (R_SMG)
+   - Left inferior parietal, but supramarginal and angular gyrus (L_IPL)
+
+6. **Occipital Lobe**
+   - Right middle occipital gyrus (R_MOG)
+   - Right cuneus (R_cuneus)
+
+7. **Auditory Cortex**
+   - Auditory network (AN)
+
+8. **Visual Cortex**
+   - Visual network (VN)
+
+9. **Salience Network**
+   - Salience network (SAN)
+
+10. **Motor Cortex**
+    - Motor network (MN)
+
+11. **Sensorimotor Cortex**
+    - Sensorimotor networks (SMNs)
+
+12. **Default Mode Network**
+    - Default mode networks (DMNs)
+
+13. **Attention Networks**
+    - Dorsal attention network (DAN)
+    - Ventral attention network (VAN)
+
+14. **Executive Control Network**
+    - Executive control network (ECN)
+
+15. **Frontoparietal Network**
+    - Left frontoparietal network (LFPN)
+    - Right frontoparietal network (RFPN)
+
+These regions are involved in various cognitive functions, including auditory processing, visual processing, attention, memory, executive functions, and cognitive control.

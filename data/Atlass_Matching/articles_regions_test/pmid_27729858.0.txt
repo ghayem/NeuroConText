@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cognitive Control Network (CCN)**
+2. **Default-Mode Network (DMN)**
+3. **Hippocampus**
+4. **Superior Temporal Cortex**
+5. **Anterior Cingulate Cortex**
+6. **Posterior Cingulate Cortex**
+7. **Dorsolateral Prefrontal Cortex**
+8. **Amygdala**
+9. **Cortico-Cerebellar Network**
+10. **Precuneus**
+11. **Insula**
+12. **Salience Network**
+13. **Corpus Callosum**
+14. **Prefrontal Cortex**
+15. **Temporal Gyrus**
+16. **Cerebellum**
+   - **Posterior Cerebellar Lobe (CePL)**
+17. **Postcentral Gyrus (PoCG)**
+18. **Precentral Gyrus**
+19. **Superior Frontal Gyrus (SFG)**
+20. **Superior Temporal Gyrus (STG)**
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Emotion processing and regulation** ( Amygdala, Anterior Cingulate Cortex)
+- **Memory** (Hippocampus, Precuneus)
+- **Executive functions** (Dorsolateral Prefrontal Cortex, Prefrontal Cortex)
+- **Language processing** (Superior Temporal Cortex, Superior Temporal Gyrus)
+- **Motor function** (Precentral Gyrus, Postcentral Gyrus)
+- **Cognitive control** (Cognitive Control Network, Salience Network)
+- **Default mode of brain function** (Default-Mode Network)
+- **Inter-hemispheric communication** (Corpus Callosum, Voxel-Mirrored Homotopic Connectivity)

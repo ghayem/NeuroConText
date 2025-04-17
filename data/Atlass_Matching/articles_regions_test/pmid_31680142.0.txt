@@ -1,0 +1,17 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Fusiform Gyrus**
+
+2. **Inferior Occipital Gyrus**
+
+3. **Superior Temporal Sulcus**
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Medial Prefrontal Cortex (mPFC)**
+
+6. **Hippocampus**
+   - Posterior Hippocampus (pHPC)
+   - Anterior Hippocampus (aHPC)
+
+These regions are involved in various cognitive functions, including face processing, attentional control, memory encoding, and state-dependent memory effects.

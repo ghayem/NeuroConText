@@ -1,0 +1,96 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Primary Motor Cortex (M1)**
+    - Contralateral primary motor cortex
+    - Ipsilateral primary motor cortex
+
+2. **Primary Somatosensory Cortex (S1)**
+
+3. **Motor Association Areas**
+
+4. **Cerebellum**
+    - Anterior cerebellar lobules (I–V)
+    - Posterior cerebellum (lobules VI through IX)
+    - Cerebellar vermis (3, 4/5)
+    - Cerebellar hemispheres
+    - Lobule IV
+    - Lobule V
+    - Lobule VI
+    - Lobule VIIb
+    - Lobule VIII
+    - Crus I
+    - Crus II
+    - Lobule IX
+
+5. **Supplementary Motor Area (SMA)**
+
+6. **Premotor Cortex (PMC)**
+    - Lateral premotor cortex
+    - Dorsal premotor cortex (dPM)
+    - Ventral lateral premotor cortex
+
+7. **Inferior Parietal Lobule (IPL)**
+
+8. **Superior Parietal Lobule (SPL)**
+
+9. **Left lingual gyrus**
+
+10. **Right inferior temporal gyrus**
+
+11. **Right calcarine gyrus**
+
+12. **Left occipital gyrus**
+
+13. **Left superior occipital gyrus**
+
+14. **Right occipital lobe**
+
+15. **Left posterior-medial frontal gyrus**
+
+16. **Right fusiform gyrus**
+
+17. **Right middle occipital gyrus**
+
+18. **Right inferior occipital gyrus**
+
+19. **Bilateral cerebellum**
+
+20. **Rolandic operculum**
+
+21. **Right cuneus**
+
+22. **Right precentral gyrus**
+
+23. **Right middle temporal gyrus**
+
+24. **Right inferior frontal gyrus (IFG) (pars triangularis)**
+
+25. **Left inferior frontal gyrus (IFG) (pars orbitalis)**
+
+26. **Left middle temporal gyrus**
+
+27. **Left middle orbital gyrus**
+
+28. **Middle cingulate cortex (MCC)**
+
+29. **Posterior cingulate cortex (PCC)**
+
+30. **Precentral gyrus**
+
+31. **Right superior occipital gyrus**
+
+32. **Right superior temporal gyrus**
+
+33. **Left middle orbital gyrus**
+
+34. **Left lingual gyrus**
+
+35. **Left posterior medial frontal cortex (pMFC)**
+
+36. **Left precentral gyrus**
+
+37. **Left postcentral gyrus**
+
+38. **Left precuneus**
+
+These regions are involved in motor imagery, motor execution, and various cognitive functions related to movement and sensory processing.

@@ -1,0 +1,864 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Superior longitudinal fasciculus**
+   - Right superior longitudinal fasciculus
+
+2. **Cingulate gyrus**
+   - Right cingulate gyrus
+
+3. **Superior corona radiata**
+   - Left superior corona radiata
+
+4. **Cerebral peduncle**
+   - Right cerebral peduncle
+
+5. **Middle cerebellar peduncle**
+   - Middle cerebellar peduncle
+
+6. **Superior frontal gyrus**
+
+7. **Supplementary motor areas**
+
+8. **Corona radiata**
+
+9. **Brainstem**
+
+10. **Frontal cortex**
+
+These regions are involved in various cognitive and motor functions, including:
+
+- Executive control
+- Emotion
+- Pain
+- Memory
+- Attention
+- Motor coordination
+- Movement disorders
+- Cognitive functions
+- Emotional expression
+- Motor outcome
+- Ocular motor abnormalities
+- Ataxia
+- Language
+- Executive functions
+
+The article also mentions the following white matter (WM) related terms:
+
+- White matter (WM)
+- Gray matter (GM)
+- Cerebrospinal fluid (CSF)
+- WM fiber bundles
+- WM functional network
+- WM functional abnormalities
+- WM dysfunction
+- WM regions
+- WM signals
+- WM mask
+- WM metric calculations
+- WM neural activity
+- WM low-frequency fluctuations
+
+And the following general brain regions:
+
+- Brain
+- Subcortical regions
+- Cortex
+- Brainstem
+- Frontal cortex
+- Brain infarction
+- Brain regions
+- Brain dysfunction
+- Brain activity
+- Brain functions
+- Brain lesion
+- Brain areas
+- Brain networks
+- Brain outcomes
+- Brain imaging
+- Brain data
+- Brain scans
+- Brain images
+- Brain metrics
+- Brain features
+- Brain classification
+- Brain diagnosis
+- Brain progression
+- Brain scales
+- Brain neuromarkers
+- Brain mechanisms
+- Brain prevention
+- Brain stroke
+- Brain ischemia
+- Brain hemorrhage
+- Brain hematoma
+- Brain neurodegeneration
+- Brain atrophy
+- Brain anatomical MRI
+- Brain DTI
+- Brain FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM neuromarkers
+- Brain WM mechanisms
+- Brain WM prevention
+- Brain WM stroke
+- Brain WM ischemia
+- Brain WM hemorrhage
+- Brain WM hematoma
+- Brain WM neurodegeneration
+- Brain WM atrophy
+- Brain WM anatomical MRI
+- Brain WM DTI
+- Brain WM FA values
+- Brain WM regions
+- Brain WM abnormalities
+- Brain WM alterations
+- Brain WM functional connectivity
+- Brain WM structural connectivity
+- Brain WM integrity
+- Brain WM tractography
+- Brain WM lesions
+- Brain WM pathways
+- Brain WM circuits
+- Brain WM networks
+- Brain WM bundles
+- Brain WM fibers
+- Brain WM pathology
+- Brain WM damage
+- Brain WM impairment
+- Brain WM degeneration
+- Brain WM atrophy
+- Brain WM changes
+- Brain WM differences
+- Brain WM correlations
+- Brain WM classification
+- Brain WM diagnosis
+- Brain WM progression
+- Brain WM scales
+- Brain WM

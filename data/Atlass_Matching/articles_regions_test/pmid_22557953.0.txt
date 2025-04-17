@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions
+
+1. **Limbic System**
+   - Anterior cingulate cortex (ACC)
+   - Amygdala
+   - Hippcampus
+   - Thalamus
+
+2. **Inferior Frontal Cortex (IFC)**
+   - Right inferior frontal cortex (rIFC)
+     - Pars opercularis (specifically, the rIFC)
+   - Brodmann Area 47 (BA 47)
+
+3. **Pre-Supplementary Motor Area (pre-SMA)**
+   - Dorsomedial frontal cortex (part of pre-SMA)
+
+4. **Basal Ganglia**
+   - Sub-thalamic nucleus (STN)
+   - Globus pallidus (GP)
+     - Lateral globus pallidus (GP lateral)
+     - Medial globus pallidus (GP medial)
+   - Striatum
+
+5. **Motor Cortex (MC)**
+   - Brodmann Area 4 (BA 4)
+   - Brodmann Area 6 (BA 6)
+
+6. **Prefrontal Cortex (PFC)**
+   - Brodmann Area 8 (BA 8)
+   - Brodmann Area 9 (BA 9)
+   - Brodmann Area 10 (BA 10)
+   - Brodmann Area 11 (BA 11)
+   - Brodmann Area 44 (BA 44)
+   - Brodmann Area 45 (BA 45)
+   - Brodmann Area 46 (BA 46)
+   - Brodmann Area 47 (BA 47)
+
+7. **Posterior Cingulate Cortex**
+
+8. **Temporal Cortex**
+
+9. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+10. **Middle Superior Temporal Cortex**
+
+11. **Anterior Portion of the pSTG/S**
+
+### Cognitive Functions:
+- **Limbic System**: Involved in reward-signal processing, emotional responses, and drug-seeking behavior.
+- **Inferior Frontal Cortex (IFC)**: Key area for inhibitory control, specifically the rIFC.
+- **Pre-Supplementary Motor Area (pre-SMA)**: Involved in generating control signals for specific actions.
+- **Basal Ganglia**: Involved in inhibitory processes and motor control.
+- **Motor Cortex (MC)**: Involved in the execution of motor actions.
+- **Prefrontal Cortex (PFC)**: Involved in response selection and higher cognitive functions.
+- **Posterior Cingulate Cortex**: Involved in context and memory assessment.
+- **Temporal Cortex**: Involved in language and memory functions.
+
+These regions and their sub-regions are crucial for various cognitive functions, including emotional processing, executive control, motor inhibition, and higher cognitive processes.

@@ -1,0 +1,63 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Amygdala**
+
+2. **Insula**
+
+3. **Dorsal anterior cingulate cortex (dACC)**
+
+4. **Prefrontal cortex (PFC)**
+   - Dorsolateral PFC (DLPFC)
+   - Ventrolateral PFC (VLPFC)
+   - Medial PFC (MPFC)
+   - Ventromedial PFC (VMPFC)
+   - Dorsomedial PFC (DMPFC)
+   - Rostral ACC (rACC)
+   - Subgenual ACC (sgACC)
+
+5. **Orbitofrontal cortex (OFC)**
+   - Lateral OFC (LOFC)
+     - BA 47
+     - Lateral BA 11
+   - Medial OFC (MOFC)
+     - BA 11
+
+6. **Hippocampus**
+
+7. **Thalamus**
+   - Mediodorsal nucleus (MD)
+
+8. **Locus coeruleus**
+
+9. **Parahippocampal gyrus (PHG)**
+   - Right amygdala/PHG
+
+10. **Precuneus (PCun)**
+    - Right posterior cingulate/precuneus
+
+11. **Parietal regions**
+    - Inferior parietal lobule
+
+12. **Caudate**
+    - Left caudate
+
+13. **Lingual gyrus (LinG)**
+    - Left lingual gyrus
+
+14. **Temporal regions**
+    - Left superior temporal gyrus (BA 38, temporal pole)
+    - Left inferior temporal gyrus (ITG, BA 20)
+
+15. **Frontopolar cortex**
+    - Medial frontopolar cortex (BA 9)
+
+16. **Precentral gyrus**
+    - Left precentral gyrus (BA 4)
+
+17. **Angular gyrus**
+    - Right angular gyrus
+
+18. **Intraparietal sulcus**
+    - Left horizontal segment of the intraparietal sulcus (LHIPS)
+
+These regions are involved in various cognitive and emotional functions, including threat detection, cognitive and emotion regulation, contextual processing, memory functions, and executive functions.

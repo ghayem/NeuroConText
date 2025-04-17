@@ -1,0 +1,36 @@
+## Brain Regions and Sub-Regions:
+
+1. **Left Inferior Frontal Gyrus (IFG)**
+    - Pars triangularis
+    - Pars orbitalis
+
+2. **Temporal Lobe**
+    - Temporal pole
+    - Middle temporal gyrus
+    - Superior temporal gyrus (STG)
+    - Inferior temporal gyrus (ITG)
+
+3. **Parietal Lobe**
+    - Angular gyrus
+    - Parietal and premotor areas
+
+4. **Frontal Lobe**
+    - Medial superior frontal gyrus
+    - Middle frontal gyrus (MFG)
+    - Precentral gyrus
+
+5. **Occipital Lobe**
+    - Occipital brain regions
+
+6. **Limbic System**
+    - Anterior cingulate cortex (ACC)
+
+7. **Cerebellum**
+    - Left cerebellum
+
+8. **Other Regions**
+    - Supramarginal gyrus
+    - Fusiform gyrus
+    - Temporo-parietal regions
+
+- These regions are involved in these cognitive functions: language, memory, semantic processing, social/emotional processing, and motoric or semantic processes.

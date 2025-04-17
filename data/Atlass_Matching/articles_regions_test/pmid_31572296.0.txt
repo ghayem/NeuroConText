@@ -1,0 +1,48 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Medial Prefrontal Cortex (PFC)**
+   - Ventro-medial PFC
+   - Dorsomedial PFC (dmPFC)
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal ACC (dACC)
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Precuneus**
+
+5. **Anterior Insula**
+
+6. **Temporo-Parietal Junction (TPJ)**
+   - Posterior superior temporal gyrus
+   - Ventral areas of the inferior parietal lobule
+   - Angular gyrus (ANG)
+
+7. **Thalamus (THA)**
+   - Mediodorsal thalamus
+
+8. **Cerebellum**
+   - Left cerebellum (crus I & hemispheric lobule VI)
+
+9. **Inferior Temporal Cortex**
+   - Left inferior temporal gyrus (ITG)
+
+10. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+11. **Median Cingulate Cortex**
+    - Bilateral median cingulate cortex
+
+12. **Superior Frontal Gyrus**
+    - Left medial superior frontal gyrus
+    - Right superior frontal gyrus
+
+13. **Temporal Cortex**
+
+14. **Default Mode Network**
+    - Includes mPFC, ACC, PCC, and precuneus
+
+15. **Salience Network**
+    - Includes dACC and anterior insula
+
+These regions are involved in various cognitive functions, including self-processing, self-referencing, cognitive control, attention, theory of mind, social cognition, decision-making, and emotional processing.

@@ -1,0 +1,64 @@
+## The brain regions:
+
+1. **Anterior brain regions**
+   - Frontal lobe
+
+2. **Posterior brain regions**
+   - Parietal lobe
+
+3. **Motor cortex**
+
+4. **Right inferior frontal gyrus (rIFG)**
+   - Subthalamic nucleus (STN)
+
+5. **Left inferior frontal gyrus (lIFG)**
+
+6. **Dorsolateral prefrontal cortex (DLPFC)**
+
+7. **Left superior parietal lobule (lSPL)**
+
+8. **Superior parietal lobule**
+
+9. **Cerebellar nodule**
+
+10. **Right anterior insula**
+
+11. **Frontal eye field**
+
+12. **Anterior insula**
+
+13. **Frontoparietal control network**
+
+14. **Dorsal anterior cingulate cortex**
+
+15. **Anterior prefrontal regions**
+
+16. **Dorsolateral prefrontal cortex**
+
+17. **Striatum**
+
+18. **Dorsal attentional network (DAN)**
+
+19. **Primary motor cortex**
+
+20. **Midline parietal cortex**
+
+21. **Right parietal cortex**
+
+22. **Left cerebellar nodule**
+
+23. **Right anterior insula**
+
+24. **Frontal eye field**
+
+25. **Midline parietal cortex**
+
+26. **Frontoparietal control network**
+
+27. **Dorsal anterior cingulate cortex**
+
+28. **Anterior prefrontal regions**
+
+29. **Dorsolateral prefrontal cortex**
+
+30. **Frontal DAN node**

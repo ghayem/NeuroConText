@@ -1,0 +1,62 @@
+## Brain Regions and Sub-Regions:
+
+1. **Occipital Cortex**
+    - Primary visual cortex (V1)
+    - Extrastriate visual-cortical areas (V2/3)
+    - Cuneus
+    - Precuneus
+    - Middle occipital gyrus
+    - Fusiform gyrus
+
+2. **Parietal Cortex**
+    - Precuneus
+    - Sub-gyral
+    - Paracentral superior- and inferior-lobules
+    - Supramarginal- and postcentral-gyrus
+
+3. **Frontal Cortex**
+    - Precentral gyrus
+    - Frontal eye-field (FEF)
+    - Middle-frontal gyrus
+    - Medial-frontal gyrus
+    - Superior-frontal gyrus
+    - Paracentral- and precentral-lobules
+    - Sub-gyral
+
+4. **Temporal Cortex**
+    - Middle temporal gyrus
+    - Superior temporal gyrus
+
+5. **Cerebellum**
+    - Cerebellar tonsil
+    - Pyramis
+    - Inferior semi-lunar lobule
+    - Posterior lobe
+    - Declive
+    - Culmen
+    - Tuber
+
+6. **Brainstem**
+    - Midbrain
+
+7. **Thalamus**
+
+8. **Insula**
+
+9. **Cingulate Gyrus**
+    - Anterior cingulate
+    - Posterior cingulate
+
+10. **Limbic Lobe**
+    - Parahippocampal gyrus
+    - Amygdala
+
+11. **Subcortical Occipital Area**
+    - Cuneus
+
+12. **Subcortical Regions**
+    - Optic radiation
+
+13. **Uvula**
+
+These regions are involved in various cognitive and sensory functions, including visual processing, motor control, and higher-order cognitive functions.

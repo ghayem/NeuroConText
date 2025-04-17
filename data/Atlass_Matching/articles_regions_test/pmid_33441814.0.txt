@@ -1,0 +1,90 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article, along with their associated cognitive functions:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Associated with: Conflict monitoring, error detection, affective processing, valence processing
+
+2. **Posterior Cingulate Cortex (PCC)**
+   - Associated with: Affective processing, valence processing
+
+3. **Insula**
+   - Anterior insula
+     - Associated with: Affective processing, valence processing, general hub for valence processing
+
+4. **Hippocampus**
+   - Associated with: Memory, affective processing
+
+5. **Amygdala**
+   - Associated with: Emotion processing, arousal
+
+6. **Orbitofrontal Cortex (OFC)**
+   - Medial OFC
+     - Associated with: Affective processing, valence processing
+
+7. **Inferior Frontal Gyrus (IFG)**
+   - Left inferior frontal gyrus (lIFG)
+     - Associated with: Integrative processes of syntactic, semantic and affective information, affective semantic information, integrative hub for affective semantic information
+
+8. **Superior Frontal**
+   - Associated with: Lexical processing, semantic retrieval
+
+9. **Supplementary Motor Area (SMA)**
+   - Associated with: Motor planning, motor control
+
+10. **Temporal Pole**
+    - Associated with: Semantic processing
+
+11. **Planum Temporale**
+    - Associated with: Early auditory analysis, prelexical processing
+
+12. **Superior Temporal**
+    - Associated with: Lexical processing, auditory processing, semantic processing
+
+13. **Middle Frontal**
+    - Associated with: Lexical processing, semantic retrieval
+
+14. **Dorsal Cingulate**
+    - Associated with: Conflict processing, emotional conflict task
+
+15. **Calcarine**
+    - Associated with: Visual processing, auditory semantic tasks
+
+16. **Precentral Gyrus**
+    - Associated with: Motor function, phonological decisions
+
+17. **Precuneus**
+    - Associated with: Episodic memory retrieval, self-processing, consciousness
+
+18. **Angular Gyrus**
+    - Associated with: Semantic processing, language processing, number processing, spatial cognition, memory retrieval
+
+19. **Middle Occipital Gyrus**
+    - Associated with: Visual processing, object recognition
+
+20. **Ventral Diencephalon (vDC)**
+    - Associated with: Affective processing
+
+21. **Caudate**
+    - Associated with: Motor control, learning, memory, reward processing
+
+22. **Putamen**
+    - Associated with: Motor control, learning
+
+23. **Fusiform**
+    - Associated with: Face recognition, word recognition, color processing
+
+24. **Supramarginal Gyrus**
+    - Associated with: Language perception and processing, phonological processing
+
+25. **Postcentral Gyrus**
+    - Associated with: Somatosensory processing
+
+26. **Lingual Gyrus**
+    - Associated with: Visual processing, dreaming, processing of complex visual scenes
+
+27. **Cuneus**
+    - Associated with: Visual processing
+
+28. **Middle Temporal**
+    - Associated with: Semantic processing, language processing
+
+These regions are involved in various cognitive functions, including language processing, affective processing, memory, visual processing, motor control, and semantic processing.

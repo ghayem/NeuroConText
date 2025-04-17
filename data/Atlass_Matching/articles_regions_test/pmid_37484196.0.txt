@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Paraventricular Nucleus**
+
+3. **Prefrontal Cortex**
+    - Ventromedial Prefrontal Cortex (VmPFC)
+
+4. **Liver**
+    - Kupffer cells
+
+5. **Hypothalamic-Pituitary-Adrenal (HPA) Axis**
+    - Hypothalamus
+    - Pituitary Gland
+    - Adrenal Glands
+
+6. **Central Nervous System (CNS)**
+    - Microglia
+
+7. **Ventral Anterior Cingulate**
+    - Brodmann Area (BA) 24
+
+8. **Dorsomedial Prefrontal Cortex**
+    - Brodmann Area (BA) 9
+
+9. **Lateral Orbitofrontal Cortex**
+    - Brodmann Area (BA) 47
+
+10. **Angular Gyrus**
+    - Brodmann Area (BA) 39
+
+11. **Frontal Eyefields**
+    - Brodmann Area (BA) 8
+
+12. **Ventral Posterior Cingulate Cortex**
+    - Brodmann Area (BA) 23
+
+13. **Dorsal Anterior Cingulate Cortex**
+    - Brodmann Area (BA) 32
+
+These regions are involved in various cognitive functions including emotional processing, stress response, decision-making, and executive functions.

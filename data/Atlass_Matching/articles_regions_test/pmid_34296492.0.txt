@@ -1,0 +1,58 @@
+## The brain regions:
+
+1. **Hippocampus**
+
+2. **Cingulate Cortex**
+   - Hippocampal
+   - Anterior cingulate cortex (ACC)
+   - Median cingulate cortex (MCC)
+   - Posterior cingulate cortex (PCC)
+
+3. **Midbrain**
+
+4. **Cerebellar Regions**
+
+5. **Lateral Occipital Cortex**
+
+6. **Dorsolateral Prefrontal Cortex**
+
+7. **Medial Orbitofrontal Cortex**
+
+8. **Hypothalamus**
+   - Left hypothalamus
+
+9. **Inferior Parietal Lobe**
+   - Left inferior parietal lobe
+
+10. **Lentiform Nucleus**
+    - Right lentiform nucleus
+
+11. **Caudate**
+    - Right caudate
+
+12. **Supplementary Motor Area**
+
+13. **Parahippocampal Gyrus**
+    - Right parahippocampal gyrus
+
+14. **Temporal Pole**
+    - Right temporal pole
+
+15. **Middle Temporal Gyrus**
+    - Right middle temporal gyrus
+
+16. **Amygdala**
+    - Right amygdala
+
+17. **Middle Occipital Gyrus**
+    - Left middle occipital gyrus
+
+18. **Superior Frontal Gyrus**
+    - Bilateral superior frontal gyrus
+
+19. **Precuneus**
+    - Bilateral precuneus
+
+20. **Subcallosal Gyrus**
+
+These regions are involved in various cognitive functions including emotion regulation, attention, memory, reward processing, cognitive control, body image perception, and energy sensing.

@@ -1,0 +1,30 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Temporoparietal junction (TPJ)**
+   - Right TPJ (R TPJ)
+
+2. **Middle temporal gyrus (MTG)**
+   - Posterior middle temporal gyrus (pMTG)
+
+3. **Precuneus (PC)**
+   - Right PC (R PC)
+   - Left PC (L PC)
+   - Dorsal PC
+   - Ventral PC
+
+4. **Medial prefrontal cortex**
+
+5. **Supramarginal gyrus (SMG)**
+   - Right SMG (R SMG)
+
+6. **Angular gyrus**
+
+7. **Parietal cortex**
+   - Superior parietal network
+
+8. **Default mode network**
+
+9. **Executive function network**
+   - Includes regions involved in attention control, working memory, and processing location
+
+These regions are involved in various cognitive functions, including theory of mind (ToM), social cognition, attention control, working memory, and processing location.

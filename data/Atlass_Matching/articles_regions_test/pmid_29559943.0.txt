@@ -1,0 +1,27 @@
+## Brain Regions and Sub-Regions:
+
+1. **Broca's Area**
+   - Brodmann Area 44 (BA 44)
+   - Brodmann Area 45 (BA 45)
+
+2. **Basal Ganglia**
+   - Caudate nucleus
+   - Putamen
+   - Striatum (includes caudate nucleus and putamen)
+
+3. **Precentral Gyrus**
+   - Brodmann Area 6 (BA 6)
+
+4. **Visual Cortex**
+   - Lingual gyrus (BA 30)
+
+5. **Frontal Cortex**
+   - Brodmann Area 46 (BA 46)
+   - Brodmann Area 47 (BA 47)
+   - Mesial supplementary motor area
+
+### Cognitive Functions Involved:
+- Language processing (syntax-related)
+- Coordinated movements
+- Executive functions
+- Visual processing

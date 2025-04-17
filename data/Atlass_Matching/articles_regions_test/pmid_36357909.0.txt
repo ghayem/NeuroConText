@@ -1,0 +1,62 @@
+1. **Median Preoptic Nucleus (MnPO)**
+   - Located in the anterior hypothalamus
+
+2. **Organum Vasculosum Lamina Terminalis (OVLT)**
+
+3. **Subfornical Organ (SFO)**
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Insula**
+
+6. **Inferior Frontal Gyrus**
+
+7. **Middle Frontal Gyrus**
+
+8. **Default Mode Network (DMN)**
+   - Anterior medial prefrontal cortex (amPFC)
+   - Retrosplenial cortex (RSC)
+   - Posterior cingulate cortex (PCC)
+   - Posterior inferior parietal lobule (pIPL)
+   - Hippocampal formation (HF)
+   - Parahippocampal cortex (PHC)
+
+9. **Frontoparietal Control Network (FPCN)**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Anterior inferior parietal lobule (aIPL)
+
+10. **Salience Network (SN)**
+    - Anterior insula (AI)
+    - Anterior cingulate cortex (ACC)
+
+11. **Precuneus (Pc)**
+    - Right precuneus (r-Pc)
+
+12. **Superior Frontal Gyrus**
+    - Right superior frontal gyrus (r-SFG)
+
+13. **Anterior Middle Cingulate Cortex (aMCC)**
+
+14. **Middle Frontal Gyrus**
+    - Right middle frontal gyrus (r-MFG)
+
+15. **Superior Temporal Gyrus**
+    - Bilateral superior temporal gyrus (STG)
+
+16. **Insula**
+    - Right insular (r-INS)
+
+17. **Putamen (PUT)**
+
+18. **Inferior Parietal Lobule (IPL)**
+    - Left inferior parietal lobule (l-IPL)
+
+19. **Supramarginal Gyrus**
+    - Left supramarginal gyrus (l-SMG)
+
+20. **Inferior Frontal Gyrus**
+    - Left inferior frontal gyrus (l-IFG)
+
+21. **Posterior Cingulate Cortex (PCC)**
+
+These regions are involved in the cognitive functions related to thirst regulation, including sensing dehydration-related physiological changes, subjective thirst perception, and higher-order cognitive functions such as spontaneous thought and cognitive control.

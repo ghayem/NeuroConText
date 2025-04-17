@@ -1,0 +1,103 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Default-mode network**
+   - Thalamus-basal ganglia
+   - Attention networks
+
+2. **Prefrontal network**
+   - Insular cortex
+   - Sensorimotor cortices
+
+3. **Salience network**
+   - Emotional arousal network
+   - Sensorimotor network
+
+4. **Left middle frontal gyrus**
+
+5. **Left anterior insula**
+
+6. **Left postcentral gyrus**
+
+7. **Left precuneus**
+
+8. **Right lateral orbital gyrus**
+
+9. **Right inferior temporal gyrus**
+
+10. **Right middle temporal gyrus**
+
+11. **Right inferior occipital gyrus**
+
+12. **Bilateral temporal pole**
+
+13. **Bilateral superior frontal gyrus**
+
+14. **Left middle cingulate gyrus**
+
+15. **Left opercular part of the inferior frontal gyrus**
+
+16. **Left occipital pole**
+
+17. **Right superior parietal lobule**
+
+18. **Right superior frontal gyrus**
+
+19. **Right occipital pole**
+
+20. **Right angular gyrus**
+
+21. **Left superior frontal gyrus (medial segment)**
+
+22. **Right middle frontal gyrus**
+
+23. **Right inferior frontal gyrus (triangular part)**
+
+24. **Right postcentral gyrus**
+
+25. **Right thalamus**
+
+26. **Left basal forebrain**
+
+27. **Left caudate**
+
+28. **Right anterior insula**
+
+29. **Bilateral angular gyrus**
+
+30. **Bilateral temporal pole**
+
+31. **Left superior frontal gyrus (medial segment)**
+
+32. **Right inferior occipital gyrus**
+
+33. **Frontal pole**
+
+34. **Inferior frontal gyrus**
+
+35. **Inferior occipital gyrus**
+
+36. **Middle cingulate gyrus**
+
+37. **Middle frontal gyrus**
+
+38. **Middle temporal gyrus**
+
+39. **Occipital pole**
+
+40. **Postcentral gyrus**
+
+41. **Posterior cingulate gyrus**
+
+42. **Precuneus**
+
+43. **Precentral gyrus**
+
+44. **Superior frontal gyrus**
+
+45. **Superior occipital gyrus**
+
+46. **Temporal pole**
+
+47. **Thalamus**
+
+These regions are involved in various cognitive functions, including pain perception, modulation, and the gut-brain axis interactions relevant to chronic visceral pain conditions.

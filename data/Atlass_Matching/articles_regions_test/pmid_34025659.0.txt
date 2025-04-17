@@ -1,0 +1,66 @@
+## Brain Regions and Sub-Regions:
+
+1. **Primary Visual Cortex (V1)**
+   - Brodmann’s area 17
+   - Occipital lobe
+
+2. **Left Cerebellum Crus1**
+   - Cerebellum
+
+3. **Left Cerebellum 10**
+   - Cerebellum
+
+4. **Bilateral Inferior Temporal Cortex**
+   - Inferior temporal gyrus (ITG)
+
+5. **Right Hippocampus**
+   - Medial temporal lobe
+
+6. **Left Superior Occipital Gyrus**
+   - Occipital lobe
+
+7. **Bilateral Calcarine**
+   - Brodmann’s area 18
+   - Occipital lobe
+
+8. **Bilateral Postcentral Gyrus**
+   - Primary somatosensory cortex (S1)
+
+9. **Bilateral Thalamus**
+   - Diencephalon
+
+10. **Left Middle Temporal Gyrus**
+    - Temporal lobe
+
+11. **Vermis 9**
+    - Cerebellum
+
+12. **Left Inferior Occipital Gyrus**
+    - Occipital lobe
+
+13. **Right Inferior Occipital Gyrus**
+    - Occipital lobe
+
+14. **Left Postcentral Gyrus**
+    - Parietal lobe
+
+15. **Cerebelum 6 Left**
+    - Cerebellum
+
+16. **Right Paracentral Lobule**
+    - Frontal lobe
+
+17. **Right Superior Parietal Gyrus**
+    - Parietal lobe
+
+18. **Right Inferior Occipital Gyrus**
+    - Occipital lobe
+
+### Cognitive Functions:
+- **Visual Functions**: Primary visual cortex (V1), calcarine, superior occipital gyrus, inferior occipital gyrus
+- **Somatosensory Functions**: Postcentral gyrus (S1), paracentral lobule
+- **Visuomotor Coordination**: Cerebellum (left cerebellum crus1, left cerebellum 10, vermis 9, cerebelum 6 left)
+- **Memory and Emotion**: Hippocampus
+- **Visual Information Processing**: Inferior temporal gyrus (ITG), middle temporal gyrus
+- **Emotional Regulation**: Inferior temporal gyrus (ITG)
+- **Higher Cognitive Function**: Thalamus, superior parietal gyrus

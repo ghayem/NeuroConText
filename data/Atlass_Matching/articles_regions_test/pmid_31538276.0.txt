@@ -1,0 +1,54 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Fusiform Gyrus**
+
+2. **Calcarine**
+
+3. **Temporal Gyrus**
+   - Inferior temporal gyrus
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+4. **Hippocampus**
+
+5. **Caudate Nucleus**
+
+6. **Thalamus**
+
+7. **Cingulum**
+   - Middle cingulum
+   - Posterior cingulum
+   - Anterior cingulum
+
+8. **Cerebellum**
+   - Cerebelum_4_5
+   - Cerebelum_6
+
+9. **Olfactory**
+
+10. **Lingual Gyrus**
+
+11. **Rectus Gyrus**
+
+12. **Orbital Parts of Superior Frontal Gyrus (ORBsup)**
+   - Orbital parts of superior frontal gyrus, left (ORBsup.L)
+
+13. **Frontal Gyrus**
+   - Superior frontal gyrus
+
+- These regions are involved in cognitive functions such as memory, motor control, executive functions, and psychomotor speed.
+
+The specific involvement of these regions in cognitive functions is as follows:
+- **Fusiform Gyrus**: Visual perception, face recognition.
+- **Calcarine**: Primary visual cortex, involved in visual processing.
+- **Temporal Gyrus**: Auditory processing, object recognition, memory, language comprehension.
+- **Hippocampus**: Memory consolidation, spatial navigation.
+- **Caudate Nucleus**: Motor control, learning, memory, reward processing.
+- **Thalamus**: Sensory relay, motor control, consciousness.
+- **Cingulum**: Emotion formation and processing, learning, memory.
+- **Cerebellum**: Motor control, coordination, cognitive functions.
+- **Olfactory**: Sense of smell.
+- **Lingual Gyrus**: Visual processing, dreaming, encoding visual memories.
+- **Rectus Gyrus**: Part of the orbitofrontal cortex, involved in decision-making.
+- **Orbital Parts of Superior Frontal Gyrus (ORBsup)**: Decision-making, cognitive control.
+- **Frontal Gyrus**: Executive functions, motor control, language production.

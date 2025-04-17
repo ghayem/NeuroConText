@@ -1,0 +1,78 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Prefrontal Cortex**
+
+3. **Limbic Cortex**
+
+4. **Striatum**
+
+5. **Thalamus**
+   - Thalamic reticular nucleus
+   - Dorsomedial nucleus (MD)
+   - Lateral geniculate nucleus
+   - Ventral anterior nucleus (VA)
+   - Ventral lateral nucleus (VL)
+   - Lateral posterior nucleus (LP)
+   - Ventral posterior nucleus (VP)
+   - Anterior complex
+   - Posterior parietal thalamus
+   - Occipital thalamus
+   - Caudal temporal thalamus
+   - Lateral prefrontal thalamus
+   - Medial premotor thalamus
+   - Sensory thalamus
+   - Rostral temporal thalamus
+
+6. **Sensorimotor Cortex**
+
+7. **Medial Superior Prefrontal Cortex**
+
+8. **Lingual Gyrus**
+
+9. **Precuneus**
+
+10. **Cerebellum**
+
+11. **Occipital Cortex**
+
+12. **Prefrontal Cortex**
+
+13. **Premotor Cortex**
+
+14. **Somatosensory Cortex**
+
+15. **Medial Temporal Lobe**
+
+16. **Posterior Parietal Cortex (PPC)**
+
+17. **Inferior Pulvinar**
+
+18. **Intralaminar Nuclei**
+
+19. **Cingulate**
+
+20. **Hippocampus**
+
+21. **Posterior Cingulate**
+
+22. **Parietal Cortex**
+
+23. **Anterior Cingulate**
+
+24. **Temporal Lobe**
+
+25. **Pulvinar**
+
+26. **Cerebellum**
+
+27. **Precuneus**
+
+28. **Lingual regions**
+
+29. **Posterior Cingulate**
+
+30. **Thalamus**
+
+31. **Cerebellum**

@@ -1,0 +1,24 @@
+# Brain Regions and Sub-Regions
+
+1. **Default Mode Network (DMN)**
+    - Precuneus
+    - Posterior cingulate cortex
+    - Dorsomedial prefrontal cortex
+
+2. **Other Brain Regions**
+    - Inferior temporal gyrus
+    - Lentiform nucleus
+    - Medial prefrontal cortex
+    - Middle occipital gyrus
+    - Middle temporal gyrus
+    - Parahippocampus
+    - Postcentral gyrus
+    - Ventral striatum
+    - Medial orbitofrontal cortex
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Inferior parietal cortex
+    - Frontal pole
+    - Precentral gyrus
+    - Posterior cingulate cortex
+
+These regions are involved in various cognitive and emotional functions, including social emotions, affective processing, self-reference, mentalizing, and reward processing.

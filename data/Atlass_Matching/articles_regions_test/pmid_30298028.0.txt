@@ -1,0 +1,105 @@
+## Brain Regions and Sub-regions:
+
+1. **Caudate**
+
+2. **Putamen**
+
+3. **Thalamus**
+
+4. **Left insula**
+
+5. **Right anterior cingulate cortex (ACC)**
+
+6. **Temporal pole**
+
+7. **Right dorsolateral prefrontal cortex (DLPFC)**
+
+8. **Parietal cortex**
+
+9. **Amygdala**
+
+10. **Hippocampus**
+
+11. **Left precuneus**
+
+12. **Right supplementary motor area (SMA)**
+
+13. **Middle occipital gyrus (MOG)**
+
+14. **Left putamen**
+
+15. **Left superior parietal gyrus**
+
+16. **Right inferior temporal gyrus**
+
+17. **Fusiform gyrus**
+
+18. **Right middle temporal gyrus (MTG)**
+
+19. **Superior temporal gyrus (STG)**
+
+20. **Left thalamus**
+
+21. **Right superior frontal gyrus (SFG)**
+
+22. **Angular gyrus**
+
+23. **Middle temporal gyrus (MTG)**
+
+24. **Superior temporal gyrus (STG)**
+
+25. **Bilateral thalami**
+
+26. **Left thalamus**
+
+27. **Right dorsolateral prefrontal cortex (DLPFC)**
+
+28. **Angular gyrus**
+
+29. **Middle temporal gyrus (MTG)**
+
+30. **Middle occipital gyrus (MOG)**
+
+31. **Left thalamus**
+
+32. **Right superior parietal gyrus**
+
+33. **Precuneus**
+
+34. **Right inferior temporal gyrus**
+
+35. **Fusiform gyrus**
+
+36. **Right middle temporal gyrus (MTG)**
+
+37. **Superior temporal gyrus (STG)**
+
+38. **Bilateral thalami**
+
+39. **Left thalamus**
+
+40. **Right dorsolateral prefrontal cortex (DLPFC)**
+
+41. **Supplementary motor area (SMA)**
+
+42. **Angular gyrus**
+
+43. **Middle temporal gyrus (MTG)**
+
+44. **Middle occipital gyrus (MOG)**
+
+45. **Left putamen**
+
+46. **Left thalamus**
+
+47. **Precuneus**
+
+48. **Thalamus**
+
+49. **Putamen**
+
+50. **Amygdala**
+
+51. **Hippocampus**
+
+These regions are involved in various cognitive functions, including emotion processing, fear regulation, social learning, reward processing, cognitive control, and emotional face processing.

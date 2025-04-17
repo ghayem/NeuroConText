@@ -1,0 +1,27 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex**
+
+2. **Default Mode Network (DMN)**
+
+3. **Hippocampus**
+
+4. **Middle Frontal Sulcus (MFS)**
+
+5. **Precentral Sulcus (PreCS)**
+
+6. **Medial Prefrontal Cortex (mPFC)**
+
+7. **Angular Gyrus (AG)**
+
+8. **Inferior Parietal Lobule (IPL)**
+
+9. **Temporoparietal Junction (TPJ)**
+
+10. **Insula**
+
+11. **Middle Cingulate Cortex (MCC)**
+
+12. **Posterior Cingulate Cortex (PCC)**
+
+These regions are involved in these cognitive functions: language, memory, and executive functions.

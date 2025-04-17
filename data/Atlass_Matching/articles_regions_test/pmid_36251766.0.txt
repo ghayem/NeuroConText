@@ -1,0 +1,54 @@
+## Brain Regions and Sub-Regions
+
+1. **Ventrolateral Prefrontal Region**
+   - Right ventrolateral prefrontal cortex
+
+2. **Anterior Cingulate Cortex**
+   - Left anterior cingulate cortex
+
+3. **Supplementary Motor Area**
+   - Left supplementary motor area
+
+4. **Inferior Frontal Gyrus**
+   - Right inferior frontal gyrus (rIFG)
+   - Left inferior frontal gyrus
+
+5. **Posterior Cingulate Cortex**
+   - Bilateral posterior cingulate cortex
+
+6. **Dorsolateral Prefrontal Cortex**
+   - Right dorsolateral prefrontal cortex (rDLPFC)
+
+7. **Dorsal Anterior Cingulate Cortex**
+   - Dorsal anterior cingulate cortex (dACC)
+
+8. **Affective Disorders**
+   - Schizophrenia
+   - Schizoaffective disorder
+   - Affective disorders
+
+9. **Prefrontal Cortex**
+   - Right dorsolateral prefrontal cortex (rDLPFC)
+   - Right ventrolateral prefrontal cortex
+
+10. **32-channel head coil**
+   - Field of view
+   - Slice thickness
+
+## Cognitive Functions
+
+These regions are involved in these cognitive functions:
+- Attention
+- Inhibitory control
+- Impulsivity
+- Response inhibition
+- Sustained attention
+- Focused attention
+- Inhibition control
+- Cognitive flexibility
+- Perseveration
+- Decision making
+- Task focus
+- Salience
+- Cognitive processes of flexibility and perseveration
+- Inhibitory control and attentional processing

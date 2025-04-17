@@ -1,0 +1,30 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+
+2. **Caudate**
+
+3. **Frontal lobe**
+    - Lateral prefrontal cortex
+    - Medial pericalcarine
+
+4. **Parietal lobe**
+    - Precuneus
+
+5. **Temporal lobe**
+
+6. **Occipital lobe**
+    - Cuneus
+    - Lingual gyrus
+
+7. **Rostral middle frontal cortex**
+
+8. **Dorsal lateral prefrontal cortex**
+
+## These regions are involved in these cognitive functions:
+- Learning
+- Memory
+- Executive functions (e.g., attention, working memory)
+- Visual processing
+- Selective visual attention
+- Higher-order visual abilities

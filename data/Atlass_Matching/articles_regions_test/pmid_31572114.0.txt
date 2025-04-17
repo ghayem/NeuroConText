@@ -1,0 +1,169 @@
+1. **Left prefrontal cortex**
+
+2. **Bilateral lingual gyri**
+
+3. **Bilateral fusiform gyri**
+
+4. **Inferior frontal gyri**
+
+5. **Parahippocampal gyri**
+
+6. **Premotor cortices**
+
+7. **Medial parietal cortices**
+
+8. **Anterior cingulate cortex**
+
+9. **Thalami**
+
+10. **Left insula**
+
+11. **Left anterior hippocampus**
+
+12. **Posterior hippocampus**
+
+13. **Bilateral inferior prefrontal cortex**
+
+14. **Left anterior hippocampus**
+
+15. **Left posterior hippocampus**
+
+16. **Bilateral inferior prefrontal cortex**
+
+17. **Left anterior hippocampus**
+
+18. **Left posterior hippocampus**
+
+19. **Prefrontal cortex (PFC)**
+
+20. **Left inferior frontal gyrus (IFG)**
+
+21. **Dorsolateral prefrontal cortex**
+
+22. **Cingulate gyrus**
+
+23. **Middle temporal gyrus (MTG)**
+
+24. **Parahippocampal areas**
+
+25. **Left inferior frontal cortex/insula**
+
+26. **Bilateral fusiform cortex**
+
+27. **Left medial temporal cortex**
+
+28. **Bilateral fusiform gyri**
+
+29. **Bilateral declive**
+
+30. **Right inferior temporal gyrus**
+
+31. **Middle occipital gyrus**
+
+32. **Middle temporal gyrus (MTG)**
+
+33. **Precuneus**
+
+34. **Superior parietal lobule**
+
+35. **Left middle frontal gyrus**
+
+36. **Bilateral IFG**
+
+37. **Left ventral anterior insula**
+
+38. **Left precentral gyrus**
+
+39. **Left inferior parietal lobule (IPL)**
+
+40. **Bilateral IFG**
+
+41. **Bilateral superior temporal gyri (STG)**
+
+42. **Cingulate gyrus**
+
+43. **Anterior cingulate cortex**
+
+44. **Bilateral ventral anterior insula**
+
+45. **Bilateral posterior insula**
+
+46. **STG**
+
+47. **Transverse temporal gyri**
+
+48. **Right pre- and post-central gyri**
+
+49. **Bilateral cuneus**
+
+50. **Precuneus**
+
+51. **Cingulate gyri**
+
+52. **Posterior cingulate cortex**
+
+53. **Right IPL**
+
+54. **Posterior cingulate cortex**
+
+55. **Left culmen**
+
+56. **Right postcentral gyrus**
+
+57. **Left dorsal anterior insula**
+
+58. **Left supramarginal gyrus**
+
+59. **Right STG**
+
+60. **Left insula**
+
+61. **Angular gyrus**
+
+62. **Left cuneus**
+
+63. **Posterior cingulate cortex (PCC)**
+
+64. **Right middle occipital gyrus**
+
+65. **Right superior temporal gyrus**
+
+66. **Right middle frontal gyrus**
+
+67. **Right cuneus**
+
+68. **Left middle frontal gyrus**
+
+69. **Bilateral insula**
+
+70. **Anterior and middle cingulate cortices**
+
+71. **Left IFG**
+
+72. **Bilateral middle occipital gyri**
+
+73. **Right precuneus**
+
+74. **Bilateral precuneus**
+
+75. **Posterior cingulate cortices**
+
+76. **Right inferior parietal lobe**
+
+77. **Right paracentral areas**
+
+78. **Right supramarginal gyrus**
+
+79. **Superior temporal gyrus areas**
+
+80. **Right middle temporal gyrus**
+
+81. **Left supramarginal gyrus**
+
+82. **Left angular gyrus**
+
+83. **Left inferior parietal lobule (IPL)**
+
+84. **Middle frontal gyri (MFG)**
+
+These regions are involved in these cognitive functions: memory, language, attention, semantic processing, phonological processing, executive functions, and salience.

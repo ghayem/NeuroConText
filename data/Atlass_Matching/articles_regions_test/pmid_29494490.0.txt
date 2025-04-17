@@ -1,0 +1,29 @@
+1. **Primary Somatosensory Cortex (S1)**
+   - Brodmann areas 3, 1, 2
+
+2. **Secondary Somatosensory Cortex (S2)**
+
+3. **Cingulate Cortex**
+   - Posterior cingulate gyrus
+
+4. **Insular Cortex**
+
+5. **Inferior Parietal Cortex**
+   - Inferior parietal lobule
+
+6. **Temporal Cortex**
+
+7. **Precentral Gyrus**
+
+8. **Postcentral Gyrus**
+
+9. **Hippocampus**
+
+10. **Precuneus**
+
+11. **Medial Frontal Gyrus**
+
+12. **Anterior Cerebellum**
+   - Cerebellar tonsil
+
+These regions are involved in various sensory, motor, and cognitive functions, including pain modulation, sensorimotor integration, cognitive function, emotional stimuli, learning, memory, and attention regulation.

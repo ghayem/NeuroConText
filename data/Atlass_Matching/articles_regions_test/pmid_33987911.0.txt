@@ -1,0 +1,43 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Lateral Prefrontal Cortex (lPFC)
+   - Dorsolateral Prefrontal Cortex (dlPFC)
+
+2. **Anterior Cingulate Cortex**
+   - Dorsal Anterior Cingulate Cortex (ACC)
+
+3. **Parietal Cortex**
+   - Posterior Parietal Cortex (PPC)
+   - Superior Parietal Lobule (SPL)
+   - Inferior Parietal Lobule
+
+4. **Other Cortical Regions**
+   - Insula
+   - Middle Frontal Gyrus
+   - Pre-Supplementary Motor Area
+   - Posterior Cingulate Cortex
+
+5. **Subcortical Regions**
+   - Caudate
+
+6. **Networks (including multiple regions)**
+   - Fronto-Parietal Network (FPN)
+   - Cingulo-Opercular Network (CON)
+   - Default Mode Network (DMN)
+   - Dorsal Attention Network (DAN)
+   - Ventral Attention Network/Salience Network (VAN/SN)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Cognitive control
+- Attentional control
+- Conflict processing
+- Working memory
+- Goal-directed behavior
+- Contextual processing
+- Task-relevant and task-irrelevant processing
+- Proactive and reactive control
+- Sustained and flexible attentional control
+- Top-down processing
+- Detection of unexpected events
+- Maintaining a priority map of the visual environment

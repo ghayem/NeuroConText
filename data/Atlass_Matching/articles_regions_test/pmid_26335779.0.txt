@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions
+
+1. **Primary Visual Cortex (V1)**
+
+2. **Temporoparietal Areas**
+
+3. **Supramarginal Gyrus (SMG)**
+
+4. **Inferior Parietal Lobule**
+
+5. **Superior Parietal Lobule**
+
+6. **Precentral Gyrus (PrG)**
+
+7. **Frontal Eye Fields (FEF)**
+
+8. **Posterior Parietal Cortex (PPC)**
+
+9. **Temporo-parieto-occipital Junction (TPOJ)**
+
+10. **Right Hemisphere**
+   - Right Temporo-parietal Junction (TPJ)
+   - Right Ventral Fronto-parietal Network
+   - Right Dorsal Fronto-parietal Network
+
+11. **Left Hemisphere**
+   - Left Frontal Eye Fields (FEF)
+
+12. **Occipital Cortex**
+   - Extrastriate Cortices
+
+13. **Right Supramarginal Gyrus**
+
+14. **Left Supramarginal Gyrus**
+
+15. **Left Inferior Parietal Lobule**
+
+16. **Right Precentral Gyrus**
+
+17. **Left Precentral Gyrus**
+
+    - These regions are involved in cognitive functions such as spatial attention, visual processing, and attentional load modulation.

@@ -1,0 +1,19 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+   - Ventromedial prefrontal cortex (PFC)
+
+2. **Ventral Striatum (VS)**
+   - Left VS
+   - Right VS
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Orbitofrontal Cortex**
+
+5. **Occipito-temporal regions**
+   - Lingual gyrus
+   - Fusiform gyrus
+   - Parahippocampal gyrus
+
+These regions are involved in various cognitive functions related to value processing, reward sensitivity, and decision-making.

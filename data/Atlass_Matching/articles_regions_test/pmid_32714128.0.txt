@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Auditory Cortices**
+   - Middle temporal gyrus (MTG)
+   - Superior temporal gyrus (STG)
+   - Primary auditory cortex
+
+2. **Limbic System**
+   - Nucleus accumbens (NAc)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Rostral anterior cingulate cortex (ACC)
+   - Amygdala (AMYG)
+   - Parahippocampal gyrus (PHG)
+   - Pregenual anterior cingulate cortices (pACC)
+   - Subgenual ACC
+   - Central cingulate gyrus
+
+3. **Cerebellum**
+   - Cerebellar vermis
+   - Cerebellum_Crus2 (CERCRU2)
+   - Cerebellum_4_5 (CER4_5)
+   - Cerebellum_6 (CER6)
+   - Cerebellum_8 (CER8)
+
+4. **Occipital Cortex**
+   - Right calcarine cortex
+   - Middle occipital gyrus (MOG)
+
+5. **Parietal Cortex**
+   - Right precuneus
+   - Postcentral gyrus (PoCG)
+   - Paracentral lobule (PCL)
+   - Superior frontal gyrus (SFG)
+   - Supplementary motor area (SMA)
+   - Right supramarginal gyrus (SMG)
+
+6. **Frontal Cortex**
+   - Left frontal cortex
+   - Right middle frontal gyrus (MFG)
+   - Inferior temporal gyrus (ITG)
+
+These regions are involved in various cognitive functions, including auditory processing, emotional regulation, motor control, and sensory integration.

@@ -1,0 +1,36 @@
+Based on the provided article, the following brain regions and sub-regions were mentioned:
+
+1. **Orbital Gyrus**
+   - Left anterior orbital gyrus
+   - Right medial orbital gyrus
+
+2. **Angular Gyrus**
+   - Left angular gyrus
+   - Right angular gyrus
+
+3. **Frontal Gyrus**
+   - Right superior frontal gyrus
+     - Medial segment
+   - Opercular part of the inferior frontal gyrus
+   - Triangular part of the inferior frontal gyrus
+   - Right middle frontal gyrus
+
+4. **Postcentral Gyrus**
+   - Right postcentral gyrus
+
+5. **Superior Frontal Gyrus**
+   - Left superior frontal gyrus
+
+6. **Caudal Brain**
+   - Posterior parietal cortex
+   - Occipital cortex
+   - Prerolandic cortex
+   - Precuneus cortex
+
+7. **Rostral Brain**
+   - Orbitofrontal cortex
+
+8. **Central Gyrus**
+   - Right central gyrus
+
+These regions are involved in various cognitive functions, including decision-making, memory, attention, and working memory, which are often impaired in patients with dementia.

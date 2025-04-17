@@ -1,0 +1,93 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Posterior Parietal Cortex (PPC)**
+   - Intraparietal Sulcus (IPS)
+   - Ventral Angular Gyrus (AG)
+   - Dorsomedial PPC
+   - Superior Parietal Lobule (SPL)
+   - Left Dorsal AG
+   - Left Ventrolateral AG
+
+2. **Left-lateralized Prefrontal Regions**
+   - Ventrolateral Prefrontal Cortex (VLPFC)
+   - Inferior Frontal Gyrus (IFG)
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Dorsomedial Prefrontal Cortex (DMPFC)
+   - Left Anterior VLPFC
+   - Middle Frontal Gyrus (MFG)
+   - Superior Frontal Gyrus (SFG)
+
+3. **Occipital Cortex**
+   - Right Lingual Gyrus
+   - Fusiform Gyrus
+   - Middle/Superior Occipital Gyri
+   - Left Lingual Gyrus
+
+4. **Temporal Cortex**
+   - Posterior Temporal Cortex
+   - Parahippocampal Gyrus
+   - Supramarginal Gyrus
+   - Supramarginal Gyrus extending through Postcentral Gyrus and Central Sulcus to Precentral Gyrus
+
+5. **Frontal Cortex**
+   - Right Frontal Cortex
+   - Middle Frontal Gyrus (MFG)
+   - Precentral Sulcus
+   - Superior Frontal Sulcus
+   - Right Medial Frontal Gyrus
+   - Right Cingulate Sulcus/Gyrus
+
+6. **Auditory Cortex**
+
+7. **Visual Cortex**
+
+8. **Medial Temporal Lobe**
+   - Hippocampus
+
+9. **Medial Prefrontal Cortex**
+
+10. **Precuneus**
+
+11. **Superior Parietal Cortex**
+
+12. **Postcentral Gyrus (PostCG)**
+
+13. **Precentral Gyrus (PreCG)**
+
+14. **Cingulate Sulcus/Gyrus**
+
+15. **Superior Parietal Gyrus**
+
+16. **Right Cerebellum**
+
+17. **Left Inferior Frontal Sulcus**
+
+18. **Bilateral Superior Temporal Gyrus (STG)**
+
+19. **Ventral Visual Regions**
+
+20. **Right Supramarginal Gyrus**
+
+21. **Left Posterior MFG/Precentral Sulcus**
+
+22. **Left Posterior Parietal Cortex (PPC)**
+
+23. **Left Dorsal AG, IPS, SPL, Precuneus**
+
+24. **Right Supramarginal Gyrus**
+
+25. **Left Anterior VLPFC**
+
+26. **Right SMG**
+
+27. **Left and Right IPS**
+
+28. **Left Dorsal AG**
+
+29. **Left Ventral AG**
+
+30. **Left Dorsomedial AG**
+
+31. **Left Dorsolateral AG**
+
+These regions are involved in various cognitive functions including attention, memory, semantic processing, and executive control.

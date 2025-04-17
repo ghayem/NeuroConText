@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions
+
+1. **Visual Cortex**
+    - Contralateral (left) middle occipital gyrus
+    - Bilateral medial visual cortex
+    - Bilateral V1
+    - Contralateral lingual gyrus
+
+2. **Posterior Parietal Cortex**
+    - Bilateral posterior parietal cortex (V5, SPL)
+    - Superior parietal lobule (SPL)
+    - Inferior parietal lobule (IPL)
+    - Contralateral supramarginal gyrus
+    - Ipsilateral (right) superior parietal lobule
+
+3. **Premotor and Primary Motor Cortices**
+    - Bilateral primary motor cortex (M1)
+    - Bilateral premotor cortex
+    - Contralateral middle frontal gyrus (MFG)
+    - Contralateral inferior frontal gyrus (IFG)
+    - Supplementary motor area (SMA)
+    - Contralateral ventral premotor cortex (PMv)
+
+4. **Cerebellum**
+    - Posterior cerebellum
+    - Cerebellar Crus I
+    - Cerebellar lobules V/VI
+    - Medial cerebellum lobule V
+
+5. **Basal Ganglia**
+    - Putamen
+    - Caudate
+
+6. **Other Cortical Regions**
+    - Bilateral middle cingulate cortex
+    - Bilateral anterior cingulate cortex
+    - Bilateral orbitofrontal cortex (OFC)
+    - Contralateral insula
+    - Ipsilateral middle and frontal gyri
+    - Contralateral frontal eye field
+
+7. **Subcortical Regions**
+    - Thalamus
+
+These regions are involved in various cognitive and motor functions, including visual processing, sensorimotor integration, motor planning, and execution, as well as higher-order cognitive processes such as attention, working memory, and executive functions.

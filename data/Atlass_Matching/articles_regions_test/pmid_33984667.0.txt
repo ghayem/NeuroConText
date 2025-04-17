@@ -1,0 +1,41 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontoparietal Regions**
+   - Prefrontal regions
+   - Parietal regions
+   - Dorsal anterior cingulate cortex (dACC)
+   - Anterior insula
+
+2. **Frontal Areas**
+   - Dorsal frontal areas
+   - Ventral frontal areas
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+
+3. **Posterior Regions**
+   - Occipital regions
+   - Parietal regions
+   - Posterior cingulate gyrus
+   - Cuneus
+   - Middle occipital gyrus
+   - Precuneus
+
+4. **Temporal Regions**
+   - Temporoparietal junction (TPJ)
+   - Superior temporal gyrus (STG)
+
+5. **Cingulate Cortex**
+   - Middle cingulate cortex (MCC)
+   - Rostral anterior cingulate cortex (rACC)
+
+6. **Parietal Lobule**
+   - Superior parietal lobule (SPL)
+   - Inferior parietal lobule (IPL)
+
+7. **Other Regions**
+   - Anterior insula cortex (AIC)
+   - Lingual gyrus
+   - Supplementary motor area (SMA)
+
+These regions are involved in various cognitive functions, including selective attention, conflict signaling, performance monitoring, and cognitive control.

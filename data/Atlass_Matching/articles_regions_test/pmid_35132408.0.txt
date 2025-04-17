@@ -1,0 +1,57 @@
+Based on the article, here are the brain regions and sub-regions mentioned:
+
+1. **Central Nervous System (CNS)**
+
+2. **Major Brain Lobes**
+   - Frontal
+   - Parietal
+   - Occipital
+   - Temporal
+   - Insular
+   - Cingulate cortex
+
+3. **Sub-cortical Systems**
+
+4. **Basal Ganglia**
+
+5. **Precuneus**
+   - Part of the Default Mode Network (DMN)
+
+6. **Default Mode Network (DMN)**
+
+7. **Salience Network (SAL)**
+
+8. **Somatosensory Network**
+
+9. **Language Network**
+   - Inferior frontal gyrus (IFG)
+   - Middle temporal gyrus (MTG)
+   - Cerebellar regions
+
+10. **Sensorimotor Network**
+
+11. **Posterior Cingulate Cortex**
+
+12. **Superior Parietal Lobule**
+
+13. **Calcarine Cortex (Calc)**
+   - Part of the Occipital lobe
+
+14. **Cuneus (Cu)**
+   - Part of the Occipital lobe
+
+15. **Lingual Gyrus (LiG)**
+   - Part of the Occipital lobe
+
+16. **Bilateral Superior Parietal Lobule (SPL)**
+   - Part of the Parietal Lobe
+
+17. **Cerebellar Vermal Lobules (CVL)**
+   - I-V
+   - VI-VII
+
+18. **Superior Occipital Gyrus (SOG)**
+
+19. **Angular Gyrus (AnG)**
+
+These regions are involved in various cognitive and physical functions, including visuo-spatial processing, memory retrieval, self-referential processes, goal-oriented tasks, body-related stimuli processing, language processing, cognitive and emotional processing, attention processing, and more. The article also discusses the involvement of these regions in symptoms experienced by COVID-19 survivors.

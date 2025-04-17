@@ -1,0 +1,28 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+   - Anterior medial prefrontal cortex (amPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Medial orbitofrontal cortex
+
+2. **Caudate**
+   - Bilateral caudate
+
+3. **Superior Temporal Gyrus**
+   - Right superior temporal gyrus
+   - Left superior temporal gyrus
+
+4. **Insula**
+   - Right insula
+
+5. **Parietal Region**
+   - Parietal sites (associated with P3 components)
+
+These regions are involved in various cognitive functions, including:
+- Metacognition and self-referential processes (mPFC, amPFC)
+- Reward processing and moral values (caudate)
+- Deception and dishonesty (parietal P3 components)
+- Self-deception and false belief formation (amPFC, frontal slow wave components)
+- Prediction errors and self-efficacy belief (frontal slow wave, parietal P3)
+
+The article also mentions other brain regions in the context of previous studies and general neuroscientific findings, but the above regions are specifically discussed in the context of the studies presented in the article.

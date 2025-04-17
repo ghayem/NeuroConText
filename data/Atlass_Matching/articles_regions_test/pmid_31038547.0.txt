@@ -1,0 +1,41 @@
+## The brain regions:
+
+1. **Posterior cingulate cortex**
+
+2. **Medial frontal lobe**
+
+3. **Prefrontal lobe**
+   - Inner side cortex
+
+4. **Parietal lobe**
+
+5. **Left temporal lobe**
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+
+6. **Left parahippocampal gyrus**
+
+7. **Occipital lobe**
+
+8. **Lingual gyrus**
+
+9. **Precuneus**
+
+10. **Right side frontal lobe**
+    - Inferior frontal gyrus
+
+11. **Precentral gyrus**
+    - Frontal lobe
+
+12. **Right thalamus**
+
+13. **Left fusiform gyrus**
+
+14. **Medial temporal lobe**
+    - Entorhinal cortex
+    - Side olfactory cortex
+    - Side hippocampal cortex
+    - Hippocampus
+
+- These regions are involved in these cognitive functions: episodic memory, visual cognition, executive ability, language, and spatial structure.

@@ -1,0 +1,45 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+   - Prefrontal Cortex (PFC)
+     - Ventrolateral PFC (vlPFC)
+     - Dorsolateral PFC (DLPFC)
+     - Medial Prefrontal Cortex (mPFC)
+     - Right Superior Frontal Gyrus (BA 9)
+     - Orbitofrontal Cortex (BA 11)
+     - Anterior Cingulate Cortex (BA 24, 32)
+     - Midcingulate Cortex (BA 23)
+
+2. **Parietal Cortex**
+   - Medial Parietal Cortex
+   - Bilateral Angular Gyrus (BA 39)
+   - Lateral Temporo-parietal Cortex
+
+3. **Temporal Cortex**
+   - Bilateral Hippocampus (BA 20, 36, 30)
+   - Bilateral Temporal Lobe (implied)
+
+4. **Occipital Cortex**
+   - (Not explicitly mentioned but implied in the context of the DMN)
+
+5. **Subcortical Regions**
+   - Bilateral Thalamus
+
+6. **Default Mode Network (DMN)**
+   - Posterior Cingulate Cortex/Precuneus (BA 23, 30)
+   - Medial Prefrontal Cortex (mPFC)/Anterior Cingulate Cortex/Orbitofrontal Cortex (BA 9, 10, 24, 32, 11)
+   - Bilateral Angular Gyrus (BA 39)
+   - Bilateral Hippocampus (BA 20, 36, 30)
+   - Bilateral Thalamus
+   - Midcingulate Cortex (BA 23)
+   - Right Superior Frontal Gyrus (BA 9)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Executive functions (PFC, DLPFC, vlPFC)
+- Emotion regulation (mPFC, Anterior Cingulate Cortex)
+- Memory (Hippocampus)
+- Attention and task suppression (DMN)
+- Integration of sensory information (Angular Gyrus, Temporo-parietal Cortex)
+- Visual processing (Occipital Cortex, implied)
+- Motor control and planning (Premotor Cortex, implied)
+- Decision making and impulse control (Orbitofrontal Cortex, vlPFC)

@@ -1,0 +1,34 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Substantia Nigra/Ventral Tegmental Area (SN/VTA)**
+
+2. **Striatum**
+   - Ventral striatum
+
+3. **Prefrontal Cortex (PFC)**
+   - Medial prefrontal cortex
+   - Right lateral frontal cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+4. **Hippocampus**
+
+5. **Amygdala**
+
+6. **Occipital Lobe**
+   - Lingual gyrus
+   - Fusiform gyrus
+
+7. **Cerebellum**
+
+8. **Anterior Cingulate Gyrus**
+
+9. **Parahippocampal Gyrus**
+
+10. **Thalamus**
+
+11. **Midbrain**
+
+12. **Cingulate Cortex**
+   - Posterior cingulate cortex
+
+These regions are involved in various cognitive functions, including salience processing, reward prediction, emotional processing, novelty exploration, and attentional control.

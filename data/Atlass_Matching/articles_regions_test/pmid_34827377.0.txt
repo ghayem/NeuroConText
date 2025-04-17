@@ -1,0 +1,81 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Left Inferior Frontal Gyrus (left IFG)**
+    - Left pars opercularis (left POp)
+    - Precentral gyrus (PG)
+    - Pars triangularis (PTr)
+    - Brodmann areas (BA44, BA45)
+    - Left pars orbitalis (POrb)
+
+2. **Temporal Lobe**
+    - Left middle temporal gyrus (left MTG)
+    - Left superior temporal gyrus (left STG)
+    - Left inferior temporal gyrus (ITG)
+    - Posterior superior temporal sulcus (STS)
+
+3. **Parietal Lobe**
+    - Left superior frontal gyrus (left SFG)
+    - Middle frontal gyrus (MiFG)
+    - Left intraparietal sulcus (IPS)
+    - Superior parietal lobe (SPL)
+    - Angular gyrus (ANG)
+    - Supramarginal gyrus (left SMG, SuMG)
+
+4. **Occipital Lobe**
+    - Middle occipital gyrus (MiOG)
+    - Inferior temporal sulcus (ITS)
+
+5. **Cerebellum**
+    - Right cerebellum
+    - Posterior cerebellum (postCB)
+
+6. **Motor Cortex**
+    - Primary motor cortex
+    - Sensorimotor cortex
+    - Supplementary motor area (SMA)
+    - Left-lateralized primary somatosensory cortex
+    - Bilateral premotor area
+    - Ventral premotor cortex
+    - Bilateral dorsal premotor cortex (dPMC)
+    - Primary somatosensory cortex
+    - Bilateral SMA
+    - Left postcentral
+    - Left PG
+
+7. **Visual Cortex**
+    - Primary visual
+    - Visual association areas
+
+8. **Subcortical Structures**
+    - Thalamus
+    - Putamen
+    - Left thalamus
+    - Left putamen
+    - Right caudate
+
+9. **Broca's Area**
+    - Bilateral IFG/Broca’s area
+
+10. **Wernicke's Area**
+
+11. **Rolandic Operculum (ROL)**
+    - Left Rolandic operculum (ROL)
+
+12. **Insula**
+    - Left insula
+
+13. **Precuneus**
+
+14. **Ventral Premotor Cortex**
+
+15. **Posterior and Inferior Temporal Cortex**
+
+16. **Visual Word Form Area (VWFA)**
+
+17. **Other Specified Areas**
+    - Midcingulate cortex (MCC)
+    - Fusiform gyrus (VWFA)
+    - Dorsolateral prefrontal cortex (DLPFC or BA 46/9)
+    - Right anterior cerebellum
+
+These regions are involved in various cognitive functions including language processing, motor control, visual processing, and higher-order cognitive functions.

@@ -1,0 +1,68 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Insula**
+   - Bilateral anterior insula
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate
+   - Subgenual anterior cingulate (SGAC)
+   - Ventral anterior cingulate
+
+3. **Middle Frontal Gyrus (MFG)**
+   - Bilateral MFG
+   - Right MFG
+
+4. **Inferior Frontal Gyrus**
+   - Bilateral inferior frontal gyrus
+
+5. **Superior Frontal Gyrus**
+   - Bilateral superior frontal gyrus
+
+6. **Parietal Lobule**
+   - Inferior parietal lobule
+
+7. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Rostromedial prefrontal cortex
+
+8. **Amygdala**
+   - Bilateral amygdala
+
+9. **Basal Ganglia**
+   - Right substantia nigra
+   - Left globus pallidus
+   - Caudate head
+
+10. **Thalamus**
+    - Anterior nucleus of the thalamus
+
+11. **Temporal Gyrus**
+    - Superior temporal gyrus
+    - Posterior inferior temporal gyrus
+
+12. **Cingulate Cortex**
+    - Retrosplenial cingulate
+
+13. **Hippocampus**
+    - Hippocampus
+
+14. **Parahippocampal Gyrus**
+    - Parahippocampal gyrus
+
+15. **Precuneus**
+    - Precuneus
+
+16. **Supplementary Motor Area**
+    - Supplementary motor area
+
+17. **Temporal Plane**
+    - Ventral anterior insula
+
+These regions are involved in various cognitive functions, including but not limited to:
+
+- Emotion regulation and processing (anterior insula, anterior cingulate cortex, amygdala)
+- Cognitive control and executive functions (middle frontal gyrus, inferior frontal gyrus, superior frontal gyrus, dorsolateral prefrontal cortex)
+- Memory and learning (hippocampus, parahippocampal gyrus, temporal gyrus)
+- Motor control (supplementary motor area)
+- Attention and working memory (parietal lobule, precuneus)
+- Reward and motivation (basal ganglia, thalamus)

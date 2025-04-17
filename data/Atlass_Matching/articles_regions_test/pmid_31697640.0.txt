@@ -1,0 +1,80 @@
+## Brain Regions and Sub-Regions
+
+1. **Primary Hand Motor Cortex**
+    - Left primary hand motor cortex
+    - Right primary hand motor cortex
+
+2. **Dorsal Premotor Cortex**
+    - Left dorsal premotor cortex
+    - Right dorsal premotor cortex
+
+3. **Ventral Premotor Cortex**
+    - Left ventral premotor cortex
+    - Right ventral premotor cortex
+
+4. **Supplementary Motor Area (SMA)**
+    - Left supplementary motor area
+    - Right supplementary motor area
+
+5. **Cingulate Motor Area**
+
+6. **Parietal Operculum**
+
+7. **Superior Temporal Cortex**
+    - Left superior temporal cortex
+    - Right superior temporal cortex
+    - Auditory cortex
+    - Posterior superior temporal gyrus and sulcus (pSTG/S)
+
+8. **Auditory Association Cortex**
+    - Left auditory association cortex
+    - Right auditory association cortex
+
+9. **Putamen**
+
+10. **Thalamus**
+
+11. **Superior Cerebellum**
+    - Left cerebellum
+    - Right cerebellum
+
+12. **Fronto-Mesial Cortex**
+    - SMA
+
+13. **Primary Hand Motor Areas**
+    - Left M1
+    - Right M1
+
+14. **Cerebellum**
+    - Left cerebellum
+    - Right cerebellum
+
+15. **Intraparietal Sulcus**
+
+16. **Dorsolateral Prefrontal Cortex**
+
+17. **Inferior Frontal Cortex**
+
+18. **Temporo-Parieto-Occipital Junction (TPO)**
+
+19. **Basal Ganglia**
+
+20. **Thalamus**
+
+21. **Rolandic Operculum**
+
+22. **Posterior Parietal Cortex**
+
+### Cognitive Functions
+
+- **Motor Control**: Primary hand motor cortex, dorsal premotor cortex, ventral premotor cortex, supplementary motor area (SMA), cingulate motor area, parietal operculum
+- **Auditory Processing**: Superior temporal cortex, auditory cortex, posterior superior temporal gyrus and sulcus (pSTG/S), auditory association cortex
+- **Executive Functions**: Dorsolateral prefrontal cortex, inferior frontal cortex
+- **Memory and Language**: Temporo-parieto-occipital junction (TPO)
+- **Timing and Rhythm Processing**: Auditory association cortex, supplementary motor area (SMA), cerebellum
+- **Sensory Integration**: Putamen, thalamus, superior cerebellum
+- **Bimanual Coordination**: Primary hand motor areas, cerebellum
+- **Auditory-Motor Interactions**: Auditory association cortex, supplementary motor area (SMA), basal ganglia, thalamus
+- **Cognitive Grouping and Internal Generation**: Fronto-mesial cortex, intraparietal sulcus
+
+These regions and sub-regions are involved in various cognitive functions, including motor control, auditory processing, executive functions, memory, language, timing and rhythm processing, sensory integration, bimanual coordination, and auditory-motor interactions.

@@ -1,0 +1,18 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Medial Prefrontal Cortex (MPFC)**
+2. **Anterior Cingulate Cortex**
+3. **Precuneus**
+4. **Right Superior Temporal Sulcus**
+5. **Bilateral Temporal Poles**
+6. **Bilateral Temporoparietal Junction (TPJ)**
+   - Left TPJ
+   - Right TPJ
+7. **Inferior Frontal Gyrus (IFG)**
+   - Right IFG
+8. **Left Superior Temporal Gyrus**
+9. **Right Medial Frontal Gyrus**
+10. **Right Superior Temporal Gyrus**
+11. **Left Precuneus**
+12. **Left Superior Frontal Gyrus**
+13. **Left Precentral Gyrus**

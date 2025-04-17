@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Medial prefrontal cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+2. **Limbic-Striatal Areas**
+   - Subcortical limbic-striatal areas
+
+3. **Cerebellum**
+   - Anterior cerebellar lobe
+     - Lobules I–V
+   - Posterior cerebellar lobe
+     - Lobules VI–IX
+     - Crus I
+     - Crus II
+   - Flocculonodular lobe
+     - Lobule X
+   - Vermis
+     - Vermis lobule VI
+     - Vermis crus II
+   - Lateral posterior cerebellum
+   - Right cerebellar lobule IX
+
+4. **Postcentral Gyrus**
+
+5. **Insula**
+
+6. **Secondary Visual Cortex (V2)**
+   - Brodmann Area 18 (BA18)
+
+7. **Premotor Cortex**
+   - Brodmann Area 6 (BA6)
+
+8. **Occipital Cortex**
+
+9. **Anterior Cingulate Cortex**
+
+10. **Temporo-parieto-occipital Junction (TPO)**
+
+These regions are involved in various cognitive and affective functions, including sensori-motor coordination, social and affective processing and regulation, executive functions, emotion regulation, visual processing, motor control, and mirroring processes.

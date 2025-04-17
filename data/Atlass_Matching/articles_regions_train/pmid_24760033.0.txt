@@ -1,0 +1,96 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **(Pre)frontal cortical areas**
+
+2. **Limbic areas**
+
+3. **Amygdalae**
+   - Left amygdala
+   - Right amygdala
+   - Superficial Amygdala (SA)
+
+4. **Ventromedial prefrontal cortical (vmPFC)**
+
+5. **Dorsomedial prefrontal cortical (dmPFC)**
+
+6. **Parahippocampal gyrus**
+   - Left parahippocampal gyrus
+   - Right parahippocampal gyrus
+
+7. **Hippocampus**
+   - Left hippocampus
+   - Right hippocampus
+
+8. **Anterior cingulate cortex (ACC)**
+   - Subgenual anterior cingulate cortex (sgACC)
+   - Pregenual anterior cingulate cortex (pACC)
+
+9. **Insula**
+   - Left insula
+   - Right insula
+
+10. **Putamen**
+
+11. **Claustrum**
+
+12. **Fusiform gyrus**
+
+13. **Culmen**
+
+14. **Gyrus rectus**
+   - Left gyrus rectus
+   - Right gyrus rectus
+
+15. **Thalamus**
+
+16. **Middle occipital gyrus**
+   - Right middle occipital gyrus (BA 18)
+
+17. **Middle frontal gyrus**
+   - Left middle frontal gyrus (BA 9)
+   - Right middle frontal gyrus (BA 9, BA 11)
+
+18. **Middle temporal gyrus**
+   - Right middle temporal gyrus
+   - Left middle temporal gyrus
+
+19. **Inferior frontal gyrus**
+   - Left inferior frontal gyrus (BA 10)
+   - Right inferior frontal gyrus
+
+20. **Posterior cingulate gyrus**
+   - Post cingulate gyrus (BA 31)
+   - Left posterior cingulate (BA 30)
+
+21. **Parietal lobe**
+   - Right parietal lobe (BA 7)
+
+22. **Cerebellar regions**
+
+23. **Superior frontal gyrus**
+   - Right superior frontal gyrus (BA 9)
+
+24. **Orbitofrontal cortex (OFC)**
+   - Right orbitofrontal cortex (BA 11)
+
+25. **Pons**
+
+26. **Lingual gyrus (BA 17)**
+
+27. **Premotor cortex (BA 6)**
+
+28. **Supplementary motor area (SMA)**
+
+29. **Medial prefrontal gyri**
+   - Left medial prefrontal gyrus (BA 10)
+   - Right medial frontal gyrus (BA 32/24, BA 10)
+
+30. **Basal ganglia**
+
+31. **Dorsolateral prefrontal cortex (DLPFC)**
+
+32. **Ventral tegmental area (VTA)**
+
+33. **Rectal gyrus**
+
+These regions are involved in various cognitive and emotional functions, including emotion processing, memory, self-referential processing, social interactions, and affective disorders.

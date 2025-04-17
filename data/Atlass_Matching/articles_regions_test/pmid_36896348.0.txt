@@ -1,0 +1,30 @@
+## Brain Regions and Sub-Regions
+
+1. **Lentiform Nucleus**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+3. **Insula**
+
+4. **Cingulate Gyrus**
+   - Anterior cingulate gyrus
+
+5. **Middle Frontal Gyrus**
+
+6. **Precuneus**
+
+7. **Posterior Central Gyrus**
+
+8. **Orbitofrontal Cortex (OFC)**
+
+9. **Middle Temporal Gyrus**
+
+10. **Postcentral Gyrus**
+
+11. **Superior Frontal Gyrus**
+
+12. **Anterior Cingulate Gyrus**
+
+13. **Temporal Lobe**
+
+These regions are involved in various cognitive functions, including reward processing, inhibitory control, visual and auditory processing, executive control, cognitive flexibility, and sensory reception and processing.

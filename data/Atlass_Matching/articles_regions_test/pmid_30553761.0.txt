@@ -1,0 +1,36 @@
+## Brain Regions and Sub-regions:
+
+1. **Temporal Lobe**
+   - Mesial temporal lobe
+   - Hippocampal sclerosis (HS)
+   - Anterior temporal lobe
+
+2. **White Matter**
+   - Fractional anisotropy (FA)
+   - Fornix
+   - Cingulum
+   - External capsule
+   - Corpus callosum
+   - Uncinate fasciculus (UF)
+   - Inferior longitudinal fasciculus (ILF)
+   - Superior longitudinal fasciculus (SLF)
+   - Inferior fronto-occipital fasciculus (IFOF)
+   - Posterior thalamic radiation (PTR)
+   - Internal capsule (IC)
+   - Corona radiate (CR)
+   - Optic radiation (OR)
+   - Cerebral peduncle (CP)
+   - Cerebellar peduncle
+     - Inferior cerebellar peduncle (ICP)
+     - Middle cerebellar peduncle (MCP)
+     - Superior cerebellar peduncle (SCP)
+   - Genu of corpus callosum (GCC)
+   - Body of corpus callosum (BCC)
+   - Splenium of corpus callosum (SCC)
+   - Posterior limb of internal capsule (PLIC)
+   - Retrolenticular part of internal capsule (RIC)
+   - Anterior corona radiate (ACR)
+   - Posterior corona radiate (PCR)
+   - Superior corona radiate (SCR)
+
+These regions are involved in various cognitive functions, including language, memory, and executive functions, as well as emotional and behavioral regulation. They are also critical in the pathophysiology and treatment of epilepsy, particularly mesial temporal lobe epilepsy (MTLE).

@@ -1,0 +1,30 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex (PFC)**
+    - Left ventrolateral PFC (vlPFC)
+    - Right vlPFC
+    - Left PFC
+    - Right PFC
+
+2. **Inferior Frontal Gyrus (IFG)**
+    - Right IFG
+    - Left IFG
+    - Left orbital IFG (oIFG)
+    - Right triangular IFG (tIFG)
+
+3. **Superior Frontal Gyrus (SFG)**
+    - Right SFG
+    - Left SFG
+
+4. **Orbital Gyrus (OG)**
+    - Right OG
+    - Left OG
+    - Lateral Orbital Gyrus (lOG)
+
+5. **Cerebellum**
+    - Left cerebellum
+
+6. **Rostrolateral Prefrontal Cortex (rlPFC)**
+    - Left rlPFC
+
+These regions are involved in various cognitive functions including executive functions, inductive reasoning, domain-based and process-based cognitive processes, and hemispheric specialization.

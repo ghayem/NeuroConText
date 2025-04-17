@@ -1,0 +1,52 @@
+## Brain Regions and Sub-regions
+
+1. **Amygdala**
+    - Basolateral part of the amygdala (BLA)
+
+2. **Prefrontal Cortex (PFC)**
+    - Medial PFC (mPFC)
+    - Ventromedial PFC (vmPFC)
+    - Ventrolateral PFC (vlPFC)
+
+3. **Hippocampus**
+    - No sub-regions specified
+
+4. **Hypothalamus-Pituitary-Adrenal (HPA) Axis**
+    - Hypothalamus
+    - Pituitary gland
+    - Adrenal glands
+
+5. **Insula**
+    - No sub-regions specified
+
+6. **Occipital Inferior Gyrus**
+    - No sub-regions specified
+
+7. **Anterior Parietal Regions**
+    - Post-central gyrus
+    - Supramarginal gyrus
+
+8. **Ventral Tegmental Area (VTA)**
+    - No sub-regions specified
+
+9. **Cerebrospinal Fluid (CSF)**
+    - No sub-regions specified
+
+10. **Soft Tissue**
+    - No sub-regions specified
+
+11. **Air**
+    - No sub-regions specified
+
+12. **Bone**
+    - No sub-regions specified
+
+13. **Subcortical Brain Regions**
+    - Amygdala
+    - Insula
+    - Hippocampus
+
+14. **Posterior Parietal Cortex**
+    - No sub-regions specified
+
+These regions are involved in various cognitive functions, including affective processing, emotion regulation, memory formation, and stress response.

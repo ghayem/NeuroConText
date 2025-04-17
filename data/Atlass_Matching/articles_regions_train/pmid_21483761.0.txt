@@ -1,0 +1,25 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Frontal Lobe**
+   - Pre-central gyrus
+   - Inferior frontal gyrus (triangular part)
+
+2. **Temporal Lobe**
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+3. **Parietal Lobe**
+   - Inferior parietal lobule
+   - Supramarginal gyrus
+   - Angular gyrus
+
+4. **Basal Ganglia**
+   - Putamen
+
+5. **Insula**
+   - Insula
+
+6. **Vascular Regions**
+   - Middle cerebral arteries (MCAs)
+
+These regions are involved in various cognitive functions, including language processing, as discussed in the article.

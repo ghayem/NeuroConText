@@ -1,0 +1,24 @@
+## The brain regions:
+
+1. **Brainstem**
+    - Locus coeruleus
+
+2. **Thalamus**
+
+3. **Cerebellum**
+
+4. **Precuneus**
+
+5. **Occipital Lobe**
+    - Calcarine gyrus
+    - Lingual gyrus
+
+6. **Temporal Lobe**
+    - Inferior temporal lobe
+    - Middle temporal lobe
+
+7. **Brodmann Area 17**
+
+8. **Visual Cortex**
+
+These regions are involved in these cognitive functions: consciousness regulation, attention maintenance, and sensory information processing.

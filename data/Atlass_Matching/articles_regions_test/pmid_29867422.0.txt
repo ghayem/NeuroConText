@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Cortical Midline Structures (CMSs)**
+   - Anterior cingulate cortex (ACC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Precuneus
+   - Posterior cingulate cortex (PCC)
+
+2. **Dorsal Frontoparietal Network**
+   - Frontal eye field (FEF)
+   - Superior parietal lobule (SPL)
+   - Intraparietal sulcus (IPS)
+
+3. **Ventral Frontoparietal Network**
+   - Ventral frontal gyrus (VFG)
+   - Temporoparietal junction (TPJ)
+   - Inferior frontal gyrus (IFG)
+   - Superior frontal gyrus/middle frontal gyrus (SFG/MFG)
+
+4. **Limbic Lobe**
+   - Anterior cingulate (part of the limbic lobe)
+
+5. **Occipital Lobe**
+   - Superior occipital gyrus (SOG)
+   - Middle occipital gyrus (MOG)
+
+6. **Parietal Lobe**
+   - Precuneus/SPL
+   - Temporoparietal junction (TPJ)
+   - Paracentral lobule
+
+7. **Frontal Lobe**
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Frontal eye field (FEF)
+   - Ventral frontal gyrus (VFG)
+   - Inferior frontal gyrus (IFG)
+   - Superior frontal gyrus/middle frontal gyrus (SFG/MFG)
+
+8. **Temporal Lobe**
+   - Middle occipital gyrus (MOG)
+
+These regions are involved in various cognitive functions, including self-referential processing, attentional orienting, and the integration of self-referential information with attentional processes.

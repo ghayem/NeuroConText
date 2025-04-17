@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Cerebellum**
+   - Vermis
+   - Tonsil
+   - Horizontal fissure
+   - Anterior lobe
+   - Posterior lobe
+   - Left cerebellar posterior lobe
+
+2. **Frontal Lobe**
+   - Right middle frontal gyrus
+   - Right superior frontal gyrus
+   - Middle frontal gyrus
+
+3. **Occipital Lobe**
+   - Right middle occipital gyrus
+   - Superior occipital gyrus
+
+4. **Parietal Lobe**
+   - Left supplementary motor area (SMA)
+   - Bilateral precentral gyrus
+   - Right precentral gyrus
+   - Posterior central gyrus
+
+5. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Parahippocampal gyrus
+   - Hippocampus
+
+6. **Basal Ganglia**
+   - Left caudate lobe
+   - Left putamen
+   - Bilateral caudate nucleus
+
+7. **Other Regions**
+   - Lateral ventricle
+   - White matter
+   - Gray matter
+
+These regions are involved in various cognitive functions such as motor skills, working memory, language, and emotional control.

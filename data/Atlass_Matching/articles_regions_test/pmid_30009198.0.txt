@@ -1,0 +1,49 @@
+## Brain Regions and Sub-regions
+
+1. **Temporal Lobe**
+
+2. **Frontal Lobe**
+   - Frontal pole
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus pars opercularis
+   - Inferior frontal gyrus pars triangularis
+   - Frontal orbital cortex
+   - Cingulate gyrus-anterior division
+   - Juxtapositional lobule cortex/supplementary motor area
+   - Frontal medial cortex
+   - Precentral gyrus
+
+3. **Parietal Lobe**
+
+4. **Insula**
+
+5. **Nucleus Accumbens**
+
+6. **Limbic System**
+
+7. **Striatum**
+   - Caudate
+   - Putamen
+   - Nucleus accumbens
+   - Pallidum
+
+8. **Thalamus**
+   - Anterior thalamic radiation
+
+9. **Corpus Callosum**
+   - Body of corpus callosum
+
+10. **White Matter Tracts**
+    - Internal capsule
+    - Uncinate fasciculus
+    - Superior longitudinal fasciculus
+    - Body of corpus callosum
+    - Cingulum
+
+11. **Dopamine-rich Midbrain**
+
+12. **Amygdala**
+
+13. **Orbitofrontal Cortex**
+   - Ventromedial prefrontal cortex

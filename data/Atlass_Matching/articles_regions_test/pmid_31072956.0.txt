@@ -1,0 +1,55 @@
+## Brain Regions and Sub-regions:
+
+1. **Medial Temporal Lobes (MTL)**
+   - Hippocampus
+     - Hippocampal head
+     - Hippocampal body
+     - Hippocampal tail
+   - Amygdala
+   - Perirhinal cortex
+   - Entorhinal cortex
+   - Parahippocampal cortex
+   - Temporopolar cortex
+
+2. **Thalamus**
+   - Mediodorsal thalamus
+
+3. **Posterior Cingulate**
+   - Precuneus-posterior cingulate
+
+4. **Posterior Medial Cortex**
+   - Posterior cingulate-retrosplenial cortex-precuneus
+
+5. **Neocortical Regions**
+   - Posteromedial cortex
+
+6. **Medial Prefrontal Cortex**
+   - Paracingulate cortex
+
+7. **Default-Mode Network**
+   - Posterior cingulate
+   - Precuneus
+
+8. **Limbic Circuitry**
+   - Thalamus
+   - Posterior cingulate
+
+9. **Brainstem**
+
+10. **Basal Ganglia**
+    - Caudate nucleus
+    - Putamen
+    - Pallidum
+
+11. **Frontal Cortex**
+    - Medial prefrontal cortex
+
+12. **Parietal Cortex**
+    - Posterior cingulate cortex
+    - Precuneus
+
+13. **Hippocampal-Thalamic-Neocortical Network**
+
+14. **Hippocampal-Diencephalic-Cingulate Circuitry**
+
+These regions are involved in these cognitive functions: memory processing, episodic memory, and other cognitive functions.

@@ -1,0 +1,73 @@
+1. **Primary Motor Cortex**
+   - Brodmann’s area 4 (BA4)
+
+2. **Mesial Frontal Motor Area**
+   - Intermediate precentral field
+   - Brodmann’s area 6 (BA6)
+   - Superofrontal magnopyramidal region (sfm)
+   - Supplementary motor area (SMA)
+     - SMA proper
+   - Pre-supplementary motor area (pre-SMA)
+
+3. **Superior Frontal Gyrus**
+   - Dorsal premotor cortex (PMd)
+     - Caudal part of PMd (PMdc)
+     - Rostral part of PMd (PMdr)
+
+4. **Cingulate Cortex**
+   - Cingulate areas 24d and 24c
+   - Anterior midcingulate cortex (aMCC)
+
+5. **Prefrontal Cortex**
+   - Dorsomedial prefrontal cortex (dmPFC)
+   - Brodmann’s area 8 (BA8)
+
+6. **Precentral Gyrus**
+   - Rolandic operculum
+
+7. **Superior Parietal Lobule**
+   - Inferior parietal lobule
+   - Posterior parietal cortices
+
+8. **Inferior Frontal Gyrus**
+
+9. **Cerebellum**
+   - Cerebellar Vermis
+   - Cerebellum lobule VI
+   - Dorsal surface of cerebellum
+
+10. **Thalamus**
+
+11. **Putamen**
+
+12. **Caudate Nucleus**
+
+13. **Inferior Occipital Gyrus**
+
+14. **Superior Temporal Gyrus**
+
+15. **Amygdala**
+
+16. **Hippocampus**
+
+17. **Dorsal Prefrontal Cortex**
+
+18. **Temporo-parieto-occipital Junction (TPO)**
+
+19. **Intraparietal Sulcus**
+
+20. **Supramarginal Gyrus**
+
+21. **Lateral Premotor Cortex**
+
+22. **Superior Temporal Plane (STP)**
+
+23. **Planum Temporale (PT)**
+
+24. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+25. **Middle Superior Temporal Cortex**
+
+26. **Anterior Portion of the pSTG/S**
+
+These regions are involved in these cognitive functions: motor sequence processing, planning and executing, temporal and spatial processing of movements, motor learning, speech and language processing, motor inhibition, movement selection and scaling, empathy, motor control, motor inhibition, motor execution, motor learning, speech and language processing, procedural learning, language production, sensorimotor integration, action execution, action imagination, somesthetic perception, interoception, perception, learning and cognitive perception.

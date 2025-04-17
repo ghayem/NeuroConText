@@ -1,0 +1,105 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Region**
+   - Frontal lobes
+   - Medial prefrontal lobes
+   - Lateral prefrontal cortex
+   - Ventromedial prefrontal cortex
+   - Orbitofrontal cortex
+   - Inferior frontal gyrus
+   - Superior frontal gyrus
+   - Frontal operculum
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Anterior cingulate cortex (ACC)
+   - Right inferior frontal gyrus
+   - Left inferior frontal gyrus
+   - Brodmann area (BA) 4
+
+2. **Temporal Region**
+   - Temporal lobes
+   - Bilateral middle temporal cortex
+   - Bilateral superior temporal cortex
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Heschl's gyrus
+   - Temporal pole
+   - Left superior temporal gyrus (BA 22)
+   - Right superior temporal gyrus
+   - Left inferior temporal gyrus
+
+3. **Parietal Region**
+   - Parietal cortex
+   - Inferior parietal lobe
+   - Parietal opercular area
+   - Left inferior parietal gyrus
+
+4. **Occipital Region**
+   - Right occipital lobe
+
+5. **Limbic Region**
+   - Posterior cingulate cortex (PCC)
+   - Anterior cingulate cortex (ACC)
+   - Gyrus rectus
+   - Left hippocampus
+
+6. **Insular Region**
+   - Insula
+   - Anterior insula
+
+7. **Subcortical Region**
+   - Putamen
+   - Thalamus
+   - Cerebellum
+
+8. **Other Regions**
+   - Precuneus
+   - Precentral gyrus
+   - Right precentral gyrus
+   - Postcentral gyrus
+   - Left postcentral gyrus
+   - Right fusiform gyrus
+   - Arcuate fasciculus
+
+**Networks and Circuits:**
+- Default mode network (DMN)
+- Resting-state functional connectivity (rsFC)
+- Cognitive control network (CCN)
+- Salience network (also known as the core network [CN])
+- Self-reference network
+- Auditory network
+- Language network
+- Praxis network
+- Affective network (AN)
+- Ventral attentional network (VAN)
+- Thalamic network (TN)
+- Somatosensory network
+- Somatomotor network
+- Cortico-striatal-thalamic-cortical subcircuit
+
+**Functional and Structural Terms:**
+- Grey matter
+- Cortical thickness
+- White matter (arcuate fasciculus)
+- Amplitude of low-frequency fluctuation (ALFF)
+- Fractional amplitude of low-frequency fluctuation (fALFF)
+- Regional homogeneity (ReHo)
+- Long short functional connectivity (LSFCS)
+- Voxel-mirrored homotopic connectivity (VMHC)
+- Global function connectivity (GFC)
+- Parameter of asymmetry (PAS)
+
+**Cognitive and Clinical Functions:**
+- Self-referential thoughts
+- Cognitive control tasks
+- Interoception and salience detection
+- Delusions of reference
+- Auditory hallucinations
+- Formal thought disorder
+- Gesture alterations
+- Verbal auditory hallucinations
+- Language comprehension and production tasks
+- Gesture recognition and production
+- Praxis or gesture network
+- Sensorimotor network
+- Co-speech gestures
+- Apraxia

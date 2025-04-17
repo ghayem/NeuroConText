@@ -1,0 +1,44 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Limbic System**
+
+2. **Ventral Striatum (VS)**
+
+3. **Insula**
+
+4. **Amygdala**
+
+5. **Prefrontal Cortex**
+   - Anterior Cingulate Cortex (ACC)
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Orbitofrontal Cortex (OFC)
+
+6. **Striatum**
+   - Caudate Nucleus
+
+7. **Thalamus**
+
+8. **Lingual Gyrus**
+   - Left Lingual Gyrus
+
+9. **Cingulate Gyrus**
+   - Bilateral Cingulate Gyrus
+
+10. **Middle Frontal Gyrus (MFG)**
+    - Right Middle Frontal Gyrus (MFG)
+
+11. **Precuneus**
+    - Right Precuneus
+
+12. **Inferior Parietal Lobule (IPL)**
+    - Right Inferior Parietal Lobule (IPL)
+
+13. **Parahippocampal Gyrus**
+    - Left Parahippocampal Gyrus
+
+14. **Inferior Frontal Gyrus (IFG)**
+
+15. **Middle Occipital Gyrus**
+    - Right Middle Occipital Gyrus
+
+These regions are involved in various cognitive functions, including reward processing, executive control, decision-making, visual processing, and memory.

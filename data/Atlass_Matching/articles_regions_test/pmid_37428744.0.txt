@@ -1,0 +1,34 @@
+## Brain Regions and Sub-Regions:
+
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Ventral Striatum (VS)**
+   - Right caudate
+
+3. **Anterior Insula (AI)**
+   - Right anterior insula
+
+4. **Posterior Parietal Cortex (PPC)**
+
+5. **Orbitofrontal Cortex (OFC)**
+   - Left OFC
+
+6. **Amygdala**
+
+7. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual ACC (sgACC)
+   - Pregenual ACC (pgACC)
+
+8. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Right dlPFC
+
+9. **Inferior Frontal Gyrus (IFG)**
+   - Right IFG
+
+10. **Posterior Cingulate Cortex (PCC)**
+
+11. **Pre-supplementary Motor Area**
+
+12. **Ventral Tegmental Area (VTA)**
+
+These regions are involved in these cognitive functions: decision-making, subjective valuation, reward processing, emotional processing, cognitive control, and executive functions.

@@ -1,0 +1,56 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobe**
+   - Mesial temporal lobe
+   - Hippocampus
+     - Anterior hippocampus
+     - Posterior hippocampus
+   - Entorhinal cortex
+   - Perirhinal cortex
+   - Temporal pole
+
+2. **Subcortical Structures**
+   - Thalamus
+     - Right thalamus
+     - Left thalamus
+
+3. **Frontal Lobe**
+   - Medial superior frontal cortex
+   - Paracentral lobule (PCL)
+   - Left paracentral lobule
+   - Medial prefrontal cortex
+     - Left medial prefrontal cortex
+
+4. **Parietal Lobe**
+   - Inferior parietal cortex (IPC)
+     - Left inferior parietal cortex
+   - Postcentral gyrus
+     - Left postcentral gyrus
+     - Right postcentral gyrus
+   - Precuneus
+     - Left precuneus
+
+5. **Occipital Lobe**
+   - Not explicitly mentioned
+
+6. **Other Cortical Regions**
+   - Insula
+   - Sensory motor cortex
+   - Anterior cingular cortex (ACC)
+     - Left anterior cingular cortex
+   - Middle cingulate cortex
+     - Left middle cingulate cortex
+   - Middle frontal cortex
+     - Left middle frontal cortex
+   - Rolandic sulcus
+     - Right rolandic sulcus
+
+7. **Cerebellum**
+   - Left cerebellum
+
+8. **Networks**
+   - Default mode network (DMN)
+     - Medial temporal lobes (MTLs)
+     - Posterior DMN
+
+These regions are involved in various cognitive functions, including memory, language, and sensorimotor processes, which are affected in temporal lobe epilepsy (TLE).

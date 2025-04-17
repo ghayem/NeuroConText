@@ -1,0 +1,97 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Optic Tracts**
+
+2. **Optic Chiasm**
+
+3. **Optic Radiations**
+
+4. **Visual Cortex**
+
+5. **Retinal Nerve Fiber Layer**
+
+6. **Lateral Occipital Cortex (LOC)**
+   - Left lateral occipital cortex
+   - Right lateral occipital cortex
+   - Bilateral lateral occipital cortex
+
+7. **Inferior Fronto-Occipital Fascicle (IFOF)**
+   - Right inferior fronto-occipital fascicle
+   - Left inferior fronto-occipital fascicle
+
+8. **Forceps Major (FM)**
+   - Right forceps major
+   - Left forceps major
+
+9. **Inferior Longitudinal Fascicle (ILF)**
+   - Right inferior longitudinal fascicle
+   - Left inferior longitudinal fascicle
+
+10. **Calcarine Cortex**
+
+11. **Lingual Gyrus**
+    - Right lingual gyrus
+    - Left lingual gyrus
+
+12. **Middle Cerebellar Peduncle**
+
+13. **Posterior Limb of the Internal Capsule**
+    - Corticospinal tract
+
+14. **Anterior Thalamic Radiation**
+
+15. **Superior Longitudinal Fascicle (SLF)**
+    - Left superior longitudinal fascicle
+
+16. **Hippocampus**
+    - Right hippocampus
+    - Left hippocampus
+
+17. **Frontal Lobe**
+    - Frontoorbital cortex
+    - Subcallosal cortex
+    - Frontal pole
+
+18. **Parietal Lobe**
+    - Right superior parietal lobule
+    - Left postcentral gyrus
+
+19. **Temporal Lobe**
+    - Left cerebellum
+    - Left temporal pole
+
+20. **Superior Frontal Gyrus**
+
+21. **Supramarginal Gyrus**
+
+22. **Temporo-Occipital Fusiform Cortex**
+
+23. **Precentral Gyrus**
+
+24. **Postcentral Gyrus**
+
+25. **Precuneous**
+
+26. **Parancigulate Gyrus**
+
+27. **Anterior Cingulate**
+
+28. **Pre- and Postcentral Gyrus**
+
+29. **Inferior Frontal Gyrus**
+
+30. **Middle Frontal Gyrus**
+
+31. **Superior Parietal Lobule**
+
+32. **Planum Temporale**
+
+33. **Cuneal Cortex**
+
+34. **Medial Frontal Cortex**
+
+35. **Temporo-Parietal Cortex**
+
+36. **Anterior Limbic Cortex**
+
+These regions are involved in various cognitive functions, including visual processing, memory, spatial orientation, decision-making, and executive functions.

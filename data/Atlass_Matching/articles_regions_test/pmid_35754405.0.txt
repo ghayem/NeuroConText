@@ -1,0 +1,32 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Prefrontal Cortex (PFC)**
+    - Dorsolateral Prefrontal Cortex (dlPFC)
+    - Supramarginal Gyrus
+    - Cuneus
+    - Orbitofrontal Cortex
+
+2. **Limbic Areas**
+    - Anterior Cingulate Cortex (ACC)
+        - Subgenual ACC (sgACC)
+        - Pregenual ACC (pgACC)
+        - Supracallosal ACC (scACC)
+    - Amygdala
+    - Hippocampus
+
+3. **Subcortical Areas**
+    - Amygdala (including its connectivity with other subcortical areas)
+
+4. **Other Specific Regions**
+    - Fusiform Gyrus
+    - Cerebellum
+    - Precuneus
+    - Posterior Cingulate Cortex
+    - Middle Cingulate Cortex
+    - Superior Temporal Region
+    - Temporal and Superior Frontal Gyrus
+    - Paracentral Lobule
+    - Supramarginal Gyrus
+    - Cuneus
+
+These regions are involved in various cognitive functions, including emotion regulation, stress processing, and the development of psychopathology.

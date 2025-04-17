@@ -1,0 +1,22 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex**
+   - Middle prefrontal cortex
+
+2. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+3. **Parietal Cortex**
+   - Inferior parietal cortex (IPC)
+   - Angular gyrus
+   - Precuneus (PC)
+
+4. **Temporal Cortex**
+   - Medial temporal cortex (MTC)
+   - Hippocampus (HIPP)
+   - Parahippocampus (paraHIPP)
+
+5. **Other Regions**
+   - Default mode network (DMN)
+   - Baihui acupoint (GV20)

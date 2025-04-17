@@ -1,0 +1,37 @@
+## Brain Regions and Sub-Regions
+
+1. **Default Mode Network (DMN)**
+
+2. **Central Executive Network (CEN)**
+
+3. **Salience Network (SN)**
+   - Anterior cingulate cortex (dACC)
+   - Rostral prefrontal cortex (RPFC)
+   - Supramarginal gyrus (SMG)
+   - Striatum
+   - Thalamus
+   - Amygdala
+   - Anterior insula (AI)
+   - Inferior temporal gyrus (ITG)
+   - Middle temporal gyrus (MTG)
+   - Caudate
+   - Precentral gyrus
+
+4. **Prefrontal Cortex**
+
+5. **Parietal Operculum**
+
+6. **Precuneus**
+
+7. **Superior Parietal Lobe**
+
+8. **Temporal Gyrus**
+
+9. **Caudate**
+
+10. **Precentral Gyrus**
+
+11. **Cerebellum**
+
+## Cognitive and Emotional Functions
+These regions are involved in these cognitive and emotional functions: emotion processing, memory, mental activities, cognitive and affective tasks, sensory and motor movement, social cognition, perception of facial expressions, emotions, and individual desires.

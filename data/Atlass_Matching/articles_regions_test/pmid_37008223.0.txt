@@ -1,0 +1,53 @@
+## Brain Regions and Sub-regions:
+
+1. **Amygdala**
+
+2. **Visual Cortex**
+    - V3
+    - V2
+    - Lateral occipital cortex
+    - Ventral visual pathway
+    - Dorsal visual pathway
+
+3. **Cuneus**
+    - Pre-cuneus
+
+4. **Cerebellum**
+    - Cerebellum VI
+    - Cerebellum VII
+
+5. **Fusiform Gyrus**
+
+6. **Middle Occipital Gyrus**
+    - Suboccipital gyrus
+
+7. **Temporal Lobe**
+    - Posterior inferotemporal cortex
+    - Middle temporal gyrus
+    - Superior temporal gyrus
+
+8. **Frontal Lobe**
+    - Anterior central gyrus
+    - Posterior medial frontal lobe
+    - Superior frontal gyrus
+    - Middle frontal gyrus
+
+9. **Lingual Gyrus**
+
+10. **Angular Gyrus**
+
+11. **Parietal Lobe**
+    - Superior medial gyrus
+
+### Cognitive Functions:
+These regions are involved in various cognitive functions including:
+- Visual processing
+- Object and face recognition
+- Motor planning and coordination
+- Emotional processing
+- Shape perception
+- Multisensory perception
+- Basic visual processing
+- Motor affordances of shapes
+- Early visual processing
+- Extracting shapes and external visual features of words and objects

@@ -1,0 +1,42 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Language System**
+   - Inferior longitudinal fasciculus
+   - Superior longitudinal fasciculus/arcuate fasciculus
+   - Posterior corpus callosum
+   - Extreme capsule
+
+2. **Parietal Lobe**
+
+3. **Frontal Lobe**
+
+4. **Cortical Regions ( based on Desikan-Killiany parcellation)**
+   - Superior frontal cortex
+     - Right superior frontal cortex
+   - Middle frontal cortex
+     - Right middle frontal cortex
+   - Precuneus
+     - Left precuneus
+   - Lingual cortex
+     - Left lingual cortex
+
+5. **Subcortical Regions**
+   - Brain stem
+   - Cerebellum
+     - Left cerebellum
+   - Thalamus
+   - Caudate
+   - Putamen
+   - Pallidum
+   - Hippocampus
+   - Amygdala
+   - Nucleus accumbens
+     - Right accumbens area
+
+6. **Other Regions**
+   - Planum temporale (PT)
+   - Temporo-parieto-occipital junction (TPO)
+   - Hub nodes (highly connected nodes)
+   - Peripheral nodes
+
+These regions are involved in various cognitive functions, including literacy and numeracy abilities, as discussed in the article.

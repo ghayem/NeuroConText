@@ -1,0 +1,81 @@
+Sure, here is the list of brain regions and sub-regions mentioned in the article:
+
+1. **Fusiform Gyrus**
+
+2. **Visual Network (VN)**
+    - Middle occipital gyrus
+    - Superior occipital gyrus
+    - Temporal-occipital regions
+
+3. **Auditory Network (AN)**
+    - Bilateral middle temporal gyrus
+    - Bilateral superior temporal gyrus
+
+4. **Cerebellar Network (CER)**
+    - Cortex
+    - Medulla (parietal nucleus, intermediate nucleus, and dentate nucleus)
+
+5. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex
+    - Precuneus
+    - Medial prefrontal cortex
+    - Inferior parietal lobule
+    - Lateral temporal cortex
+
+6. **Sensorimotor Network (SMN)**
+    - Precentral gyrus
+    - Postcentral gyrus
+    - Supplementary motor area
+
+7. **Salience Network (SN)**
+    - Anterior insula
+    - Dorsal anterior cingulate cortex
+
+8. **Executive Control Network (ECN)**
+    - Dorsolateral frontal cortex
+    - Posterior cingulate cortex
+
+9. **Dorsal Attention Network (DAN)**
+    - Inferior parietal cortex
+    - Frontal eye motor area
+    - Auxiliary motor area
+    - Insular lobe
+    - Dorsolateral prefrontal cortex
+
+10. **Bilateral Inferior Frontal Gyrus**
+
+11. **Left Caudate Nucleus**
+
+12. **Right Anterior Cingulate Gyrus**
+
+13. **Right Medial Superior Frontal Gyrus**
+
+14. **Right Middle Cingulate Gyrus**
+
+15. **Left Middle Cingulate Gyrus**
+
+16. **Left Angular Gyrus**
+
+17. **Right Precuneus Region**
+
+18. **Left Precuneus Region**
+
+19. **Left Postcentral Gyrus Region**
+
+20. **Right Talar Fissure Region**
+
+21. **Left Insula Region**
+
+22. **Left Middle Temporal Gyrus**
+
+23. **Left Superior Temporal Gyrus**
+
+24. **Left Middle Frontal Gyrus**
+
+25. **Left Inferior Parietal Gyrus**
+
+26. **Left Medial Superior Frontal Gyrus**
+
+27. **Right Middle Temporal Gyrus**
+
+These regions are involved in various cognitive functions, including visual information processing, auditory information processing, cognitive function, attention control, motor control, and executive functions.

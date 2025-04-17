@@ -1,0 +1,40 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Visual Cortex**
+   - Early visual cortex
+   - Retinotopically organized regions of visual cortex
+   - Striate and extrastriate cortex
+   - V1
+   - V2
+   - V3/Vp
+   - V3a/V4v
+
+2. **Fronto-parietal Cortex**
+   - Dorsal fronto-parietal cortex
+   - Ventral fronto-parietal cortex
+   - Middle frontal gyrus (MFG)
+   - Intraparietal sulcus (IPS)
+     - Left IPS
+     - Right IPS
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus
+     - Right superior temporal gyrus corresponding to temporo-parietal junction (TPJ)
+   - Ventral occipito-temporal cortex
+
+4. **Parietal Cortex**
+   - Precuneus
+
+5. **Category-selective Cortex**
+   - Fusiform face area (FFA)
+     - Left FFA
+     - Right FFA
+
+6. **Prefrontal Cortex**
+   - Precentral gyrus
+
+These regions are involved in various cognitive functions, including:
+- Visual processing and sensory adaptation (visual cortex)
+- Attentional control and allocation (fronto-parietal cortex, superior temporal gyrus, precuneus)
+- Processing of distractor items and faces (fusiform face area)
+- Working memory and distractor filtering (prefrontal cortex)

@@ -1,0 +1,57 @@
+## Brain Regions and Sub-Regions:
+
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+4. **Amygdala**
+
+5. **Striatum**
+
+6. **Nucleus Accumbens**
+
+7. **Salience Network (SN)**
+
+8. **Default Mode Network (DMN)**
+
+9. **Left Executive Control Network (LECN)**
+
+10. **White Matter (WM)**
+    - Anterior corpus callosum
+    - Forceps minor
+    - Anterior corona radiata
+    - Cingulum
+    - Anterior limb of internal capsule
+    - External capsule
+
+11. **Dorsal Anterior Cingulate Cortex (dACC)**
+    - Bilateral dACC
+
+12. **Dorsal Posterior Cingulate Cortex (dPCC)**
+    - Right dPCC
+    - Left dPCC
+
+13. **Primary Somatic Sensory Cortex (S1)**
+    - Left primary somatic sensory cortex
+
+14. **Precuneus**
+    - Left precuneus
+
+15. **Putamen**
+    - Left putamen
+
+16. **Cerebellum**
+    - Right cerebellum
+
+17. **Premotor Cortex**
+    - Right premotor cortex
+
+18. **Thalamus**
+    - Left thalamus
+
+19. **Parahippocampal Gyrus**
+    - Left parahippocampal gyrus
+
+- These regions are involved in cognitive functions related to impulsivity, decision-making, and reward processing.

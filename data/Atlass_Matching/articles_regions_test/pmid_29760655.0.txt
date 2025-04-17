@@ -1,0 +1,22 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus (HC)**
+   - Anterior hippocampus (aHC)
+   - Posterior hippocampus (pHC)
+
+2. **Parahippocampal Place Area (PPA)**
+   - Posterior parahippocampal cortex
+
+3. **Retrosplenial Complex (RSC)**
+   - Retrosplenial cortex proper (Brodmann areas 29–30)
+   - Posterior cingulate (Brodmann areas 23–31)
+   - Ventral parieto-occipital sulcus
+   - Anterior calcarine sulcus
+
+4. **Occipital Place Area (OPA)**
+   - Transverse occipital sulcus
+
+5. **Early Visual Cortex (EVC)**
+
+## Cognitive Functions:
+These regions are involved in cognitive functions related to spatial navigation, spatial memory, and spatial orientation.

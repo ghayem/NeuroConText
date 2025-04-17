@@ -1,0 +1,116 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Anterior Insula (INS)**
+   - Anterior
+   - Mid
+   - Posterior
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Anterior midcingulate cortex (aMCC)
+
+3. **Inferior Parietal Lobule (IPL)**
+
+4. **Inferior Frontal Gyrus (IFG)**
+
+5. **Supplementary Motor Area (SMA)**
+
+6. **Supramarginal Gyrus (SMG)**
+   - Bilateral
+
+7. **Occipital Cortex**
+   - Bilateral
+   - Superior part of the lateral occipital cortex
+   - Occipital pole
+
+8. **Mid-Cingulate Cortex (MCC)**
+
+9. **Paracentral Lobule (PCL)**
+
+10. **Amygdala**
+    - Bilateral
+
+11. **Superior Temporal Gyrus (STG)**
+    - Bilateral
+
+12. **Fusiform**
+    - Bilateral
+    - Temporal occipital fusiform
+
+13. **Superior Parietal Lobule**
+    - Left
+    - Right
+
+14. **Cerebellum**
+    - Left cerebellum V
+    - Left cerebellum VI
+    - Right cerebellum V
+    - Right cerebellum VI
+    - Cerebellum I–IV
+    - Cerebellum crus-I
+    - Vermis IV and V
+
+15. **Thalamus**
+    - Left
+    - Bilateral
+    - Right
+
+16. **Hippocampus**
+    - Bilateral
+    - Right posterior hippocampus
+
+17. **Operculum**
+    - Bilateral
+
+18. **Precuneus**
+    - Bilateral
+
+19. **Sensorimotor Cortices**
+
+20. **Post-Central Gyrus**
+    - Right
+
+21. **Temporal Occipital Fusiform Cortex**
+
+22. **Lingual Gyrus**
+    - Right
+
+23. **Lateral Occipital Cortex**
+    - Inferior division
+    - Superior division
+
+24. **Cuneal Cortex**
+    - Left
+
+25. **Inferior Temporal Gyrus (ITG)**
+    - Left
+
+26. **Middle Temporal Gyrus (MTG)**
+    - Left
+    - Bilateral
+    - Right
+
+27. **Paracingulate Gyrus**
+    - Bilateral
+
+28. **Posterior Hippocampus**
+    - Right
+
+29. **Pre-Central Gyrus**
+
+30. **Intracalcarine Cortex**
+
+31. **Medial Orbitofrontal**
+    - Bilateral
+
+32. **Ventral Premotor Cortex**
+
+33. **Parahippocampal Gyrus (PHG)**
+
+34. **Heschl’s Gyrus**
+
+35. **Vermis IV–V**
+
+36. **Temporal Fusiform Gyrus**
+    - Right
+
+These regions are involved in various cognitive functions including emotion processing, pain perception, and motor responses.

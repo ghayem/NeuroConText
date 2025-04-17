@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+   - Basolateral amygdala (BLA)
+   - Centromedial amygdala (CMA)
+   - Superficial amygdala (SFA)
+
+2. **Hippocampus**
+   - Anterior hippocampus
+   - Posterior hippocampus
+
+3. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+     - Rostral anterior cingulate cortex (ACC)
+     - Dorsal anterior cingulate cortex (ACC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsal medial prefrontal cortex
+   - Subgenual anterior cingulate cortex (subgenual ACC)
+   - Dorsomedial prefrontal cortex
+
+4. **Insula**
+   - Anterior insula
+   - Posterior insula
+
+5. **Temporal Cortex**
+   - Superior temporal gyrus
+
+6. **Cerebellum**
+
+7. **Parahippocampal Gyrus**
+
+8. **Frontal Cortex**
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+   - Frontal pre-ventromedial (vmPFC)
+
+9. **Occipital Cortex**
+   - Middle occipital gyrus
+   - Fusiform gyrus
+   - Lingual gyrus
+
+10. **Parietal Cortex**
+    - Angular gyrus
+
+11. **Motor Cortex**
+    - Supplementary motor area (SMA)
+
+12. **Olfactory Cortex**
+
+13. **Brainstem**
+    - Autonomic and motor centers
+
+These regions are involved in various cognitive and emotional functions, including emotion processing, memory, fear response, sensory integration, and executive functions.

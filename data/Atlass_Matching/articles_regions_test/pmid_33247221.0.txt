@@ -1,0 +1,112 @@
+## Brain Regions and Sub-Regions:
+
+1. **Ventral Occipital Poles**
+
+2. **Posterior Middle Temporal Gyrus**
+
+3. **Precuneus**
+
+4. **Frontomedian Cortex**
+
+5. **Frontal Gyrus**
+
+6. **Cingulate Cortex**
+
+7. **Temporal Pole**
+
+8. **Temporoparietal Junction**
+
+9. **Medial Prefrontal Cortex**
+
+10. **Paracingulate Cortex**
+
+11. **Posterior Orbitofrontal Cortex (OFC)**
+
+12. **Insula**
+
+13. **Superior Temporal Sulcus**
+
+14. **Occipital Regions**
+
+15. **Hippocampus**
+
+16. **Amygdala**
+
+17. **Anterior Cingulate Gyrus**
+
+18. **Orbitofrontal Cortex**
+
+19. **Area V5/MT (Middle Temporal Area)**
+
+20. **V1 (Primary Visual Cortex)**
+
+21. **V2**
+
+22. **V3 Complex**
+   - V3
+   - V3A
+   - V3B
+
+23. **Premotor Cortex**
+
+24. **Motor Cortex Areas**
+
+25. **Reward-Related Orbitofrontal Areas**
+
+26. **Cognitive Categorization-Related Prefrontal Areas**
+
+27. **Right Premotor Cortex**
+
+28. **Bilateral Occipital Cortices**
+
+29. **Occipitotemporal Regions**
+
+30. **Parietal Regions**
+
+31. **Inferior Parietal Lobule**
+
+32. **Supplementary Motor Areas**
+
+33. **Ventral Premotor Cortex**
+
+34. **Primary Motor Cortex**
+
+35. **Lingual Gyrus**
+
+36. **Para-Hippocampal Place Area**
+
+37. **Right Parahippocampal Cortex**
+
+38. **Ventral Striatum**
+
+39. **Retrosplenial Cortex**
+
+40. **Middle Temporal Gyrus (MT)**
+
+41. **Left Lingual Gyrus**
+
+42. **Right Fusiform Gyrus**
+
+43. **Left Middle Occipital Gyrus (MOG)**
+
+44. **Bilateral Inferior Frontal Operculum (IFO)**
+
+45. **Bilateral Inferior Frontal Triangle (IFT)**
+
+46. **Left Insula**
+
+47. **Bilateral Middle Cingulate Cortex (MCC)**
+
+48. **Left Supplementary Motor Area (SMA)**
+
+49. **Right Medial Superior Frontal Gyrus**
+
+50. **Bilateral Inferior Occipital Gyri (IOG)**
+
+51. **Left Inferior Orbitofrontal Cortex (OFC)**
+
+52. **Right Calcarine**
+
+53. **Bilateral Thalamus**
+
+These regions are involved in various cognitive functions including sensory processing, cognitive processing, emotional processing, and reward processing.

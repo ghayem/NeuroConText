@@ -1,0 +1,101 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Mesolimbic Reward Pathways**
+
+2. **Frontal Circuitry**
+   - Lateral prefrontal cortex
+   - Medial prefrontal cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+3. **Inferior Parietal Lobule**
+
+4. **Medial Orbitofrontal Cortex**
+
+5. **Insula**
+
+6. **Inferior Frontal Gyrus (IFG)**
+
+7. **Thalamus**
+
+8. **Orbitofrontal Cortex**
+
+9. **Amygdala**
+
+10. **Anterior Parahippocampal Cortex (aPaHC)**
+
+11. **Temporal Pole (TP)**
+
+12. **Occipital Fusiform Gyrus (OFusG)**
+
+13. **Superior Frontal Gyri (SFG)**
+
+14. **Cerebellar Lobule VIII**
+
+15. **Cerebellar Lobule IX**
+
+16. **Cerebellar Lobule VII**
+
+17. **Cuneus**
+
+18. **Precuneus**
+
+19. **Posterior Cingulate Cortex (PCC)**
+
+20. **Intracalcarine Cortex (ICC)**
+
+21. **Supra-calcarine Cortex (SCC)**
+
+22. **Inferior Temporal Gyrus (ITG)**
+
+23. **Anterior Superior Temporal Gyrus (aSTG)**
+
+24. **Putamen**
+
+25. **Temporo-occipital Inferior Temporal Gyrus (toITG)**
+
+26. **Superior Temporal Gyrus (STG)**
+
+27. **Inferior Lateral Occipital Cortex (iLOC)**
+
+28. **Lingual Gyri (LG)**
+
+29. **Superior Lateral Occipital Cortex (sLOC)**
+
+### Cognitive Functions and Processes:
+- **Somatosensory Integration**
+- **Reward Attribution**
+- **Salience Bottom-Up Responses**
+- **Top-Down Inhibitory Control**
+- **Visual Processing**
+- **Visuo-spatial Imagery**
+- **Episodic Memory Retrieval**
+- **Appetite Control**
+- **Self-referential Processing**
+- **Self-centered Thinking**
+- **Multimodal Sensorial Integration**
+- **Gustatory Processing**
+- **Food Intake Regulation**
+- **Semantic Memory**
+- **Introspection**
+- **Inhibitory Control Over Appetite**
+- **Executive Tasks**
+- **Working Memory**
+- **Affective Tasks**
+- **Object Recognition**
+- **Tactile Perception**
+- **Tactile Imagery**
+- **Emotional vs. Neutral Stimuli Processing**
+- **Mind-Wandering**
+- **Judgmental Tasks**
+- **Cognitive Processing of Self-Reference**
+- **Drug Craving**
+- **Viewpoint Processing**
+- **Impulsive Behaviors**
+- **Attention-dependent Processing of Objects**
+- **Familiarity and Shape Decoding**
+- **Cognitive Flexibility**
+- **Cognitive Restraint Over Eating**
+- **Food-related Self-referential Processing**
+- **Reappraisal Strategies**
+
+These regions and their associated cognitive functions are integral to understanding the neural circuitry and processes involved in atypical anorexia nervosa and related eating disorders.

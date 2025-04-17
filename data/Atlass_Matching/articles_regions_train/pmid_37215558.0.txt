@@ -1,0 +1,25 @@
+1. **Left Inferior Frontal Cortex (LIFC)**
+    - Brodmann Areas (BA) 44 and 45
+    - Inferior frontal gyrus pars opercularis (IFGoper)
+    - Inferior frontal gyrus pars triangularis (IFGtri)
+
+2. **Left Anterior Temporal Lobe (LATL)**
+    - Middle temporal pole (MTGpole)
+    - Superior temporal pole (STGpole)
+    - Anterior portion of the inferior temporal gyrus (ITG)
+
+3. **Left Posterior Temporal-Inferior Parietal Area (LpT-iP)**
+    - Posterior middle temporal gyrus (pMTG)
+    - Posterior superior temporal gyrus (pSTG)
+    - Supramarginal gyrus (SMG)
+    - Angular gyrus (AG)
+
+4. **Left Hemisphere Stroke Regions**
+    - White matter underlying LIFC
+    - Posterior temporal regions
+
+5. **Broca’s Aphasia Related Regions**
+    - Insula
+    - Superior temporal gyrus (STG)
+
+These regions are involved in these cognitive functions: language, memory, executive functions, phonological processing, auditory-verbal short-term memory (STM), semantic processing, and syntactic complexity.

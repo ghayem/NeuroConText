@@ -1,0 +1,38 @@
+{
+  "AAL": [
+    "Pallidum_L",
+    "Pallidum_R",
+    "Putamen_L",
+    "Putamen_R",
+    "Thalamus_L",
+    "Thalamus_R"
+  ],
+  "Harvard_Oxford": [
+    "Heschl's Gyrus (includes H1 and H2)"
+  ],
+  "DiFuMo": [
+    "Hypothalamus",
+    "Parahippocampal gyrus",
+    "Parahippocampal gyrus anterior",
+    "Parahippocampal gyrus middle RH",
+    "Parahippocampal gyrus posterior LH",
+    "Parahippocampal gyrus posterior RH",
+    "Putamen and globus pallidus anterior LH",
+    "Putamen anterior",
+    "Putamen anterior LH",
+    "Putamen anterior RH",
+    "Putamen inferior RH",
+    "Putamen middle LH",
+    "Putamen posterior LH",
+    "Putamen posterior RH",
+    "Putamen superior RH",
+    "Thalamus LH",
+    "Thalamus anterior RH",
+    "Thalamus antero-superior",
+    "Thalamus inferior",
+    "Thalamus lateral LH",
+    "Thalamus middle",
+    "Thalamus posterior RH",
+    "Thalamus superior"
+  ]
+}

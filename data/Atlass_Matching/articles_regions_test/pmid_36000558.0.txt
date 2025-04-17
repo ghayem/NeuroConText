@@ -1,0 +1,162 @@
+### Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Ventral Tegmental Area (VTA)**
+   - Reward prediction
+   - Dopamine secretion
+
+2. **Nucleus Accumbens (NAcc)**
+   - Value attribution
+   - Incentive salience
+
+3. **Ventral Pallidum**
+   - Value attribution
+
+4. **Central Amygdala Opioid**
+   - Reward prediction
+
+5. **Orbitofrontal Cortex (OFC)**
+   - Reward prediction
+   - Value attribution
+
+6. **Amygdala**
+   - Reward prediction
+   - Learning
+
+7. **Insula**
+   - Reward prediction
+   - Value attribution
+   - Interoception and prediction error
+   - Emotional representation
+
+8. **Anterior Insula**
+   - Emotional representation
+   - Awareness of wants and needs
+
+9. **Mid-Posterior Insula**
+   - Interoceptive prediction error
+
+10. **Anterior Cingulate Cortex (ACC)**
+    - Value attribution
+    - Choice and action selection
+    - Homeostatic emotion
+
+11. **Caudate Body**
+    - Reward processing
+    - Long-term value association
+
+12. **Caudate Head**
+    - Reward processing
+    - Long-term value association
+
+13. **Caudate Tail**
+    - Long-term value association
+
+14. **Putamen**
+    - Reward processing
+    - Long-term value association
+
+15. **Caudal-Ventral Putamen**
+    - Long-term value association
+
+16. **Dorsal Striatum**
+    - Reward processing
+
+17. **Thalamus**
+    - Reward processing
+
+18. **Substantia Nigra (SN)**
+    - Reward prediction
+    - Dopamine secretion
+
+19. **Red Nucleus**
+    - Reward prediction
+
+20. **Hypothalamus**
+    - Reward prediction
+
+21. **Globus Pallidus**
+    - Reward prediction
+
+22. **Precentral Gyrus**
+    - Reward prediction
+
+23. **Inferior Parietal Lobule**
+    - Reward prediction
+
+24. **Dorso-Lateral Prefrontal Cortex**
+    - Reward prediction
+
+25. **Medial Prefrontal Cortex**
+    - Reward prediction
+
+26. **Superior Parietal Lobule**
+    - Reward prediction
+
+27. **Claustrum**
+    - Reward prediction
+    - Value attribution
+
+28. **Hippocampus**
+    - Reward processing
+
+29. **Subcallosal Area**
+    - Value attribution
+
+30. **Uncus**
+    - Value attribution
+
+31. **Mammillary Body**
+    - Value attribution
+
+32. **Parahippocampal Gyrus**
+    - Value attribution
+
+33. **Ventromedial Caudate**
+    - Short-term value encoding
+
+34. **Rostroventral Putamen**
+    - Short-term value encoding
+
+35. **Ventral Striatum**
+    - Reward prediction
+    - Short-term value encoding
+
+36. **Ventral Pallidum**
+    - Reward prediction
+    - Short-term value encoding
+
+37. **Midbrain**
+    - Reward prediction
+
+38. **Angular Gyrus**
+    - Reward prediction
+
+39. **Ventromedial Prefrontal Cortex**
+    - Exploratory behavior
+
+40. **Entorhinal Cortex**
+    - Value attribution
+
+### Cognitive Functions and Processes
+
+- **Reward Prediction**: Involves VTA, NAcc, ventral pallidum, central amygdala opioid, OFC, amygdala, insula, thalamus, substantia nigra, red nucleus, hypothalamus, globus pallidus, precentral gyrus, inferior parietal lobule, dorso-lateral prefrontal cortex, medial prefrontal cortex, superior parietal lobule, claustrum.
+
+- **Value Attribution**: Involves NAcc, ventral pallidum, OFC, amygdala, insula, ACC, caudate body, caudate head, caudate tail, putamen, caudal-ventral putamen, hippocampus, subcallosal area, uncus, mammillary body, parahippocampal gyrus, entorhinal cortex.
+
+- **Interoception and Prediction Error**: Involves mid-posterior insula, anterior insula, ACC.
+
+- **Emotional Representation**: Involves anterior insula.
+
+- **Awareness of Wants and Needs**: Involves anterior insula.
+
+- **Choice and Action Selection**: Involves ACC, caudate, ventral striatum, mid-posterior insula.
+
+- **Homeostatic Emotion**: Involves ACC.
+
+- **Long-Term Value Association**: Involves caudate body, caudate tail, putamen, caudal-ventral putamen.
+
+- **Short-Term Value Encoding**: Involves ventromedial caudate, rostroventral putamen, ventral striatum, ventral pallidum.
+
+- **Exploratory Behavior**: Involves ventromedial prefrontal cortex.
+
+These regions and their functions provide a comprehensive understanding of the neural underpinnings of "Wanting" and "Needing" as described in the article.

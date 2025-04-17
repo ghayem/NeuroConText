@@ -1,0 +1,30 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Inferior Frontal Gyri**
+   - Pars opercularis
+   - Pars triangularis
+   - Pars orbitalis
+
+2. **Anterior Insular Cortices**
+
+3. **Dorsolateral Prefrontal Cortex**
+   - Middle frontal gyrus
+
+4. **Parietal Areas**
+   - Inferior parietal lobule
+
+5. **Pre-Supplementary Motor Area (pre-SMA)**
+
+6. **Dorsal Premotor Cortex**
+
+7. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+8. **Middle Superior Temporal Gyri**
+
+9. **Frontal Pole**
+   - Left frontal pole
+
+10. **Premotor Cortex**
+    - Left premotor cortex
+
+These regions are involved in various cognitive functions related to processing hierarchical structures in music, including auditory tonal working memory, syntactic reordering, and embedding.

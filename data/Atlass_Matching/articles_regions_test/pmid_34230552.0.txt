@@ -1,0 +1,37 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Face Primary Sensorimotor Cortex**
+
+2. **Putamen**
+
+3. **Superior Parietal Lobule**
+
+4. **Supplementary Motor Area**
+
+5. **Anterior Cingulate Cortex**
+
+6. **Sensorimotor Cortex**
+   - Bilateral activation
+
+7. **Cerebellum**
+   - Bilateral activation
+
+8. **Thalamus**
+   - Bilateral activation
+
+9. **Angular Gyrus**
+   - Bilateral activation
+   - Right angular gyrus
+   - Left angular gyrus
+
+10. **Precuneus**
+    - Bilateral activation
+    - Right precuneus
+
+11. **Middle Temporal Gyrus**
+    - Bilateral activation
+
+12. **Insula**
+    - Left insula
+
+These regions are involved in various cognitive and motor functions, including sensorimotor processing, motor planning, execution, and control, as well as spatial cognition and motor imagery.

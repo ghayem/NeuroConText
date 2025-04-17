@@ -1,0 +1,66 @@
+## Brain Regions and Sub-regions
+
+1. **Temporal Gyrus**
+   - Bilateral temporal gyrus
+
+2. **Limbic Lobe**
+   - Left limbic lobe
+
+3. **Hippocampus**
+   - Hippocampus
+   - Hippocampal gyrus
+   - Bilateral hippocampus
+   - Left hippocampus
+   - Right hippocampus
+
+4. **Parahippocampal Gyrus**
+   - Parahippocampal gyrus
+   - Parahippocampus
+   - Bilateral parahippocampal gyrus
+   - Left parahippocampal gyrus
+   - Right parahippocampal gyrus
+   - Hippocampal/parahippocampal gyrus (HIP/PHG)
+
+5. **Cerebellum**
+   - Bilateral cerebellar tonsil
+   - Right cerebellum posterior lobe
+
+6. **Superior Frontal Gyrus**
+   - Bilateral superior frontal gyrus (SFG)
+
+7. **Medial Orbitofrontal Cortex**
+   - Bilateral medial orbitofrontal cortex (mOFC)
+
+8. **Amygdala**
+   - Amygdala
+   - Amygdala–hippocampus complex
+
+9. **Dorsolateral Prefrontal Cortex**
+   - Left dorsolateral prefrontal cortex (DLPFC)
+   - Right dorsolateral prefrontal cortex (DLPFC)
+
+10. **Supplemental Motor Area**
+    - Right supplemental motor area (SMA)
+
+11. **Inferior Temporal Gyrus**
+    - Right inferior temporal gyrus (ITG)
+
+12. **Fusiform Area**
+    - Right fusiform area (FFA)
+
+13. **Middle Frontal Gyrus**
+    - Left middle frontal gyrus (MFG)
+
+14. **Dorsal Anterior Cingulate Cortex**
+    - Left dorsal anterior cingulate cortex (dACC)
+
+15. **Anterior Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+
+16. **Precuneus**
+    - Precuneus
+
+17. **Thalamus**
+    - Thalamus
+
+These regions are involved in cognitive functions such as sleep regulation, emotion regulation, memory consolidation, cognitive control, and executive functions.

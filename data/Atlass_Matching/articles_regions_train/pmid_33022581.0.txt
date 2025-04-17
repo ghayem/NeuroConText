@@ -1,0 +1,40 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+   - Left thalamus
+   - Right thalamus
+   - Pulvinar
+   - Dorsomedial thalamus
+   - Dorsomedial thalamus (left)
+   - Ventrolateral thalamus
+   - Ventral anterior thalamus
+   - Ventral lateral thalamus
+   - Ventral posterior thalamus
+   - Medial geniculate nucleus
+   - Lateral geniculate nucleus
+
+2. **Ventral tegmental area (VTA)**
+
+3. **Striatum**
+
+4. **Hippocampus**
+
+5. **Prefrontal cortex (PFC)**
+
+6. **Amygdala**
+
+7. **Inferior frontal gyrus**
+
+8. **Precuneus**
+
+9. **Substantia nigra**
+
+10. **Anterior cingulate cortex (ACC)**
+
+11. **Insula**
+
+12. **Cerebellum**
+
+13. **Ventral striatum**
+
+These regions are involved in various cognitive functions, including reward processing, decision-making, memory, emotion regulation, and executive functions. They are also implicated in addiction and other neuropsychiatric disorders.

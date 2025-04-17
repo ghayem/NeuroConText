@@ -1,0 +1,51 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Regions**
+   - Frontal to central areas
+   - Medial frontal area
+   - Anterior insula
+     - Dorsal anterior insula
+     - Right dorsal anterior insula
+   - Middle frontal gyrus
+     - Right middle frontal gyrus
+
+2. **Parietal Regions**
+   - Parietal areas
+   - Inferior parietal lobule
+   - Superior parietal lobule
+
+3. **Occipital Regions**
+   - Occipital areas
+   - Inferior occipital gyrus
+   - Visual cortex
+
+4. **Temporal Regions**
+   - Superior temporal gyrus
+     - Bilateral superior temporal gyri
+     - Posterior superior temporal gyrus
+   - Superior temporal plane (STP)
+   - Planum temporale (PT)
+   - Temporo-parieto-occipital junction (TPO)
+
+5. **Cingulate Regions**
+   - Anterior cingulate cortex (ACC)
+   - Dorsal anterior cingulate cortex (dACC)
+   - Midcingulate cortex (MCC)
+
+6. **Other Regions**
+   - Fusiform gyrus
+   - Precentral gyrus
+     - Left precentral gyrus
+   - Salience network
+   - Optic nerve
+   - Superior olivary nucleus
+   - Optic chiasm
+   - Right hemisphere
+   - Left hemisphere
+   - Bilateral hemisphere
+   - Right hemispace
+   - Left hemispace
+   - Contralateral attention system
+   - Ipsilateral attention system
+
+These regions are involved in various cognitive functions, including anticipation, attention, perception, reward processing, motor control, and spatial awareness.

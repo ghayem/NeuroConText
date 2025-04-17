@@ -1,0 +1,32 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Insular Cortex**
+   - Posterior insula
+
+2. **Frontal Lobe**
+   - Prefrontal cortex
+
+3. **Cingulate Cortex**
+   - Anterior cingulum cortex (ACC)
+   - Right anterior cingulum cortex (rACC)
+   - Perigenual ACC
+
+4. **Parietal Lobe**
+   - Posterior parietal gyrus
+   - Superior parietal cortex (SPC)
+   - Precuneus
+   - Angular gyrus (AG)
+     - Bilateral angular gyrus
+     - Right angular gyrus
+
+5. **Temporal Lobe**
+   - Inferior temporal gyrus (ITG)
+   - Left inferior temporal gyrus
+
+6. **Occipital Lobe**
+   - Temporo-parieto-occipital junction (TPO)
+
+7. **Default Mode Network (DMN)**
+   - Includes ACC, ITG, AG, precuneus, and other regions
+
+These regions are involved in various cognitive and emotional processes, including pain perception, emotion regulation, and sensory processing.

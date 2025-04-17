@@ -1,0 +1,35 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Left Hemisphere**
+   - Perilesional regions
+   - Superior temporal cortex
+   - Insula
+   - Precuneus
+   - Medial prefrontal cortex
+   - Posterior cingulate cortex
+   - Lateral temporal cortex
+   - Hippocampal formations
+
+2. **Right Hemisphere**
+   - Homotopic areas to left perisylvian language areas
+   - Inferior frontal areas
+   - Temporal areas
+   - Precuneus
+   - Medial prefrontal cortex
+   - Posterior cingulate cortex
+   - Lateral temporal cortex
+   - Hippocampal formations
+   - Superior frontal cortex
+   - Anterior cingulum
+
+3. **Bilateral**
+   - Perisylvian language areas
+   - Frontal midline cortex
+   - Presupplementary motor area
+   - Dorsal anterior cingulate
+
+4. **Networks**
+   - Default mode network (DMN)
+   - Salience network (SN)
+
+These regions are involved in various cognitive functions, including language processing, memory, attention, and domain-general cognitive processes.

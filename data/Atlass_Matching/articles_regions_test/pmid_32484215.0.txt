@@ -1,0 +1,41 @@
+## Brain Regions and Sub-regions
+
+1. **Striatum**
+   - Ventromedial striatum
+   - Dorsolateral striatum
+
+2. **Prefrontal Cortex**
+   - Ventromedial prefrontal cortex (vmPFC)
+
+3. **Nucleus Accumbens (NAcc)**
+
+4. **Midbrain**
+
+5. **Frontostriatal Pathways**
+
+6. **Inferior Frontal Fasciculus**
+
+7. **Inferior Longitudinal Fasciculus**
+
+---
+
+## Cognitive Functions
+
+These regions are involved in the following cognitive functions:
+- Reward learning
+- Value-based decision-making
+- Motivational aspects of behavior
+- Converting cognitive and motivational signals into motor programs
+- Flexibly updating actions based on value-related changes in the environment
+- Dopaminergic modulation
+- White-matter integrity
+
+---
+
+## Additional Notes
+
+- **Dopaminergic Projections**: Modulated by projections from the midbrain.
+- **White-Matter Tracts**: Include frontostriatal pathways, inferior frontal fasciculus, and inferior longitudinal fasciculus.
+- **Neuroanatomical Evidence**: Suggests that reward learning necessary for optimal value-based decision-making in changeable environments recruits corticostriatal loops.
+
+These brain regions and their functions are crucial for understanding the neural mechanisms underlying decision-making and reward processing, particularly in the context of aging and cognitive decline.

@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Basal Ganglia**
+   - Striatum
+
+2. **Default Mode Network (DMN)**
+   - Medial Prefrontal Cortex (mPFC)
+   - Posterior Cingulate Cortex (PCC)
+
+3. **Left Angular Gyrus**
+
+4. **Left Supramarginal Gyrus**
+
+5. **Left Inferior Frontal Gyrus**
+
+6. **Left Middle Temporal Gyrus**
+
+7. **Left Occipital Fusiform Gyrus**
+
+8. **Precuneus**
+
+9. **Lateral Occipital Cortex**
+
+10. **Superior Frontal Gyrus**
+
+11. **Parahippocampal Gyrus**
+
+12. **Hippocampus**
+
+13. **Frontal Pole**
+
+14. **Cerebellum**
+
+These regions are involved in cognitive functions related to fatigue, motivational processing, and functional connectivity following traumatic brain injury (TBI).

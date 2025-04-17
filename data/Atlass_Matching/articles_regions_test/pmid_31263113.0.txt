@@ -1,0 +1,55 @@
+Based on the neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Amygdala**
+   - Superficial amygdala
+
+2. **Hippocampal formation**
+
+3. **Right ventral striatum**
+
+4. **Left caudate nucleus**
+
+5. **Pre-supplementary motor cortex**
+
+6. **Cingulate cortex**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+
+7. **Auditory cortex**
+
+8. **Hippocampus**
+
+9. **Thalamus**
+   - Mediodorsal thalamus
+
+10. **Cerebellum**
+
+11. **Nucleus accumbens**
+
+12. **Prefrontal cortex**
+   - Left prefrontal cortex
+   - Right prefrontal cortex
+
+13. **Parietotemporal cortex**
+   - Right parietotemporal cortex
+
+14. **Posterior temporal cortex**
+   - Right posterior temporal cortex
+
+15. **Occipital temporal cortex**
+   - Right occipital temporal cortex
+
+16. **Motor cortex**
+   - Right motor cortex
+
+17. **Lingual gyrus**
+
+18. **Lateral orbitofrontal gyrus**
+
+19. **Parietal cortex**
+
+20. **Insula**
+
+21. **Hypothalamus**
+
+These regions are involved in various cognitive and affective functions, including emotion processing, reward responses, memory, motor control, and auditory processing.

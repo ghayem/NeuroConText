@@ -1,0 +1,43 @@
+## Brain Regions and Sub-Regions
+
+1. **Fusiform Face Area (FFA)**
+   - Temporal fusiform cortex (fusiform gyrus)
+
+2. **Occipital Face Area (OFA)**
+   - Lateral occipital cortex (inferior occipital gyrus)
+
+3. **Posterior Superior Temporal Sulcus (pSTS)**
+   - Face-selective area in the pSTS
+
+4. **Superior Temporal Gyrus (STG)**
+   - Superior temporal gyrus
+
+5. **Inferior Frontal Gyrus (IFG)**
+   - Inferior frontal gyrus
+
+6. **Amygdala**
+   - Amygdala
+
+7. **Insula**
+   - Insula
+
+8. **Middle Temporal Gyrus (MTG)**
+   - Middle temporal gyrus
+
+9. **Supramarginal Gyrus**
+   - Supramarginal gyrus
+
+10. **Lingual Gyrus**
+    - Lingual gyrus
+
+11. **Parahippocampal Gyrus**
+    - Parahippocampal gyrus
+
+12. **Postcentral Gyrus**
+    - Postcentral gyrus
+
+13. **Heschl’s Gyrus**
+    - Heschl’s gyrus
+
+14. **Hippocampus**
+    - Hippocampus

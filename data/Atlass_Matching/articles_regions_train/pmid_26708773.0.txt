@@ -1,0 +1,33 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Eye Fields (FEF)**
+
+2. **Intraparietal Sulci (IPS)**
+
+3. **Ventral Frontal Cortex (VFC)**
+
+4. **Anterior Insula (AI)**
+
+5. **Middle Frontal Gyrus (MFG)**
+
+6. **Temporal Parietal Junction (TPJ)**
+
+7. **Right Temporal Parietal Junction (rTPJ)**
+
+8. **Right Inferior Frontal Gyrus**
+
+9. **Inferior Parietal Lobe**
+
+10. **Middle Occipital Gyrus**
+
+11. **Cerebellum**
+
+12. **Visual Cortex**
+
+13. **Locus Coeruleus**
+
+14. **Purkinje Cells**
+
+15. **Cerebral Cortex**
+
+These regions are involved in various cognitive functions, including attention, orientation to behaviorally-relevant information, and modulation of attention.

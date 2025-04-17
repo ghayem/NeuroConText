@@ -1,0 +1,51 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Hippocampal Structures**
+
+2. **White Matter**
+   - White matter lesions
+   - White matter integrity
+   - Density of axons/dendrites
+
+3. **Occipital Lobe**
+   - Occipital gyrus
+     - Inferior occipital gyrus
+     - Middle occipital gyrus
+   - Cuneus
+
+4. **Postcentral Gyrus**
+
+5. **Fusiform Gyrus**
+
+6. **Medial Frontal Gyrus**
+
+7. **Anterior Cingulate Gyrus**
+
+8. **Default-Mode Network**
+   - Bilateral frontal/parietal/occipital cortex
+   - Posterior cingulate cortex
+   - Precuneus
+
+9. **Angular Gyrus**
+
+10. **Superior Temporal Gyrus**
+
+11. **Inferior Temporal Gyrus**
+
+12. **Rectus Gyrus**
+
+13. **Inferior Frontal Gyrus**
+    - Triangular part
+
+14. **Middle Frontal Gyrus**
+
+15. **Superior Frontal Gyrus**
+    - Medial orbital part
+
+16. **Median Cingulate and Paracingulate Gyri**
+
+17. **Precuneus**
+
+18. **Rolandic Operculum**
+
+These regions are involved in various cognitive functions, including memory, information processing speed, learning, executive functions, visual processing, and representation of complex object features.

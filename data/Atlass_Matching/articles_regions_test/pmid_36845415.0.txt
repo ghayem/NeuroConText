@@ -1,0 +1,27 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default Mode Network (DMN)**
+    - Precuneus
+    - Posterior cingulate
+    - Entorhinal cortex
+
+2. **Pain Network**
+    - Insula
+    - Primary somatosensory cortex
+    - Secondary somatosensory cortex
+    - Prefrontal cortex
+        - Ventromedial region
+    - Thalamus
+    - Anterior cingulate
+    - Posterior cingulate
+    - Basal ganglia
+    - Cerebellum
+
+3. **Other Regions**
+    - Periaqueductal gray matter
+    - Brainstem
+    - Primary somatosensory cortex
+    - Cavum septum pellucidum
+    - Arachnoid cysts
+
+- These regions are involved in pain processing, sensitization, and cognitive modulation of pain.

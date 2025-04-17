@@ -1,0 +1,26 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - **Superior frontal gyrus**
+   - **Medial frontal gyrus**
+   - **Middle frontal gyrus (MFG)**
+   - **Inferior frontal gyrus of the operculum (IFGoperc)**
+
+2. **Temporal Lobe**
+   - **Middle temporal gyrus (MTG)**
+     - Right middle temporal gyrus
+     - Left middle temporal gyrus
+   - **Inferior temporal gyrus (ITG)**
+     - Right inferior temporal gyrus
+     - Left inferior temporal gyrus
+   - **Fusiform gyrus**
+
+3. **Cerebellum**
+   - **Bilateral cerebellum**
+   - **Vermis**
+
+4. **Olfactory Cortex**
+   - **Primary olfactory cortex**
+   - **Secondary olfactory cortex**
+
+These regions are involved in various cognitive and physiological functions, including motor control, emotional regulation, memory, language processing, sensory integration, and olfaction.

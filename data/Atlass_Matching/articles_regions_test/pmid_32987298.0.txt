@@ -1,0 +1,51 @@
+1. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+2. **Orbitofrontal Cortex (OFC)**
+
+3. **Amygdala**
+
+4. **Cingulate Cortex**
+   - Anterior Cingulate Cortex (ACC)
+     - Dorsal Anterior Cingulate Cortex (dACC)
+
+5. **Frontoparietal Network (FPN)**
+
+6. **Default-Mode Network (DMN)**
+
+7. **Salience Network (SN)**
+
+8. **Limbic Network (LN)**
+
+9. **Supplementary Motor Area (SMA)**
+
+10. **Inferior Frontal Gyrus**
+
+11. **Precuneus**
+
+12. **Inferior Temporal Gyrus (ITG)**
+
+13. **Middle Temporal Gyrus**
+
+14. **Inferior Parietal Lobule (IPL)**
+
+15. **Posterior Cingulate Cortex (PCC)**
+
+16. **Fusiform Gyrus (FG)**
+
+17. **Cerebellum**
+
+18. **Prefrontal Cortex**
+
+19. **Occipital Lobe**
+
+20. **Precentral Gyrus**
+
+21. **Postcentral Gyrus**
+
+22. **Superior Frontal Gyrus (SFG)**
+
+23. **Middle Occipital Gyrus (MOG)**
+
+24. **Sensorimotor Network (SMN)**
+
+These regions are involved in various cognitive functions including executive control, emotional regulation, and sensory processing.

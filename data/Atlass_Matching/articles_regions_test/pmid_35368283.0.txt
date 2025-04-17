@@ -1,0 +1,34 @@
+Based on the article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Frontal Lobe**
+   - Left dorsolateral prefrontal cortex
+   - Left superior frontal gyrus
+   - Left middle frontal gyrus
+   - Left triangular part of the inferior frontal gyrus
+   - Left orbitofrontal cortex
+   - Right inferior temporal gyrus
+
+2. **Parietal Lobe**
+   - Left precuneus
+   - Left cuneus
+   - Right inferior parietal cortex
+   - Right postcentral gyrus
+   - Right superior temporal gyrus
+   - Calcarine gyrus
+
+3. **Temporal Lobe**
+   - Right middle temporal gyrus
+   - Left inferior temporal gyrus
+   - Right inferior temporal gyrus
+
+4. **Occipital Lobe**
+   - Left middle occipital gyrus
+   - Right inferior occipital gyrus
+
+5. **Limbic System**
+   - Insula
+   - Cingulate gyrus
+   - Right putamen
+   - Right caudate nucleus
+
+These regions are involved in various cognitive functions, including emotion regulation, social function, self-awareness, negative emotion regulation, attention control, episodic memory, self-reflection, advanced cognition, autobiographical memory, emotion processing, and cognitive control.

@@ -1,0 +1,51 @@
+1. **Posterior cingulate/precuneus cortices (PCC/PrCC)**
+
+2. **Medial prefrontal cortex (MPFC)**
+
+3. **Orbital frontal gyrus**
+
+4. **Lateral parietal cortex**
+
+5. **Default mode network (DMN)**
+
+6. **Posterior cingulate cortex (PCC)**
+
+7. **Precuneus**
+
+8. **Medial frontal gyrus**
+
+9. **Angular gyrus**
+
+10. **Superior temporal gyrus**
+
+11. **Temporo-parieto-occipital junction (TPO)**
+
+12. **Cerebrospinal Fluid (CSF)**
+
+13. **Subcortical white matter**
+
+14. **Deep gray matter**
+
+15. **Brodmann Areas**
+
+16. **Posterior cingulate/precuneus cortices (PCC/PrCC)**
+
+17. **Medial prefrontal cortex (MPFC)**
+
+18. **Orbital frontal gyrus**
+
+19. **Lateral parietal cortex**
+
+20. **Hippocampal formation**
+
+21. **Superior Temporal Gyrus**
+
+22. **Medial Frontal Gyrus**
+
+23. **Angular Gyrus**
+
+24. **Subcortical white matter**
+
+25. **Deep gray matter**
+
+These regions are involved in various cognitive functions such as mind wandering, prospective and retrospective self-reflection, memory retrieval, working memory, and self-referential processing. The DMN, in particular, is associated with introspection, mind wandering, and self-referential mental activity.

@@ -1,0 +1,34 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Thalamus**
+2. **Hippocampus**
+3. **Cerebellum**
+4. **Anterior cingulate cortex (ACC)**
+5. **Insula**
+6. **Prefrontal cortices (PFC)**
+7. **Basal ganglia**
+8. **Amygdala**
+9. **Medial superior frontal cortex (MFC)**
+10. **Postcentral cortex**
+    - Primary somatosensory cortex (S1)
+11. **Orbitofrontal cortex (OFC)**
+12. **Middle cingulate cortex (MCC)**
+13. **Primary motor cortex (M1)**
+14. **Visual cortex**
+15. **Caudate**
+16. **Temporal cortex**
+17. **Salience region**
+    - Anterior insula
+18. **Entorhinal cortex**
+19. **Cerebellar tonsil**
+20. **Hypothalamus**
+21. **Nucleus accumbens**
+22. **Subcortical regions**
+23. **Ventral striatum**
+24. **Putamen**
+25. **Cerebellum**
+    - Lobule VI
+    - Lobule VIIb
+    - Cerebellar tonsil
+
+These regions are involved in various cognitive functions such as pain processing, emotional perception, motor control, and learning.

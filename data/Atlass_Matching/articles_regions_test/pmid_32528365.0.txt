@@ -1,0 +1,40 @@
+## Brain regions and sub-regions mentioned in the article:
+
+1. **Mesocorticolimbic dopamine system**
+
+2. **Anterior cingulate cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Medial prefrontal cortex (mPFC)
+   - Ventral paracingulate gyrus
+   - Frontal medial cortex
+
+3. **Medial prefrontal cortex (mPFC)**
+
+4. **Left nucleus accumbens (NAcc)**
+
+5. **Left striatum**
+   - Left caudate
+
+6. **Ventral dopamine pathway**
+
+7. **Medial frontal pole**
+
+8. **Bilateral superior temporal gyrus**
+
+9. **Right thalamus**
+
+10. **Occipital cortex**
+
+11. **Hippocampal regions**
+
+12. **Parahippocampal regions**
+
+13. **Temporal fusiform regions**
+
+14. **Posterior cingulate cortex**
+
+15. **Putamen**
+
+16. **Fusiform gyrus**
+
+These regions are involved in various cognitive functions including reward processing, motivation, evaluation, emotional information processing, visual attention, social perception processes, and memory consolidation.

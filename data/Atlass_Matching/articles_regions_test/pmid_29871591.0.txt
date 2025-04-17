@@ -1,0 +1,47 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Cortex**
+
+2. **White Matter (WM)**
+    - Superficial WM
+    - Posterior corona radiata
+
+3. **Subcortical Structures**
+
+4. **Amygdala**
+
+5. **Prefrontal Cortex (PFC)**
+    - Ventral PFC
+    - Dorsal PFC
+    - Brodmann areas 9–12
+    - Brodmann area 24
+    - Brodmann area 25
+    - Brodmann area 32
+    - Brodmann areas 44–47
+
+6. **Basal Ganglia**
+
+7. **Thalamus**
+    - Left thalamus
+
+8. **Uncinate Fasciculus (UF)**
+    - Right uncinate
+    - Left uncinate
+
+9. **Anterior Cingulate**
+    - Ventral anterior cingulate
+
+10. **Orbitofrontal Cortex**
+
+11. **Medial PFC**
+
+12. **Dorsolateral PFC**
+
+These regions are involved in various cognitive and emotional processing functions, including but not limited to:
+- Emotional and cognitive processing (amygdala, PFC, UF)
+- Memory
+- Executive functions
+- Self-awareness
+- Language processing (involving regions like the anterior cingulate and orbitofrontal cortex)
+
+The article emphasizes the role of these regions in the pathophysiology of bipolar disorder (BD), particularly in female patients, and how their structural and functional connectivity changes with age and the progression of the disease.

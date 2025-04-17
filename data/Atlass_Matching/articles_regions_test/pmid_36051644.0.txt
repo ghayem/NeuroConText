@@ -1,0 +1,89 @@
+## Brain Regions and Sub-regions:
+
+1. **Left Supplementary Motor Area**
+
+2. **Left Superior Frontal Region**
+
+3. **Left Superior Temporal Gyrus**
+
+4. **Parietal Lobe**
+
+5. **Subcortical Caudate Areas**
+
+6. **Corticopontine-Cerebellar Pathways**
+
+7. **Left Inferior Temporal Gyrus**
+   - Middle Temporal Gyrus
+   - Superior Temporal Gyrus
+
+8. **Left Middle Occipital Gyrus**
+
+9. **Left Hippocampus**
+
+10. **Right Inferior Orbit Frontal Gyrus**
+
+11. **Right Superior Temporal Gyrus**
+
+12. **Right Anterior Cingulum Cortex**
+
+13. **Right Medial Frontal Gyrus**
+
+14. **Cerebellum Vermis IV/V**
+
+15. **Left Middle Temporal Gyrus**
+
+16. **Bilateral Middle Orbit Frontal Gyrus**
+
+17. **Left Anterior Cingulum Cortex**
+
+18. **Left Thalamus**
+
+19. **Right Superior Pole Temporal Gyrus**
+
+20. **Right Middle Frontal Gyrus**
+
+21. **Bilateral Middle Temporal Gyrus (MTG)**
+
+22. **Right Hippocampus**
+
+23. **Right Insula**
+
+24. **Right Inferior Frontal Cortex**
+
+25. **Right Calcarine**
+
+26. **Left Middle Temporal Gyrus**
+
+27. **Right Inferior Parietal Lobule**
+
+28. **Bilateral Cerebellum_8**
+
+29. **Left Precuneus**
+
+30. **Inferior and Middle Temporal Gyrus**
+
+31. **Left Middle Temporary Gyrus**
+
+32. **Right Inferior Parietal Lobe**
+
+33. **Left Superior Pedunculopontine Nucleus Complex**
+
+34. **Striatal-Thalamo-Cortical (STC) Circuits**
+
+35. **Cerebellar-Thalamo-Cortical (CTC) Circuits**
+
+36. **Cerebellar Locomotor Region**
+
+37. **Left Superior Pedunculopontine Nucleus Complex**
+
+38. **Right Middle Frontal Gyrus**
+
+39. **Right Inferior Orbit Frontal Gyrus**
+
+40. **Right Superior Pole Temporal Gyrus**
+
+41. **Left Anterior Cingulum Cortex**
+
+42. **Right Middle Frontal Gyrus**
+
+These regions are involved in various cognitive functions, including motor control, sensory integration, emotional processing, and executive functions.

@@ -1,0 +1,57 @@
+## Brain Regions and Sub-Regions:
+
+1. **Caudal Parahippocampal Cortex (PHC)**
+   - Part of the ventral temporal cortex and its transition to the occipital cortex
+   - Parahippocampal place area (PPA)
+
+2. **Ventral Temporal Cortex**
+   - Collateral sulcus
+   - Parahippocampal gyrus
+   - Fusiform gyrus (FG)
+     - Fusiform face areas (FFA-1/2)
+     - Region of the collateral sulcus
+     - Parahippocampal gyrus
+
+3. **Occipital Cortex**
+   - Extrastriate area V2/BA18
+
+4. **Ventral and Lateral Occipito-Temporal Cortex**
+   - Fusiform face areas (FFA-1/2)
+   - Category-selective regions
+
+5. **Temporal Lobe**
+   - Hippocampus
+   - Medial temporal lobe
+
+6. **Parietal Lobe**
+   - Retrosplenial cortex
+   - Anterior calcarine fissure
+   - Isthmus of the retrosplenial cortex
+   - Lingual gyrus
+
+7. **Cingulate Cortex**
+
+8. **Somatosensory Associated Regions**
+
+9. **Visual Information Processing Regions**
+
+10. **Sulci and Fissures**
+    - Collateral sulcus
+    - Rhinal sulcus
+    - Hippocampal fissure
+    - Anterior calcarine fissure
+
+11. **Cytoarchitectonic Areas**
+    - Brodmann’s area 28
+    - Areas TH and PH according to von Economo and Koskinas
+    - Fusiform areas (FG1-4)
+    - New areas Ph1, Ph2, Ph3, and CoS1
+
+12. **Other Specific Regions**
+    - Uncus
+
+13. **Functional Regions of Interest (ROI)**
+    - Parahippocampal place area (PPA)
+    - Fusiform face areas (FFA-1/2)
+
+These regions are involved in various cognitive functions including visual–spatial processing, memory (episodic, associative), emotional stimuli processing, auditory and odor stimuli processing, and visuo-motor control.

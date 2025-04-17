@@ -1,0 +1,64 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+   - Pulvinar
+
+2. **Cingulate Gyrus**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+
+3. **Caudate Nucleus**
+   - Head of the caudate nucleus (bilaterally)
+
+4. **Putamen**
+   - Bilateral putamen
+
+5. **Temporal Gyrus**
+   - Superior temporal gyrus (bilaterally)
+   - Middle temporal gyrus (bilaterally)
+   - Transverse temporal gyrus
+
+6. **Subcallosal Gyrus**
+
+7. **Insula**
+   - Bilateral insula
+
+8. **Frontal Gyrus**
+   - Middle frontal gyrus (bilaterally)
+   - Superior frontal gyrus
+
+9. **Precentral Gyrus**
+
+10. **Postcentral Gyrus**
+
+11. **Anterior Cerebellar Lobe**
+
+12. **Periaqueductal Grey (PAG)**
+
+13. **Striatum**
+
+14. **Somatosensory Cortex**
+   - Primary somatosensory cortex (S1)
+   - Secondary somatosensory cortex
+
+15. **Parahippocampal Gyrus**
+
+16. **Claustrum**
+
+17. **Amygdala**
+
+18. **Hippocampus**
+
+19. **Nucleus Accumbens**
+
+20. **Primary Motor Cortex (M1)**
+
+21. **Medial Prefrontal Cortex**
+
+22. **Supplementary Motor Cortex**
+
+23. **Lingual Gyrus**
+
+24. **Inferior Frontal Gyri**
+
+These regions are involved in various cognitive functions and processes, including pain processing, sensory and motor functions, emotional regulation, and cognitive control.

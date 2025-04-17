@@ -1,0 +1,48 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Amygdala**
+    - Basolateral amygdala (BLA)
+    - Lateral amygdala (LA)
+    - Central amygdala (CEA)
+    - Basomedial amygdala (BMA)
+    - Medial amygdala (MEA)
+    - Centromedial amygdala
+
+2. **Hypothalamus**
+    - Dorsomedial part of ventromedial hypothalamus (dmVMH)
+    - Ventrolateral part of ventromedial hypothalamus (vlVMH)
+    - Anterior hypothalamic nucleus (AHN)
+    - Ventrolateral part of dorsal premammillary nucleus (vlPMD)
+    - Dorsomedial part of dorsal premammillary nucleus (dmPMD)
+    - Medial preoptic nucleus (MPN)
+    - Ventral premammillary nucleus (PMV)
+
+3. **Periaqueductal gray (PAG)**
+    - Ventrolateral PAG (vlPAG)
+    - Dorsolateral PAG (dlPAG)
+    - Dorsomedial PAG (dmPAG)
+    - Lateral PAG (lPAG)
+
+4. **Prefrontal Cortex**
+    - Ventromedial prefrontal cortex
+
+5. **Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+    - Pre- and postcentral gyrus
+    - Paracingulate gyrus
+
+6. **Insula**
+    - Anterior insula
+    - Ventral insula
+
+7. **Other Cortical Regions**
+    - Supplementary motor area (SMA)
+    - Frontal operculum
+    - Occipital pole
+    - Cerebellum
+    - Thalamus
+
+8. **Rostral Anterior Cingulate (rACC)**
+    - Dorsal anterior cingulate cortex (dACC)
+
+These regions are involved in threat processing, defensive responses, and various cognitive and emotional functions related to threat and fear conditioning.

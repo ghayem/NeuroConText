@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions
+
+1. **Fronto-Polar Areas**
+
+2. **Ventromedial Prefrontal Cortex**
+
+3. **Right Amygdala**
+
+4. **Right Hippocampus**
+
+5. **Right Parahippocampal Gyrus**
+
+6. **Right Fusiform Gyrus**
+
+7. **Right Occipital Lobe**
+
+8. **Right Lateral Temporal Gyrus**
+
+9. **Right Temporal Pole**
+
+10. **Right Sagittal Stratum**
+
+11. **Right Stria Terminalis**
+
+12. **Left Inferior Temporal Gyrus**
+
+13. **Left Middle Temporal Gyrus**
+
+14. **Left Fusiform Gyrus**
+
+15. **Right Heschl Gyrus**
+
+16. **Right Insula**
+
+17. **Right Putamen**
+
+18. **Right Rolandic Operculum**
+
+19. **Right Internal Capsules**
+
+20. **Left Inferior Frontal Gyrus**
+
+21. **Left Anterior Corona Radiata**
+
+- These regions are involved in these cognitive functions: language, memory, executive functions, verbal abilities, and visual and verbal short-term memory.

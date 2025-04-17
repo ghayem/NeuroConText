@@ -1,0 +1,26 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Midcingulate Cortex (aMCC)**
+2. **Cerebellum**
+3. **Dorsal Anterior Cingulate Cortex (dACC)**
+4. **Inferior Frontal Gyrus (IFG)**
+5. **Inferior Parietal Lobule (IPL)**
+6. **Medial Superior Frontal Gyrus (SFGmed)**
+7. **Middle/Dorsal Cingulate**
+8. **Motor Cortex (M1)**
+9. **Occipital Face Area (OFA)**
+10. **Premotor (PM) and Motor Cortex (M1)**
+11. **Premotor Area (PM)**
+    - Dorsal Premotor Area (PMd)
+12. **Primary Motor Cortex (M1)**
+13. **Posterior Cingulate Cortex (PCC)**
+14. **Postcentral Gyrus/Primary Somatosensory Area (PostCG/S1)**
+15. **Pre and Post-Central Gyri**
+16. **Sensory Motor Area (SMA)**
+    - Supplementary Motor Area (SMA)
+17. **Somatosensory (S1) Cortices**
+18. **Superior Parietal Lobule**
+    - Somatosensory Area (S1)
+19. **Ventral Striatum/Septal Region (VS)**
+
+These regions are involved in various cognitive functions, including motor control, sensory processing, empathy, decision-making, and emotional regulation.

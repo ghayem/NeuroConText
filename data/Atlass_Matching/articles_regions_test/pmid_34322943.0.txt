@@ -1,0 +1,37 @@
+## Brain Regions and Sub-regions
+
+1. **Anterior Cingulate Cortex (ACC)**
+2. **Amygdala**
+3. **Basal Ganglia**
+4. **Dorsomedial Prefrontal Cortex (dmPFC)**
+5. **Fronto-Insular Cortex**
+   - Anterior Insula
+   - Inferior Frontal Gyrus (IFG)
+   - Ventral Premotor Cortex (vPMC)
+6. **Fusiform Gyrus**
+   - Fusiform Face Area (FFA)
+7. **Inferior Parietal Lobule (IPL)**
+8. **Inferior Temporal Cortex**
+9. **Insula**
+10. **Medial Prefrontal Cortex (mPFC)**
+11. **Middle Temporal Gyrus (MTG)**
+    - Posterior MTG
+12. **Orbitofrontal Cortex**
+    - Left Orbitofrontal Cortex
+    - Pars Opercularis of the Inferior Frontal Gyrus (IFG)
+13. **Parahippocampal Gyrus**
+14. **Postcentral Gyrus**
+15. **Posterior Cingulate Cortex**
+16. **Precentral Gyrus**
+17. **Precuneus**
+18. **Pre- and Postcentral Gyri**
+19. **Superior Frontal Cortex**
+20. **Superior Temporal Gyrus (STG)**
+21. **Superior Temporal Sulcus (STS)**
+22. **Supplementary Motor Area (SMA)**
+23. **Temporoparietal Junction (TPJ)**
+    - Right TPJ
+    - Left TPJ
+    - Bilateral TPJ
+24. **Thalamus**
+25. **Ventromedial Prefrontal Cortex (vmPFC)**

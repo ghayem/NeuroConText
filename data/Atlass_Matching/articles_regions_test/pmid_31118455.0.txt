@@ -1,0 +1,83 @@
+## Brain Regions and Sub-regions:
+
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Ventromedial Prefrontal Cortex (VMPFC)**
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+4. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Left DLPFC
+   - Right DLPFC
+
+5. **Superior Temporal Gyrus**
+
+6. **Amygdala**
+
+7. **Right Frontal Cortex**
+
+8. **Left Frontal Cortex**
+
+9. **Caudate Nuclei**
+   - Left Caudate
+
+10. **Putamen**
+    - Bilateral Putamen
+    - Left Putamen
+
+11. **Orbitofrontal Cortex (OFC)**
+    - Right Lateral Orbitofrontal Cortex
+
+12. **Inferior Temporal Gyri (ITG)**
+    - Bilateral ITG
+    - Left ITG
+
+13. **Middle Temporal Gyrus (MTG)**
+    - Right MTG
+
+14. **Superior Parietal Lobe (SPL)**
+    - Right SPL
+
+15. **Inferior Parietal Lobes (IPL)**
+    - Bilateral IPL
+    - Left IPL
+
+16. **Occipital Lobes**
+    - Bilateral Occipital Lobes
+
+17. **Middle Frontal Cortex (MFC)**
+    - Right MFC
+    - Bilateral MFC
+
+18. **Superior Frontal Cortex (SFC)**
+    - Bilateral SFC
+
+19. **Posterior Cingulate Cortex (PCC)**
+
+20. **Precuneus**
+
+21. **Medial Prefrontal Cortex (MPFC)**
+    - MPFC/ACC
+
+22. **Paracentral Gyrus**
+    - Left Paracentral Gyrus
+
+23. **Insula**
+
+24. **Temporoparietal Junction (TPJ)**
+    - Extending into the posterior Superior Temporal Sulcus (STS)
+
+25. **Ventral Medial Prefrontal Cortex (VMPFC)**
+
+26. **Anterior Cingulate Cortex (ACC)**
+    - Left ACC
+
+27. **Posterior Cingulate Cortex (PCC)**
+
+28. **Default Mode Network (DMN)**
+    - PCC
+    - MPFC/ACC
+    - Bilateral IPL
+    - Precuneus
+
+These regions are involved in various cognitive functions including emotional processing, executive control, moral cognition, empathy, and theory of mind.

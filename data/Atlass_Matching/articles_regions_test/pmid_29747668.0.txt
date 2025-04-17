@@ -1,0 +1,126 @@
+Below are the brain regions and sub-regions mentioned in the neuroscientific article, formatted as instructed:
+
+1. **Intraparietal Sulcus (IPS)**
+    - Right IPS
+    - Left IPS
+    - Bilateral IPS
+    - Right anterior IPS
+    - Bilateral anterior IPS
+
+2. **Ventral Visual Stream**
+    - V1
+    - Inferior temporal cortex (ITC)
+
+3. **Frontal Cortex**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Ventrolateral prefrontal cortex
+    - Bilateral prefrontal cortex
+    - Left prefrontal cortex
+    - Right prefrontal cortex
+    - Bilateral prefrontal and precentral regions
+    - Left prefrontal and precentral cortex
+    - Right prefrontal and precentral cortex
+    - Bilateral frontal gyrus
+    - Left frontal gyrus
+    - Right frontal gyrus
+    - Left middle frontal gyrus
+    - Right middle frontal gyrus
+    - Left superior frontal gyrus (SFG)
+    - Right superior frontal gyrus (SFG)
+    - Bilateral middle frontal gyrus
+    - Bilateral inferior frontal gyrus (IFG)
+    - Left inferior frontal gyrus (IFG)
+    - Right inferior frontal gyrus (IFG)
+    - Supplementary motor areas (SMA)
+
+4. **Parietal Cortex**
+    - Inferior parietal lobule (IPL)
+    - Bilateral inferior parietal lobule (IPL)
+    - Left inferior parietal lobule (IPL)
+    - Right inferior parietal lobule (IPL)
+    - Superior parietal lobule (SPL)
+    - Bilateral superior parietal lobule (SPL)
+    - Left superior parietal lobule (SPL)
+    - Right superior parietal lobule (SPL)
+    - Supramarginal gyrus
+    - Right supramarginal gyrus
+    - Left supramarginal gyrus
+    - Bilateral supramarginal gyrus
+
+5. **Temporal Cortex**
+    - Superior temporal gyrus (STG)
+    - Left superior temporal gyrus (STG)
+    - Middle temporal gyrus
+    - Left middle temporal gyrus
+    - Inferior temporal gyrus
+    - Right inferior temporal gyrus
+    - Fusiform gyrus
+    - Left fusiform gyrus
+    - Occipito-temporal regions
+    - Left occipito-temporal regions
+    - Middle and superior temporal gyrus
+    - Left middle and superior temporal gyrus
+
+6. **Occipital Cortex**
+    - Visual cortex
+    - Left visual cortex
+    - Right visual cortex
+    - Bilateral visual cortex
+    - Superior occipital gyrus
+    - Bilateral superior occipital gyrus
+    - Inferior occipital gyrus
+    - Left inferior occipital gyrus
+    - Right inferior occipital gyrus
+    - Middle occipital gyrus
+    - Left middle occipital gyrus
+    - Right middle occipital gyrus
+    - Bilateral middle occipital gyrus
+    - Occipital brain regions
+    - Bilateral occipital regions
+    - Left occipital gyrus
+    - Right occipital gyrus
+    - Bilateral occipital gyri
+
+7. **Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+    - Left anterior cingulate cortex (ACC)
+    - Right anterior cingulate cortex (ACC)
+    - Bilateral anterior cingulate cortex (ACC)
+    - Middle cingulate cortex (MCC)
+    - Left middle cingulate cortex (MCC)
+    - Right middle cingulate cortex (MCC)
+    - Bilateral middle cingulate cortex (MCC)
+    - Cingulate cortex
+    - Right cingulate cortex
+    - Bilateral cingulate cortex
+
+8. **Insula**
+    - Anterior insula
+    - Right anterior insula
+    - Left anterior insula
+    - Bilateral anterior insula
+    - Insula
+    - Left insula
+    - Right insula
+    - Bilateral insula
+
+9. **Angular Gyrus (AG)**
+    - Left angular gyrus (AG)
+    - Right angular gyrus (AG)
+    - Bilateral angular gyrus (AG)
+
+10. **Precuneus**
+    - Bilateral precuneus
+    - Right precuneus
+    - Left precuneus
+
+11. **Visual Cortex Areas**
+    - Visual-spatial features of numerical quantity
+    - Visual area
+    - Visual demands
+
+12. **Ventral Visual Stream Areas**
+    - Lateral occipital cortex (LOC)
+    - Ventral visual stream areas
+
+- These regions are involved in these cognitive functions: numerical cognition, symbolic and non-symbolic number processing, magnitude processing, working memory, cognitive control, executive functions, visual processing, and attention.

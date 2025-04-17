@@ -1,0 +1,29 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Somatosensory cortices**
+   - Primary somatosensory cortex (SI)
+   - Secondary somatosensory cortex (SII)
+
+2. **Insula**
+   - Insula (Ins)
+   - Anterior insula (aIns)
+     - Left anterior insula (aInsL)
+   - Posterior insula (pIns)
+     - Left posterior insula (pInsL)
+     - Right posterior insula (pInsR)
+
+3. **Cingulate cortices**
+   - Anterior cingulate cortex (ACC)
+     - Rostral anterior cingulate cortex (rACC)
+   - Mid-cingulate cortex (MCC)
+   - Medial cingulate gyrus
+
+4. **Prefrontal cortex (PFC)**
+   - Dorsal prefrontal cortex
+   - Medial prefrontal cortex
+   - Ventral prefrontal cortex
+
+5. **Parietal lobe**
+   - Region bordering the occipital lobe and the height of pInsL (used as a control region, UNR)
+
+These regions are involved in the following cognitive and physiological functions: pain processing, pain perception, pain regulation, emotional processing, somatosensory integration, cognitive processes (such as attention and decision making), and emotion regulation.

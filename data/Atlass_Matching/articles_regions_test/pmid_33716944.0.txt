@@ -1,0 +1,35 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Limbic System**
+   - Amygdala
+   - Anterior insula
+   - Cingulate area
+   - Insula
+
+2. **Prefrontal Lobe**
+   - Medial prefrontal cortex
+   - Prefrontal lobe
+
+3. **Thalamus**
+   - Thalamus
+
+4. **Frontal Lobe**
+   - Left inferior frontal gyrus
+   - Left orbital inferior frontal gyrus
+   - Left opercular inferior frontal gyrus
+   - Left medial superior frontal gyrus
+
+5. **Temporal Lobe**
+   - Left middle temporal gyrus
+   - Right middle temporal gyrus
+   - Right inferior temporal gyrus
+   - Left middle temporal pole gyrus
+
+6. **Occipital Lobe**
+   - Left cuneus
+   - Right calcarine
+
+7. **Other Regions**
+   - Left rectus
+
+These regions are involved in various cognitive and emotional functions, including emotional processing, decision-making, spatial navigation, working memory, and emotional and social processing.

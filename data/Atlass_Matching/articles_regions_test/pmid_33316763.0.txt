@@ -1,0 +1,23 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article, along with their associated cognitive functions:
+
+1. **Limbic System**
+   - Amygdala
+   - Insula
+
+2. **Prefrontal Cortex**
+   - Orbitofrontal Cortex
+     - Medial Orbitofrontal Cortex (mOFC)
+
+3. **Temporal Cortex**
+   - Superior Temporal Gyrus
+   - Fusiform Gyrus
+
+4. **Occipital Cortex**
+   - Occipital Gyrus
+
+5. **Parietal Cortex**
+   - Postcentral Gyrus
+
+6. **Cerebellum**
+
+- These regions are involved in these cognitive functions: emotion processing, empathy, attention, salience detection, affective states, interoceptive awareness, facial expression recognition, and social cognition.

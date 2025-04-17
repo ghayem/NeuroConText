@@ -1,0 +1,94 @@
+### Brain Regions and Sub-Regions
+
+1. **Amygdala**
+   - Left amygdala
+   - Right amygdala
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Rostral anterior cingulate cortex (rACC)
+   - Subgenual cingulate
+
+3. **Orbitofrontal Cortex (OFC)**
+
+4. **Hippocampus**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+6. **Inferior Frontal Gyrus**
+
+7. **Middle Temporal Gyrus**
+
+8. **Fusiform Gyrus**
+   - Fusiform face area (FFA)
+
+9. **Intra-Parietal Sulcus**
+
+10. **Middle Occipital Gyrus**
+
+11. **Lingual Gyrus**
+
+12. **Precuneus**
+
+13. **Inferior Temporal Gyrus**
+
+14. **Insula**
+
+15. **Superior Parietal Lobule**
+
+16. **Superior Frontal Gyrus**
+
+17. **Middle Frontal Gyrus**
+
+18. **Inferior Parietal Lobule**
+
+19. **Superior Temporal Gyrus**
+
+20. **Temporo-Parietal Junction**
+   - Angular gyrus
+
+21. **Cuneus**
+
+22. **Superior Occipital Gyrus**
+
+### Cognitive Functions
+
+- **Emotional Processing**
+  - Amygdala
+  - Orbitofrontal cortex
+  - Hippocampus
+  - Anterior cingulate cortex (ACC)
+  - Dorsolateral prefrontal cortex (DLPFC)
+
+- **Cognitive Control and Conflict Processing**
+  - Dorsal anterior cingulate cortex (dACC)
+  - Dorsolateral prefrontal cortex (DLPFC)
+
+- **Attentional Control**
+  - Dorsal anterior cingulate cortex (dACC)
+  - Superior parietal lobule
+  - Inferior parietal lobule
+
+- **Face Processing**
+  - Fusiform face area (FFA)
+  - Amygdala
+
+- **Emotion Regulation**
+  - Rostral anterior cingulate cortex (rACC)
+  - Dorsolateral prefrontal cortex (DLPFC)
+  - Orbitofrontal cortex (OFC)
+
+- **Visual Processing**
+  - Middle occipital gyrus
+  - Lingual gyrus
+  - Primary visual cortical areas
+
+- **Social Interaction Processing**
+  - Amygdala
+  - Fusiform gyrus
+  - Anterior cingulate cortex (ACC)
+
+- **Language and Memory Functions**
+  - Superior temporal gyrus
+  - Middle temporal gyrus
+  - Inferior frontal gyrus

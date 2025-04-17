@@ -1,0 +1,41 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Periaqueductal grey (PAG)**
+
+2. **Default mode network (DMN)**
+
+3. **Grey matter volume (GMV)**
+    - Anterior cingulate cortex
+    - Posterior cingulate cortex
+    - Prefrontal cortex
+    - Insula
+    - Hippocampus
+    - Middle temporal gyrus
+    - Inferior temporal gyrus
+    - Thalamus
+
+4. **Central nerve system (CNS)**
+
+5. **Ventrolateral prefrontal cortex/orbitofrontal cortex (VLPFC/OFC)**
+
+6. **Dorsal anterior cingulate cortex (dACC)**
+
+7. **Dorsal posterior cingulate cortex (dPCC)**
+
+8. **Parahippocampal gyrus**
+
+9. **Dorsolateral prefrontal cortex/orbitofrontal cortex (DLPFC/OFC)**
+
+10. **Primary motor cortex (M1)**
+
+11. **Cerebellum**
+
+12. **Gray matter**
+
+13. **White matter**
+
+14. **Cerebrospinal fluid (CSF)**
+
+15. **Inferior temporal gyrus (ITG)**
+
+- These regions are involved in various cognitive functions, including pain perception, cognitive regulation, attention, and executive functions.

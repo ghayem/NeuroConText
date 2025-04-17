@@ -1,0 +1,47 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Bilateral prefrontal cortex
+   - Ventrolateral prefrontal cortex (VLPFC)
+     - Brodmann’s area 47
+     - Brodmann’s area 45
+     - Brodmann’s area 44
+   - Dorsolateral prefrontal cortex (DLPFC)
+     - Brodmann’s area 8
+     - Brodmann’s area 9
+     - Brodmann’s area 46
+   - Ventromedial prefrontal cortex (VMPFC)
+   - Orbital medial frontal cortex
+   - Orbital frontal cortex
+   - Inferior frontal cortex
+     - Trigonal inferior frontal cortex
+   - Middle frontal cortex
+
+2. **Anterior Cingulate Cortex**
+
+3. **Temporal Cortex**
+   - Bilateral temporal cortex
+   - Inferior temporal gyrus
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+   - Inferior temporal cortex
+   - Middle temporal gyrus
+
+4. **Parietal Lobe**
+   - Inferior parietal lobe
+   - Inferior parietal cortex
+
+5. **Occipital Cortex**
+   - Middle occipital cortex
+
+6. **Posterior Cingulate Cortex (PCC)**
+
+7. **Insula Cortex**
+
+8. **Precuneus Cortex**
+
+9. **Cerebellum**
+
+10. **Amygdala**
+
+These regions are involved in various cognitive functions, emotional processes, and self-referential activities.

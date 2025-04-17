@@ -1,0 +1,57 @@
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Temporoparietal Junction (TPJ)**
+
+3. **Precuneus/Posterior Cingulate Cortex (PPC)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+
+4. **Posterior Cerebellum**
+   - Crus 1
+   - Crus 2
+   - Lobule IX
+   - Lobule IV
+   - Lobule VI
+
+5. **Lingual Gyrus**
+
+6. **Inferior Parietal Lobe**
+
+7. **Intraparietal Sulcus (IPS)**
+
+8. **Mid-Cingulate Cortex (MCC)**
+
+9. **Superior Frontal Gyrus**
+
+10. **Superior Medial Gyrus**
+
+11. **Caudate Nucleus**
+
+12. **Anterior Cingulate Cortex (ACC)**
+
+13. **Angular Gyrus**
+
+14. **Rectal Gyrus**
+
+15. **Orbital Frontal Cortex (OFC)**
+
+16. **Hippocampus**
+
+17. **Medial Temporal Pole**
+
+18. **Middle Frontal Gyrus**
+
+19. **Inferior Frontal Gyrus (IFG)**
+   - IFG pars triangularis
+   - IFG pars opercularis
+   - IFG pars orbitalis
+
+20. **Precentral Gyrus**
+
+21. **Temporal Pole**
+
+22. **Insula**
+
+23. **Insula Lobe**
+
+- These regions are involved in these cognitive functions: mentalizing, social cognition, sequencing, prediction, and executive functions.

@@ -1,0 +1,39 @@
+## Brain Regions and Sub-regions:
+
+1. **Ventral Striatum (VS)**
+
+2. **Caudate**
+
+3. **Putamen**
+
+4. **Nucleus Accumbens**
+
+5. **Thalamus**
+
+6. **Supplemental Motor Area**
+
+7. **Insula**
+
+8. **Cuneus**
+
+9. **Anterior Cingulate Cortex**
+
+10. **Left Lingual Gyrus**
+
+11. **Occipital Lobe**
+
+12. **Prefrontal Cortex (PFC)**
+   - Frontal lobe
+
+## Cognitive Functions:
+
+These regions are involved in the following cognitive functions:
+- Reward processing
+- Reward anticipation
+- Reward receipt
+- Neural sensitivity to reward
+- Loss anticipation
+- Reward magnitude modulation
+- Individual differences in neural response to reward
+- Risk-taking behaviors
+- Emotional regulation

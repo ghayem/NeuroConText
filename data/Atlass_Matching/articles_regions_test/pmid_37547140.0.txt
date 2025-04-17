@@ -1,0 +1,29 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Middle Frontal Gyrus**
+   - Left Middle Frontal Gyrus
+   - Right Middle Frontal Gyrus
+
+2. **Putamen**
+   - Left Putamen
+
+3. **Occipital Gyrus**
+   - Left Superior Occipital Gyrus
+   - Left Middle Occipital Gyrus
+
+4. **Calcarine**
+   - Right Calcarine
+
+5. **Middle Temporal Gyrus**
+   - Right Middle Temporal Gyrus
+
+6. **Inferior Frontal Gyrus**
+   - Right Inferior Frontal Gyrus
+
+7. **Superior Parietal Gyrus**
+   - Right Superior Parietal Gyrus
+
+8. **Paracentral Lobule**
+   - Right Paracentral Lobule
+
+These regions are involved in various cognitive functions, including motor regulation, visual perception, language comprehension, and cognitive impairment.

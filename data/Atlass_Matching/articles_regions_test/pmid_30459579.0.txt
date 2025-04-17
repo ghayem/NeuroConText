@@ -1,0 +1,59 @@
+## Brain Regions and Sub-Regions
+
+1. **Hippocampus**
+   - Hippocampal tail
+   - Anterior hippocampus
+
+2. **Medial Temporal Lobe (MTL)**
+   - Parahippocampal cortex (PHC)
+   - Entorhinal cortex
+   - Postsubiculum
+
+3. **Retrosplenial Cortex (RSC)**
+
+4. **Medial Prefrontal Cortex (mPFC)**
+   - Dorsal mPFC
+   - Ventral mPFC
+
+5. **Default Mode Network (DMN)**
+   - Medial prefrontal and posterior cingulate/precuneus areas
+   - Hippocampus
+   - Retrosplenial cortex (RSC)
+   - Medial prefrontal cortex (mPFC)
+
+6. **Central Executive Network (CEN)**
+   - Fronto-parietal regions
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Posterior parietal cortex
+   - Intraparietal sulcus (IPS)
+
+7. **Parahippocampal Cortex (PHC)**
+   - Collateral sulcus
+   - Parahippocampal gyrus
+   - Subiculum region
+
+8. **Thalamus**
+
+9. **Caudate**
+
+10. **Cingulate**
+   - Cingulate sulcus
+
+11. **Middle Temporal Gyrus**
+
+12. **Superior Temporal Sulcus**
+
+13. **Pre-central Gyrus**
+
+14. **Postcentral Gyrus**
+
+15. **Superior Parietal Lobule**
+
+16. **Precuneus**
+
+17. **Cerebellum**
+
+18. **Temporo-occipital Gyrus**
+
+- These regions are involved in these cognitive functions: path integration, navigation, episodic memory, working memory, executive functions, self-referential processing, and spatial processing.

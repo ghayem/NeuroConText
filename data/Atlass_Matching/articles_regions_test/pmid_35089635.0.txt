@@ -1,0 +1,83 @@
+## The brain regions and sub-regions:
+
+1. **Prefrontal Cortex (PFC)**
+    - Ventromedial PFC
+    - Dorsolateral PFC
+    - Superior frontal gyrus (SFG)
+    - Middle frontal gyrus (MFG)
+
+2. **Hippocampus**
+
+3. **Amygdala**
+
+4. **Insula**
+    - Anterior insula
+    - Dorsal anterior insula (dAI)
+    - Posterior insula (PI)
+
+5. **Anterior Cingulate Cortex (ACC)**
+    - Dorsal ACC (dACC)
+
+6. **Inferior Parietal Lobule (IPL)**
+
+7. **Superior Temporal Gyrus (STG)**
+
+8. **Cuneus**
+
+9. **Default Mode Network (DMN)**
+
+10. **Salience Network (SN)**
+
+11. **Theory of Mind (ToM) Network**
+
+12. **Occipital Cortex**
+
+13. **Precuneus**
+
+14. **Temporo-parieto-occipital Junction (TPO)**
+
+15. **Middle Occipital Gyrus**
+
+16. **White Matter Tracts**
+    - Cingulum
+    - Accumbofrontal tract
+
+17. **Frontoparietal System**
+
+18. **Cerebrospinal Fluid**
+
+19. **Montreal Neurological Institute (MNI) Space**
+
+20. **Temporal Plane (STP)**
+
+21. **Planum Temporale (PT)**
+
+22. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+23. **Middle Superior Temporal Cortex**
+
+24. **Anterior Portion of the pSTG/S**
+
+25. **Parietal–Frontal Circuits**
+
+26. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+27. **Temporal Gyrus**
+
+28. **Visual Regions**
+
+29. **Dorsolateral Prefrontal Area**
+
+30. **Occipital Regions**
+
+31. **Superior Temporal Cortex**
+
+32. **Anterior Portion of the Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+33. **Middle Occipital Cortex**
+
+34. **Frontal Regions**
+
+35. **Visual Cortex**
+
+These regions are involved in various cognitive functions including social cognition, emotion, language, memory, attention, executive functions, and visual processing.

@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions
+
+1. **Gray Matter (GM)**
+    - Thalamus
+    - Primary motor cortex
+    - Primary sensory cortex
+    - Motor cortex
+    - Temporal lobe
+    - Parietal lobe
+    - Premotor cortex (PMC)
+    - Left premotor area (BA 6)
+    - Occipital lobes
+    - Temporooccipital junction
+    - Precentral gyrus
+    - Precuneus lobe
+    - Inferior parietal lobule
+    - Frontal orbital cortex
+    - Primary somatosensory and motor areas
+
+2. **White Matter (WM)**
+    - Corpus callosum (CC)
+    - Corticospinal tract
+    - Superior corona radiata
+    - Inferior frontooccipital fasciculus (IFOF)
+    - Commissural fibers
+    - Association fibers
+    - Local premotor and transcallosal paths
+    - Bilateral premotor cortices
+
+3. **Brodmann Areas (BA)**
+    - BA 1
+    - BA 2
+    - BA 3a
+    - BA 3b
+    - BA 4a
+    - BA 4p
+    - BA 6
+
+4. **Other Regions**
+    - Visual cortices
+
+These regions are involved in various cognitive and motor functions, including movement selection, movement execution, visual-to-motor transformation, and interhemispheric interactions.

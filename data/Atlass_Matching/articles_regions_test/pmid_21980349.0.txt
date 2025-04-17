@@ -1,0 +1,28 @@
+## The brain regions:
+
+1. **Auditory Cortex**
+    - Left auditory cortex
+    - Right auditory cortex
+
+2. **Temporal Lobe**
+    - Left temporal lobe
+    - Right temporal lobe
+    - Anterior temporal lobe
+
+3. **Superior Temporal Sulcus (STS)**
+    - Left superior temporal sulcus
+    - Right superior temporal sulcus
+    - Left anterior STS
+    - Right anterior STS
+
+4. **Superior Temporal Gyrus (STG)**
+    - Left STG
+    - Right anterior STG
+
+5. **Primary Auditory Cortex (PAC)**
+
+6. **Pre-supplementary Motor Area (pre-SMA)**
+
+7. **Dorsolateral Prefrontal Cortex**
+
+8. **Temporal Pole**

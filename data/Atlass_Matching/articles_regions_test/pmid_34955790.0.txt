@@ -1,0 +1,42 @@
+## Brain Regions and Sub-regions:
+
+1. **Medial Temporal Lobe**
+   - Hippocampus
+
+2. **Prefrontal Cortex**
+   - Right inferior/middle orbital frontal gyrus (OFG)
+
+3. **Anterior Cingulum**
+
+4. **Cerebellum**
+   - Posterior lobe of cerebellum
+   - Right cerebellum crus1/crus2/6
+
+5. **Insular Cortex**
+   - Right insular
+
+6. **Sensorimotor Cortex**
+
+7. **Visual Cortex**
+
+8. **Auditory Cortex**
+
+9. **Salience Network (SN)**
+   - Insula
+
+10. **Default Mode Network (DMN)**
+
+11. **Central Executive Network (CEN)**
+
+12. **Affective Network (AN)**
+   - Insular cortex
+   - Orbitofrontal cortex (OFC)
+
+13. **Prefrontal-Cerebellar Circuits**
+   - Posterior cerebellum (Crus I/II)
+
+14. **Hippocampal Subregions**
+   - CA1
+   - Dentate gyrus
+
+These regions are involved in various cognitive functions, including memory, information processing, emotional regulation, and higher-order cognitive processes.

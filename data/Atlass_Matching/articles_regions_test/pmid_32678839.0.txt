@@ -1,0 +1,43 @@
+## Brain Regions and Sub-Regions:
+
+1. **Posterior Cingulate Cortex (PCC)**
+   - Default Mode Network (DMN)
+
+2. **Precuneus**
+   - Left Precuneus
+   - Right Precuneus
+
+3. **Precentral Cortex**
+   - Right Precentral Cortex
+   - Left Precentral Cortex
+
+4. **Supramarginal Cortex**
+   - Left Supramarginal Cortex
+
+5. **Cerebellum**
+   - Left Cerebellum Exterior
+   - Right Cerebellum Exterior
+
+6. **Hippocampus**
+   - Left Hippocampus
+
+7. **Middle Temporal Gyrus**
+
+8. **Inferior Occipital Gyrus**
+   - Right Inferior Occipital Gyrus
+   - Left Inferior Occipital Gyrus
+
+9. **Angular Gyrus**
+   - Right Angular Gyrus
+
+10. **Occipital Pole**
+    - Right Occipital Pole
+    - Left Occipital Pole
+
+11. **Lingual Gyrus**
+    - Right Lingual Gyrus
+
+12. **Occipital Fusiform Gyrus**
+    - Left Occipital Fusiform Gyrus
+
+- These regions are involved in cognitive functions such as memory retrieval, planning, emotion, anxiety, and internally directed cognition.

@@ -1,0 +1,37 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Forebrain**
+
+2. **Thalamus**
+
+3. **Medial Frontal Gyrus**
+
+4. **Anterior Cingulate Cortex**
+
+5. **Insular Cortex**
+
+6. **Prefrontal Cortex**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+
+7. **Pons**
+
+8. **Middle Frontal Gyrus**
+   - Bilateral middle frontal gyri
+
+9. **Superior Frontal Gyrus**
+   - Bilateral superior frontal gyri
+
+10. **Superior Temporal Gyrus**
+    - Right superior temporal gyri
+    - Left superior temporal gyri
+
+11. **Inferior Parietal Lobule**
+    - Right inferior parietal lobules extending to the middle temporal gyrus
+    - Left inferior parietal lobules extending to the supramarginal gyrus
+
+12. **Temporoparietal Junction (TPJ)**
+
+13. **Anterior Cingulate Cortex (ACC)**
+    - Bilateral anterior cingulate cortex extending to the right medial frontal gyrus
+
+These regions are involved in various cognitive and emotional processing functions, as discussed in the article.

@@ -1,0 +1,53 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Midline Structures (CMS)**
+   - Frontal part
+   - Parietal part
+   - Medial prefrontal cortex (MPFC)
+     - Orbital part
+     - Dorsal part
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+2. **Default Mode Network (DMN)**
+   - Frontal part (overlaps with CMS)
+   - Parietal part (overlaps with CMS)
+
+3. **Limbic System**
+   - Hippocampus
+   - Amygdala
+   - Insula
+
+4. **Mirror Neuron System (MNS)**
+   - Fronto-parietal regions
+   - Inferior frontal gyrus (IFG)
+   - Precuneus
+   - Supramarginal gyrus (SMG)
+   - Inferior parietal lobule (IPL)
+   - Anterior insula
+   - Anterior mesial frontal cortex
+
+5. **Other Regions**
+   - Middle frontal gyrus (MFG)
+   - Supplementary motor area (SMA)
+   - Angular gyrus
+   - Middle temporal gyrus (MTG)
+   - Middle cingulate gyrus (MCG)
+   - Posterior orbital gyrus
+   - Orbitofrontal cortex (OFC)
+   - Cerebellum
+   - Central operculum
+   - Parietal operculum
+   - Postcentral gyrus
+   - Superior parietal lobule (SPL)
+   - Lateral occipital gyrus (LOG)
+   - Postcentral gyrus
+   - Superior frontal gyrus (SFG)
+   - Frontal pole
+   - Basal ganglia
+   - Thalamus
+   - Gray matter (GM)
+   - White matter (WM)
+   - Cerebrospinal fluid (CSF)
+
+These regions are involved in various cognitive functions, including self-related processing, emotion regulation, and social cognition.

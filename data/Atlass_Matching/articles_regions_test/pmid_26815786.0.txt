@@ -1,0 +1,48 @@
+## Brain Regions and Sub-Regions:
+
+1. **White Matter**
+   - White matter lesions
+   - White matter volume
+   - White matter integrity
+
+2. **Grey Matter**
+   - Grey matter volume
+
+3. **Corticospinal Tract**
+   - Right corticospinal tract
+
+4. **Inferior Fronto-Occipital Tract**
+   - Right inferior fronto-occipital tract
+
+5. **Superior Longitudinal Fasciculus**
+   - Right superior longitudinal fasciculus
+
+6. **Forceps Major**
+   - Right forceps major
+   - Left forceps major
+
+7. **External Capsule Region**
+   - Left external capsule region
+
+8. **Inferior Parietal Lobe**
+   - Right inferior parietal lobe
+
+9. **Cingulum Bundle**
+
+10. **Frontal and Temporal Regions**
+
+11. **Medial and Ventral Prefrontal Cortices**
+
+12. **Limbic Regions**
+
+13. **Hippocampus**
+
+14. **Amygdala**
+
+15. **Prefrontal and Orbitofrontal Cortex (OFC) Regions**
+
+16. **Uncinate Fasciculus**
+
+17. **Parietal Cortices**
+
+- These regions are involved in these cognitive functions: motor coordination, transfer and processing of somatosensory information, cognitive functioning, information processing speed, and various executive functions.

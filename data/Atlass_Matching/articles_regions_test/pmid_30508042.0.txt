@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions
+
+1. **Prefrontal Cortex**
+   - Orbitofrontal cortex
+   - Frontal pole
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+
+2. **Anterior Temporal Lobe**
+   - Temporal pole
+   - Anterior divisions of the superior temporal gyrus
+   - Anterior divisions of the middle temporal gyrus
+   - Anterior divisions of the inferior temporal gyrus
+
+3. **Insula**
+
+4. **Anterior Cingulate Cortex**
+
+5. **Cingulate Cortex**
+
+6. **Uncinate Fasciculus**
+
+7. **Superior Longitudinal Fasciculus**
+
+8. **Inferior Longitudinal Fasciculus**
+
+9. **Inferior Fronto-Occipital Fasciculus**
+
+10. **Internal Capsule**
+
+11. **Genu of the Corpus Callosum**
+
+12. **Body of the Corpus Callosum**
+
+13. **Splenium of the Corpus Callosum**
+
+14. **Fornix**
+
+15. **Cingulum Bundle**
+
+16. **Forceps Minor**
+
+17. **Anterior Thalamic Radiation**
+
+18. **Anterior Corona Radiata**
+
+19. **Amygdala**
+
+20. **Hippocampus**
+
+21. **Parietal Lobe**
+
+22. **Cerebellum**
+
+23. **Thalamus**
+
+- These regions are involved in various cognitive functions, including language, memory, executive functions, attention, mental processing speed, social cognition, and visuoconstruction.

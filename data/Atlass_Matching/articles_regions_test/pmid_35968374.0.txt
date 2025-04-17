@@ -1,0 +1,43 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Cerebellum**
+   - Cerebellar subregions
+   - Cerebello-spinal fasciculus
+   - Purkinje cells
+   - Cerebellar lobules
+   - Vermis_3
+   - Vermis_9
+   - Vermis_10
+   - Vermis_7
+   - Cerebellum_1
+   - Cerebellum_2
+   - Cerebellum_3
+   - Cerebellum_4_5
+   - Cerebellum_10
+
+2. **Cerebral Cortex**
+   - Sensorimotor cortex
+   - Visual cortex
+   - Cognitive cortex
+   - Auditory cortex
+   - Putamen
+   - Postcentral gyrus
+   - Precentral gyrus
+   - Supplementary motor area
+   - Calcarine
+   - Fusiform
+   - Middle occipital gyrus
+   - Anterior cingulate gyrus
+   - Inferior temporal gyrus
+   - Supra-occipital gyrus
+   - Parahippocampal gyrus
+   - Superior temporal pole
+   - Superior temporal gyrus
+   - Trigonometric inferior frontal gyrus
+
+3. **Other Brain Regions**
+   - Cerebello-pontine nucleus
+   - Inferior olivary nucleus
+   - Thalamus
+
+These regions are involved in various cognitive and motor functions, including motor control, sensory processing, cognition, emotions, and behaviors.

@@ -1,0 +1,77 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Prefrontal Cortex**
+
+2. **Precentral Gyrus**
+
+3. **Superior Parietal Cortex**
+
+4. **Right Cerebellum**
+
+5. **Orbitofrontal Cortex**
+
+6. **Corpus Callosum**
+
+7. **Internal Capsule**
+
+8. **Thalamic Radiations**
+
+9. **Cerebral Peduncles**
+
+10. **Grey Matter Nuclei**
+
+11. **Fronto-Temporo-Occipital Regions**
+
+12. **Precuneus**
+
+13. **Posterior Cingulate**
+
+14. **Bilateral Precuneus**
+
+15. **Bilateral Posterior Cingulate**
+
+16. **Bilateral Caudate**
+
+17. **Bilateral Putamen**
+
+18. **Bilateral Anterior Cerebellum**
+
+19. **Bilateral Posterior Cerebellum**
+
+20. **Left Cingulum**
+
+21. **Bilateral Corticospinal Tracts**
+
+22. **Right Arcuate Fasciculus**
+
+23. **Right Anterior Cingulate**
+
+24. **Right Superior Frontal Gyrus**
+
+25. **Right Precentral Gyrus**
+
+26. **Left Superior Temporal Gyrus**
+
+27. **Right Fusiform Gyrus**
+
+28. **Default Mode Network**
+
+29. **Subcortical Structures**
+
+30. **Fronto-Subcortical Networks**
+
+31. **Cortical Structures**
+
+32. **Total Intracranial Volume**
+
+33. **White Matter Lesion Volume**
+
+34. **Raw Grey and White Matter Volumes**
+
+35. **Normalised Grey Matter Volume**
+
+36. **Normalised White Matter Volume**
+
+37. **Total White Matter Lesion Volume**
+
+These regions are involved in various cognitive functions, including attention, executive functioning, information processing speed, and default mode network functions.

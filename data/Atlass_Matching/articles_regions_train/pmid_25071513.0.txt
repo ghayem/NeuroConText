@@ -1,0 +1,43 @@
+## Brain Regions and Sub-Regions:
+
+1. **Fusiform Face Area (FFA)**
+   - Located in the middle fusiform gyrus
+
+2. **Occipital Face Area (OFA)**
+   - Located in the inferior occipital gyri
+
+3. **Parahippocampal Place Area (PPA)**
+   - Located in the parahippocampal gyrus
+
+4. **Extrastriate Body Area (EBA)**
+   - Located in the extrastriate cortex
+
+5. **Visual Word Form Area (VWFA)**
+   - Located in the ventral occipito-temporal cortex
+
+6. **Posterior Superior Temporal Sulcus (pSTS)**
+
+7. **Ventral Visual Pathway**
+   - Includes regions involved in object selectivity
+
+8. **Occipital-Temporal Cortex**
+   - Includes the FFA, OFA, and pSTS
+
+9. **Occipital Fusiform Cortex**
+   - Includes the FFA
+
+10. **Superior Temporal Sulcus (STS)**
+    - Includes the pSTS
+
+11. **Temporal Cortex**
+    - Covers the whole brain and includes the FFA
+
+12. **Amygdala**
+
+13. **Orbitofrontal Cortex (OFC)**
+
+14. **Precuneus**
+
+15. **Anterior Temporal Cortex**
+
+These regions are involved in these cognitive functions: face recognition, object recognition, place recognition, body recognition, visual word processing, and social information processing.

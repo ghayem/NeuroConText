@@ -1,0 +1,51 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Ventrolateral prefrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Medial prefrontal cortex (mPFC)
+   - Orbitofrontal cortex (OFC)
+   - Medial orbitofrontal cortex (mOFC)
+
+2. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Dorsal ACC
+   - Posterior cingulate cortex (PCC)
+
+3. **Insula**
+   - Left insula
+   - Right insula
+
+4. **Parietal Cortex**
+   - Inferior parietal lobule (IPL)
+   - Bilateral IPL
+   - Left IPL
+   - Right IPL
+   - Posterior parietal cortex
+
+5. **Occipital Cortex**
+   - Visual cortex
+   - Inferior occipital gyrus (IOG)
+   - Middle occipital gyrus (MOG)
+   - Left MOG
+
+6. **Temporal Cortex**
+   - Left middle temporal gyrus
+
+7. **Subcortical Regions**
+   - Amygdala
+   - Putamen
+
+8. **Other Regions**
+   - Frontal region
+   - Frontal-parietal area
+   - White matter (WM)
+   - Gray matter (GM)
+   - Cerebrospinal fluid (CSF)
+
+9. **Networks**
+   - Salience network (SN)
+   - Default mode network (DMN)
+
+These regions are involved in various cognitive, emotional, and behavioral functions, including reward processing, emotion regulation, cognitive control, memory, visual perception, body representation, and eating behaviors.

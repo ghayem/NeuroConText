@@ -1,0 +1,41 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Posterior cingulate
+   - Medial-prefrontal
+   - Hippocampal
+   - Lateral temporal areas
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Bilateral dorsal superior frontal gyrus (dSFG)
+   - Bilateral temporal poles (TP)
+   - Bilateral hippocampus
+   - Bilateral angular gyrus (AG)
+
+2. **Task-active Networks**
+   - Fronto-parietal network
+   - Salience network
+   - Anterior cingulate
+   - Anterior insula
+   - Motor cortex
+
+3. **Other Regions**
+   - Anterior cingulate cortex (ACC)
+   - Middle frontal gyrus (MFG)
+   - Middle temporal gyrus (MTG)
+   - Superior temporal sulcus (STS)
+   - Inferior frontal gyrus (IFG)
+   - Orbitofrontal cortex (OFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Anterior medial prefrontal cortex (amPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Autobiographical memory
+- Spontaneous thought
+- Integration of social information
+- Decision making
+- Task engagement
+- Attention
+- Feedback learning
+- Risky decision making

@@ -1,0 +1,44 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (dlPFC)
+
+2. **Frontal Lobe**
+   - Broca’s area
+
+3. **Parietal Lobe**
+   - Primary somatosensory cortex
+   - Supramarginal gyrus
+
+4. **Temporal Lobe**
+   - Primary auditory cortex
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+
+6. **Basal Ganglia**
+   - Basal ganglia (BG) networks
+
+7. **Cerebellum**
+   - Cerebellar (CB) networks
+
+8. **Other Cortical Regions**
+   - Sensorimotor networks (including motor cortex)
+   - Visual networks (including visual cortex)
+   - Default-mode networks (DMN)
+   - Attentional networks (ATTN)
+   - Frontal networks (FRONT)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Dorsolateral prefrontal cortex (dlPFC)**: Working memory, verbal fluency, and executive functions.
+- **Anterior cingulate cortex (ACC)**: Complex functions such as communication, social behavior, and emotional regulation.
+- **Superior temporal gyrus**: Language-related symptoms and processing speed.
+- **Supramarginal gyrus**: Processing speed deficits.
+- **Primary auditory cortex**: Auditory processing.
+- **Middle temporal gyrus**: Language and semantic processing.
+- **Primary somatosensory cortex**: Somatosensory processing.
+- **Broca’s area**: Language production.
+
+These regions have been connected with functional deficits in various psychiatric disorders, including schizophrenia, psychotic bipolar disorder, and schizoaffective disorder.

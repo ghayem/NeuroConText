@@ -1,0 +1,65 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Subthalamic Nucleus (STN)**
+
+2. **Globus Pallidus Internus (GPI)**
+
+3. **Thalamus**
+
+4. **Basal Ganglia**
+
+5. **Brainstem**
+
+6. **Cerebellum**
+
+7. **Mesial Premotor Region**
+
+8. **Primary Motor Cortex**
+
+9. **Brain Sulci**
+
+10. **Deep Brain Blood Vessels**
+
+11. **Right Middle Temporal Gyrus (MTG)**
+
+12. **Left Middle Temporal Gyrus (MTG)**
+
+13. **Left Angular Gyrus**
+
+14. **Bilateral Precuneus**
+
+15. **Right Putamen**
+
+16. **Right Inferior Frontal Gyrus (IFG)**
+   - Triangular part
+   - Opercular part
+
+17. **Left Middle Frontal Gyrus (MFG)**
+
+18. **Right Precentral Gyrus**
+
+19. **Right Posterior Cingulate Gyrus (PCC)**
+
+20. **Left Insula**
+
+21. **Bilateral Superior Frontal Gyrus (Dorsolateral Prefrontal Cortex; DLPFC)**
+
+22. **Left Cerebellum**
+
+23. **Right Angular Gyrus**
+
+24. **Right Temporal Pole**
+
+25. **Bilateral Supramarginal Gyrus**
+
+26. **Right Superior Temporal Gyrus**
+
+27. **Left Inferior Parietal Gyrus**
+
+28. **Left Supramarginal Gyrus**
+
+29. **Anterior Commissure (AC)**
+
+30. **Posterior Commissure (PC)**
+
+These regions are involved in various cognitive functions, motor control, and are crucial components of different brain networks such as the basal ganglia-thalamocortical circuit, default mode network (DMN), and executive control network (ECN).

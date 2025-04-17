@@ -1,0 +1,17 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Hippocampus**
+   - Right hippocampus
+   - Left hippocampus
+
+2. **Amygdala**
+
+3. **Hypothalamus**
+   - Medial preoptic area
+
+4. **Heschl’s Gyrus**
+
+5. **White Matter**
+   - Total white matter volume (WMV)
+
+These regions are involved in various cognitive functions and emotional processing, including memory consolidation, stress response, and auditory processing.

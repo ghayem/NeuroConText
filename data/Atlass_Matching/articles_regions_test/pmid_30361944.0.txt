@@ -1,0 +1,26 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Hippocampus**
+   - Bilateral hippocampus
+
+3. **Parahippocampal Gyrus**
+
+4. **Perirhinal Cortex**
+   - Bilateral perirhinal cortex
+
+5. **Entorhinal Cortex**
+   - Bilateral entorhinal cortex
+
+6. **Prefrontal Cortex (PFC)**
+   - Prefrontal networks
+   - Prefrontal-hippocampal interactions
+
+7. **Middle Occipital Gyrus**
+
+8. **Fusiform Gyrus**
+
+9. **Basolateral Amygdala**
+
+These regions are involved in these cognitive functions: memory recognition, emotional enhancement of memory (EEM), attention, and emotional memory processing.

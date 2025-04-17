@@ -1,0 +1,60 @@
+{
+  "AAL": [
+    "Putamen_R"
+  ],
+  "Harvard_Oxford": [
+    "Middle Frontal Gyrus"
+  ],
+  "DiFuMo": [
+    "Cerebellar peduncle",
+    "Cerebellar peduncles",
+    "Cerebrospinal fluid (between cerebellum and cerebellar peduncles)",
+    "Cerebrospinal fluid (between middle frontal gyrus RH and skull)",
+    "Cerebrospinal fluid (between middle frontal gyrus and skull)",
+    "Cerebrospinal fluid (between middle frontal gyrus anterior and skull LH)",
+    "Cerebrospinal fluid (between middle frontal gyrus anterior and skull)",
+    "Cerebrospinal fluid (between middle frontal gyrus posterior and skull LH)",
+    "Cerebrospinal fluid (between middle frontal gyrus superior and skull LH)",
+    "Cerebrospinal fluid (between superior frontal gyrus middle and skull)",
+    "Inferior frontal gyrus middle LH",
+    "Middle cerebellar peduncle inferior",
+    "Middle cerebellar peduncle superior",
+    "Middle frontal gyrus anterior LH",
+    "Middle frontal gyrus anterior RH",
+    "Middle frontal gyrus lateral LH",
+    "Middle frontal gyrus lateral RH",
+    "Middle frontal gyrus medial LH",
+    "Middle frontal gyrus mid-anterior LH",
+    "Middle frontal gyrus mid-anterior RH",
+    "Middle frontal gyrus mid-anterior inferior RH",
+    "Middle frontal gyrus mid-anterior superior RH",
+    "Middle frontal gyrus mid-posterior LH",
+    "Middle frontal gyrus mid-posterior inferior RH",
+    "Middle frontal gyrus mid-posterior superior RH",
+    "Middle frontal gyrus middle LH",
+    "Middle frontal gyrus middle inferior LH",
+    "Middle frontal gyrus middle inferior RH",
+    "Middle frontal gyrus middle superior LH",
+    "Middle frontal gyrus middle superior RH",
+    "Middle frontal gyrus posterior LH",
+    "Middle frontal gyrus posterior RH",
+    "Middle frontal gyrus posterior inferior RH",
+    "Middle frontal gyrus posterior superior LH",
+    "Middle frontal gyrus posterior superior RH",
+    "Middle frontal gyrus postero-superior LH",
+    "Middle frontal gyrus superior RH",
+    "Putamen anterior RH",
+    "Putamen inferior RH",
+    "Putamen posterior RH",
+    "Putamen superior RH",
+    "Superior frontal gyrus medial middle",
+    "Superior frontal gyrus middle",
+    "Superior frontal gyrus middle LH",
+    "Superior frontal gyrus middle RH"
+  ],
+  "Juelich": [
+    "GM Primary auditory cortex TE1.0",
+    "GM Primary auditory cortex TE1.1",
+    "GM Primary auditory cortex TE1.2"
+  ]
+}

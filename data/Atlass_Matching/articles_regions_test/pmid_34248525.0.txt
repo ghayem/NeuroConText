@@ -1,0 +1,40 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Bilateral inferior frontal gyri (IFG)**
+   - Pars triangularis
+   - Pars opercularis
+   - Pars orbitalis
+
+2. **Bilateral inferior parietal lobules (IPLs)**
+
+3. **Left middle frontal gyrus (MFG)**
+
+4. **Left middle temporal gyrus (MTG)**
+   - Middle part
+   - Posterior part
+
+5. **Medial prefrontal cortex (MPFC)**
+   - Anterior portion
+   - Dorsal portion
+
+6. **Right superior temporal gyrus (STG)**
+
+7. **Left posterior STG**
+
+8. **Bilateral anterior temporal lobes**
+
+9. **Right temporoparietal junction**
+
+10. **Posterior cingulate cortex**
+
+11. **Left anterior prefrontal cortex (PFC)**
+
+12. **Left anterior ventral IFG**
+
+13. **Left superior frontal gyrus**
+
+14. **Left basal ganglia**
+
+15. **Anterior cingulate cortex**
+
+These regions are involved in various cognitive functions, including language processing, memory, executive functions, and theory-of-mind processing.

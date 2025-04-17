@@ -1,0 +1,30 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Cerebellum**
+   - Sensorimotor regions (right lobule I-IV and V, right crus I&II, vermis VI and VIIIa, left lobules I-IV and V)
+   - Dentate nucleus
+
+2. **Thalamus**
+   - Posterior ventral lateral nucleus (VLp, also referred to as VIM)
+   - Ventral lateral anterior nucleus (VLa, also referred to as VOp)
+   - Cerebellar relay nucleus
+
+3. **Basal Ganglia**
+   - Internal globus pallidus (GPi)
+   - Thalamic relay nuclei (VLa)
+
+4. **Primary Motor Cortex**
+   - Brodmann Area 4 (BA4)
+   - Hand area of the primary motor cortex
+
+5. **Frontal Lobe**
+   - Frontal pole
+
+6. **Brainstem**
+
+7. **Temporal Lobe**
+   - Temporal pole
+
+8. **Sensorimotor Cortex**
+
+These regions are involved in the pathophysiology of dystonic tremor syndromes, including motor control, tremor regulation, and sensorimotor integration.

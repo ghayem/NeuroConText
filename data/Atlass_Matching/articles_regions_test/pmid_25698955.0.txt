@@ -1,0 +1,31 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Auditory Cortex**
+   - Primary Auditory Cortex (A1)
+
+2. **Inferior Frontal Gyrus (IFG)**
+   - Pars Opercularis (BA 44)
+
+3. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+4. **Posterior Parietal Cortex (PPC)**
+
+5. **Superior Temporal Gyrus (STG)**
+
+6. **Planum Temporale (PT)**
+
+7. **Ventro-lateral Prefrontal Cortex (VLPFC)**
+
+8. **Temporo-frontal regions**
+
+9. **Fronto-temporal regions**
+
+10. **Bilateral fronto-temporal network**
+
+11. **Bilateral auditory cortices**
+
+12. **Bilateral pars opercularis of the IFG**
+
+13. **Bilateral Inferior Frontal Gyri (IFG, pars opercularis)**
+
+These regions are involved in cognitive functions related to pitch perception, memory, and auditory processing.

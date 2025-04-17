@@ -1,0 +1,64 @@
+## The brain regions:
+
+1. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus (MTG)
+
+2. **Anterior Cingulate Cortex**
+   - Anterior cingulate
+
+3. **Superior Parietal Lobule**
+   - Superior parietal lobule
+   - Inferior parietal lobule (IPL)
+
+4. **Inferior Parietal Lobule**
+   - Right inferior parietal lobule
+
+5. **Precuneus**
+   - Right precuneus
+
+6. **Occipito-temporal Gyrus**
+   - Right occipito-temporal gyrus
+
+7. **Posterior Cingulate Cortex**
+   - Right posterior cingulate
+
+8. **Angular Gyrus**
+   - Right angular gyrus (ANG)
+
+9. **Lateral Orbitofrontal Cortex**
+   - Left lateral orbitofrontal
+
+10. **Medial Prefrontal Cortex**
+    - Medial prefrontal cortex
+
+11. **Frontal Gyrus**
+    - Left superior frontal gyrus
+
+12. **Lingual Gyrus**
+    - Lingual gyrus
+
+13. **Inferior Frontal Lobe**
+    - Left inferior frontal lobe
+
+14. **Fusiform Gyrus**
+    - Fusiform gyrus (FFG)
+
+15. **Insula**
+    - Right insula (INS)
+
+16. **Median Cingulate**
+    - Median cingulate and paracingulate gyri (DCG)
+
+17. **Calcarine Fissure**
+    - Calcarine fissure and surrounding cortex (CAL)
+
+18. **Superior Parietal Gyrus**
+    - Superior parietal gyrus (SPG)
+
+19. **Temporal Pole**
+    - Temporal pole: middle temporal gyrus (TPOmid)
+
+20. **Supramarginal Gyrus**
+    - Inferior parietal, but supramarginal and angular gyri (IPL)
+
+These regions are involved in these cognitive functions: language, memory, executive functions, creativity, and semantic processing.

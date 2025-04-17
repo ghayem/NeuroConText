@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions:
+
+1. **Striatum**
+    - Nucleus accumbens (NAcc)
+    - Ventral striatum
+
+2. **Frontal cortex**
+    - Frontal cortex
+    - Frontal lobe
+
+3. **Hippocampus**
+
+4. **Amygdala**
+
+5. **Parietal cortex**
+
+6. **Temporal cortex**
+    - Temporal lobe
+    - Inferior temporal gyrus
+    - Middle temporal gyrus
+
+7. **Limbic system**
+    - Cingulate cortex
+    - Insula
+    - Parahippocampal gyrus
+    - Ventral tegmental area
+
+8. **Superior frontal gyrus**
+
+9. **Anterior cingulate gyrus**
+
+10. **Inferior frontal gyrus**
+
+11. **Fusiform gyrus**
+
+12. **Temporoparietal junction (TPJ)**
+
+13. **Cerebrospinal fluid**
+
+14. **White matter**
+
+15. **Gray matter**
+
+These regions are involved in various cognitive functions including language, memory, executive functions, emotional processing, and motor control.

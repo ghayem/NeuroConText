@@ -1,0 +1,41 @@
+1. **Temporoparietal Junction (TPJ)**
+   - Posterior TPJ
+   - Anterior TPJ
+   - TPJ ,
+   - TPJ
+
+2. **Superior Temporal Sulcus (STS)**
+
+3. **Supramarginal Gyrus (SMG)**
+   - Ventral portion of the Supramarginal Gyrus (SMG)
+
+4. **Parietal Lobe**
+   - Temporo-parieto-occipital junction (TPO)
+
+5. **Frontal Lobe**
+   - Dorsal attention network
+
+6. **Occipital Lobe**
+
+These regions are involved in these cognitive functions: attentional reorienting, contextual updating, social cognition, visual drive, and spatial cueing.
+
+---
+
+### Regions identified in meta-analysis of prior studies:
+- Temporal lobe
+    - Superior temporal gyrus
+- Parietal lobe
+    - Inferior parietal lobule
+
+### Cognitive functions identified in prior studies:
+- Theory of Mind functions
+- Attention functions
+- Visual attentional TPJ
+- Contextual updating
+
+### Additional regions mentioned:
+- Default Mode Network region
+- Ventral Attention Network
+- Hemispatial Neglect Syndrome
+- Temporal attention
+- Internal model updating (P300 in EEG)

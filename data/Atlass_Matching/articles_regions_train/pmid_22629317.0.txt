@@ -1,0 +1,54 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Nucleus Accumbens (NAcc)**
+    - Medial shell
+
+2. **Extended Amygdala**
+    - Central nucleus of the amygdala (CEA)
+    - Bed nucleus of the stria terminalis (BSTM)
+
+3. **Ventral Pallidum (VP)**
+
+4. **Ventral Tegmental Area (VTA)**
+
+5. **Hippocampus**
+
+6. **Amygdala**
+
+7. **Prefrontal Cortex**
+
+8. **Medial Globus Pallidus**
+
+9. **Temporal Lobe**
+
+10. **Frontal Lobe**
+
+11. **Ventral Posterior Medial Nucleus of the Thalamus**
+
+12. **Paracingulate Cortex (BA32)**
+
+13. **Temporal Poles**
+
+14. **Precentral Gyrus**
+
+15. **Frontal Pole**
+
+16. **Precuneus**
+
+17. **Temporal Plane**
+
+18. **Planum Temporale**
+
+19. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+20. **Temporo-Parieto-Occipital Junction (TPO)**
+
+21. **Middle Superior Temporal Cortex**
+
+22. **Anterior Portion of the pSTG/S**
+
+23. **Orbitofrontal Cortex**
+
+24. **Parahippocampal Cortex**
+
+These regions are involved in various cognitive functions, including reward processing, decision-making, emotional regulation, memory, and behavioral control.

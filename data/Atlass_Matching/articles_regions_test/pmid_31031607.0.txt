@@ -1,0 +1,86 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Mid-cingulate gyrus
+
+2. **Prefrontal Cortex (PFC)**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Medial Prefrontal Cortex (MPFC)
+   - Dorsomedial Prefrontal Cortex (DMPFC)
+   - Superior Frontal Gyrus (SFG)
+   - Middle Frontal Gyrus
+   - Inferior Frontal Gyrus
+   - Medial Frontal Gyrus
+   - Precentral Gyrus
+   - Anteromedial Superior Frontal Gyrus
+
+3. **Posterior Cingulate Cortex**
+
+4. **Parietal Lobe**
+   - Superior Parietal Lobule
+   - Inferior Parietal Lobule
+   - Posterior Parietal Cortex
+   - Precuneus
+   - Angular Gyrus
+   - Supramarginal Gyrus
+
+5. **Temporal Lobe**
+   - Middle Temporal Gyrus
+   - Inferior Temporal Gyrus
+   - Superior Temporal Gyrus (STG)
+   - Middle Temporal Gyrus
+   - Fusiform Gyrus
+   - Temporo-parietal Junction
+   - Anterior Temporal Lobe
+
+6. **Occipital Lobe**
+   - Middle Occipital Gyrus
+   - Superior Occipital Gyrus
+   - Lingual Gyrus
+   - Cuneus
+
+7. **Insula**
+   - Anterior Insula
+
+8. **Cerebellum**
+   - Cerebellar Tonsil
+   - Cerebellar Vermis
+   - Posterior Cerebellar Lobe
+   - Culmen
+   - Declive
+   - Tuber
+   - Pyramis
+   - Uvula
+
+9. **Basal Ganglia**
+   - Caudate
+   - Lentiform Nucleus
+   - Putamen
+
+10. **Limnic System**
+    - Amygdala
+
+11. **Other Regions**
+    - Claustrum
+    - Parahippocampal Gyrus
+    - Anterior Cingulate Gyrus
+    - Rectal Gyrus
+    - Intraparietal Cortex
+    - Orbitofrontal Cortex
+    - Sub-gyral Frontal Lobe
+    - Sub-gyral Temporal Lobe
+    - Inferior Semi-lunar Lobule
+    - Posterior Inferior Parietal Cortex
+    - Lateral Anterior Temporal Lobe
+    - Middle and Superior Occipital Gyri
+
+These regions are involved in various cognitive, attentional, and emotional processes related to mindfulness, including but not limited to:
+
+- **Default Mode Network (DMN)**
+- **Salience Network (SN)**
+- **Central Executive Network (CEN)**
+- **Dorsal Attention Network (DAN)**
+- **Ventral Attention Network (VAN)**
+- **Attentional Network (ATN)**
+
+These networks and their components are associated with cognitive, attentional, and emotional processes that are related to both state and trait mindfulness.

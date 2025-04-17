@@ -1,0 +1,61 @@
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Insula**
+
+3. **Superior Temporal Sulcus (STS)**
+
+4. **Hypothalamus**
+
+5. **Amygdala**
+
+6. **Anterior Cingulate Cortex (ACC)**
+
+7. **Posterior Insula**
+
+8. **Dorsal Striatum**
+
+9. **Ventral Tegmental Area (VTA)**
+
+10. **Medial Prefrontal Cortex (mPFC)**
+
+11. **Lateral Prefrontal Cortex (lPFC)**
+
+12. **Posterior Cingulate Cortex**
+
+13. **Precuneus**
+
+14. **Parahippocampal Gyrus**
+
+15. **Hippocampus**
+
+16. **Inferior Parietal Lobule**
+
+17. **Cuneus**
+
+18. **Fusiform Gyrus**
+
+19. **Occipital Gyrus**
+
+20. **Post-Central Gyrus**
+
+21. **Cerebellum**
+
+22. **Paracentral Lobe**
+
+23. **Pre-Central Gyrus**
+
+24. **Post-Central Gyrus**
+
+25. **Supplementary Motor Area**
+
+26. **Supramarginal Gyrus**
+
+27. **Lingual Gyrus**
+
+28. **Precuneus**
+
+29. **Fusiform Gyrus**
+
+30. **Anterior Insula (AI)**
+
+These regions are involved in various cognitive functions including social-affective processing, reward, sensory perception, motor control, and emotional regulation.

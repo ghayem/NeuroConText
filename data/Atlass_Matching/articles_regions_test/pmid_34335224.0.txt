@@ -1,0 +1,93 @@
+## Brain Regions and Sub-Regions:
+
+1. **Auditory Cortex**
+    - Right auditory cortex
+    - Left auditory cortex
+
+2. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+    - Anterior cingulate cortex (ACC)
+    - Parahippocampus
+
+3. **Inferior Parietal Lobule (IPL)**
+
+4. **Superior Temporal Gyrus (STG)**
+
+5. **Posterior Cingulate Cortex (PCC)**
+
+6. **Precuneus**
+
+7. **Inferior Parietal Gyrus (IPG)**
+    - Left inferior parietal gyrus
+
+8. **Superior Occipital Gyrus (SOG)**
+
+9. **Angular Gyrus (AG)**
+
+10. **Frontal Eye Field (FEF)**
+
+11. **Paracentral Lobule**
+
+12. **Supplementary Motor Area (SMA)**
+
+13. **Superior Marginal Gyrus (SMG)**
+    - Right superior marginal gyrus
+
+14. **Inferior Temporal Gyrus (ITG)**
+    - Bilateral inferior temporal gyrus
+    - Left inferior temporal gyrus
+
+15. **Heschl’s Gyrus (HG)**
+    - Left Heschl’s gyrus
+
+16. **Putamen**
+    - Bilateral putamen
+
+17. **Superior Marginal Gyrus (SMG)**
+    - Right superior marginal gyrus
+
+18. **Dorsolateral Prefrontal Cortex (dlPFC)**
+    - Left dorsolateral prefrontal cortex
+
+19. **Middle Temporal Gyrus (MTG)**
+    - Right middle temporal gyrus
+
+20. **Middle Occipital Gyrus (MOG)**
+    - Left middle occipital gyrus
+
+21. **Inferior Occipital Gyrus**
+
+22. **Precentral Gyrus**
+    - Left precentral gyrus
+
+23. **Middle Frontal Gyrus**
+
+24. **Superior Frontal Gyrus**
+
+25. **Pons**
+
+26. **Midbrain**
+
+27. **Caudate**
+
+28. **Thalamus**
+
+29. **Hippocampus**
+
+30. **Cerebellum**
+
+31. **Temporal Pole**
+    - Left temporal pole
+
+32. **Cuneus**
+
+33. **Superior Parietal Gyrus**
+    - Left superior parietal gyrus
+
+34. **Precentral Gyrus**
+    - Left precentral gyrus
+
+35. **Superior Frontal Gyrus**
+
+These regions are involved in cognitive functions such as memory, attention, executive functions, speech perception, auditory processing, and auditory imagery.

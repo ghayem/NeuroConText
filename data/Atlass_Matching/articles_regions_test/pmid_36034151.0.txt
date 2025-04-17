@@ -1,0 +1,31 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebellum**
+    - Cerebellum lobule V
+
+2. **Frontal Lobe**
+    - Middle orbitofrontal cortex (OFC)
+    - Inferior frontal gyrus (IFG)
+    - Dorsal lateral prefrontal cortex (DLPFC)
+    - Middle frontal gyrus (MFG)
+
+3. **Temporal Lobe**
+    - Superior temporal gyrus (STG)
+    - Temporal pole (TP)
+
+4. **Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+
+5. **Insula**
+
+6. **Auditory Cortex**
+    - Primary auditory cortex
+
+7. **Other Regions**
+    - Spiral ganglion
+    - Auditory nerve fibers
+    - Angular gyrus
+    - Fusiform gyrus
+    - Hippocampus
+
+These regions are involved in various cognitive functions, including sensory processing, motor control, emotion regulation, cognition, language processing, and memory.

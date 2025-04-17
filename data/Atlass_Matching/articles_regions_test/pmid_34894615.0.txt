@@ -1,0 +1,58 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Ventral Striatum (VS)**
+
+2. **Caudate**
+
+3. **Pallidum**
+
+4. **Insula**
+
+5. **Thalamus**
+
+6. **Hippocampus**
+
+7. **Cingulate Cortex**
+   - Dorsal Anterior Cingulate Cortex (dACC)
+
+8. **Midbrain**
+
+9. **Motor Areas**
+   - Precentral Gyrus
+   - Postcentral Gyrus
+
+10. **Occipital Areas**
+
+11. **Inferior Frontal Gyrus (IFG)**
+
+12. **Middle Frontal Gyrus (MFG)**
+
+13. **Middle Temporal Gyrus (MTG)**
+
+14. **Inferior Parietal Gyrus**
+
+15. **Angular Gyrus**
+
+16. **Putamen**
+
+17. **Amygdala**
+
+18. **Parahippocampus**
+
+19. **Frontal Regions**
+
+20. **Temporal Gyrus**
+
+21. **Parietal Gyrus**
+
+22. **Occipital Gyrus**
+
+23. **Superior Frontal Gyrus**
+
+24. **Median Cingulate Gyrus**
+
+25. **Orbitofrontal Cortex (OFC)**
+
+26. **Mesial Prefrontal Cortex (mPFC)**
+
+These regions are involved in various cognitive functions, including reward processing, cognitive control, attention, motor functions, and sensory processing.

@@ -1,0 +1,56 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Inferior Frontal Gyrus**
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Insula**
+
+4. **Inferior Parietal Lobe**
+   - Inferior parietal lobule (IPL)
+
+5. **Cerebellum**
+   - Left cerebellum
+   - Posterior lobe
+
+6. **Precentral/Postcentral Gyrus**
+
+7. **Middle Temporal Gyrus**
+
+8. **Primary Motor Cortex (M1)**
+
+9. **Premotor Cortex (PMC)**
+
+10. **Supplementary Motor Area (SMA)**
+
+11. **White Matter**
+
+12. **Gray Matter**
+
+13. **Occipital Cortex**
+
+14. **Fusiform Face Area**
+
+15. **Parahippocampal Place Area**
+
+16. **Medial Prefrontal Cortex (mPFC)**
+
+17. **Precuneus (PREC)**
+
+18. **Inferior Parietal Cortex (IPC)**
+
+19. **Medial Premotor Cortex (PMC)**
+
+20. **Temporo-parieto-occipital Junction (TPO)**
+
+21. **Superior Temporal Plane (STP)**
+
+22. **Planum Temporale (PT)**
+
+23. **Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)**
+
+24. **Middle Superior Temporal Cortex**
+
+25. **Anterior Portion of the pSTG/S**
+
+These regions are involved in various cognitive and motor functions, including language, memory, executive functions, motor control, and sensory processing.

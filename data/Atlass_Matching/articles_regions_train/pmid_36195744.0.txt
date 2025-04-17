@@ -1,0 +1,89 @@
+## Brain Regions and Sub-regions
+
+1. **Default-mode network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Ventral medial prefrontal cortex (vmPFC)
+   - Inferior parietal lobule (IPL)
+   - Hippocampal formation (HF+)
+   - Lateral temporal cortex (LTC)
+   - Retrosplenial cortex (Rsp)
+   - Dorsal medial prefrontal cortex (dmPFC)
+
+2. **Dorsal attention network (DAN)**
+   - Frontal eye fields (FEF)
+   - Intraparietal sulcus (IPS)
+   - Superior parietal lobule (SPL)
+   - Middle temporal motion complex (MT+)
+
+3. **Frontoparietal network (FPN)**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Anterior insula (AI)
+   - Anterior inferior parietal lobule (aIPL)
+   - Inferior frontal junction (IFJ)
+
+4. **Ventral attention network (VAN)**
+   - Temporoparietal junction (TPJ)
+   - Ventral frontal cortex (VFC)
+   - Anterior insula (AI)
+   - Middle and anterior cingulate cortex (MCC/ACC)
+
+5. **Somatomotor network (SMN)**
+   - Primary motor cortex (M1)
+   - Primary somatosensory cortex (S1)
+   - Premotor cortex (PMC)
+   - Supplementary motor area (SMA)
+
+6. **Visual network (VIS)**
+   - Primary visual cortex (V1)
+   - Extrastriate cortex (V2, V3, V4, V5/MT)
+   - Fusiform gyrus (FG)
+   - Lateral occipital cortex (LOC)
+
+7. **Limbic network (LIMB)**
+   - Amygdala
+   - Hippocampus
+   - Orbitofrontal cortex (OFC)
+   - Anterior cingulate cortex (ACC)
+
+8. **Subcortical regions**
+   - Thalamus
+   - Basal ganglia (including the caudate, putamen, and globus pallidus)
+   - Hypothalamus
+   - Brainstem
+
+9. **Lateral parietal regions**
+   - Ventral postcentral gyrus
+   - Supramarginal gyrus
+   - Angular gyrus
+
+10. **Additional specific regions**
+    - Ventral area 8A (8Av)
+    - Area 7Am
+    - Area 7PC
+    - Area 6a
+    - Area 6v
+    - Area PFt
+    - Area FEF
+    - Area 43
+    - Area FOP4
+    - Area 5mv
+    - Area 9-46v
+    - Area IFSa
+    - Area VIP
+    - Area FST
+    - Area VMV1
+    - Area V4
+    - Area V3A
+
+These regions are involved in various cognitive functions including but not limited to:
+
+- **DMN**: Self-referential thought, autobiographical memory, and mind-wandering.
+- **DAN**: Voluntary allocation of attention and working memory.
+- **FPN**: Cognitive control and decision-making.
+- **VAN**: Stimulus-driven attention and salience detection.
+- **SMN**: Motor control and somatosensory processing.
+- **VIS**: Visual processing.
+- **LIMB**: Emotion regulation and memory.
+- **Subcortical regions**: Motor control, emotion, and homeostatic functions.
+- **Lateral parietal regions**: Integration of sensory information and cognitive processing.
+- **Additional specific regions**: Various roles in attention, motor control, and sensory processing.

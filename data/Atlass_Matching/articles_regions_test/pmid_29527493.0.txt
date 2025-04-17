@@ -1,0 +1,84 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Inferior frontal gyrus
+
+2. **Amygdala**
+   - Bilateral amygdala
+   - Left amygdala
+   - Right amygdala
+
+3. **Retrosplenial Cortex**
+
+4. **Hippocampus**
+
+5. **Default Mode Network (DMN)**
+
+6. **Limbic Region**
+
+7. **Precentral Gyrus**
+   - Right precentral gyrus
+
+8. **Precuneus**
+
+9. **Frontotemporal Cortices**
+   - Left superior frontal gyrus
+   - Left middle frontal gyrus
+   - Bilateral temporal fusiform cortex
+
+10. **Parietal Opercular Cortex**
+    - Right parietal opercular cortex
+
+11. **Frontal Pole**
+    - Right frontal pole
+    - Left frontal pole
+
+12. **Brainstem/Cerebellum**
+
+13. **Inferior Temporal Gyrus**
+    - Right inferior temporal gyrus
+
+14. **Middle Temporal Gyrus**
+    - Right middle temporal gyrus
+
+15. **Putamen**
+
+16. **Lateral Occipital Cortex**
+    - Right lateral occipital cortex
+
+17. **Paracingulate Gyrus**
+    - Right paracingulate gyrus
+
+18. **Temporal Areas**
+
+19. **Occipital Cortex**
+
+20. **Postcentral Gyrus**
+
+21. **Frontal Areas**
+
+22. **Temporal Pole**
+    - Right temporal pole
+
+23. **Central Opercular Cortex**
+    - Bilateral central opercular cortex
+
+24. **Anterior Cingulate Cortex**
+
+25. **Frontal Medial Cortex**
+    - Right frontal medial cortex
+
+26. **Cingulo-Opercular Network**
+    - Dorsal anterior cingulate cortex
+    - Operculum/insula
+    - Anterior thalamus
+
+27. **Orbitofrontal Cortex**
+    - Right orbitofrontal cortex
+
+28. **Ventromedial Prefrontal Cortex**
+
+29. **Posterior Cingulate Cortex**
+
+These regions are involved in various cognitive functions, including emotion regulation, language processing, memory, and executive functions.

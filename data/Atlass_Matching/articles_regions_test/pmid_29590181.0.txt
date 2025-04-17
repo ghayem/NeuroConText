@@ -1,0 +1,18 @@
+## Brain Regions and Sub-Regions:
+
+1. **Right Inferior Frontal Gyrus (rIFG)**
+2. **Pre-Supplementary Motor Area (preSMA)**
+3. **Subthalamic Nucleus**
+4. **Ventrolateral Prefrontal Cortex (VLPFC)**
+5. **Right Dorsolateral Prefrontal Cortex (DLPFC)**
+6. **Left Orbitofrontal Cortex (lOFC)**
+7. **Left Supplementary Motor Area (lSMA)**
+8. **Right Middle Frontal Gyrus (rMFG)**
+9. **Left Thalamus**
+10. **Motor Cortex (M1)**
+11. **Premotor Cortex**
+12. **Putamen**
+13. **Basal Ganglia**
+14. **Striatum**
+
+- These regions are involved in cognitive functions such as inhibitory control, motor response, and executive functions.

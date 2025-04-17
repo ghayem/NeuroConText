@@ -1,0 +1,42 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Anterior Cingulate Cortex (ACC)**
+
+3. **Mesolimbic Circuit**
+   - Putamen
+   - Parahippocampal gyrus
+   - Insula
+   - Cerebellum
+   - Supramarginal gyrus (SMG)
+
+4. **Ventral Striatum (VS)**
+
+5. **Ventromedial Prefrontal Cortex**
+
+6. **Superior Frontal Gyrus**
+
+7. **Posterior Cingulate Cortex**
+
+8. **Postcentral Gyrus**
+
+9. **Prefrontal Cortex (PFC)**
+   - Superior frontal gyrus
+   - Cingulate cortex
+
+10. **Frontal Lobe Regions**
+    - mPFC
+    - ACC
+
+11. **Dorsal Striatal Regions**
+    - Putamen
+
+12. **Hippocampal-Parahippocampal Region**
+
+13. **Frontal–Limbic–Temporal–Parietal Network**
+    - Supramarginal gyrus (SMG)
+
+14. **Ventral Tegmental Area**
+
+These regions are involved in various cognitive functions including reward processing, learning, decision-making, salience attribution, and effort-based decisions.

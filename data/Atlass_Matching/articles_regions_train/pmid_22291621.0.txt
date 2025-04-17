@@ -1,0 +1,32 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Visual Cortex**
+   - Neocortical visual areas
+   - Occipital areas
+   - Visual cortex (specifically, pyramidal cell layers)
+
+2. **Thalamus**
+
+3. **Frontal Areas**
+   - Frontal cortex
+
+4. **Parietal Areas**
+   - Parietal cortex
+
+5. **Motor Cortex**
+
+6. **Prefrontal Cortex (PFC)**
+   - Inferior temporal (IT)
+
+7. **Ventral Visual Pathway**
+   - V1 (Primary Visual Cortex)
+   - V4
+
+8. **Temporal Cortex**
+   - Inferior temporal (IT)
+
+9. **Sensory Cortex**
+
+10. **Auditory Cortex**
+
+These regions are involved in various cognitive functions, including sensory processing, face and object recognition, memory retrieval, decision-making, working memory, and motor coordination.

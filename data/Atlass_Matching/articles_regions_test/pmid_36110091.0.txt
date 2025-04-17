@@ -1,0 +1,32 @@
+## The brain regions:
+
+1. **Inferior Frontal Gyrus (IFG)**
+   - Left IFG
+   - Bilateral IFG
+
+2. **Cerebellum Posterior Lobe (CPL)**
+   - Left CPL
+
+3. **Middle Occipital Gyrus (MOG)**
+   - Bilateral MOG
+
+4. **Precuneus (PCU)**
+   - Right PCU
+   - Left PCC/PCU
+
+5. **Lingual Gyrus (LG)**
+   - Right LG/cuneus
+
+6. **Anterior Cingulate Cortex (ACC)**
+   - Bilateral ACC
+
+7. **Middle Cingulate Cortex (MCC)**
+   - Bilateral MCC
+
+8. **Posterior Cingulate Cortex (PCC)**
+   - Left PCC/PCU
+
+9. **Parahippocampal Gyrus (PHG)**
+   - Left PHG
+
+- These regions are involved in these cognitive functions: pain processing, cognitive control, attention, memory, and emotional processing.

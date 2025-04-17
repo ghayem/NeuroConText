@@ -1,0 +1,29 @@
+## Brain Regions and Sub-Regions:
+
+1. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+2. **Cerebellar Crus I**
+
+3. **Supramarginal Gyrus (SMG)**
+
+4. **Angular Gyrus (AG)**
+
+5. **Inferior Parietal Lobule (IPL)**
+
+6. **Temporoparietal Junction (TPJ)**
+
+7. **Frontoparietal Network (FPN)**
+
+8. **Salience Network (SN)**
+
+9. **Posterior Cingulate Cortex**
+
+10. **Temporal Cortex**
+
+11. **Default Mode Network (DMN)**
+
+12. **Cerebellum**
+    - Posterior lobe of cerebellum
+    - Cerebellar lobule VI
+
+- These regions are involved in these cognitive functions: executive functions, memory, attention, social processing, language, and emotion regulation.

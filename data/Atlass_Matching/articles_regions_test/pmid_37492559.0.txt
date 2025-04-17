@@ -1,0 +1,43 @@
+## Brain Regions and Sub-regions:
+
+1. **Postcentral Gyrus**
+
+2. **Precentral Gyrus**
+
+3. **Supplementary Motor Area (SMA)**
+
+4. **Premotor Cortex**
+
+5. **Putamen**
+
+6. **Middle Cingulate Cortex**
+
+7. **Inferior Frontal Gyrus (IFG)**
+    - Ventral premotor cortex (PMv)
+    - Inferior parietal lobule (IPL)
+    - Intraparietal sulcus (IPS)
+    - Anterior cingulate cortex (ACC)
+    - Supplementary motor area (SMA)
+    - Sensorimotor cortex
+    - Primary motor cortex (M1)
+    - Superior temporal sulcus (STS)
+    - Dorsal premotor cortex (PMd)
+    - Middle temporal gyrus (MTG)
+    - Superior parietal lobule (SPL)
+    - Cerebellum
+    - Basal ganglia
+    - Insula
+    - Anterior insula (AI)
+    - Globus pallidus (GP)
+    - Anterior mesial frontal cortex
+    - Dorsolateral prefrontal cortex (dlPFC)
+    - Medial prefrontal cortex (mPFC)
+    - Mediodorsal thalamus
+    - Ventrolateral/ventroanterior thalamus
+    - Ventroposterolateral thalamus
+    - Lateroposterior thalamus
+    - Middle cingulate cortex (MCC)
+    - Thalamus (TH)
+    - Posterior cerebellum (crus II, lobule VI)
+
+- These regions are involved in these cognitive functions: motor control, attentional focus, sequence learning and memory, visuomotor imagery, action and intention understanding, emotion understanding, aesthetic creation and expression, and social cohesion.

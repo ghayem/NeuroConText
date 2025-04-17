@@ -1,0 +1,41 @@
+## Brain Regions and Sub-regions:
+
+1. **Medial Parietal Cortex**
+    - Ventral precuneus
+
+2. **Anterior Prefrontal Cortex**
+
+3. **Inferior Parietal Cortex**
+
+4. **Anterior Cingulate Cortex**
+
+5. **Dorsolateral Prefrontal Cortex**
+
+6. **Posterior Parietal Cortex**
+
+7. **Medial Temporal Lobes (MTL)**
+
+8. **Basal Ganglia**
+    - Caudate (head and body)
+    - Putamen
+
+9. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+10. **Temporal Pole**
+
+11. **Insular Cortex**
+
+12. **Precentral Gyrus**
+
+13. **Temporo-parietal Regions**
+
+14. **Frontal Cortex**
+    - Prefrontal cortex
+    - Frontoparietal regions
+
+15. **Visual Cortex**
+
+16. **Temporal Cortex**
+    - Bilateral MTL
+
+These regions are involved in various cognitive functions including judgment, decision-making, memory, attention, and categorization.

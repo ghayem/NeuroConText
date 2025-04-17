@@ -1,0 +1,60 @@
+## Brain Regions and Sub-Regions:
+
+1. **Substantia Nigra (SN)**
+   - Midbrain
+
+2. **Striatum**
+
+3. **Cingulate Gyrus**
+   - Left middle cingulate
+   - Right middle cingulate
+
+4. **Occipital Lobe**
+   - Left lingual gyrus
+   - Right calcarine
+   - Left fusiform gyrus
+   - Left inferior occipital gyrus
+
+5. **Caudate Nucleus**
+   - Left caudate
+
+6. **Basal Ganglia**
+   - Caudate nucleus
+   - Thalamus
+   - Limbic system
+
+7. **Cerebellum**
+   - Left cerebellum
+   - Right quadrangular lobe
+
+8. **Thalamus**
+   - Mediodorsal thalamus
+
+9. **Hypothalamus**
+
+10. **Frontal Lobe**
+
+11. **Temporoparietal Junction**
+
+12. **Parietal Lobe**
+
+13. **Insula**
+
+14. **Anterior Cingulate Cortex**
+
+15. **Prefrontal Lobe**
+
+16. **Nigrostriatal Pathway**
+
+17. **Orbitofrontal Cortex**
+   - Bilateral orbitofrontal
+
+18. **Temporal Lobe**
+   - Right temporal
+   - Right inferior frontal gyrus
+
+19. **Limbic System**
+
+20. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in cognitive functions such as motor control, emotion regulation, visual processing, cognitive impairment, and various other neurological functions.

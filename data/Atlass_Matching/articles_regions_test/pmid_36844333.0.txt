@@ -1,0 +1,50 @@
+1. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Left dorsolateral prefrontal cortex (L dlPFC)
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Left anterior cingulate cortex (L ACC)
+   - Right anterior cingulate cortex (R ACC)
+
+3. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+4. **Precuneus**
+   - Left precuneus (L precuneus)
+
+5. **Frontal Gyrus**
+   - Inferior frontal gyrus (IFG)
+     - Left inferior frontal gyrus (L IFG)
+     - Right inferior frontal gyrus (R IFG)
+   - Middle frontal gyrus (MFG)
+     - Right middle frontal gyrus (R MFG)
+   - Superior frontal gyrus (SFG)
+     - Right superior frontal gyrus (R SFG)
+     - Left superior frontal gyrus (L SFG)
+
+6. **Superior Temporal Gyrus (STG)**
+   - Left superior temporal gyrus (L STG)
+   - Right superior temporal gyrus (R STG)
+
+7. **Lingual Gyrus**
+   - Left lingual gyrus (L lingual gyrus)
+
+8. **Insula**
+   - Right insula (R insula)
+
+9. **Putamen**
+   - Left putamen (L putamen)
+   - Right putamen (R putamen)
+
+10. **Thalamus**
+    - Right thalamus (R thalamus)
+
+- These regions are involved in cognitive functions such as:
+  - **dlPFC**: Regulation of distressing affect and irregular heart rate, distress tolerance, narrative reconstruction, self-referential cognition, cortical thickness, and functional connectivity.
+  - **ACC**: Synthesis of thoughts and feelings into a self-referential worldview and belief system.
+  - **vmPFC**: Self-referential cognition.
+  - **Precuneus**: Recoding trauma memories, abatement of sensitivity to trauma triggers.
+  - **Frontal Gyrus**: Attention to threat stimuli, creative thinking, cognitive restructuring, executive functions.
+  - **STG**: Auditory processing of lingual and sonic stimuli.
+  - **Lingual Gyrus**: Divergent thinking, declarative memory reconstruction, emotion processing.
+  - **Insula**: Emotion regulation, extinction of pain and fear responses.
+  - **Putamen**: Cognitive processing of language and spoken language articulation.
+  - **Thalamus**: Relaying afferent sensory stimuli from the autonomic nervous system to the frontal lobe.

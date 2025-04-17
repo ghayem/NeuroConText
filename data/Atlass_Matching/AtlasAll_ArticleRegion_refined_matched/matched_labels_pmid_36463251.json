@@ -1,0 +1,38 @@
+{
+  "AAL": [
+    "Caudate_L",
+    "Caudate_R"
+  ],
+  "Harvard_Oxford": [],
+  "DiFuMo": [
+    "Caudate",
+    "Caudate LH",
+    "Caudate anterior RH",
+    "Caudate antero-superior",
+    "Caudate posterior ",
+    "Caudate posterior LH",
+    "Caudate posterior RH",
+    "Caudate superior anterior",
+    "Caudate superior posterior",
+    "Cingulate anterior RH",
+    "Cingulate mid-anterior RH",
+    "Cingulate middle RH",
+    "Cingulate middle anterior RH",
+    "Cingulate middle posterior RH",
+    "Cingulate sulcus posterior RH",
+    "Middle temporal gyrus middle superior LH",
+    "Middle temporal gyrus posterior superior LH",
+    "Superior temporal gyrus anterior",
+    "Superior temporal gyrus anterior LH",
+    "Superior temporal gyrus anterior RH",
+    "Superior temporal gyrus anterior medial",
+    "Superior temporal gyrus anterior medial RH",
+    "Superior temporal gyrus mid-posterior RH",
+    "Superior temporal gyrus middle LH",
+    "Superior temporal gyrus middle RH",
+    "Superior temporal gyrus middle superior LH",
+    "Superior temporal gyrus posterior RH",
+    "Superior temporal gyrus posterior lateral LH",
+    "Superior temporal gyrus posterior medial LH"
+  ]
+}

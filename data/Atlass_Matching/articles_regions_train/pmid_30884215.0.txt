@@ -1,0 +1,30 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Left hippocampus (L-Hipp)
+   - Right hippocampus (R-Hipp)
+   - Thalamus (Thal)
+   - Right inferior parietal (R-IP)
+   - Left inferior parietal (L-IP)
+   - Left inferior parietal-2 (L-IP(2))
+   - Anterior cingulate gyrus (ACG)
+   - Right middle frontal gyrus (R-MFG)
+   - Left middle frontal gyrus (L-MFG)
+   - Precuneus (Prec)
+   - Cerebellum (Cer)
+
+2. **Other Regions**
+   - Left/Right insula
+   - Left/Right dorsolateral prefrontal cortex
+   - Left/Right supramarginal gyrus
+   - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Self-referential processing (DMN)
+- Episodic memory (Hippocampus)
+- Emotion regulation (Anterior cingulate gyrus)
+- Language and speech (Supramarginal gyrus)
+- Executive functions (Dorsolateral prefrontal cortex)
+- Sensory and motor functions (Cerebellum)

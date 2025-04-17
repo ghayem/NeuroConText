@@ -1,0 +1,19 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Left Inferior Frontal Gyrus (IFG)**
+   - Pars triangularis
+
+2. **Right Temporoparietal Junction (TPJ)**
+
+3. **Right Insula**
+
+4. **Left Insula**
+
+5. **Right Postcentral Gyrus**
+
+These regions are involved in various cognitive functions, including:
+- **Left Inferior Frontal Gyrus (IFG)**: Semantic rule retrieval, semantic working memory, and processing of deontic rules.
+- **Right Temporoparietal Junction (TPJ)**: Inference of others' intentions during moral judgment.
+- **Right Insula**: Emotional processing, self-awareness, and cognitive functioning.
+- **Left Insula**: Similar functions as the right insula, often involved in emotional and cognitive processes.
+- **Right Postcentral Gyrus**: Sensory processing and motor functions.

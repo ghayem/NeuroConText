@@ -1,0 +1,25 @@
+1. **Brainstem**
+    - Spinal trigeminal nucleus (SpV)
+        - Left SpV
+        - Right SpV
+    - Midbrain periaqueductal gray matter (PAG)
+    - Dorsal pons
+        - Dorsolateral pons (dlPons)
+            - Left dlPons
+            - Right dlPons
+        - Dorsomedial pons (dmPons)
+    - Hypothalamus
+    - Substantia nigra (SN)
+        - Left SN
+
+2. **Central Nervous System (CNS)**
+    - Cerebrovascular inputs
+    - Cortex
+
+3. **Trigeminovascular neurons**
+
+4. **Nucleus accumbens**
+
+5. **Ascending trigeminal pathway**
+
+These regions are involved in the pathophysiology of migraine, including sensitization of meningeal nociceptors, activation of trigeminovascular neurons, and the central processing of orofacial noxious information.

@@ -1,0 +1,54 @@
+## Brain Regions and Sub-regions
+
+1. **Frontoparietal Cortices**
+   - Dorsal executive network
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Medial prefrontal cortex
+
+2. **Emotion Processing Areas**
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Medial prefrontal cortex
+   - Insula
+
+3. **Limbic Emotion Response System**
+   - Amygdala
+
+4. **Sensorimotor Cortex**
+   - Bilateral sensorimotor cortex
+   - Central sulcus
+   - Pre-central gyrus
+   - Paracentral gyri
+   - Supplementary motor area
+
+5. **Temporal Cortices**
+   - Bilateral temporal cortices
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Superior temporal plane (STP)
+   - Planum temporale (PT)
+   - Posterior superior temporal gyrus and sulcus (pSTG/S)
+   - Temporo-parieto-occipital junction (TPO)
+
+6. **Prefrontal Cortex**
+   - Bilateral superior frontal sulci (dorsolateral prefrontal cortex; dlPFC)
+   - Inferior frontal gyri (ventrolateral prefrontal cortex; vlPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+   - Orbital part of the right inferior frontal gyrus
+
+7. **Anterior Cingulate Cortex (ACC)**
+   - Bilateral anterior cingulate cortex
+
+8. **Insula**
+   - Right insula
+
+9. **Intraparietal Gyrus**
+   - Intraparietal gyrus
+
+10. **Occipito-temporal and Occipito-temporo-parietal Junctions**
+    - Occipito-temporal junction
+    - Occipito-temporo-parietal junction
+
+11. **Posterior Occipitoparietal Regions**
+    - Posterior occipitoparietal regions
+
+These regions are involved in various cognitive functions, including emotion regulation, executive functions, and sensorimotor processing.

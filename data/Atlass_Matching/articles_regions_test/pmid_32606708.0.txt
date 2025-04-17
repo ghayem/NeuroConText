@@ -1,0 +1,49 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Default Mode Network (DMN)**
+   - Rostromedial prefrontal cortex
+   - Lateral parietal regions
+   - Posterior cingulate cortex/precuneus
+   - Hippocampi
+
+2. **Salience Network**
+
+3. **Cerebellum Network**
+
+4. **Sensorimotor Network**
+
+5. **Central Executive Network**
+
+6. **Frontoparietal-Temporal Networks**
+
+7. **Executive Control Network**
+   - Left supplementary motor cortex
+   - Supramarginal gyrus
+   - Anterior cingulate
+   - Paracingulate
+   - Inferior parietal lobule
+   - Parahippocampal gyrus
+   - Bilateral insula
+   - Precuneus
+
+8. **Visual Network**
+
+9. **Auditory Network**
+   - Right postcentral gyrus
+   - Superior temporal gyrus
+   - Heschl’s gyrus
+   - Posterior insular
+   - Left insula
+   - Cingulate gyrus
+
+10. **White Matter Tracts**
+
+11. **Supplementary Motor Area (SMA)**
+
+12. **Left Inferior Frontal Gyrus**
+
+13. **Right Ventral Caudate/Nucleus Accumbens**
+
+14. **Bilateral Supramarginal Gyrus**
+
+These regions are involved in various cognitive functions, including episodic memory, self-referential processing, auditory information processing, attention control, and motor planning and execution.

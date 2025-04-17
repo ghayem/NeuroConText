@@ -1,0 +1,76 @@
+## Brain Regions and Sub-regions
+
+1. **Right Postcentral Gyrus**
+
+2. **Right Superior Frontal Gyrus**
+
+3. **Bilateral Anterior Insula**
+
+4. **Right Anterior Cingulate Cortex**
+
+5. **Bilateral Pre-frontal Cortex**
+
+6. **Left Precentral Cortex**
+
+7. **Right Lingual Cortex**
+
+8. **Right Middle Frontal Gyrus**
+
+9. **Right Parahippocampal Gyrus**
+
+10. **Right Inferior and Middle Temporal Gyri**
+
+11. **Bilateral Inferior Ventral Pons**
+
+12. **Right Cerebellum Crus I**
+
+13. **Left Insula**
+
+14. **Left Inferior Parietal Gyrus**
+
+15. **Right Superior Parietal Gyrus**
+
+16. **Left Precentral Cortex**
+
+17. **Cerebellar Cortex**
+    - Left Lobule VIII
+    - Bilateral Lobule VI
+    - Crus I/II
+
+18. **Left Pyramis**
+
+19. **Left Superior Temporal Gyrus**
+
+20. **Left Middle Occipital Gyrus**
+
+21. **Inferior and Middle Frontal Gyrus**
+
+22. **Middle Occipital and Lingual Gyrus**
+
+23. **Pyramis of the Vermis**
+
+24. **Thalamus**
+
+25. **Right Cerebellum Crus II Area**
+
+26. **Left Inferior Temporal Gyrus**
+
+27. **Right Insula**
+
+28. **Right Caudate Nucleus**
+
+29. **Bilateral Lentiform Nucleus**
+
+30. **Bilateral Middle Temporal Gyrus**
+
+31. **Right Heschl's Gyrus**
+
+32. **Left Supramarginal Gyrus**
+
+33. **Left Parahippocampal Gyrus**
+
+34. **Left Middle Temporal Gyrus**
+
+35. **Right Cerebellum Crus I Area**
+
+36. **Right Supplementary Motor Area**

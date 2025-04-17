@@ -1,0 +1,76 @@
+### Brain Regions and Sub-Regions
+
+1. **Peri-Sylvian Network**
+   - This region is involved in language processing and is particularly affected in nfvPPA.
+
+2. **Anterior Temporal Lobe Network**
+   - This region is involved in semantic memory and is particularly affected in svPPA.
+
+3. **Temporo-Parietal Junction**
+   - This region is involved in auditory verbal working memory and is particularly affected in lvPPA.
+
+4. **Heschl's Gyrus**
+   - This region is involved in primary auditory processing.
+
+5. **Superior Temporal Gyrus**
+   - This region is involved in auditory processing and language comprehension.
+
+6. **Posterior Superior Temporal Cortex**
+   - Planum temporale
+   - Posterior superior temporal gyrus and sulcus (pSTG/S)
+   - This region is involved in phonemic processing.
+
+7. **Medial Heschl's Gyrus**
+   - This region is involved in auditory processing and is particularly affected in nfvPPA.
+
+8. **Anterior Cingulate Cortex**
+   - This region is involved in temporal pattern integration and speech production.
+
+9. **Supplementary Motor Cortex**
+   - This region is involved in motor planning and is particularly affected in nfvPPA.
+
+10. **Caudate Nucleus**
+    - This region is involved in sequence entropy processing and is particularly affected in svPPA.
+
+11. **Orbitofrontal Cortex**
+    - This region is involved in signal information content processing and is particularly affected in svPPA.
+
+12. **Inferior Frontal Gyrus**
+    - This region is involved in speech signal entropy processing and is particularly affected in svPPA.
+
+13. **Dorsolateral Prefrontal Cortex**
+    - This region is involved in phonemic structure processing and is particularly affected in lvPPA.
+
+14. **Precuneus**
+    - This region is involved in auditory stimulation and is particularly affected in healthy controls.
+
+15. **Temporo-Parieto-Occipital Junction**
+    - This region is involved in auditory stimulation and is particularly affected in nfvPPA.
+
+16. **Posterior Inferior Temporal Sulcus**
+    - This region is involved in auditory stimulation and is particularly affected in svPPA.
+
+17. **Posterior Temporo-Parietal Cortices**
+    - This region is involved in auditory stimulation and is particularly affected in healthy controls, nfvPPA, and svPPA.
+
+18. **Frontotemporal Lobar Degeneration Spectrum**
+    - This region is involved in non-Alzheimer proteinopathies and is particularly affected in nfvPPA and svPPA.
+
+19. **Dorsal Striatum**
+    - This region is involved in the analysis of auditory regularity and predictability.
+
+20. **Planum Temporale**
+    - This region is involved in phonemic processing and is particularly affected in lvPPA.
+
+### Cognitive Functions
+- **Language Processing**: Peri-Sylvian network, anterior temporal lobe network, temporo-parietal junction, superior temporal gyrus, posterior superior temporal cortex.
+- **Memory**: Anterior temporal lobe network.
+- **Executive Functions**: Anterior cingulate cortex, supplementary motor cortex, dorsolateral prefrontal cortex.
+- **Auditory Processing**: Heschl's gyrus, medial Heschl's gyrus, superior temporal gyrus, posterior superior temporal cortex, precuneus, temporo-parieto-occipital junction, posterior inferior temporal sulcus, posterior temporo-parietal cortices.
+- **Phonemic Processing**: Posterior superior temporal cortex, planum temporale.
+- **Sequence Entropy Processing**: Caudate nucleus, orbitofrontal cortex, inferior frontal gyrus.
+- **Temporal Pattern Integration**: Anterior cingulate cortex.
+- **Motor Planning**: Supplementary motor cortex.
+- **Speech Production**: Anterior cingulate cortex.
+- **Auditory Regularity and Predictability**: Dorsal striatum.
+- **Non-Alzheimer Proteinopathies**: Frontotemporal lobar degeneration spectrum.

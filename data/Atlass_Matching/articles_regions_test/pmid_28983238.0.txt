@@ -1,0 +1,97 @@
+### Brain Regions and Sub-Regions
+
+1. **Hemispheres**
+   - Left hemisphere
+   - Right hemisphere
+
+2. **Frontal Lobe**
+   - Left inferior frontal gyrus (IFG)
+     - Broca's area (BA 44/45)
+     - Frontal operculum
+   - Bilateral ventral premotor cortices (PMv)
+   - Anterior banks of the precentral gyri
+   - Left dorsal premotor cortex (PMd)
+   - Supplementary motor area (SMA)
+   - Middle part of the cingulate cortex (mCC)
+   - Bilateral anterior insulae (aI)
+
+3. **Parietal Lobe**
+   - Left superior temporal sulcus (STS)
+   - Intraparietal sulcus (IPS)
+   - Angular gyrus (ANG)
+   - Supramarginal gyrus (SMG)
+
+4. **Temporal Lobe**
+   - Bilateral inferior temporal gyri (ITG)
+   - Fusiform gyri (FG)
+   - Superior temporal sulcus (STS)
+   - Superior temporal gyrus (STG)
+   - Caudal middle temporal gyrus (cMTG)
+   - Middle temporal gyrus (MTG)
+
+5. **Occipital Lobe**
+   - Left and right inferior parts of the middle occipital gyri (MOG)
+   - Occipital poles (OP)
+   - Cuneus
+   - Parieto-occipital sulcus
+
+6. **Subcortical Structures**
+   - Left and right putamen
+   - Caudate nucleus
+   - Thalamus (Th)
+   - Caudal middle frontal gyrus (cMFG)
+   - Superior frontal sulcus (SFS)
+   - Middle frontal gyrus (MFG)
+   - Insular cortex
+   - Heschl's gyri
+
+7. **Cerebellum**
+   - Anterior lobes of the cerebellum
+   - Left cerebellar seed
+
+8. **Default Mode Network (DMN)**
+   - Angular gyrus (ANG)
+   - Posterior cingulate cortex (pC)
+   - Superior frontal gyrus (SFG)
+   - Middle temporal gyrus (MTG)
+
+9. **Ventral Attention Network**
+   - Supramarginal gyrus (SMG)
+   - Anterior insula (aI)
+   - Anterior middle frontal gyrus (aMFG)
+
+10. **Wernicke's Area (WA)**
+    - Superior temporal gyrus (STG)
+    - Superior temporal sulcus (STS)
+
+11. **Other Structures**
+    - Precuneus (pC)
+    - Postcentral sulcus
+    - Anterior middle frontal gyrus (aMFG)
+    - Rostral division of middle frontal gyrus (MFG)
+
+### Cognitive Functions
+
+- **Language**
+  - Language production
+  - Language lateralization
+  - Verbal fluency
+  - Word generation
+  - Word reading
+  - Gesture planning
+  - Visuospatial processing
+  - Semantic processes
+
+- **Memory**
+  - Autobiographical memory recall
+
+- **Executive Functions**
+  - Motor planning and execution
+  - Praxis planning
+  - Action imitation
+
+- **Attention**
+  - Visuospatial attention
+
+- **Mentalization**
+  - Internal mentalization related to plans for the future

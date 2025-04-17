@@ -1,0 +1,41 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual anterior cingulate cortex (sgACC)
+   - Pregenual anterior cingulate cortex (pgACC)
+
+2. **Prefrontal Cortex (PFC)**
+   - Right ventral prefrontal cortex (VPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Medial prefrontal cortex (MPFC)
+   - Pars opercularis of the left inferior frontal gyrus (IFG)
+
+3. **Precuneus**
+
+4. **Insula**
+   - Left insula (AI)
+
+5. **Superior Temporal Gyrus**
+
+6. **Temporal Pole**
+
+7. **Superior Parietal Lobe (SPL)**
+
+8. **Frontal Eye Fields (FEF)**
+   - Bilateral frontal eye fields located in the superior frontal gyrus
+
+9. **Supplementary Motor Area (SMA)**
+
+10. **Postcentral Gyrus**
+
+11. **Middle Temporal Cortex**
+    - Extending to fusiform gyrus (FFG)
+
+12. **Occipital Regions**
+    - Bilateral occipital regions (V5/MT)
+
+13. **Cerebellum**
+    - Left cerebellum
+
+These regions are involved in various cognitive and emotional processes, including social exclusion, emotional regulation, and visuo-motor processing.

@@ -1,0 +1,27 @@
+### Brain Regions and Sub-regions
+
+1. **Prefrontal Cortex (PFC)**
+    - Ventrolateral PFC
+    - Medial PFC
+    - Dorsolateral PFC
+
+2. **Inferior Frontal Gyrus (IFG)**
+    - Left IFG
+    - Right IFG
+
+3. **Middle Frontal Gyrus (MFG)**
+    - Left MFG
+    - Right MFG
+
+4. **Fronto-basal-ganglia Circuit**
+
+### Cognitive Functions Involved
+
+- **Emotional Regulation**
+    - Affective control, such as reappraisal, involves the adaptive modulation of emotions in response to unpleasant stimuli.
+
+- **Cognitive Control**
+    - Inhibition of inappropriate or ineffective behavior.
+
+- **Executive Functions**
+    - Both affective and cognitive control are part of the executive function system.

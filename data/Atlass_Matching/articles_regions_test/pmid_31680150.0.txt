@@ -1,0 +1,27 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Medial prefrontal cortex (mPFC)
+   - Orbitofrontal cortex
+
+2. **Other Cortical Regions**
+   - Anterior cingulate cortex
+   - Posterior parietal cortex
+   - Somatosensory cortex
+   - Inferior frontal gyrus (IFG)
+   - Supplementary motor area (SMA)
+
+3. **Subcortical Regions**
+   - Amygdala
+   - Striatum
+   - Ventral striatum
+   - Thalamus
+
+4. **Other Regions**
+   - Temporal regions
+   - Parietal regions
+
+These regions are involved in various cognitive functions, including emotion regulation, decision-making, and cognitive control processes.

@@ -1,0 +1,68 @@
+# Brain Regions and Sub-Regions
+
+1. **Left Inferior Frontal Gyrus (LIFG)**
+   - Pars opercularis
+   - Pars triangularis
+   - Pars orbitalis
+
+2. **Left Middle Frontal Gyrus (LMFG)**
+
+3. **Left Middle Temporal Gyrus (LMTG)**
+   - Left posterior middle temporal gyrus (LpMTG)
+
+4. **Left Precentral Gyrus (LPCG)**
+
+5. **Supplementary Motor Areas (SMA)**
+
+6. **Left Anterior Insula**
+
+7. **Ventral Occipito-Temporal Cortex**
+
+8. **Prefrontal Regions**
+
+9. **Dorsolateral Prefrontal Cortex**
+   - Including LMFG
+
+10. **Ventrolateral Prefrontal Cortex**
+    - Including LIFG
+
+11. **Posterior Brain Regions**
+    - Involved in basic-level semantic processing
+
+12. **Left Hemisphere Language Regions**
+    - Left middle temporal gyrus (LMTG)
+    - Pars opercularis and triangularis in the left inferior frontal gyrus (LIFG)
+
+13. **Left Middle Frontal Gyrus (LMFG)**
+    - Part of the multiple demands network
+    - Also known as the task-positive or frontotemporal attention network
+
+14. **Superior Longitudinal Fasciculus (SLF)**
+    - Lateral portion
+    - Arcuate fasciculus
+
+15. **Inferior Occipito-Frontal Fasciculus (IFOF)**
+
+16. **Middle and Inferior Longitudinal Fasciculi**
+
+17. **Uncinate Fasciculus (UF)**
+
+18. **Association U-fibers**
+    - Connect pars opercularis, pars triangularis, and pars orbitalis in LIFG
+    - Connect the frontal operculum to the dorsolateral prefrontal cortex
+
+19. **Left Posterior Superior Temporal Gyrus (LpSTG)**
+
+20. **Anterior Temporal Lobe (ATL)**
+
+21. **Superior Temporal Plane (STP)**
+
+22. **Planum Temporale (PT)**
+
+23. **Temporo-Parieto-Occipital Junction (TPO)**
+
+24. **Middle Superior Temporal Cortex**
+
+25. **Anterior Portion of the pSTG/S**
+
+### These regions are involved in these cognitive functions: language, memory, and executive functions

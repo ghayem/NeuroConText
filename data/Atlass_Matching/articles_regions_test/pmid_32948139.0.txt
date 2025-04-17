@@ -1,0 +1,45 @@
+### Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex**
+
+2. **Anterior Cingulate Cortex**
+
+3. **Putamen**
+
+4. **Temporal Cortex**
+
+5. **Cerebellum**
+
+6. **Superior Temporal Gyrus**
+
+7. **Superior Parietal Gyrus**
+
+8. **Occipital Lobe**
+    - Inferior occipital gyrus
+    - Superior occipital gyrus
+
+9. **Middle Temporal Gyrus**
+
+10. **Superior Medial Frontal Gyrus**
+
+11. **Supplementary Motor Area**
+
+12. **Precentral Gyrus**
+
+13. **Supramarginal Gyrus**
+
+14. **Dorsolateral Superior Frontal Gyrus**
+
+15. **Inferior Temporal Gyrus**
+
+16. **Left Inferior Occipital Gyrus**
+
+17. **Right Superior Occipital Gyrus**
+
+18. **Right Superior Parietal Gyrus**
+
+19. **Left Middle Temporal Gyrus**
+
+20. **Medial Frontal Gyrus**
+
+These regions are involved in various cognitive functions, including attention, executive control, sensory processing, motor planning, and emotional regulation.

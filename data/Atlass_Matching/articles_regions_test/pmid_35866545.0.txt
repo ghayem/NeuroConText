@@ -1,0 +1,44 @@
+## Brain Regions and Sub-regions:
+
+1. **Cerebral Cortex**
+    - **Neocortex**
+    - **Medial Prefrontal Cortex (mPFC)**
+        - Ventral mPFC (vmPFC)
+        - Dorsal mPFC (dmPFC)
+    - **Temporoparietal Junction (TPJ)**
+    - **Precuneus (PCun)**
+    - **Supplementary Motor Area (SMA)**
+    - **Parahippocampal Gyrus (PHG)**
+    - **Posterior Superior Temporal Sulcus (pSTS)**
+    - **Anterior Intraparietal Sulcus (aIPS)**
+    - **Premotor Cortex (PMC)**
+
+2. **Cerebellum**
+    - **Posterior Cerebellum**
+        - Lobules Crus 1
+        - Lobules Crus 2
+    - **Cerebellar Crus**
+
+3. **Default Mode Network**
+    - **Medial Prefrontal Cortex (mPFC)**
+    - **Temporoparietal Junction (TPJ)**
+
+4. **Action Observation Network**
+    - **Posterior Superior Temporal Sulcus (pSTS)**
+    - **Anterior Intraparietal Sulcus (aIPS)**
+    - **Premotor Cortex (PMC)**
+    - **Supplementary Motor Area (SMA)**
+
+5. **Mentalizing Network**
+    - **Ventral mPFC (vmPFC)**
+    - **Dorsal mPFC (dmPFC)**
+    - **Temporoparietal Junction (TPJ)**
+    - **Precuneus (PCun)**
+
+6. **Spatial Navigation Network**
+    - **Hippocampus**
+    - **Parahippocampal Gyrus (PHG)**
+    - **Precuneus (PCun)**
+    - **Supplementary Motor Area (SMA)**
+
+These regions are involved in various cognitive functions, including social cognition, mentalizing, action observation, spatial navigation, and sequence learning.

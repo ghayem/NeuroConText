@@ -1,0 +1,41 @@
+1. **Auditory Network**
+   - Auditory cortex
+   - Primary auditory cortex
+
+2. **Attention Networks**
+   - Dorsal attention network (DAN)
+   - Ventral attention network (VAN)
+
+3. **Default Mode Network (DMN)**
+
+4. **Visual Network**
+   - Middle occipital gyrus (MOG)
+
+5. **Prefrontal Cortex (PFC)**
+   - Superior frontal gyrus (SFG)
+     - Left superior frontal gyrus (SFG)
+     - Right superior frontal gyrus (SFG)
+   - Orbitofrontal cortex (OFC)
+     - Left middle orbitofrontal cortex (OFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+
+6. **Cingulate Cortex**
+
+7. **Insula**
+
+8. **Thalamus**
+
+9. **Inferior Parietal Lobe (IPL)**
+
+10. **Occipital Lobe**
+
+11. **Supplementary Motor Area (SMA)**
+   - Right supplementary motor area (SMA)
+
+12. **Postcentral Gyrus (PoCG)**
+   - Left postcentral gyrus (PoCG)
+
+13. **Cerebellum**
+   - Left posterior lobe of cerebellum (PLC)
+
+These regions are involved in various functions including auditory processing, attention, memory, emotional processing, motor control, and multisensory integration.

@@ -1,0 +1,37 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Medial Prefrontal Cortex**
+
+2. **Extended Limbic Regions**
+   - Dorso-lateral prefrontal cortex
+   - Precuneus
+   - Lateral orbito-frontal cortex
+
+3. **Frontal Regions**
+
+4. **Temporal Regions**
+
+5. **Parietal Regions**
+
+6. **Rostral Anterior Cingulate**
+
+7. **Left Superior Temporal Sulcus (STS)**
+   - Middle portion of left STS
+
+8. **Sub-cortical (i.e., deep) Gray Matter (GM)**
+   - Thalamus
+   - Caudate
+   - Putamen
+   - Pallidum
+   - Hippocampus
+   - Amygdala
+   - Nucleus accumbens
+   - Ventral diencephalon
+
+9. **Gray Matter (GM)**
+
+10. **White Matter (WM)**
+
+11. **Cerebrospinal Fluid**
+
+These regions are involved in various cognitive functions, including emotional processing, sleep regulation, and sensory integration.

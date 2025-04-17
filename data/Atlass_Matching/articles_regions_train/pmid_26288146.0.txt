@@ -1,0 +1,60 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Occipital Cortex**
+   - Primary visual cortex
+   - Cuneus
+     - Anterior half of the calcarine fissure
+     - Posterior part of the cuneus
+   - Inferior occipital gyrus
+     - Right inferior occipital gyrus
+   - Retrosplenial cortex
+
+2. **Parietal Lobe**
+   - Superior parietal lobule
+   - Inferior parietal lobule
+
+3. **Temporal Cortex**
+   - Middle temporal gyrus
+     - Left middle temporal gyrus
+   - Superior temporal gyrus
+     - Left superior temporal gyrus
+   - Inferior temporal gyrus
+     - Left inferior temporal gyrus
+   - Posterior middle temporal cortex
+     - Left posterior middle temporal cortex
+
+4. **Frontal Cortex**
+   - Middle frontal gyrus
+     - Right middle frontal gyrus
+   - Inferior frontal gyrus
+     - Right inferior frontal gyrus (BA 47)
+   - Superior frontal gyrus
+     - Right superior frontal gyrus
+   - Primary motor cortex
+     - Right primary motor cortex (BA 4)
+
+5. **Postcentral Gyrus**
+   - Right postcentral gyrus
+
+6. **Posterior Cingulate Gyrus**
+   - Posterior cingulate gyri bilaterally
+
+7. **Cerebellum**
+   - Right cerebellum
+
+8. **Parahippocampal Cortex**
+   - Parahippocampal place area (PPA)
+     - Left PPA
+     - Right PPA
+
+9. **Subcortical Regions**
+   - Putamen
+
+10. **Other Regions**
+    - Anterior cingulate gyrus
+    - Precuneus
+    - Prefrontal cortex
+    - Fusiform gyrus
+    - Parahippocampal gyrus
+
+These regions are involved in various cognitive functions, including visual processing, spatial frequency processing, scene perception, attention, and semantic categorization.

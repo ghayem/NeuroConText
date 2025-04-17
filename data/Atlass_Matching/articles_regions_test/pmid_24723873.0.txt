@@ -1,0 +1,44 @@
+1. **Superior Olivary Complex (SOC)**
+   - Located in the brainstem
+
+2. **Primary Auditory Cortex**
+   - Right primary auditory cortex
+
+3. **Secondary Auditory Cortex**
+
+4. **Primary Visual Cortex**
+
+5. **Secondary Visual Processing Regions**
+   - Right inferior temporal gyrus
+   - Right middle temporal gyrus
+   - Right middle occipital gyrus
+   - Brodmann areas 19, 37, and 39 (BA 19/37/39)
+
+6. **Posterior Superior Temporal Gyrus**
+   - Left posterior superior temporal gyrus
+   - Wernicke’s area and its right hemisphere homolog
+
+7. **Left Inferior Frontal Gyrus**
+   - Broca’s area
+
+8. **Middle Occipital Gyrus**
+   - Bilateral middle occipital gyrus
+
+9. **Posterior Cingulate/Precuneus**
+   - Posterior aspect of the default mode network (DMN)
+
+10. **Medial Prefrontal Cortex**
+    - Anterior DMN regions
+
+11. **Orbitofrontal Cortex**
+    - Anterior DMN regions
+
+12. **Precentral and Post-Central Regions**
+    - Related to motor activity
+
+13. **Right Motor Region**
+
+14. **Left Superior Temporal Gyrus**
+    - Region of Heschl’s gyrus
+
+These regions are involved in various cognitive functions including auditory processing, visual processing, language processing, cross-modal modulation, and higher-order cognitive functions such as executive function and attention.

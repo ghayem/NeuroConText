@@ -1,0 +1,31 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex (PFC)**
+
+2. **Cerebellum**
+    - Lobule I
+    - Lobule II
+    - Lobule III
+    - Lobule IV
+    - Lobule V
+    - Lobule VI
+    - Crus I
+    - Crus II
+    - Lobule VIIb
+    - Lobule VIIIa
+    - Lobule VIIIb
+    - Lobule IX
+    - Vermis VI
+    - Dentate nucleus
+
+3. **Thalamus**
+
+4. **Inferior Olive**
+
+5. **Spino-olivo-cerebellar Pathways**
+
+6. **Cortico-olivo-cerebellar Pathways**
+
+7. **Cerebellar Nuclei**
+
+These regions are involved in cognitive functions such as motor performance, cognitive task performance, long-term memory, executive functions, and language tasks.

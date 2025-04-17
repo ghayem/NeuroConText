@@ -1,0 +1,35 @@
+### Brain Regions and Sub-Regions
+
+1. **Lateral Occipito-Temporal Cortex (LOTC)**
+   - Extrastriate body area (EBA)
+
+2. **Superior Temporal Sulcus (STS)**
+
+3. **Inferior Parietal Lobule (IPL)**
+
+4. **Inferior Frontal Gyrus (IFG)**
+
+5. **Medial Prefrontal Cortex (mPFC)**
+   - Middle frontal gyrus (MFG)
+   - Anterior cingulate gyrus (ACC)
+
+6. **Inferior Occipital Gyrus (IOG)**
+   - Left lingual gyrus
+   - Right fusiform gyrus
+
+7. **Middle Occipital Gyrus (MOG)**
+
+8. **Cortical Midline Structure (CMS)**
+   - Medial prefrontal cortex (mPFC)
+   - Anterior cingulate cortex (ACC)
+
+9. **Cerebellum**
+
+10. **Lateral Frontoparietal Cortices**
+
+11. **Upper Limb-Sensitive (ULS) Region**
+    - Located within the LOTC
+
+12. **Posterior Superior Temporal Cortex**
+
+These regions are involved in various cognitive functions including self-body recognition, visual processing, social interaction, imitation, and self-representation.

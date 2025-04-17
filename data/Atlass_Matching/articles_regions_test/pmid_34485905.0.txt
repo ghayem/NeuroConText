@@ -1,0 +1,25 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontoparietal network**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Lateral frontopolar cortex
+   - Pre-supplementary motor area (preSMA)
+   - Parietal cortex
+   - Lateral occipital cortex
+
+2. **Frontostriatal network**
+   - Anterior caudate
+
+3. **Default-mode network**
+   - Medial orbitofrontal cortex
+   - Precuneus
+   - Temporal cortex
+
+4. **Other regions**
+   - Inferior parietal cortex
+   - Anterior insular
+   - Frontal operculum
+   - Occipital cortex
+   - Mid-dorsolateral prefrontal cortex (mid-DLPFC)
+
+These regions are involved in various cognitive functions, including learning, working memory, attention, and executive functions, which are affected in people with Parkinson’s disease.

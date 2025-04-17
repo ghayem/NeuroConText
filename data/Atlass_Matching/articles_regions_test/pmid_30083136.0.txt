@@ -1,0 +1,36 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Primary Somatosensory Cortex (S1)**
+   - Contralateral primary somatosensory cortex
+
+2. **Thalamus**
+   - Bilateral thalamus
+
+3. **Frontal Gyri**
+   - Contralateral frontal gyri
+   - Inferior frontal gyrus (IFG)
+     - Ventrolateral prefrontal cortex (vlPFC)
+
+4. **Orbital Frontal Cortex (OFC)**
+
+5. **Insula**
+   - Ipsilateral insula
+
+6. **Putamen**
+   - Ipsilateral putamen
+
+7. **Amygdala**
+   - Ipsilateral amygdala
+   - Left amygdala
+
+8. **Nucleus Accumbens (NAc)**
+
+9. **Primary Motor Cortex (M1)**
+
+10. **Superior Frontal Gyrus (SFG)**
+
+11. **Middle Frontal Gyrus (MFG)**
+
+12. **Hippocampal Regions**
+
+These regions are involved in various cognitive and emotional functions, including pain processing, emotion regulation, and sensory perception.

@@ -1,0 +1,53 @@
+1. **Insula**
+    - Bilateral insula
+    - Right anterior insula
+
+2. **Anterior Cingulate Cortex (ACC)**
+    - Ventral ACC
+
+3. **Prefrontal Cortex (PFC)**
+    - Medial prefrontal cortex (MPFC)
+    - Left medial prefrontal cortex (MPFC)
+    - Orbitofrontal cortex (OFC)
+    - Right orbitofrontal cortex (OFC)
+
+4. **Somatomotor Cortices**
+
+5. **Parietal Cortices**
+
+6. **Supplementary Motor Area (SMA)**
+
+7. **Midline Cerebellum**
+
+8. **Hippocampus**
+
+9. **Midbrain**
+
+10. **Thalamus**
+
+11. **Superior Temporal Gyrus**
+
+12. **Precuneus**
+    - Right precuneus
+
+13. **Precentral Gyrus**
+    - Right precentral gyrus
+
+14. **Orbital Gyrus**
+    - Left orbital gyrus
+
+15. **Posterior Cingulate**
+    - Left posterior cingulate
+
+16. **Supramarginal Gyrus**
+    - Bilateral supramarginal gyrus
+
+17. **Postcentral Gyrus**
+    - Bilateral postcentral gyrus
+
+18. **Putamen**
+    - Right putamen
+
+19. **Hypothalamus**
+
+These regions are involved in various cognitive and emotional processes, including interoceptive awareness, emotional regulation, and the processing of anxiety and threat.

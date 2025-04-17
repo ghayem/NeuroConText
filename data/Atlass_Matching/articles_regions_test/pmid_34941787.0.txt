@@ -1,0 +1,20 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Fusiform Gyrus**
+
+2. **Medial Temporal Pole**
+
+3. **Cerebellum**
+   - Cerebellum lobule VII
+
+4. **Middle Frontal Gyrus**
+
+5. **Inferior Frontal Gyrus (IFG)**
+   - IFG pars orbitalis
+
+These regions are involved in these cognitive functions:
+- **Fusiform Gyrus**: High-level visual functions such as face perception, object recognition, and reading.
+- **Medial Temporal Pole**: Olfactory processing and connections with the orbitofrontal cortex and other emotion-related areas.
+- **Cerebellum**: Cognitive functions (including language) and executive functions.
+- **Middle Frontal Gyrus**: Cognitive functions and executive functions.
+- **Inferior Frontal Gyrus (IFG) pars orbitalis**: Comprehension of emotional signals and semantic communication.

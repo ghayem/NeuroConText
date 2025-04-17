@@ -1,0 +1,29 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Neural Systems**
+   - Frontal lobe
+   - Dorsolateral pre-frontal cortex (DLPFC)
+   - Frontopolar area (BA10)
+   - Pars opercularis (part of Broca’s area)
+   - Pars triangularis (part of Broca’s area, BA45)
+   - Pre- and supplementary motor cortex (BA6)
+
+2. **Temporal and Parietal Regions**
+   - Superior temporal gyrus (STG)
+   - Angular gyrus (AG)
+   - Supramarginal gyrus (SMG)
+   - Wernicke’s area
+   - Temporal parietal junction
+
+3. **Other Regions**
+   - Broca’s area
+     - Pars opercularis
+     - Pars triangularis
+   - Amygdala
+   - Sub-central area
+
+These regions are involved in various cognitive functions, including:
+
+- **Frontal Neural Systems**: Decision making, cognitive control, speech production, and self-regulating behaviors.
+- **Temporal and Parietal Regions**: Speech comprehension, social cognition, and emotional processing.
+- **Other Regions**: Speech production (Broca's area), emotional processing (amygdala), and motor control (sub-central area).

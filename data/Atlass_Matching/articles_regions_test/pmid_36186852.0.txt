@@ -1,0 +1,58 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Visual Cortex**
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Hippocampus**
+
+6. **Insula**
+
+7. **Left Medial Orbitofrontal Cortex (mOFC)**
+
+8. **Default Mode Network (DMN) Regions**
+   - Left Posterior Cingulate Cortex (PCC)
+   - Right Precuneus
+   - Right Medial Prefrontal Cortex/Anterior Cingulate Cortex (mPFC/ACC)
+   - Right Inferior Parietal Lobule (IPL)
+
+9. **Midline Cortex Structures**
+   - Bilateral Medial Frontal Gyrus (MFG)
+   - Right Mid-Cingulate Cortex (MCC)
+
+10. **Visual Cortex**
+    - Left Middle Occipital Gyrus (MOG)
+    - Left Inferior Temporal Gyrus (ITG)
+
+11. **Limbic System**
+    - Right Amygdala
+
+12. **Auditory Association Cortex**
+    - Left Superior Temporal Gyrus (STG)
+
+13. **Motor Cortex**
+    - Right Precentral Gyrus
+
+14. **Entorhinal Cortex**
+    - Bilateral Entorhinal
+
+15. **Parahippocampal**
+    - Left Parahippocampal
+
+16. **Parietal Cortex**
+    - Bilateral Superior Parietal Gyrus (SPG)
+    - Bilateral Supramarginal Gyrus (SMG)
+
+17. **Precuneus**
+    - Bilateral Precuneus
+
+18. **Left Insula**
+
+19. **Precentral Gyrus**
+    - Left Precentral Gyrus
+
+These regions are involved in various cognitive and emotional processes, including fear extinction, episodic memory, visuospatial information integration, and sensory processing.

@@ -1,0 +1,73 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+   - Extended amygdala
+   - Left amygdala
+
+2. **Anterior Cingulate Cortex**
+   - Perigenual anterior cingulate cortex
+
+3. **Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+
+4. **Default Mode Network (DMN)**
+   - Precuneus/posterior cingulate region
+
+5. **Dorsolateral Prefrontal Cortex**
+   - Left dorsolateral prefrontal cortex
+
+6. **Fusiform Gyrus**
+   - Bilateral fusiform gyri
+   - Left fusiform cortex
+   - Right fusiform gyrus
+
+7. **Intraparietal Cortex**
+   - Bilateral intraparietal cortical areas
+   - Left inferior parietal cortex
+   - Anterior intraparietal cortex
+   - Inferior parietal lobule
+   - Right intraparietal sulcus
+
+8. **Parahippocampus**
+   - Parahippocampal cortex
+   - Parahippocampal regions
+
+9. **Posterior Parietal Cortex**
+
+10. **Precuneus**
+    - Right precuneus
+
+11. **Sensorimotor Cortex**
+    - Sensorimotor cortical areas
+    - Left sensorimotor cortex
+    - Paracentral sensorimotor cortex
+
+12. **Superior Temporal Sulcus (STS)**
+    - Right superior temporal sulcus (R-STS)
+
+13. **Ventral Extrastriate Pathway**
+
+14. **Visual Cortex**
+    - Inferior occipital gyrus
+
+15. **Other Regions**
+    - Frontal eye field
+    - Inferior frontal gyrus
+    - Medial prefrontal cortex
+    - Temporal pole
+    - Angular gyrus
+    - Supramarginal gyrus
+    - Cuneus
+    - Insula
+    - Middle temporal gyrus
+    - Superior temporal gyrus
+    - Ventral premotor/inferior frontal areas (BA44/6)
+    - Inferior frontal regions (BA47)
+    - Postcentral cortex (BA3)
+    - Anterior middle prefrontal cortex
+    - Secondary somatosensory cortex
+    - Superior temporal cortex (BA22)
+    - Paracentral sensorimotor cortex (BA5)
+
+These regions are involved in various cognitive functions including face perception, emotional processing, attention, and social cognition.

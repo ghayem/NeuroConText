@@ -1,0 +1,32 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Insula**
+2. **Amygdala**
+3. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Orbital frontal cortex (OFC)
+4. **Anterior Cingulated Cortex (ACC)**
+5. **Thalamus**
+6. **Hippocampus**
+7. **Hypothalamus**
+8. **Cingulate Cortex**
+9. **Postcentral Gyrus**
+10. **Inferior Parietal Lobule (IPL)**
+11. **Supplementary Motor Area (SMA)**
+12. **Cerebellar Posterior Lobe**
+13. **Supramarginal Gyrus**
+14. **Midbrain**
+   - Periaqueductal gray matter (PAG)
+   - Dorsal raphe nucleus
+15. **Striatum**
+16. **Precuneus**
+17. **Lingual Gyrus**
+   - Calcarine
+18. **Superior Frontal Gyrus (SFG)**
+19. **Middle Frontal Gyrus (MFG)**
+20. **Inferior Frontal Gyrus (IFG)**
+   - Orbital part (orb_IFG)
+21. **Default Mode Network (DMN)**
+   - Includes multiple regions like precuneus, OFC, etc.
+
+These regions are involved in various cognitive and emotional functions, including pain processing, emotion regulation, visceral sensation, autonomous visceral movement, memory formation, memory organization, memory storing, inhibiting feedback on the hypothalamic-pituitary-adrenal axis, and more.

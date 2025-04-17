@@ -1,0 +1,66 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Caudate Nucleus**
+
+3. **Thalamus**
+
+4. **Hippocampus**
+
+5. **Cingulate Cortex**
+
+6. **Pars Opercularis of the Inferior Frontal Gyrus**
+
+7. **Middle Frontal Gyrus**
+   - Rostral portion
+   - Caudal portion
+
+8. **Superior Frontal Gyrus**
+
+9. **Basal Ganglia**
+
+10. **Frontostriatal System**
+
+11. **Nigrostriatal System**
+
+12. **Brain Stem Structures**
+
+13. **Prefrontal Cortex**
+
+14. **Parietal Regions**
+
+15. **Cerebellum**
+
+16. **Anterior Cingulate Cortex**
+
+17. **Supramarginal Gyrus**
+
+18. **Inferior Frontal Gyrus**
+   - Broca’s area
+
+19. **Cerebral Cortex**
+   - Entire cerebral cortex
+
+20. **Frontal Lobe**
+
+21. **Parietal Lobe**
+
+22. **Temporal Lobes**
+
+23. **Premotor Cortices**
+
+24. **Primary Sensory and Motor Cortices**
+
+25. **Medial Frontal Cortex**
+
+26. **Parietal Association Cortex**
+
+27. **Insula**
+   - Bilateral insula
+
+28. **Orbitofrontal Cortex**
+
+29. **Supplementary Motor Area**
+
+These regions are involved in these cognitive functions: working memory, executive functions, attention, motor function, sensory-perceptual skills, verbal language, and speed of information processing.

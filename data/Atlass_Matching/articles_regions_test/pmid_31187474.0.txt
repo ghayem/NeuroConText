@@ -1,0 +1,61 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Frontal Cortex**
+
+2. **Cingulate Cortex**
+
+3. **Anterior Insula**
+
+4. **Hippocampus**
+
+5. **Posterior Cingulate Gyri**
+    - Bilateral posterior cingulate gyri
+
+6. **Lingual Gyrus**
+    - Right lingual gyrus
+
+7. **Parietal Lobes**
+
+8. **Parietal White Matter**
+
+9. **Temporal Lobes**
+    - Cerebellum anterior lobe
+
+10. **Occipital Cortex**
+
+11. **Superior Frontal Cortex**
+
+12. **Supplementary Motor Area (SMA)**
+    - Bilateral SMA
+
+13. **Paracentral Lobule**
+    - Right paracentral lobule
+
+14. **Cuneus**
+
+15. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+16. **Insula**
+    - Right insula
+
+17. **Inferior Frontal Gyrus**
+    - Right inferior frontal gyrus
+
+18. **Limbic Lobe**
+
+19. **Cingulate Gyrus**
+
+20. **Putamen**
+    - Left putamen
+
+21. **Lentiform Nucleus**
+    - Left lentiform nucleus
+
+22. **Precuneus**
+    - Right precuneus
+
+23. **Cerebellum**
+    - Left cerebellum anterior lobe
+
+These regions are involved in various cognitive functions, including visuospatial and executive function, memory, attention, language, abstraction, and orientation, as well as motor planning and initiation, and sensorimotor processing.

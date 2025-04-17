@@ -1,0 +1,25 @@
+## The brain regions:
+
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Striatum**
+
+3. **Posterior Cingulate Cortex (PCC)**
+   - Ventral PCC
+   - Dorsal PCC
+
+4. **Fusiform Gyrus**
+
+5. **Posterior Superior Temporal Gyrus**
+
+6. **Lateral Orbitofrontal Cortex**
+
+7. **Left Inferior Frontal Gyrus**
+
+8. **Right Inferior Frontal Gyrus**
+
+9. **Left Superior Frontal Gyrus**
+
+10. **Left Inferior Parietal Lobule**
+
+11. **Right Angular Gyrus**

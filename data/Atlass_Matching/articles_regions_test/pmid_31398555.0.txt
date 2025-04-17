@@ -1,0 +1,32 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Inferior frontal regions
+
+2. **Temporal Lobe**
+   - Temporal regions
+   - Left anterior temporal pole
+   - Bilateral anterior temporal pole
+   - Temporal poles
+
+3. **Parietal Lobe**
+   - Right superior parietal lobule
+
+4. **Occipital Lobe**
+   - Occipital visual areas
+   - Lingual gyrus
+
+5. **Cingulate Cortex**
+   - Midline cingulate areas
+   - Posterior cingulate cortex (PCC)
+   - Anterior cingulate cortex (ACC)
+
+6. **Precuneus**
+
+7. **Cerebellum**
+
+8. **Visual Cortex**
+
+9. **Default Mode Network**
+
+These regions are involved in various cognitive functions, including semantic processing, language, visual processing, and default mode network functions.

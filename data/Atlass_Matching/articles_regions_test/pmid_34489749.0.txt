@@ -1,0 +1,58 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+3. **Paraventricular Nucleus of Hypothalamus (pa)**
+
+4. **Posterior Hypothalamus (ph)**
+
+5. **Ventromedial Hypothalamic Nucleus (vmh)**
+
+6. **Precuneus/Posterior Cingulate Cortex (PC/PCC)**
+
+7. **Orbital Frontal Cortex (OFC)**
+
+8. **Hippocampi (HIPP)**
+
+9. **Precentral Gyrus (PG)**
+
+10. **Angular Gyrus (AG)**
+
+11. **Periaqueductal Gray (PAG)**
+
+12. **Cerebellum**
+
+13. **Limbic Lobe**
+
+14. **Frontal Lobe**
+
+15. **Temporal Lobe**
+
+16. **Thalamus**
+
+17. **Amygdala**
+
+18. **Striatum**
+
+19. **Inferior Frontal Gyrus (IFG)**
+
+20. **Postcentral Gyrus**
+
+21. **Occipital Lobe**
+
+22. **Middle Temporal Gyrus**
+
+23. **Caudate Nucleus**
+
+These regions are involved in various cognitive and emotional functions, including but not limited to:
+- Emotion regulation (ACC, OFC, amygdala)
+- Executive functions (DLPFC, ACC)
+- Memory (hippocampi, temporal lobe)
+- Motor control (precentral gyrus, cerebellum)
+- Pain modulation (PAG)
+- Reward processing (striatum, OFC)
+- Sensory processing (thalamus, postcentral gyrus)
+- Spatial orientation (precuneus)
+- Visual processing (occipital lobe)

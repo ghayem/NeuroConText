@@ -1,0 +1,49 @@
+## Brain Regions and Sub-regions:
+
+1. **Prefrontal Cortex (PFC)**
+   - Subgenual cortex
+   - Orbitofrontal cortex (OFC)
+   - Dorsolateral PFC
+   - Dorsomedial PFC
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus (IFG)
+   - Frontal medial cortex
+   - Subgenual cortices
+   - Frontal poles
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal ACC
+   - Anterior and posterior cingulate gyrus
+
+3. **Hippocampus**
+   - Right hippocampal gray matter
+   - Hippocampal formation
+
+4. **Temporal Cortex**
+   - Parahippocampal gyrus
+   - Fusiform gyrus
+   - Temporoparietal regions
+
+5. **Parietal Cortex**
+   - Supramarginal gyrus
+   - Angular gyrus
+   - Precuneus
+   - Temporoparietal regions
+
+6. **Occipital Cortex**
+   - Right hemisphere posterior cortical regions
+
+7. **Subcortical Structures**
+   - Amygdala
+   - Ventral striatum
+   - Cerebellum
+
+8. **White Matter (WM)**
+
+9. **Cerebrospinal Fluid (CSF)**
+
+10. **Other Cortical Regions**
+    - Temporo-parieto-occipital junction (TPO)
+
+- These regions are involved in cognitive and executive functions, emotional processing, and other related neurophysiological impairments.

@@ -1,0 +1,22 @@
+## The brain regions:
+
+1. **Insula**
+   - Anterior insula
+
+2. **Ventromedial prefrontal/medial orbitofrontal cortex (mOFC)**
+   - Ventral striatum
+
+3. **Substantia nigra/ventral tegmental area (SN/VTA) complex**
+   - Substantia nigra (SN)
+   - Ventral tegmental area (VTA)
+
+4. **Anterior insula**
+   - Anterior insula
+
+5. **Human midbrain**
+   - Substantia nigra/ventral tegmental area (SN/VTA) complex
+
+6. **Red nucleus (RN)**
+   - Red nucleus
+
+These regions are involved in these cognitive functions: social norm adaptation, norm updating, norm prediction errors (PEs), risk/variance PEs, and decision-making processes.

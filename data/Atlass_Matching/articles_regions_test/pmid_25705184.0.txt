@@ -1,0 +1,48 @@
+1. **Primary motor cortex (M1)**
+   - Ipsilateral M1
+   - Contralateral M1
+   - Dominant M1
+   - Non-dominant M1
+   - Left M1
+   - Right M1
+
+2. **Supplementary motor area (SMA)**
+   - Ipsilateral SMA
+   - Supplementary motor areas (SMAs)
+
+3. **Basal ganglia**
+
+4. **Rolandic gyrus**
+
+5. **Posterior part of the insula**
+   - Supplementary sensory cortex
+
+6. **Inferior and posterior parts of the lenticular nuclei**
+
+7. **Posterior thalamus**
+
+8. **Cerebellum**
+   - Ipsilateral cerebellum
+   - Cerebellar vermis
+
+9. **Frontal eye fields (FEF)**
+   - Left FEF
+
+10. **Rolandic operculum**
+    - Mid and anterior parts of the insula
+
+11. **Inferior frontal gyri**
+    - Pars opercularis
+
+12. **Pre-supplementary motor area (pre-SMA)**
+
+13. **Middle frontal gyrus**
+    - Right middle frontal gyrus
+
+14. **Postcentral sulcus**
+    - Inferior part of the postcentral sulcus
+
+15. **Superior frontal and precentral sulci**
+    - Junction between the superior frontal and the precentral sulci
+
+These regions are involved in various aspects of motor control, movement planning, and execution, as well as interhemispheric inhibition and motor dominance.

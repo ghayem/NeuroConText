@@ -1,0 +1,23 @@
+## Brain Regions and Sub-regions
+
+1. **Amygdala**
+   - Involved in affective aspects of prejudice.
+
+2. **Orbitofrontal Cortex (OFC)**
+   - Associated with awareness of stereotypes and affective content of stereotypes about stigmatized groups.
+
+3. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Anterior cingulate cortex
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Involved in cognitive control and regulating perceivers’ automatic responses toward stigmatized individuals.
+
+4. **Dorsal Striatum**
+   - Right dorsal striatum
+   - Associated with cognitive control.
+
+5. **Superior Temporal Cortex**
+   - Involved in cognitive functions such as language, memory, and executive functions.
+
+These regions are involved in cognitive functions such as affective processing, stereotype awareness, cognitive control, and regulating automatic responses toward stigmatized individuals.

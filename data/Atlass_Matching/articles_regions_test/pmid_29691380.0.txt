@@ -1,0 +1,60 @@
+1. **Default Mode Network (DMN)**
+
+2. **Salience Network**
+
+3. **Frontoparietal Network**
+
+4. **Posterior Cingulate Cortex (PCC)**
+   - Ventral Posterior Cingulate Cortex (vPCC)
+   - Retrosplenial Cortex
+
+5. **Entorhinal Cortex**
+
+6. **Parahippocampal Gyrus**
+
+7. **Hippocampal Memory System**
+   - Hippocampus
+   - Subiculum
+
+8. **Precuneus**
+
+9. **Temporal Cortex**
+   - Temporal Pole
+   - Inferior Frontal Gyrus
+   - Middle Frontal Gyrus
+   - Superior Frontal Gyrus
+
+10. **Orbitofrontal Cortex**
+    - Lateral Orbitofrontal Cortex (OFC_lat)
+    - Medial Orbitofrontal Cortex
+    - Frontal_Inf_Orb_2
+    - OFC_ant
+    - OFC_post
+
+11. **Parietal Cortical Areas**
+    - Medial Parietal Cortex
+    - Lateral Parietal Cortex
+
+12. **Temporal Cortical Areas**
+    - Temp_Inf
+    - Temp_Pole
+
+13. **Inferior Frontal Gyrus**
+    - Frontal_Inf_Oper
+    - Frontal_Inf_Tri
+
+14. **Occipital Areas**
+
+15. **Cuneus**
+
+16. **Fusiform Gyrus**
+
+17. **Anterior Cingulate Cortex**
+
+18. **Subiculum**
+
+19. **Parahippocampal Gyrus Areas TF and TH**
+
+20. **Gyrus Rectus**
+
+These regions are involved in cognitive functions such as memory, emotion processing, and executive functions.

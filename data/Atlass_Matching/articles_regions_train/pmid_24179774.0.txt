@@ -1,0 +1,58 @@
+1. **Basal Ganglia**
+   - Dorsal striatum
+   - Ventral striatum
+   - Caudate nucleus
+   - Nucleus accumbens
+
+2. **Thalamus**
+   - Not specified
+
+3. **Frontal Cortex**
+   - Medial prefrontal cortex (MPFC)
+   - Caudate region
+   - Mesial prefrontal cortex
+   - Lateral prefrontal cortex
+   - Precentral gyrus
+
+4. **Parietal Cortex**
+   - Not specified
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Medial frontal/cingulate region
+   - Anterior midcingulate cortex (aMCC)
+
+6. **Cerebellum**
+   - Bilateral cerebellum
+
+7. **Midbrain**
+   - Ventral tegmental area (VTA)
+
+8. **Insula**
+   - Anterior insula
+
+9. **Pre-supplementary Motor Area (pre-SMA)**
+   - Not specified
+
+10. **Supplementary Motor Area (SMA-proper)**
+    - Not specified
+
+11. **Dorsomedial Prefrontal Cortex**
+    - Not specified
+
+12. **Inferior Parietal Regions**
+    - Not specified
+
+13. **Forebrain**
+    - Not specified
+
+14. **Temporal Cortex**
+    - Not specified
+
+15. **Occipital Cortex**
+    - Not specified
+
+16. **Precuneus**
+    - (Pre-) cuneus
+
+These regions are involved in these cognitive functions: reward processing, punishment sensitivity, decision making, motor control, emotional regulation, and cognitive-affective processes.

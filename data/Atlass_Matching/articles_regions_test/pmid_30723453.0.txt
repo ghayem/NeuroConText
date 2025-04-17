@@ -1,0 +1,46 @@
+1. **Entorhinal Cortex (EC)**
+
+2. **Left Cerebellum**
+    - Left cerebellum_crus2
+
+3. **Right Lentiform Nucleus**
+
+4. **Right Inferior Frontal Gyrus**
+
+5. **Right Middle Frontal Gyrus**
+
+6. **Bilateral Pre-central Gyrus**
+    - Left pre-central gyrus
+    - Right pre-central gyrus
+
+7. **Right Post-central/Superior Parietal Lobule**
+
+8. **Medial Prefrontal Cortex**
+
+9. **Bilateral Posterior Cingulate Gyrus/Precuneus**
+    - Left posterior cingulate gyrus/precuneus
+    - Right posterior cingulate gyrus/precuneus
+
+10. **Left Inferior Parietal Lobule (IPL)**
+
+11. **Posterior Cingulate Cortex (PCC)**
+
+12. **Left Thalamus**
+
+13. **Meynert Basal Nuclei (BNM)**
+
+14. **Hippocampus**
+
+15. **Right Postcentral/Parietal_Sup_R**
+
+16. **Right Postcentral G/SPL**
+
+17. **Frontal_Inf_R**
+
+18. **Frontal_Mid_R**
+
+19. **Anterior Cingulate Cortex (ACC)**
+
+20. **Left Pre-central Gyrus (Pre-central_L)**
+
+21. **Right Pre-central Gyrus (Pre-central_R)**

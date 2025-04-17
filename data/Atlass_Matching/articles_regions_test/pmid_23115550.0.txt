@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Left hippocampus
+   - Right hippocampus
+
+2. **Amygdala-hippocampal complex**
+
+3. **Frontal cortex**
+   - Right inferior frontal cortex
+   - Ventrolateral prefrontal cortex (VLPFC)
+     - BA44
+     - BA45
+     - BA47
+   - Dorsolateral prefrontal cortex (DLPFC)
+     - BA9
+     - BA46
+
+4. **Parahippocampal gyrus**
+
+5. **Fusiform gyrus**
+
+6. **Angular gyrus**
+
+7. **Lingual gyrus**
+
+8. **Precuneus**
+
+9. **Middle temporal gyrus**
+
+10. **Parietal regions**
+
+These regions are involved in various cognitive functions, including memory encoding and retrieval, executive functions, and emotional processing.

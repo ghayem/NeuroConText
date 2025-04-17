@@ -1,0 +1,28 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Hypothalamus**
+
+2. **Pituitary**
+
+3. **Adrenal (HPA axis)**
+
+4. **Hippocampus**
+    - Dentate gyrus
+    - Anterior hippocampus
+    - Posterior hippocampus
+
+5. **Default Mode Network (DMN)**
+
+6. **Precuneus**
+    - Right precuneus/cuneus
+
+7. **Midcingulate Cortex (MCC)**
+    - Right midcingulate cortex
+
+8. **White Matter**
+
+9. **Corpus Callosum**
+
+10. **Lateral Ventricles**
+
+These regions are involved in various cognitive functions, including episodic memory, stress regulation, spatial navigation, and default mode network activity.

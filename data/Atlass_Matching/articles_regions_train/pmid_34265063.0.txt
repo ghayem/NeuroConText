@@ -1,0 +1,16 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+3. **Amygdala**
+
+4. **Ventral Striatum**
+
+These regions are involved in various cognitive functions, including:
+
+- **vmPFC and dlPFC**: Value-based decision-making, cognitive self-regulation, and cognitive control.
+- **Amygdala and Ventral Striatum**: Reward learning and emotional processing.
+
+The article focuses primarily on the roles of the vmPFC and dlPFC in cognitive self-regulation of dietary choice and their interactions with other regions involved in reward learning.

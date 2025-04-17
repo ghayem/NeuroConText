@@ -1,0 +1,29 @@
+## Brain Regions and Sub-Regions:
+
+1. **Auditory Pathway**
+   - **Cochlear Nucleus (CN)**
+   - **Inferior Colliculus (IC)**
+   - **Medial Geniculate Body of the Thalamus (MGB)**
+   - **Primary Auditory Cortex (PAC)**
+     - **TE1.0**
+     - **TE1.1**
+     - **TE1.2**
+   - **Auditory Association Cortex (AAC)**
+     - **Superior Temporal Gyrus (BA 22)**
+
+2. **Limbic Regions**
+   - **Nucleus Accumbens**
+   - **Amygdala**
+   - **Ventromedial Prefrontal Cortex (vmPFC)**
+
+3. **Cerebellum**
+   - **Vermis of the Cerebellum**
+   - **Paraflocculus of the Cerebellum**
+
+4. **Other Regions**
+   - **Thalamic Reticular Nucleus (TRN)**
+   - **Brainstem**
+   - **Auditory Cortex**
+   - **Temporo-parieto-occipital Junction (TPO)**
+
+These regions are involved in cognitive functions such as auditory processing, emotional evaluation, conscious perception, and motor control.

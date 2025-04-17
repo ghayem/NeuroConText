@@ -1,0 +1,44 @@
+## Brain Regions and Sub-regions
+
+1. **Parietal Cortex**
+   - Intraparietal sulcus (IPS)
+   - Inferior parietal lobe (IPL)
+   - Supramarginal gyrus
+
+2. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Anterior prefrontal cortex
+   - Medial prefrontal cortex (mPFC)
+   - Orbitofrontal cortex (OPFC)
+   - Premotor cortex
+
+3. **Occipital Cortex**
+   - Primary visual cortex
+   - Secondary visual cortex
+   - Peristriate cortex
+
+4. **Temporal Cortex**
+   - Fusiform gyrus
+   - Occipitotemporal cortex
+
+5. **Frontal Cortex**
+   - Frontal eye field
+   - Supplementary motor area
+
+6. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex
+
+7. **Insular Cortex**
+   - Bilateral insular cortex
+
+8. **Hippocampus**
+
+9. **Cerebellum**
+
+10. **Other Subcortical Structures**
+    - Hypothalamus
+    - Thalamus
+    - Basal ganglia
+
+These regions are involved in various cognitive functions including numerical processing, attention, memory, executive control, and sensory processing.

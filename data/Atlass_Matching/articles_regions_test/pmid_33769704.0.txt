@@ -1,0 +1,45 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia**
+   - Caudate
+   - Putamen
+   - Lenticular nucleus
+
+2. **Limbic System**
+   - Amygdala
+   - Anterior cingulate cortex
+   - Paracingulate gyri (BA 24)
+   - Hippocampus (as part of medial temporal structures)
+
+3. **Cerebellum**
+   - Middle cerebellar peduncles
+   - Cerebellar lobules (VI, VII, VIII)
+
+4. **Frontal Lobe**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Precentral gyrus (BA 6)
+   - Inferior frontal gyrus (BA 45)
+   - Superior frontal gyrus (BA 10)
+   - Orbitofrontal cortex (BA 11)
+
+5. **Temporal Lobe**
+   - Superior temporal gyrus (BA 48)
+   - Middle temporal gyrus (BA 21)
+   - Medial temporal structures
+   - Parahippocampal gyrus
+
+6. **Parietal Lobe**
+   - Anterior gyrus
+   - Posterior gyrus
+
+7. **Occipital Lobe**
+   - Optic radiations
+
+8. **Other Regions**
+   - Insula
+   - Thalamus
+   - Extranuclear
+   - Inferior network
+   - Inferior longitudinal fasciculus
+
+These regions are involved in various cognitive functions, including emotion regulation, memory, executive functions, language processing, and sensory processing.

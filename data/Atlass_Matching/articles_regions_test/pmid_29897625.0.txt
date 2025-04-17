@@ -1,0 +1,64 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Precuneus
+   - Posterior cingulate
+   - Angular gyrus
+   - Medial prefrontal cortex
+   - Lateral temporal cortex
+
+2. **Frontal Lobe**
+   - Inferior frontal gyrus (IFG)
+     - Left inferior frontal gyrus
+   - Middle frontal gyrus (MFG)
+   - Anterior cingulate
+   - Precentral cortices
+   - Supplementary motor area (SMA)
+     - Bilateral supplementary motor areas
+   - Dorsolateral frontal cortices
+   - Medial frontal gyrus
+   - Frontal language areas
+
+3. **Temporal Lobe**
+   - Superior temporal cortices
+   - Middle temporal lobe
+     - Left middle temporal lobe
+   - Temporal cortices
+   - Lateral temporal cortices
+   - Middle temporal gyrus
+     - Right middle temporal gyrus
+   - Inferior temporal regions
+   - Left temporal lobe
+
+4. **Parietal Lobe**
+   - Parietal cortices
+   - Lateral parietal region
+   - Dorsal parietal region
+   - Left dorsolateral parietal region
+   - Parietal lobes
+   - Left parietal lobes
+   - Left inferior parietal lobule
+   - Left inferior parietal lobe
+   - Inferior parietal lobule
+   - Precuneus
+   - Cuneus and precuneus
+
+5. **Occipital Lobe**
+   - Inferior occipital lobes
+
+6. **Subcortical Structures**
+   - Putamen
+     - Bilateral putamen
+     - Left putamen
+   - Thalamus
+   - Cerebellum
+
+7. **Other Regions**
+   - Insular cortices
+   - Rolandic operculum
+     - Left rolandic operculum
+   - Cingulate cortices
+   - Broca's area
+   - Limbic circuit
+
+These regions are involved in various cognitive functions, including language, memory, and executive functions.

@@ -1,0 +1,46 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Orbital Frontal Cortex (OFC)**
+2. **Caudate Nucleus**
+3. **Lateral Orbitofrontal Cortex (LOC)**
+4. **Bilateral Insula Cortex**
+5. **Ventral Striatum**
+6. **Putamen**
+   - Left Putamen
+7. **Anterior Cingulate Cortex (ACC)**
+   - Left ACC
+8. **Precentral Gyrus**
+   - Left Precentral Gyrus
+9. **Inferior Temporal Gyrus (ITG)**
+   - Left ITG
+10. **Dorsal Anterior Cingulate Cortex (dACC)**
+11. **Anterior Insula**
+12. **Mid-Cingulate**
+13. **Dorsolateral Prefrontal Cortex (DLPFC)**
+14. **Frontal Gyrus**
+15. **Insula**
+16. **Paracingulate and Cingulate Cortex**
+17. **Lateral Occipital Cortex**
+18. **Precuneus Cortex**
+19. **Subcortical Structures**
+   - Putamen
+   - Thalamus
+   - Globus Pallidus
+   - Amygdala
+   - Hippocampus
+   - Brainstem
+   - Right Caudate Nucleus
+20. **Sensory-Related Regions**
+21. **Central Executive Network**
+22. **Default Mode Network**
+23. **Salience Network**
+24. **Left Anterior Putamen**
+25. **Classical Language Regionals**
+26. **Dominant (Left) Hemisphere**
+27. **Brainstem**
+28. **Right Caudate Nucleus**
+29. **Left Precentral Gyrus**
+30. **Left Inferior Temporal Gyrus (ITG)**
+31. **Right Inferior Temporal Gyrus**
+
+These regions are involved in various cognitive functions, emotional regulation, and physiological processes as discussed in the article.

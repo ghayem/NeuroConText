@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions:
+
+1. **Thalamus**
+
+2. **Putamen**
+
+3. **Hippocampus**
+
+4. **Temporal Cortex**
+    - Right temporal cortex
+    - Left superior temporal gyrus (STG.L)
+
+5. **Occipital Cortex**
+    - Left occipital cortex
+    - Right calcarine fissure/surrounding cortex (CAL.R)
+
+6. **Parietal Cortex**
+
+7. **Frontal Cortex**
+    - Right superior frontal gyrus, medial orbital (PFCventmed.R)
+
+8. **Corpus Callosum (CC)**
+
+9. **Internal Capsule**
+    - Left anterior limb of the internal capsule
+
+10. **External Capsule**
+    - Left external capsule
+
+11. **Anterior Thalamic Radiation (ATR)**
+
+12. **Corticospinal Tract (CST)**
+
+13. **Cingulum**
+
+14. **Inferior Fronto-Occipital Fasciculus (IFOF)**
+    - Right inferior fronto-occipital fasciculus (IFOF.R)
+
+15. **Superior Longitudinal Fasciculus (SLF)**
+    - Left superior longitudinal fasciculus temporal part (SLF-temp)
+
+16. **Uncinate Fasciculus (UF)**
+
+17. **Inferior Longitudinal Fasciculus (ILF)**
+    - Right inferior longitudinal fasciculus (ILF.R)
+
+18. **Cerebellum**
+    - Undefined area in cerebellum (32, −60, −42)
+    - Cerebellar dentate nucleus (CDN)
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, and sensory processing.

@@ -1,0 +1,31 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex (PFC)**
+    - Ventral-medial prefrontal cortex (vmPFC)
+    - Dorsal-medial prefrontal cortex (dmPFC)
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Right dorsolateral prefrontal cortex (rDLPFC)
+
+2. **Striatum**
+    - Ventral striatum (VS)
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Temporo-parietal Junction (TPJ)**
+    - Right temporo-parietal junction (rTPJ)
+
+5. **Insula**
+    - Anterior insula (AntIns)
+
+6. **Parietal Lobe**
+    - Inferior parietal lobule (IPL)
+    - Left inferior parietal lobule (left IPL)
+    - Supramarginal gyrus (SMG)
+
+7. **Caudate**
+
+8. **Anterior Cingulate Cortex (ACC)**
+
+9. **Superior Temporal Sulcus (STS)**
+
+These regions are involved in various cognitive functions, including decision-making, moral judgment, emotional processing, and value computation.

@@ -1,0 +1,50 @@
+{
+  "AAL": [
+    "Hippocampus_L",
+    "Hippocampus_R",
+    "Putamen_L",
+    "Putamen_R",
+    "Thalamus_L",
+    "Thalamus_R"
+  ],
+  "Harvard_Oxford": [
+    "Temporal Pole"
+  ],
+  "DiFuMo": [
+    "Hippocampus anterior LH",
+    "Hippocampus middle RH",
+    "Hippocampus posterior RH",
+    "Hippocampus posterior inferior",
+    "Hippocampus posterior superior",
+    "Putamen and globus pallidus anterior LH",
+    "Putamen anterior",
+    "Putamen anterior LH",
+    "Putamen anterior RH",
+    "Putamen inferior RH",
+    "Putamen middle LH",
+    "Putamen posterior LH",
+    "Putamen posterior RH",
+    "Putamen superior RH",
+    "Temporal pole LH",
+    "Temporal pole RH",
+    "Temporal pole inferior",
+    "Temporal pole superior",
+    "Temporal pole superior RH",
+    "Temporal pole superior medial LH",
+    "Thalamus LH",
+    "Thalamus anterior RH",
+    "Thalamus antero-superior",
+    "Thalamus inferior",
+    "Thalamus lateral LH",
+    "Thalamus middle",
+    "Thalamus posterior RH",
+    "Thalamus superior"
+  ],
+  "Juelich": [
+    "GM Hippocampus cornu ammonis",
+    "GM Hippocampus dentate gyrus",
+    "GM Hippocampus entorhinal cortex",
+    "GM Hippocampus hippocampal-amygdaloid transition area",
+    "GM Hippocampus subiculum"
+  ]
+}

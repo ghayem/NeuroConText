@@ -1,0 +1,31 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Cortex**
+    - **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - **Ventrolateral Prefrontal Cortex (VLPFC)**
+    - **Posterior Ventrolateral Prefrontal Cortex**
+    - **Superior Frontal Gyrus (SFG)**
+    - **Inferior Frontal Gyrus (IFG)**
+    - **Supplementary Eye Fields (SEF)**
+    - **Frontal Eye Fields (FEF)**
+
+2. **Parietal Cortex**
+    - **Posterior Parietal Cortex (PPC)**
+    - **Superior Parietal Lobule (SPL)**
+    - **Anterior Intraparietal Sulcus (aIPS)**
+    - **Superior Frontal Sulcus**
+
+3. **Temporal Cortex**
+    - **Left Temporo-Parietal Junction (TPJ)**
+    - **Left Ventral Occipital Complex (VOC)**
+    - **Medial Temporal Lobe**
+    - **Hippocampus**
+
+4. **Occipital Cortex**
+    - **Visual Cortex**
+
+5. **Other Regions**
+    - **Caudate**
+    - **Insula**
+
+These regions are involved in cognitive functions such as visual working memory (VWM), visual cognition, attention, and executive functions.

@@ -1,0 +1,65 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamocortical network**
+   - Thalamus
+   - Cortex
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Bilateral anterior cingulate cortices
+   - Subgenual anterior cingulate cortex (sgACC)
+
+3. **Corpus Callosum**
+   - Genu of the corpus callosum
+
+4. **Frontal Cortex**
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+   - Medial frontal gyrus
+   - Orbital portion of the inferior frontal gyrus
+   - Frontal lobe (general)
+
+5. **Parietal Cortex**
+   - Inferior parietal gyrus (IPG)
+   - Parietal lobe (general)
+
+6. **Occipital Cortex**
+   - Occipital lobe (general)
+
+7. **Temporal Cortex**
+   - Heteromodal association cortex
+   - Primary sensory and visual cortices
+   - Unimodal cortices (upstream and downstream)
+
+8. **Limbic Cortex**
+
+9. **Rolandic Operculum**
+   - Right Rolandic operculum (ROL)
+
+10. **Precentral Gyrus**
+    - Precentral gyrus (PreCG)
+
+11. **Default Mode Network (DMN)**
+    - Subgenual anterior cingulate cortex (sgACC)
+    - Superior frontal gyrus (SFG)
+    - Middle cingulate cortex (MCC)
+
+12. **Somatomotor Cortex**
+    - Inferior parietal gyrus (IPG)
+    - Precentral gyrus (PreCG)
+
+13. **Putamen**
+    - Bilateral putamen
+
+14. **Prefrontal Cortex**
+    - Mesial prefrontal cortex
+    - Bilateral dorsolateral prefrontal cortices
+    - Bilateral orbital frontal cortices
+
+15. **White Matter (WM)**
+
+16. **Cerebrospinal Fluid (CSF)**
+
+17. **Somatosensory Networks**
+    - Motor and sensory-thalamic systems
+
+These regions are involved in various cognitive functions and neurological disorders, including epilepsy, as discussed in the article.

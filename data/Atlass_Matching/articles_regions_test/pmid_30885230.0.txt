@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+3. **Hippocampus**
+   - Bilateral hippocampus
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Insula**
+
+6. **Middle Cingulate Cortex**
+
+7. **Intraparietal Sulcus (IPS)**
+
+8. **Visual Number Form (VNF)**
+   - Located in the posterior inferior temporal gyrus (pITG)
+
+9. **Prefrontal Cortex**
+   - Includes DLPFC
+
+10. **Paracentral Gyrus**
+    - Bilateral paracentral gyrus
+
+11. **Temporal Gyrus**
+    - Left temporal gyrus
+
+12. **Frontal Areas**
+    - Includes prefrontal cortex
+
+These regions are involved in various cognitive and emotional processes, including emotion regulation, cognitive control, numerical processing, and the processing of negative emotions and pain.

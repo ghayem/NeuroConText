@@ -1,0 +1,27 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Posteromedial Cortices (PMCs)**
+   - Posterior cingulate
+   - Precuneus
+   - Retrosplenial cortices
+   - Inferior-posterior sector of the PMC (ipPMC)
+   - Superior–anterior sector of the PMC
+
+2. **Posterior Cingulate Cortex**
+   - Dorsal region of the posterior cingulate cortex (dPCC)
+
+3. **Frontal-Parietal Control Network**
+   - (Note: This is a network rather than a specific region, but it is involved in executive attentional control.)
+
+4. **Default Mode Network (DMN)**
+   - (Note: This is a network rather than a specific region, but it includes the ipPMC and is involved in abstract internally focused thoughts.)
+
+These regions are involved in the following cognitive functions:
+- Abstract cognition
+- Moral decision-making
+- Introspection
+- Visual attentional control
+- Executive attentional control
+- Sensorimotor and musculoskeletal processing
+- Internally focused, value-oriented thinking
+- Episodic memory and self-processing

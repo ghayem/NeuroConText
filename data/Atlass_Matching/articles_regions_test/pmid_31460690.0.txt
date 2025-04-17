@@ -1,0 +1,82 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+   - Extended amygdala
+     - Bed nucleus of the stria terminalis (BNST)
+   - Right amygdala (rAMY)
+   - Right amygdala extending into the hippocampus
+
+2. **Hippocampus**
+   - Right hippocampus extending into the mammillary bodies
+
+3. **Parietal Cortex**
+   - Right temporoparietal junction (rTPJ)
+   - Left superior parietal lobule
+
+4. **Frontal Cortex**
+   - Left inferior frontal gyrus
+   - Right medial and superior frontal gyri
+   - Right inferior frontal gyrus
+   - Right supramarginal gyrus
+   - Left middle frontal gyrus
+   - Bilateral inferior frontal gyri
+   - Right frontal operculum
+   - Right posterior cingulate cortex
+   - Subgenual anterior cingulate cortex (sACC)
+   - Right subgenual anterior cingulate cortex
+   - Bilateral anterior cingulate cortex
+
+5. **Temporal Cortex**
+   - Left superior temporal gyrus
+   - Right middle temporal gyrus
+   - Left middle temporal gyrus
+   - Bilateral temporal stem
+   - Left lingual gyrus
+   - Right globus pallidus
+   - Right cuneus
+   - Left caudate
+   - Red nucleus
+   - Substania nigra
+   - Right globus pallidus
+
+6. **Occipital Cortex**
+   - Left lingual gyrus
+   - Right occipital, parietal, and temporobasal cortex
+
+7. **Subcortical Regions**
+   - Left thalamus
+   - Right thalamus/caudate
+   - Right caudate
+   - Right amygdala
+   - Right hippocampus
+   - Mammillary bodies
+   - Right hippocampus extending into the mammillary bodies
+   - Right amygdala and hippocampus extending into the mammillary bodies
+   - Bilateral thalamus
+
+8. **White Matter Tracts**
+   - Stria terminalis
+   - Inferior longitudinal fasciculus (ILF)
+   - Inferior fronto‐occipital fasciculus (IFOF)
+   - Left inferior frontal gyrus
+   - Right medial and superior frontal gyri
+   - Right inferior frontal gyrus
+   - Right supramarginal gyrus
+   - Left superior parietal lobule
+   - Right globus pallidus
+   - Right middle temporal gyrus
+   - Left lingual gyrus
+
+9. **Other Regions**
+   - Insula
+   - Right precuneus
+   - Right cuneus
+   - Left superior parietal lobule
+   - Right inferior frontal gyrus
+   - Right supramarginal gyrus
+   - Left caudate
+   - Red nucleus
+   - Substania nigra
+   - Right globus pallidus
+
+These regions are involved in cognitive functions such as emotion processing, attention, memory, and threat perception.

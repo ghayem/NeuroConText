@@ -1,0 +1,32 @@
+Based on the article, the brain regions and sub-regions mentioned are:
+
+1. **Primary somatosensory cortex**
+
+2. **Secondary somatosensory cortex**
+
+3. **Anterior cingulate cortex (ACC)**
+
+4. **Prefrontal cortex (PFC)**
+
+5. **Insular cortex**
+   - Inferior segment of the circular sulcus of the insula
+   - Anterior insular cortex
+   - Posterior insular cortex
+
+6. **Amygdala**
+
+7. **Thalamus**
+
+8. **Cerebellum**
+
+9. **Periaqueductal grey matter (PAG)**
+
+10. **Inferior temporal sulcus**
+
+11. **Inferior temporal gyrus (ITG)**
+    - Left inferior temporal gyrus (T3)
+
+12. **Middle temporal gyrus (MTG)**
+    - Right middle temporal gyrus (T2)
+
+These regions are involved in various aspects of pain processing, including sensing, modulation, and reaction to pain signals, as well as other cognitive and sensory functions.

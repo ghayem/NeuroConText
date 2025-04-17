@@ -1,0 +1,51 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Amygdala**
+
+2. **Anterior Insula**
+
+3. **Prefrontal Cortex**
+
+4. **Inferior Frontal Gyrus**
+
+5. **Cerebellum**
+
+6. **Reticular Formation**
+
+7. **Hippocampus**
+
+8. **Caudate/Putamen**
+
+9. **Primary Motor and Somatosensory Cortex**
+
+10. **Thalamus**
+
+11. **Deep Gray Matter (GM) Nucleus**
+
+12. **White Matter (WM)**
+
+13. **Dorsal Stream Visual Cortex (DSVC)**
+
+14. **Posterior Cingulate Cortex (PCC)**
+
+15. **Anterior Cingulate and Medial Prefrontal Cortex (ACC and MPC)**
+
+16. **Temporo-Parieto-Occipital Junction (TPOJ)**
+
+17. **Orbital and Polar Frontal Cortex (OPFC)**
+
+18. **Paracentral Lobular and Mid Cingulate Cortex (PCL and MCC)**
+
+19. **Insular and Frontal Opercular Cortex (IFOC)**
+
+20. **Early Visual Cortex (EVC)**
+
+21. **Cingulate Gyrus**
+
+22. **Frontal-Parietal-Limbic Network**
+
+23. **Default Mode Network (DMN)**
+
+24. **Subcallosal Area**
+
+These regions are involved in various cognitive functions, including emotion regulation, learning, cognition, memory function, attention, pain perception, and sensory processing.

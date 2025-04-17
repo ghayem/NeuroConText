@@ -1,0 +1,61 @@
+1. **Prefrontal Cortex (PFC)**
+   - Ventrolateral prefrontal cortex
+   - Dorsolateral PFC
+   - Orbital frontal cortex
+   - Medial frontal PFC
+
+2. **Limbic System**
+   - Amygdala
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Cingulate cortex
+     - Anterior cingulate cortex (ACC)
+     - Subcallosal cingulate cortex (SCC)
+     - Posterior cingulate cortex (PCC)
+   - Mamillary body
+
+3. **Basal Ganglia**
+   - Striatum
+   - Caudate
+   - Putamen
+
+4. **Thalamus**
+   - Medial thalamus
+   - Ventral tegmental area
+
+5. **Raphe Nuclei**
+
+6. **Locus Ceruleus**
+
+7. **Mesolimbic Dopaminergic System**
+
+8. **Mesocortical Dopaminergic System**
+
+9. **Mesothalamic Dopaminergic System**
+
+10. **Insula**
+
+11. **Parietal Cortex**
+    - Lateral parietal cortex
+    - Inferior parietal lobule
+    - Superior parietal lobule
+    - Precuneus
+
+12. **Frontotemporal Regions**
+    - Ventral frontotemporal regions
+
+13. **Motor and Premotor Areas**
+
+14. **Visual System**
+    - Occipital cortex
+    - Temporal cortex
+    - Lingual gyrus
+    - Middle temporal gyrus
+
+15. **Hypothalamus**
+    - Basal forebrain
+    - Septal nuclei
+
+16. **Cerebellum**
+
+These regions are involved in various cognitive and emotional functions, including emotional processing, motor control, memory, attention, and regulation of mood states.

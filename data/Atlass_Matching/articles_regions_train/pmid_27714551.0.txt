@@ -1,0 +1,29 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Occipital Lobe**
+   - Bilateral middle occipital gyrus (MOG)
+   - Right middle/inferior occipital gyrus
+
+2. **Temporal Lobe**
+
+3. **Default-Mode Network (DMN) Regions**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+   - Medial prefrontal cortex (MPFC)
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+
+5. **Subcortical Regions**
+   - White matter (WM)
+   - Cerebrospinal fluid (CSF)
+
+6. **Other Cortical Regions**
+   - Gray matter (GM)
+
+### Cognitive Functions Involved:
+- Memory (episodic memory, working memory)
+- Executive functioning
+- Visuo-spatial and attention
+- Language (verbal information processing)
+- Higher-order cognitive control

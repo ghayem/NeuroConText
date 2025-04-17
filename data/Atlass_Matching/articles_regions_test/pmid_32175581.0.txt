@@ -1,0 +1,20 @@
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Thalamus**
+
+3. **Putamen**
+
+4. **Posterior Cingulate Cortex (PCC)**
+
+5. **Caudate**
+
+6. **Amygdala**
+
+7. **Insular Cortex (IC)**
+   - Dorsal anterior insula (dAI)
+   - Ventral anterior insula (vAI)
+   - Posterior insula (pI)
+
+8. **Grey Matter (GM)**
+
+- These regions are involved in the perception and regulation of fatigue, interoceptive perception, and cognitive and motor functions.

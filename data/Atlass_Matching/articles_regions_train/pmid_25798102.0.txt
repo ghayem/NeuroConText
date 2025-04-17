@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Insula**
+   - Bilateral anterior insula
+   - Right dorsal anterior insula
+   - Left ventral anterior insula
+
+2. **Striatum**
+   - Dorsal striatum
+   - Ventral striatum
+   - Nucleus accumbens
+   - Caudate
+
+3. **Prefrontal Cortex**
+   - Ventromedial prefrontal cortex (VMPFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+5. **Temporal Lobe**
+   - Left superior temporal pole
+   - Right superior temporal pole
+   - Left superior temporal gyrus
+
+6. **Periaqueductal Gray (PAG)**
+
+7. **Superior Temporal Cortex**
+   - Superior temporal pole
+
+## Cognitive Functions:
+- Emotion and interoceptive awareness
+- Perception, experience, and anticipation of emotion
+- Empathy
+- Risk and uncertainty processing
+- Social norm violations
+- Theory of mind processing
+- Fairness-related decision-making
+- Punishment of unfairness
+- Behavioral adaptation in social contexts
+- Strategic decision-making

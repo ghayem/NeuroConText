@@ -1,0 +1,35 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Prefrontal Cortex**
+   - Lateral portions
+
+2. **Parietal Cortex**
+   - Posterior portions
+   - Superior parietal cortices
+   - Inferior parietal cortices
+   - Inferior parietal lobule (left)
+
+3. **Occipital Cortex**
+   - Areas of the occipital cortex
+   - Calcarine fissure
+   - Visual cortices in the occipital region
+
+4. **Temporal Cortex**
+   - Areas of the temporal cortex
+   - Middle temporal gyri (left)
+   - Inferior temporal gyri (left)
+
+5. **Frontal Cortex**
+   - Frontal cortices
+   - Left dorsolateral prefrontal cortices
+   - Left inferior and middle frontal gyri
+   - Right superior frontal gyrus
+   - Left pre-supplementary motor area
+
+6. **Cerebellar Cortex**
+   - Right cerebellar cortices
+
+7. **Frontoparietal Network**
+   - Distributed frontoparietal network
+
+These regions are involved in cognitive functions such as fluid intelligence (Gf), attention, executive functions, working memory, and abstract reasoning abilities.

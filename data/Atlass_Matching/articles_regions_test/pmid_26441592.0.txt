@@ -1,0 +1,43 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Posterior superior temporal sulcus (pSTS)**
+
+2. **Inferior parietal lobule**
+   - Inferior parietal lobules
+
+3. **Medial prefrontal cortex (mPFC)**
+   - Anterior medial prefrontal cortex (amPFC)
+
+4. **Middle temporal gyrus (MTG)**
+   - Left middle temporal gyrus (L MTG)
+
+5. **Anterior cingulate cortex**
+   - Dorsal anterior cingulate cortex (dACC)
+
+6. **Superior frontal gyrus (SFG)**
+
+7. **Anterior temporal lobe (ATL)**
+   - Left anterior temporal lobe (L ATL)
+
+8. **Intraparietal sulcus (IPS)**
+   - Left intraparietal sulcus (L IPS)
+   - Right intraparietal sulcus (R IPS)
+
+9. **Inferior frontal sulcus**
+   - Right inferior frontal sulcus (R IFS)
+
+10. **Angular gyrus**
+
+11. **Precuneus**
+
+12. **Supramarginal Gyrus**
+
+13. **Parietal operculum**
+
+14. **Retrosplenial cortex**
+
+15. **Parahippocampal gyrus**
+
+16. **Temporo-parieto-occipital junction (TPO)**
+
+These regions are involved in various cognitive functions including context processing, semantic processing, memory retrieval, attention reorienting, and predicting outcomes based on contextual information.

@@ -1,0 +1,47 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Amygdala**
+   - Left amygdala
+
+2. **Cerebellum**
+   - Right cerebellum Lobule VI/Crus I
+   - Left cerebellum Lobule VI/Crus I
+   - Right cerebellum culmen
+   - Left cerebellum culmen
+
+3. **Fusiform Gyrus**
+   - Left fusiform gyrus (FG)
+   - Left fusiform face area (FFA)
+
+4. **Posterior Cingulate Cortex**
+   - Left posterior cingulate (PCC)
+   - Brodmann area 30 (BA30)
+
+5. **Striatum**
+   - Right striatum
+
+6. **Prefrontal Cortex**
+
+7. **Parieto-temporal Regions**
+
+8. **Limbic Regions**
+
+9. **Frontoparietal Regions**
+
+10. **Occipital Pole**
+    - Left occipital pole
+
+11. **Lateral Occipital Cortex**
+    - Bilateral lateral occipital cortex
+
+12. **Superior Parietal Lobule**
+    - Right superior parietal lobule
+
+13. **Thalamus**
+    - Right thalamus
+    - Left thalamus
+
+14. **Putamen**
+    - Right putamen
+
+These regions are involved in various cognitive and behavioral functions, including social cognition, emotion processing, face processing, executive functions, reward processing, and socio-emotional face processing.

@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Hippocampus**
+
+3. **Fusiform Gyrus**
+
+4. **Cingulate Gyrus**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+6. **Caudate**
+
+7. **Hypothalamus**
+
+8. **Orbitofrontal Cortex**
+
+9. **Middle Frontal Gyrus**
+
+10. **Precentral Gyrus**
+
+11. **Postcentral Gyrus**
+
+12. **Temporal Pole**
+
+13. **Inferior Parietal Cortex**
+
+14. **Superior Parietal Cortex**
+
+15. **Ventral Cingulate Gyrus**
+
+16. **Parahippocampal Gyrus**
+
+17. **Uncus**
+
+18. **Insula**
+
+19. **Orbitofrontal Gyrus**
+
+20. **Middle Superior Temporal Cortex**
+
+21. **Middle Cingulate Cortex (MCC)**
+
+22. **Posterior Cingulate Cortex (PCC)**
+
+23. **Precuneus**
+
+24. **Middle Occipital Gyrus**
+
+- These regions are involved in various cognitive functions, including emotion regulation, memory, decision-making, and executive functions.

@@ -1,0 +1,50 @@
+## Brain Regions and Sub-regions:
+
+1. **Precuneus/Posterior Cingulate Cortex**
+
+2. **Angular Gyrus**
+
+3. **Thalamus**
+
+4. **Inferior Frontal Gyrus**
+   - Left inferior frontal gyrus
+
+5. **Anterior Cingulate Cortex (ACC)**
+   - Right ACC
+
+6. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+   - Bilateral parahippocampal gyrus
+
+7. **Caudate Nucleus**
+   - Left caudate nucleus
+   - Right caudate nucleus
+
+8. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus
+   - Right middle temporal gyrus
+
+9. **Inferior Parietal Lobule**
+   - Right inferior parietal lobule
+
+10. **Precuneus**
+    - Left precuneus
+
+11. **Heschl's Gyrus**
+    - Right Heschl's gyrus
+
+12. **Fusiform Gyrus**
+    - Bilateral fusiform gyrus
+
+13. **Calcarine Sulcus**
+
+14. **Middle Cingulate Cortex**
+    - Left middle cingulate cortex
+
+15. **Middle Frontal Gyrus**
+    - Right middle frontal gyrus
+
+16. **Superior Frontal Gyrus**
+    - Left superior frontal gyrus
+
+These regions are involved in various cognitive functions including auditory perception, emotional processing, memory, and attention.

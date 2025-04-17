@@ -1,0 +1,49 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+    - Medial prefrontal cortex (mPFC)
+    - Inferior parietal lobule (IPL)
+    - Lateral temporal cortex
+    - Temporal pole (TP)
+
+2. **Executive-Control Network (EN)**
+    - Dorsal anterior cingulate cortex (dACC)
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Anterior cingulate cortex (ACC)
+    - Inferior frontal gyrus (IFG)
+    - Orbital frontal cortex (OFC)
+    - Middle frontal gyrus (MFG)
+
+3. **Salience Network**
+    - Dorsal anterior cingulate cortex (dACC)
+    - Insula
+
+4. **Auditory Network**
+    - Left middle temporal gyrus (MTG)
+    - Right superior temporal gyrus (STG)
+    - Planum temporale (PT)
+    - Temporal pole (TP)
+
+5. **Motor Network**
+    - Bilateral supplementary motor cortex (SMA)
+    - Right pre-supplementary motor area (pre-SMA)
+    - Left cerebellum
+    - Right precentral gyrus (preCG)
+    - Dorsal premotor cortex (dPMC)
+    - Ventral premotor cortex (vPMC)
+
+6. **Other Regions**
+    - Left inferior parietal lobule (IPL)
+    - Angular gyrus (AG)
+    - Supramarginal gyrus (SMG)
+    - Medial frontal gyrus
+    - Postcentral gyrus
+    - Fusiform gyrus
+    - Occipital lobe
+    - Parietal lobe
+    - Frontal lobe
+    - Temporal lobe
+
+These regions are involved in various cognitive functions, including creativity, auditory perception, motor control, executive functions, and default mode processes.

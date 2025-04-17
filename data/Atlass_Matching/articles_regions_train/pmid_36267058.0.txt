@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions:
+
+1. **Posterior Cingulate**
+
+2. **Amygdala**
+
+3. **Basal Ganglia**
+
+4. **Superior Parietal Lobule**
+
+5. **Dorsal Lateral Premotor Area**
+
+6. **Occipital Area**
+
+7. **Anterior Cingulate**
+
+8. **Temporal Gyrus**
+
+9. **Occipital Gyrus**
+
+10. **Frontal Area**
+
+11. **Primary Motor Cortex (M1)**
+    - Leg Area
+
+12. **Left Temporal Area**
+
+13. **Dorsolateral Prefrontal Cortex**
+
+14. **Cerebellum**
+
+15. **Precentral Gyrus**
+    - Right Precentral Gyrus
+
+16. **Paracentral Lobule**
+    - Left Paracentral Lobule
+
+17. **Inferior Frontal Gyrus**
+    - Left Inferior Frontal Gyrus (Opercular Part)
+
+18. **Spinal Cord**
+
+19. **Left Primary Motor Cortex**
+    - C3 Electrode (according to the international 10/20 system)
+
+20. **Right Postcentral Gyrus**
+
+21. **Right Precentral Gyrus**
+
+22. **Supplementary Motor Area**
+
+23. **Somatosensory Cortex**
+
+24. **Insular Cortex**
+
+25. **Left Dorsolateral Prefrontal Cortex**
+
+These regions are involved in various cognitive and motor functions, including motor planning, motor performance, sensory-motor integration, interlimb coordination, attention, and cognitive-motor network functions.

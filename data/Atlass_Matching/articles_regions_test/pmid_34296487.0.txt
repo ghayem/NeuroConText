@@ -1,0 +1,55 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Mid Cingulate Cortex (MCC)**
+
+3. **Posterior Cingulate Cortex (PCC)**
+
+4. **Insular Cortex (IC)**
+   - Posterior insular
+   - Mid insula
+
+5. **Primary Somatosensory Cortex (SI)**
+
+6. **Secondary Somatosensory Cortex (SII)**
+
+7. **Parietal Operculum (OP)**
+   - OP 1
+   - OP 2
+
+8. **Orbitofrontal Cortex**
+
+9. **Thalamus**
+
+10. **Basal Ganglia**
+
+11. **Default Mode Network (DMN)**
+
+12. **Precentral Gyrus**
+    - Ipsilateral to the seed region
+    - Contralateral to the seed region
+
+13. **Postcentral Gyrus**
+    - Ipsilateral to the seed region
+    - Contralateral to the seed region
+
+14. **Superior Frontal Gyrus**
+
+15. **Medial Frontal Gyrus**
+
+16. **Inferior Frontal Gyrus**
+
+17. **Middle Frontal Gyrus**
+
+18. **Superior Temporal Gyrus**
+
+19. **Parahippocampus**
+
+20. **Primary Motor Cortex (M1)**
+
+21. **Sensory-Motor Network**
+
+22. **Temporo-Parietal Junction**
+
+These regions are involved in various aspects of pain perception and processing, including sensory-discriminative, affective-motivational, and integrative functions.

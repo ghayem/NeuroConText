@@ -1,0 +1,26 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontoparietal Network**
+2. **Default Mode Network**
+3. **Salience Network**
+4. **Visual Network**
+   - Middle occipital gyrus (MOG)
+   - Fusiform gyrus
+5. **Cerebellar Network**
+   - Cerebellum
+6. **Cortical–Striatal–Thalamic–Cortical (CSTC) Circuits**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Medial prefrontal cortex (mPFC)
+   - Striatum
+     - Putamen
+     - Caudate
+   - Dorsolateral prefrontal cortex (dlPFC)
+7. **Other Regions**
+   - Parietal gyrus
+   - Middle temporal gyrus (MTG)
+   - Inferior temporal gyrus
+   - Inferior parietal lobule (IPL)
+   - Posterior cingulate cortex (PCC)
+   - Insula
+
+These regions are involved in various cognitive functions, including executive control, error monitoring, attention, and visual processing, which are implicated in the pathophysiology of obsessive–compulsive disorder (OCD).

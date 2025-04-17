@@ -1,0 +1,49 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Precuneus**
+   - Bilateral precuneus
+
+2. **Prefrontal Cortex**
+   - Right dorsolateral prefrontal cortex
+   - Bilateral medial prefrontal cortex
+   - Right anterior cingulate cortex
+
+3. **Parietal Cortex**
+   - Bilateral supramarginal/angular gyri
+
+4. **Frontal Cortex**
+   - Right inferior frontal gyrus
+   - Left inferior frontal gyrus
+
+5. **Temporal Cortex**
+   - Left inferior temporal gyrus
+
+6. **Motor Cortex**
+   - Supplementary motor area
+   - Precentral gyrus
+   - Left visuo-motor areas
+
+7. **Occipital Cortex**
+   - Cuneus
+   - Left lingual gyrus
+
+8. **Subcortical Regions**
+   - Ventral striatum (including the nucleus accumbens)
+   - Right putamen
+   - Left hippocampus
+
+9. **Cerebellum**
+
+10. **Midbrain**
+
+11. **Insular Cortex**
+    - Near insular cortex
+
+12. **Posterior Cingulate Cortex**
+
+13. **Sensorimotor Regions**
+    - Left supplementary motor area
+    - Left postcentral gyrus
+    - Left precentral and postcentral gyri
+
+These regions are involved in various cognitive functions, including autobiographical memory retrieval, self-referential processes, motor imagery, and the processing of personally familiar stimuli.

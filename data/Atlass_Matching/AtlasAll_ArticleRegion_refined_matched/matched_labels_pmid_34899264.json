@@ -1,0 +1,39 @@
+{
+  "AAL": [
+    "Amygdala_L",
+    "Amygdala_R",
+    "Hippocampus_L",
+    "Hippocampus_R"
+  ],
+  "Harvard_Oxford": [
+    "Occipital Fusiform Gyrus"
+  ],
+  "DiFuMo": [
+    "Dorsolateral prefrontal cortex LH",
+    "Dorsomedial prefrontal cortex RH",
+    "Dorsomedial prefrontal cortex anterior LH",
+    "Dorsomedial prefrontal cortex anterior RH",
+    "Dorsomedial prefrontal cortex antero-superior RH",
+    "Dorsomedial prefrontal cortex superior RH",
+    "Fusiform gyrus RH",
+    "Fusiform gyrus anterior LH",
+    "Fusiform gyrus anterior RH",
+    "Fusiform gyrus mid-anterior LH",
+    "Fusiform gyrus mid-anterior RH",
+    "Fusiform gyrus mid-posterior LH",
+    "Fusiform gyrus mid-posterior RH",
+    "Fusiform gyrus middle RH",
+    "Fusiform gyrus posterior LH",
+    "Fusiform gyrus posterior RH",
+    "Hippocampus anterior LH",
+    "Hippocampus middle RH",
+    "Hippocampus posterior RH",
+    "Parahippocampal gyrus middle RH",
+    "Parahippocampal gyrus posterior LH",
+    "Parahippocampal gyrus posterior RH",
+    "Ventrolateral prefrontal cortex LH",
+    "Ventrolateral prefrontal cortex RH",
+    "Ventromedial prefrontal cortex anterior LH",
+    "Ventromedial prefrontal cortex posterior RH"
+  ]
+}

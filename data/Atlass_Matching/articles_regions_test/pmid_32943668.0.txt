@@ -1,0 +1,37 @@
+# Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Striatum**
+   - Dorsal striatum
+     - Caudate
+     - Putamen
+   - Ventral striatum
+     - Nucleus accumbens (NAcc)
+
+2. **Frontal Cortex**
+   - Inferior frontal gyrus (IFG)
+     - Pars opercularis
+     - Pars triangularis
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Frontal operculum
+   - Frontal pole
+
+3. **Orbitofrontal Cortex (OFC)**
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Paracingulate gyrus
+
+5. **Insular Cortex**
+   - Anterior insula
+   - Bilateral anterior insula
+
+6. **Parietal Regions**
+   - Dorsomedial prefrontal cortex/supplementary motor area (dmPFC/SMA)
+
+7. **Other Regions**
+   - Thalamus
+   - Brain stem
+   - Temporal pole
+
+These regions are involved in various cognitive functions, including reward processing, decision-making, curiosity, salience detection, uncertainty, cognitive control, and emotional processing.

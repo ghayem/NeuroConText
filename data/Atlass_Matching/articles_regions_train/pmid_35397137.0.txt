@@ -1,0 +1,89 @@
+## Brain Regions and Sub-Regions
+
+1. **Medial temporal structures (MTLs)**
+   - Hippocampus
+
+2. **Parietal regions**
+   - Angular gyrus (AnG)
+   - Precuneus
+   - Posterior cingulate
+   - Parahippocampus
+   - Medial prefrontal cortex (MPFC)
+   - Ventral MPFC
+   - Posterior parietal cortex (PPC)
+     - Ventral posterior parietal cortex (vPPC)
+     - Dorsal posterior parietal cortex (dPPC)
+     - Superior parietal cortex (SPL)
+   - Intraparietal sulcus (IPS)
+     - Lateral bank of the intraparietal sulcus (IPS)
+
+3. **Occipital cortex**
+   - Middle frontal gyrus
+   - Bilateral insula
+   - Cerebellum
+   - Motor related regions
+
+4. **Supplementary motor cortex**
+
+5. **Anterior insular cortex (IC)**
+
+6. **Prefrontal cortex**
+   - Medial prefrontal cortex (MPFC)
+   - Ventral MPFC
+
+7. **Auditory and visual cortex**
+
+8. **Default Mode Network (DMN)**
+   - Dorsal Default Mode Network
+
+9. **Dorsal attention network (DAN)**
+   - Superior parietal cortex (SPL)
+
+10. **Parietal regions**
+    - Angular gyrus (AnG)
+    - Precuneus
+    - Posterior cingulate
+    - Parahippocampus
+    - Medial prefrontal cortex (MPFC)
+    - Ventral MPFC
+    - Posterior parietal cortex (PPC)
+      - Ventral posterior parietal cortex (vPPC)
+      - Dorsal posterior parietal cortex (dPPC)
+      - Superior parietal cortex (SPL)
+    - Intraparietal sulcus (IPS)
+      - Lateral bank of the intraparietal sulcus (IPS)
+
+11. **Occipital cortex**
+    - Middle frontal gyrus
+    - Bilateral insula
+    - Cerebellum
+    - Motor related regions
+
+12. **Supplementary motor cortex**
+
+13. **Anterior insular cortex (IC)**
+
+14. **Prefrontal cortex**
+    - Medial prefrontal cortex (MPFC)
+    - Ventral MPFC
+
+15. **Auditory and visual cortex**
+
+16. **Default Mode Network (DMN)**
+    - Dorsal Default Mode Network
+
+17. **Dorsal attention network (DAN)**
+    - Superior parietal cortex (SPL)
+
+### Cognitive Functions
+These regions are involved in these cognitive functions:
+- Memory formation and retrieval
+- Associative memory processing
+- Multimodal information integration
+- Attentional control and processing
+- Contextual and thematic memory schemata
+- Recollection and updating of episodic representations
+- Incidental learning and explicit memory
+- Bottom-up and top-down attention processes
+- Goal-directed behavior and interference resolution
+- Emotional salience detection and affective learning

@@ -1,0 +1,46 @@
+1. **Inferior Parietal Lobule (IPL)**
+
+2. **Superior Temporal Gyrus (STG)**
+
+3. **Superior Temporal Sulcus (STS)**
+
+4. **Insula**
+    - Left insula
+    - Right insula
+
+5. **Anterior Cingulate Cortex (ACC)**
+
+6. **Premotor Cortex (PMC)**
+
+7. **Supramarginal Gyrus (SMG)**
+    - Rostral SMG
+
+8. **Primary Auditory Cortex (A1)**
+
+9. **Primary Somatosensory Cortex (S1)**
+
+10. **Secondary Somatosensory Cortex (S2)**
+
+11. **Inferior Frontal Gyrus (IFG)**
+
+12. **Arcuate Fasciculus (AF)**
+
+13. **Gray Matter (GM)**
+
+14. **White Matter (WM)**
+
+15. **Cerebral Spinal Fluid (CSF)**
+
+16. **Primary Motor Cortex (M1)**
+
+17. **Heschl’s Gyrus**
+
+18. **Frontal (e.g., PMC)**
+
+19. **Temporal (e.g., STG, STS)**
+
+20. **Parietal (e.g., IPL)**
+
+21. **Paracentral/Cingulate Sulcus Region**
+
+These regions are involved in these cognitive functions: language, memory, executive functions, motor control, somatosensory processing, auditory processing, speech motor control, sensorimotor integration, and cognitive functions.

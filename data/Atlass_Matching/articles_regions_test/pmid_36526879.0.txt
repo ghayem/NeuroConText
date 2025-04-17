@@ -1,0 +1,46 @@
+### Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Salience Network (SN)**
+   - **Anterior Cingulate Cortex (ACC)**
+   - **Anterior Insula**
+   - **Rostral Prefrontal Cortex**
+   - **Supramarginal Gyrus (SMG)**
+   - **Central Operculum**
+   - **Planum Temporale**
+   - **Paracingulate Gyrus**
+   - **Postcentral Gyrus**
+   - **Juxtapositional Lobule (Supplementary Motor Area, SMA)**
+
+2. **Limbic-Parahippocampal Network**
+   - **Hippocampus**
+   - **Amygdala**
+   - **Paracingulate Cortex**
+   - **Precentral Cortex**
+   - **Cerebellum Crus 1 and 2**
+   - **Angular Gyrus**
+   - **Vermis 7**
+
+3. **Posterior Cerebellar Network**
+   - **Superior Frontal Cortex**
+   - **Juxtapositional Lobule Cortex (SMA)**
+
+4. **Sensorimotor Network**
+   - **Secondary Somatosensory Cortex (S2)**
+   - **Primary Somatosensory Cortex (S1)**
+   - **Precentral Gyrus**
+   - **Postcentral Gyrus**
+   - **Frontal Pole**
+   - **Occipital Pole**
+   - **Central Opercular Cortices**
+
+5. **Parietal and Central Opercular Cortices**
+
+6. **Prefrontal Cortex**
+
+7. **Anterior Division of the Cingulate Gyrus**
+
+8. **Cerebellum**
+
+9. **Insular Cortex**
+
+10. **Parietal Operculum**

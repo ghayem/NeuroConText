@@ -1,0 +1,57 @@
+1. **Limbic System**
+   - Amygdala
+   - Hippocampus
+
+2. **Frontal Lobe**
+   - Prefrontal cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Orbitofrontal cortex (OFC)
+   - Anterior cingulate cortex (ACC)
+   - Medial prefrontal cortex (mPFC)
+   - Supplementary motor area (SMA)
+   - Brodmann Area 6
+   - Vertical commissure anterior line
+
+3. **Cingulate Cortex**
+   - Posterior cingulate cortex
+
+4. **Basal Ganglia**
+
+5. **Neo-cortex**
+
+6. **Thalamus**
+   - Medial dorsal thalamus nucleus
+
+7. **Cuneus Gyrus**
+
+8. **Postcentral Gyrus**
+
+9. **Cerebellar Vermis**
+
+10. **Angular Cortex**
+
+11. **Temporal Region**
+
+12. **Hypothalamus**
+
+13. **Periaqueductal Gray Matter (PAG)**
+
+14. **Medial-lateral Frontal Cortex**
+
+15. **Corticospinal Tract**
+
+16. **Frontal-striatal Circuitry**
+
+17. **Limbic–thalamic–cortical (LTC) Network**
+
+18. **Limbic-cortical-striatal-pallidal-thalamic (LCSPT) Network**
+
+19. **Hypothalamic-pituitary-adrenal (HPA) Axis**
+
+20. **Superior Frontal Gyrus**
+
+21. **Superior Frontal Cortex**
+
+22. **Diencephalon**
+
+These regions are involved in various cognitive and emotional processes, including mood regulation, emotional behavior, cognitive control, executive functioning, conflict monitoring, and visceral function.

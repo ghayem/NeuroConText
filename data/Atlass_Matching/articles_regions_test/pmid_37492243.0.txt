@@ -1,0 +1,42 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Primary motor cortex (M1)**
+
+2. **Premotor cortex (PM)**
+    - Ventral premotor cortex (PMv)
+    - Dorsal premotor cortex (PMd)
+
+3. **Supplementary motor area (SMA)**
+    - SMA proper
+    - Pre-SMA
+
+4. **Parietal cortex**
+    - Posterior parietal cortex (PPC)
+    - Medial intraparietal area (MIP)
+    - Anterior intraparietal area (AIP)
+    - Lateral region in the posterior intraparietal sulcus (lpIPS)
+    - Medial portion of the posterior intraparietal sulcus (mpIPS)
+    - Superior parietal lobule (SPL)
+    - Inferior parietal lobule (IPL)
+    - Angular gyrus (A39c)
+    - Supramarginal gyrus
+
+5. **Occipital cortex**
+    - Primary visual cortex
+    - Medial visual occipital cortex (MVOcC)
+    - Right lingual gyrus (rLinG)
+    - Fusiform (Occipitotemporal gyrus)
+
+6. **Frontal cortex**
+    - Superior frontal gyrus
+    - Precentral gyrus
+    - Frontal eye fields (FEF)
+    - Handknob
+
+7. **Other regions**
+    - Precuneus
+    - Insular cortex
+    - Central sulcus
+    - Pre-supplementary motor area (preSMA)
+
+These regions are involved in various cognitive and motor functions, including sensorimotor transformation, visually-guided movements, and motor control.

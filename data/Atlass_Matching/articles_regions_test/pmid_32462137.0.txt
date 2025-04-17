@@ -1,0 +1,29 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Temporal Lobe**
+   - Anterior temporal lobe
+   - Right temporal lobe
+   - Right temporal pole
+
+2. **Amygdala**
+
+3. **Hippocampus**
+   - Right hippocampus
+
+4. **Broca's Area**
+   - Left Broca's area
+   - Right hemisphere Broca's homolog
+
+5. **Wernicke's Area**
+   - Left Wernicke's area
+   - Right hemisphere Wernicke's homolog
+
+6. **Piriform Cortex**
+
+These regions are involved in the following cognitive functions and processes:
+- Language
+- Memory
+- Seizure activity and control
+- Speech and language mapping
+- Language lateralization
+- Cognitive deficits post-surgery

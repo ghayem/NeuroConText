@@ -1,0 +1,20 @@
+## Brain Regions and Sub-Regions:
+
+1. **Brainstem**
+   - Rostral ventromedial medulla (RVM)
+   - Locus coeruleus (LC)
+   - Periaqueductal gray (PAG)
+
+2. **Forebrain**
+   - Dorsal posterior insula (dpIns)
+   - Primary somatosensory cortex (S1)
+   - Anterior cingulate cortex (ACC)
+   - Frontopolar cortex (Brodmann area 10, BA10)
+   - Lateral occipital cortex (LOC)
+   - Superior parietal lobule (SPL)
+   - Anterior insula (aIns)
+   - Precuneus (Pcu)
+   - Fronto-medial cortex (FMC)
+   - Operculum (OPC)
+
+These regions are involved in pain modulation, attentional processes, and cognitive functions.

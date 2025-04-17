@@ -1,0 +1,141 @@
+1. **Frontotemporal cortex**
+   - Left inferior frontal gyrus
+   - Superior temporal sulcus
+
+2. **Left-hemisphere network**
+   - Left inferior frontal gyrus
+   - Superior temporal sulcus
+   - Dorsal parietal cortex
+
+3. **Left frontotemporal network**
+   - Left inferior frontal gyrus
+   - Superior temporal gyrus
+
+4. **Left frontoparietal network**
+
+5. **Dorsal parietal cortex**
+
+6. **Left inferior frontal gyrus**
+   - Opercular part
+
+7. **Left superior temporal gyrus**
+
+8. **Left inferior parietal lobule**
+
+9. **Left supplementary motor area**
+
+10. **Left superior temporal gyrus**
+
+11. **Left inferior parietal lobule**
+
+12. **Precentral gyrus**
+   - Left precentral gyrus
+
+13. **Left inferior frontal gyrus**
+   - Opercular part
+
+14. **Left supplementary motor area**
+
+15. **Left superior temporal gyrus**
+
+16. **Left inferior parietal lobule**
+
+17. **Bilateral occipital regions**
+
+18. **Left inferior occipital gyrus**
+
+19. **Left superior parietal lobule**
+
+20. **Middle frontal gyrus**
+   - Dorsal premotor area (PMd)
+
+21. **Precuneus**
+
+22. **Bilateral frontoparietal regions**
+   - Precentral gyrus
+   - Postcentral gyrus
+
+23. **Left inferior occipital gyrus (IOG)**
+
+24. **Left superior parietal lobule (SPL)**
+
+25. **Dorsal premotor area (PMd)**
+
+26. **Left inferior frontal gyrus (IFG)**
+   - Opercular part
+
+27. **Ventral premotor area**
+
+28. **Left inferior parietal lobule**
+
+29. **Left superior temporal gyrus**
+
+30. **Left inferior frontal gyrus**
+
+31. **Left supplementary motor area**
+
+32. **Left ventral premotor area**
+
+33. **Left occipitoparietal regions**
+
+34. **Left fusiform gyrus**
+
+35. **Left supplementary motor area**
+
+36. **Precentral gyrus**
+   - Left precentral gyrus
+
+37. **Left inferior frontal gyrus**
+   - Opercular part
+
+38. **Left supplementary motor area**
+
+39. **Left superior temporal gyrus**
+
+40. **Left inferior parietal lobule**
+
+41. **Left occipital cortex**
+
+42. **Left superior parietal lobule (SPL)**
+
+43. **Dorsal premotor area (PMd)**
+   - Left PMd
+
+44. **Left inferior occipital gyrus (IOG)**
+
+45. **Left superior parietal lobule (SPL)**
+
+46. **Left inferior parietal lobule**
+
+47. **Left postcentral gyrus**
+
+48. **Left precentral gyrus**
+
+49. **Left inferior frontal gyrus**
+   - Opercular part
+
+50. **Left supplementary motor area**
+
+51. **Left superior temporal gyrus**
+
+52. **Left inferior parietal lobule**
+
+53. **Left inferior occipital gyrus (IOG)**
+
+54. **Left superior parietal lobule (SPL)**
+
+55. **Left inferior frontal gyrus (IFG)**
+   - Opercular part
+
+56. **Left dorsal premotor area (PMd)**
+
+57. **Left inferior occipital gyrus (IOG)**
+
+58. **Left superior parietal lobule (SPL)**
+
+59. **Left inferior frontal gyrus (IFG)**
+   - Opercular part
+
+60. **Left lateral occipital region**
+
+These regions are involved in these cognitive functions: language processing, verbal learning, phonological short-term memory (STM), visuomotor analysis, sign language processing, visual recognition, and working memory.

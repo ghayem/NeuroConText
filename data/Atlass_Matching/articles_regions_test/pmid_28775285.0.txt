@@ -1,0 +1,25 @@
+## The brain regions:
+
+1. **Prefrontal Cortex**
+    - Dorsolateral Prefrontal Cortex (dlPFC)
+    - Right Prefrontal Cortex
+    - Right Lateral Prefrontal Cortex (rlPFC)
+        - Right Middle Frontal Gyrus (rMFG)
+        - Right Inferior Frontal Gyrus (rIFG)
+
+2. **Striatum**
+
+3. **Cingulate Cortex**
+    - Anterior Cingulate Cortex (ACC)
+        - Dorsal Anterior Cingulate Cortex (dACC)
+    - Cingulate Fronto-Parietal Circuit Network
+
+4. **Insula**
+
+5. **Orbitofrontal Cortex (OFC)**
+    - Bilateral Orbitofrontal Cortex
+
+6. **Frontoparietal Control Network**
+    - Ventromedial Prefrontal Cortex
+
+- These regions are involved in these cognitive functions: behavioral inhibition, interference control, cognitive control, inhibition impairment, attentional control, response inhibition, executive functions, and flexible behavioral change.

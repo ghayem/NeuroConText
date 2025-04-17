@@ -1,0 +1,50 @@
+## Brain Regions and Sub-Regions
+
+1. **Visual Cortex**
+   - Bilateral lingual gyrus (LING)
+   - Calcarine (CAL)
+   - Superior occipital gyrus (SOG)
+
+2. **Cerebellum**
+   - Right cerebellum (CER)_8
+   - Left CER_4-5
+
+3. **Postcentral Gyrus**
+   - Right postcentral gyrus (PostCG)
+
+4. **Superior Frontal Gyrus**
+   - Bilateral superior frontal gyrus
+
+5. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus
+
+6. **Precentral Gyrus**
+   - Right precentral gyrus
+
+7. **Inferior Frontal Gyrus**
+   - Left inferior frontal gyrus (IFG)
+   - Right IFG
+
+8. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+
+9. **Insula**
+   - Left insula
+   - Right insula
+
+10. **Precuneus**
+    - Left precuneus (PreCUN)
+
+11. **Superior Parietal Lobe**
+    - Left superior parietal lobe
+
+12. **Occipital Lobe**
+    - Left occipital lobe
+
+13. **Salience Network**
+
+14. **Default Mode Network (DMN)**
+
+15. **Dorsal Attention Network**
+
+These regions are involved in cognitive functions such as visual processing, motor control, body balance, higher cognitive function, visual attention, working memory, sensorimotor function, pain sensory processing, and visuomotor coordination.

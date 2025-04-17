@@ -1,0 +1,46 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Basal Ganglia**
+
+2. **Brainstem**
+
+3. **Centrum Semiovale**
+
+4. **Cerebellum**
+   - Cerebellar anterior lobe
+   - Cerebellar posterior lobe
+
+5. **Corpus Callosum**
+
+6. **Frontal Lobe**
+   - Superior frontal gyrus (SFG)
+     - Left superior frontal gyrus
+     - Right superior frontal gyrus
+
+7. **Occipital Lobe**
+   - Cuneus (CU)
+
+8. **Parietal Lobe**
+   - Precuneus (Pcu)
+     - Anterior precuneus
+     - Central precuneus
+     - Posterior precuneus
+   - Postcentral gyrus
+     - Left postcentral gyrus
+
+9. **Periventricular Areas**
+
+10. **Pons**
+    - Bilateral pons
+
+11. **Precentral Gyrus**
+    - Right precentral gyrus
+
+12. **Parahippocampal Gyrus (PHG)**
+    - Right parahippocampal gyrus
+
+13. **Posterior Cingulate Cortex (PCC)**
+
+14. **White Matter**
+
+These regions are involved in various cognitive functions, including executive function, information processing speed, attention, memory, motor functions, and emotional processing.

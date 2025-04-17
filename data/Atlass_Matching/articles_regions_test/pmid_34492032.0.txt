@@ -1,0 +1,36 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Cochlea**
+   - Center
+   - Base
+
+2. **Cochlear Nuclei**
+
+3. **Superior Olivary Complex**
+
+4. **Inferior Colliculi**
+
+5. **Medial Geniculate Bodies**
+
+6. **Auditory Cortices**
+   - Heschl’s gyrus
+     - Crow
+     - Banks
+
+7. **Inner-ear**
+   - Cochlea
+   - Vestibular system
+     - Semi-circular ducts
+     - Vestibule
+   - Auditory nerves
+   - Reissner’s membrane
+   - Macula
+   - Basilar membrane
+
+8. **Temporal Lobes**
+
+9. **Cerebellum**
+
+10. **Subcortical Regions**
+
+These regions are involved in the auditory pathway and processing of auditory information.

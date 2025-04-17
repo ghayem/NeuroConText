@@ -1,0 +1,59 @@
+## Brain Regions and Sub-regions:
+
+1. **Auditory Cortex**
+   - Auditory cortices
+
+2. **Anterior Cingulate Cortex**
+
+3. **Cingulate Gyrus**
+
+4. **Dorsal Prefrontal Cortex**
+
+5. **Fronto-Parietal Cortex**
+   - Left fronto-parietal cortex
+
+6. **Frontal Cortex**
+   - Left inferior frontal cortex
+   - Right inferior frontal gyrus
+
+7. **Insula**
+   - Left insula
+
+8. **Medial Prefrontal Cortex**
+
+9. **Medial Temporal Cortex**
+   - Right medial temporal areas
+
+10. **Occipital Cortex**
+    - Occipital areas
+
+11. **Parahippocampal Gyrus**
+    - Right parahippocampal gyrus
+    - Left parahippocampal gyrus
+
+12. **Posterior Cingulate Cortex**
+
+13. **Precentral Gyrus**
+    - Left precentral gyrus
+    - Right precentral gyrus
+
+14. **Precuneus**
+    - Right precuneus
+
+15. **Putamen**
+    - Left putamen
+
+16. **Subcortical Regions**
+
+17. **Superior Frontal Gyrus**
+    - Left superior frontal gyrus
+
+18. **Superior Temporal Gyrus**
+    - Left superior temporal gyrus
+    - Right superior temporal gyrus
+
+19. **Temporal Cortex**
+    - Left temporal cortex
+    - Right temporal cortex
+
+These regions are involved in various cognitive functions, including attention, memory, emotion, and higher-order functions.

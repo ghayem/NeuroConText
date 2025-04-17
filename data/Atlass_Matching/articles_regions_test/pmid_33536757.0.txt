@@ -1,0 +1,21 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Optic Nerve**
+
+2. **Visual Pathway**
+   - Visual Center
+
+3. **Right Fusiform Gyrus**
+   - Brodmann area (BA) 56
+
+4. **Left Inferior Temporal Gyrus**
+   - Brodmann area (BA) 20
+
+5. **Left Inferior Temporal Gyrus**
+   - Brodmann area (BA) 89
+
+6. **Parahippocampal Area**
+
+7. **Medial Temporal Lobe**
+
+These regions are involved in various cognitive functions, including visual processing, object recognition, face recognition, memory, multi-sensory integration, perceptual function, language processing, semantic understanding, and emotion regulation.

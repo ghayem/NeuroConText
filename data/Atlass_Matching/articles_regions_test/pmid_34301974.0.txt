@@ -1,0 +1,45 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortices**
+   - Primary motor cortex (M1)
+   - Supplementary motor area (SMA)
+   - Premotor cortex
+   - Prefrontal cortex
+   - Dorsal premotor cortex (dPMC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Primary and premotor regions (bilateral)
+   - Premotor and parietal regions (bilateral)
+   - Superior frontal gyrus (right)
+   - Superior parietal lobule (right)
+
+2. **Subcortical Regions**
+   - Cerebellum
+   - Thalamus
+   - Putamen
+
+3. **Other Regions**
+   - Cortical brain regions of the motor system
+   - Motor network
+   - Sensorimotor regions
+   - Cortical and subcortical brain structures
+   - Cortical regions
+   - Subcortical regions
+   - Bilateral premotor and parietal regions
+   - Bilateral primary motor and parietal regions
+   - Occipital regions (bilateral)
+
+These regions are involved in various cognitive functions and processes, including:
+- Motor learning, planning, and execution
+- Sequence motor learning
+- Neural activation and connectivity
+- Neuroplasticity
+- Serotonergic modulation
+- Inhibitory control and neurogenesis
+- Neural adaptability and plasticity
+- Neural automation of task performance
+- GABAergic signaling
+- Motor network connectivity
+- Motor performance and learning
+- Motor recovery in stroke
+- Psychiatric disorders
+- Cognitive strategizing and attention

@@ -1,0 +1,33 @@
+1. **Anterior Cingulum**
+
+2. **Prefrontal Lobe**
+    - Orbitofrontal Gyrus
+
+3. **Occipital Lobe**
+
+4. **Temporal Lobe**
+
+5. **Cerebellum**
+
+6. **Medial Prefrontal Cortex**
+
+7. **Posterior Cingulate Gyrus/Precuneus**
+    - Posterior Cingulate Cortex
+
+8. **Inferior Parietal Lobule (IPL)**
+    - Supramarginal Gyrus (SMG)
+    - Angular Gyrus (AG)
+
+9. **Insula**
+
+10. **Default Mode Network (DMN)**
+
+11. **Hippocampus**
+
+12. **Entorhinal Cortex**
+
+13. **Precentral Gyrus**
+
+14. **Superior Temporal Gyrus**
+
+These regions are involved in various cognitive functions, including memory, language, executive functions, and visuospatial abilities.

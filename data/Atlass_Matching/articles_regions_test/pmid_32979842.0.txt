@@ -1,0 +1,82 @@
+### Brain Regions and Sub-Regions
+
+1. **Basal Ganglia**
+   - Caudate nucleus
+   - Putamen
+
+2. **Frontal Lobe**
+   - Inferior orbital prefrontal cortex (oPFC)
+   - Mid-frontal gyrus
+   - Superior frontal gyrus
+   - Mid-orbital prefrontal cortex (oPFC)
+   - Rostral mid-frontal gyrus
+   - Superior frontal gyrus
+   - Pars triangularis
+   - Rectus gyrus
+   - Medial superior prefrontal cortex (PFC)
+
+3. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Inferior temporal gyrus
+   - Mid-temporal gyrus
+   - Mid-temporal pole
+   - Fusiform gyrus
+   - Temporal pole
+
+4. **Parietal Lobe**
+   - Supramarginal gyrus
+   - Inferior parietal gyrus
+   - Superior parietal gyrus
+   - Postcentral gyrus
+   - Precuneus
+
+5. **Occipital Lobe**
+   - Mid-occipital gyrus
+   - Superior occipital gyrus
+   - Inferior occipital gyrus
+   - Lateral occipital gyrus
+   - Cuneus
+   - Lingual gyrus
+
+6. **Insular Cortex**
+   - Anterior insular cortex
+   - Posterior insular cortex
+
+7. **Thalamus**
+
+8. **Cerebral Cortex**
+   - White matter
+   - Gray matter
+
+9. **Mid Cingulate**
+
+10. **Rolandic Operculum**
+
+11. **Precentral Gyrus**
+
+12. **Paracentral Lobule**
+
+13. **Hippocampus**
+
+### Cognitive Functions Involved
+- Frontal-executive functions
+- Attention
+- Processing speed
+- Visuomotor integration
+- Episodic and autobiographical memory
+- Visual perception
+- Mental rotation
+- Language production and organization
+- Executive functions
+- Memory
+- Processing speed
+- Language
+- Constructional abilities
+- Amnestic difficulties
+- Constructional apraxia
+- Confrontation naming deficits
+- Reduced semantic abilities
+- Verbal fluency
+- Psychomotor processing speed
+- Sensorimotor processing
+- Visuospatial processing

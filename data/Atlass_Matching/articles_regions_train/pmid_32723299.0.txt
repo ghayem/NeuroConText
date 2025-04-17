@@ -1,0 +1,43 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Brainstem**
+
+2. **Central dopaminergic system**
+
+3. **Hypothalamus**
+   - Left hypothalamus
+   - Right hypothalamus
+
+4. **Frontal lobe**
+   - Frontal regions
+   - Left middle frontal gyrus (MFG)
+   - Right middle frontal gyrus (MFG)
+   - Medial superior frontal gyrus (mSFG)
+   - Left medial superior frontal gyrus (mSFG)
+   - Right medial superior frontal gyrus (mSFG)
+
+5. **Parietal lobe**
+
+6. **Temporal lobe**
+
+7. **Subcortical regions**
+
+8. **Cerebellum**
+
+9. **Occipital regions**
+
+10. **Right posterior insula**
+
+11. **Left fusiform gyrus**
+
+12. **Left Rolandic operculum**
+
+13. **Right postcentral gyrus**
+
+14. **Left supplementary motor area**
+
+15. **Anterior cingulate cortex (ACC)**
+
+16. **Left and right superior frontal gyrus (SFG)**
+
+These regions are involved in various functions including pain processing, cognitive evaluation, emotional management, motor planning, and neurocognitive aspects of pain processing.

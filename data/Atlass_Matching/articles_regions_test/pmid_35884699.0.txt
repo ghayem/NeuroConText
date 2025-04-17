@@ -1,0 +1,55 @@
+1. **Frontal Lobe**
+   - Prefrontal lobe
+     - Medial prefrontal cortex
+     - Middle frontal gyrus
+     - Superior frontal gyrus
+     - Inferior frontal gyrus
+   - Posterior cingulate gyrus
+   - Postcentral gyrus
+   - Cingulate cortex
+     - Anterior cingulate gyrus
+     - Posterior cingulate gyrus
+
+2. **Parietal Lobe**
+   - Inferior parietal lobule
+   - Superior parietal gyrus
+   - Inferior parietal gyrus
+   - Supramarginal gyrus
+   - Angular gyrus
+   - Precuneus
+
+3. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Lingual gyrus
+
+4. **Occipital Lobe**
+   - Parieto-occipital lobe
+
+5. **Limbic System**
+   - Hippocampus
+   - Amygdala
+
+6. **Basal Ganglia**
+   - Caudate nucleus
+   - Putamen
+   - Globus pallidus
+   - Striatum
+
+7. **Cerebellum**
+   - Anterior cerebellar lobe
+   - Cerebellum hemisphere
+   - Vermis of cerebellum
+   - Tuber of cerebellum
+
+8. **Thalamus**
+   - Medial thalamic nucleus
+
+9. **Brainstem**
+   - Midbrain
+   - Pons
+   - Medulla oblongata
+
+10. **Subcortical Structures**
+    - Lentiform nucleus
+
+These regions are involved in various cognitive functions, including arousal, consciousness, sensory integration, motor functions, and emotional responses.

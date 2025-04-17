@@ -1,0 +1,23 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex (dlPFC)
+     - Middle parts of the dorsolateral prefrontal cortex (CH01, CH02, CH03, CH04, CH05, CH08, CH13, CH14, CH18)
+     - Brodmann's Areas (BA) 9 and BA 46
+   - Frontopolar area
+     - CH06, CH07, CH10, CH11, CH12, CH15, CH16
+     - Brodmann's Area (BA) 10
+   - Pars triangularis Broca’s area
+     - CH 09
+     - Brodmann's Area (BA) 45
+   - Orbitofrontal area
+     - CH 21, CH 22
+     - Brodmann's Area (BA) 11
+
+2. **Other Regions**
+   - Central zero (Cz)
+   - Nasion (Nz)
+   - Right preauricular points (AR)
+   - Left preauricular points (AL)
+
+- These regions are involved in these cognitive functions: attention, working memory, decision-making, response execution, memory extraction, emotional assessment, socialization, perception, semantic judgment, and executive functions.

@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+
+2. **Cortex**
+   - Primary somatosensory cortex
+   - Cingulate cortex
+     - Anterior cingulate cortex (ACC)
+     - Mid-cingulate cortex (MCC)
+     - Posterior cingulate cortex (PCC)
+   - Insula
+     - Right insula
+   - Prefrontal cortex (PFC)
+   - Supramarginal gyrus
+   - Precentral gyrus
+     - Right precentral gyrus
+   - Paracentral lobule
+     - Right paracentral lobule
+   - Postcentral gyrus
+     - Bilateral postcentral gyrus
+   - Precuneus
+
+3. **Basal Ganglia**
+   - Caudate nucleus
+     - Left caudate
+   - Putamen
+     - Left putamen
+   - Globus pallidus
+     - Bilateral pallidum
+   - Nucleus accumbens (NAc)
+   - Hippocampus
+   - Amygdala
+
+4. **Brainstem**
+   - Periaqueductal gray (PAG)
+     - Ventrolateral PAG
+
+5. **White Matter (WM) Tracts**
+   - Internal capsule
+   - External capsule
+   - Corpus callosum
+   - Corticospinal tract
+   - Spinothalamic tract
+   - Thalamocortical projecting fibers
+   - Fronto-occipital fasciculus
+     - Bilateral fronto-occipital fasciculus
+   - Inferior longitudinal fasciculus
+     - Bilateral inferior longitudinal fasciculus
+   - Uncinate fasciculus
+     - Bilateral uncinate fasciculus
+
+6. **Spinal Cord**
+   - Spinal dorsal horn
+
+These regions are involved in various sensory, motor, and cognitive functions, as well as pain perception and modulation.

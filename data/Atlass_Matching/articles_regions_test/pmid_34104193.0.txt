@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal Brain Regions**
+    - Orbital frontal gyrus (OFG)
+    - Inferior frontal gyrus (IFG)
+
+2. **Temporal Brain Regions**
+    - Middle temporal gyrus (MTG)
+    - Medial temporal lobe
+        - Hippocampus
+        - Entorhinal cortex
+
+3. **Parietal Brain Regions**
+    - Posteromedial cortices
+
+4. **Subcortical Brain Sites**
+
+5. **White Matter Regions**
+    - Corpus callosum
+    - Capsule
+    - Periventricular white matter
+    - Cingulum
+    - Occipitofrontal fasciculi
+
+6. **Medial Frontal Cortex**
+
+7. **Temporal Cortical Regions**
+
+8. **Occipital Cortices**
+
+9. **Parietal Cortices**
+
+10. **Lateral Temporal Cortex**
+
+11. **Lateral Parietal Cortex**
+
+12. **Medial/lateral Prefrontal Cortex**
+
+13. **Posterior Cingulate Cortex**
+
+    - These regions are involved in these cognitive functions: executive function, semantic memory, episodic memory, verbal short-term memory, global cognitive function, psychomotor speed, and executive control.

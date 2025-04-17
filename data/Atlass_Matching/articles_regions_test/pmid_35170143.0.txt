@@ -1,0 +1,50 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+
+2. **Central Executive Network (CEN)**
+
+3. **Salience Network (SN)**
+
+4. **Limbic Network**
+
+5. **Basal Ganglia Network**
+
+6. **Frontoparietal Network (FPN)**
+
+7. **Sensorimotor Network (SMN)**
+
+8. **Visual Network (VIS)**
+
+9. **Dorsal Attention Network (DAN)**
+
+10. **Ventral Attention Network (VAN)**
+
+11. **Bilateral Middle Occipital Gyri (MOG)**
+    - Left MOG
+    - Right MOG
+
+12. **Left Medial Orbital Frontal Gyrus**
+
+13. **Left Superior Frontal Gyrus (SFG)**
+
+14. **Left Posterior Cingulate Gyrus**
+
+15. **Right Superior Temporal Gyrus**
+
+16. **Right Middle Frontal Gyrus**
+
+17. **Right Lingual Gyrus**
+
+18. **Medial Orbitofrontal Cortex (mOFC)**
+
+19. **Posterior Cingulate Cortex (PCC)**
+
+These regions are involved in various cognitive functions, including but not limited to:
+
+- Visual processing (VIS, MOG, lingual gyrus)
+- Sensorimotor integration (SMN)
+- Attention and cognitive control (DAN, FPN, VAN)
+- Inhibitory control and reward valuation (SFG, mOFC)
+- Emotional regulation and memory (DMN, PCC)
+- Salience processing and switching between networks (SN)

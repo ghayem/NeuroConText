@@ -1,0 +1,55 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Insula**
+
+3. **Cingulate Cortex**
+
+4. **Prefrontal Cortex (PFC)**
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Anterior PFC (aPFC)
+   - Right dorsolateral prefrontal cortex (rdlPFC)
+   - Left dorsolateral prefrontal cortex (ldlPFC)
+   - Right dorsolateral prefrontal cortex (rdlPFC)
+
+5. **Hippocampus (HC)**
+
+6. **Brainstem**
+
+7. **Cerebellum**
+   - Cerebellar vermis
+   - Lobule IV of the cerebellum
+
+8. **Occipital Cortex**
+   - Superior/middle occipital gyrus
+   - Left superior occipital gyrus
+   - Calcarine
+
+9. **Frontal Cortex**
+   - Middle frontal gyrus
+   - Superior frontal gyrus
+   - Frontal middle and frontal superior left cortices
+
+10. **Parietal Cortex**
+    - Postcentral gyrus
+    - Paracentral region
+
+11. **Temporal Cortex**
+    - Middle temporal gyrus
+
+12. **Anterior Insula**
+    - Dorsal anterior insula (dAI)
+    - Ventral anterior insula (vAI)
+
+13. **Parahippocampal Gyrus**
+    - Parahippocampus
+
+14. **Rolandic Operculum**
+
+15. **Anterior Cingulate Cortex (ACC)**
+
+16. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+These regions are involved in various cognitive and emotional processes, including fear conditioning, extinction, and emotional regulation.

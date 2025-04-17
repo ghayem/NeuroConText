@@ -1,0 +1,65 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+
+2. **Parietal Cortex**
+
+3. **Temporal Cortex**
+   - Left superior temporal gyrus
+   - Right middle temporal gyrus
+   - Bilateral superior temporal gyri
+   - Left superior temporal cortex
+   - Middle temporal cortex
+
+4. **Limbic Cortex**
+   - Bilateral anterior cingulate gyri
+   - Bilateral middle cingulate gyri
+   - Left parahippocampal gyrus
+
+5. **Cerebellar Cortex**
+
+6. **Brainstem**
+
+7. **Insular Cortex**
+   - Bilateral anterior insula
+   - Right insula
+   - Left insula
+
+8. **Occipital Lobe**
+   - Bilateral lingual gyri
+   - Visual cortex
+
+9. **Basal Ganglia**
+   - Left caudate nucleus
+
+10. **Thalamus**
+    - Bilateral thalamus
+    - Bilateral thalamus/pulvinars
+    - Right thalamus/pulvinar
+    - Left thalamus/pulvinar
+    - Posterior thalamus
+
+11. **White Matter Tracts**
+    - Superior corona radiata (corresponding to bilateral precuneus and bilateral superior parietal lobules)
+    - Superior longitudinal fasciculus (bilateral supramarginal gyri)
+    - Inferior longitudinal fasciculus (left superior temporal gyrus, right middle temporal gyrus and fusiform gyrus)
+    - Bilateral optic radiation
+    - Fornix
+
+12. **Other Grey Matter Regions**
+    - Right gyrus rectus
+    - Left precentral gyrus
+    - Left Rolandic operculum
+    - Hippocampus
+    - Precuneus
+    - Bilateral supramarginal gyri
+    - Fusiform gyrus
+    - Anterior insula/superior temporal/Rolandic operculum
+
+13. **Other White Matter Regions**
+    - Superior parietal lobule
+    - Posterior parietal lobe
+    - Inferior temporal fusiform
+    - Corona radiata
+
+These regions are involved in various cognitive functions, including memory, visual processing, executive functions, and cardiovascular regulation, as discussed in the article.

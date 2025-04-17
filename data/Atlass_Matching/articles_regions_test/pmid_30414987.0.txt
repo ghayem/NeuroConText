@@ -1,0 +1,39 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Ventrolateral prefrontal cortex (VLPFC)
+    - Medial prefrontal cortex
+    - Dorsal anterior cingulate cortex
+
+2. **Temporal Regions**
+    - Left middle temporal gyrus
+    - Left parahippocampal gyrus
+
+3. **Parietal Regions**
+    - Angular gyrus
+    - Precuneus
+    - Posterior parietal cortex
+    - Inferior parietal lobule (IPL)
+    - Supramarginal gyrus
+
+4. **Limbic Regions**
+
+5. **Other Cortical Regions**
+    - Middle frontal gyrus (MFG)
+    - Superior frontal gyrus
+    - Fusiform gyrus
+    - Lingual gyrus
+    - Posterior cingulate cortex (PCC)
+
+6. **Subcortical Regions**
+    - Cerebellum
+
+7. **Networks**
+    - Default network
+    - Affective network
+    - Ventral attention network
+    - Frontoparietal network
+    - Cognitive control network
+
+These regions are involved in various cognitive functions, including emotion regulation, self-referential processing, cognitive control, and attributional style.

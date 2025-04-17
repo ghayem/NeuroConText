@@ -1,0 +1,39 @@
+Based on the article, the following brain regions and sub-regions are mentioned:
+
+1. **Inferior Frontal Cortex (IFC)**
+    - Bilateral inferior frontal cortices
+
+2. **Posterior Superior Temporal Sulcus (pSTS)**
+    - Bilateral posterior superior temporal sulci (pSTS)
+    - Bilateral pSTS/planum temporale
+    - Bilateral pSTS/posterior superior temporal gyrus (pSTG)
+
+3. **Transverse Temporal Gyrus (TTG)**
+    - Bilateral transverse temporal gyri (also known as Heschl's gyrus)
+
+4. **Anterior Insula**
+    - Left anterior insula
+    - Right anterior insula
+
+5. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+6. **Planum Temporale**
+    - Bilateral planum temporale
+
+7. **Superior Temporal Gyrus (STG)**
+    - Bilateral superior temporal gyri
+    - Right posterior superior temporal gyrus (pSTG)
+
+8. **Thalamus**
+
+9. **Basal Ganglia**
+
+10. **Cerebellum**
+
+11. **Claustrum**
+
+12. **Temporal Poles**
+    - Anterior temporal poles
+
+These regions are involved in various cognitive functions, including multisensory processing, auditory and visual perception, social cognition, and semantic knowledge representation.

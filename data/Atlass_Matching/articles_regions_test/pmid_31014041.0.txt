@@ -1,0 +1,70 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article, along with their associated cognitive functions where applicable:
+
+1. **Frontal Cortex**
+   - **Orbital Cortices**
+     - BA 47
+   - **Inferior Frontal Gyri**
+     - Pars triangularis (BAs 46, 45)
+     - Pars orbitalis (BA 47)
+     - Border with the middle frontal gyrus (BA 9)
+   - **Superior Frontal Gyrus**
+     - BA 8
+   - **Middle Frontal Gyrus**
+     - BAs 8, 9, and 10
+   - **Supplementary Motor Area (SMA)**
+     - BA 6
+   - **Postcentral Gyrus**
+     - BA 2
+   - **Inferior Frontal Operculum**
+   - **Precentral Gyrus**
+
+2. **Temporal Cortex**
+   - **Lateral Temporal Cortices**
+   - **Superior Temporal Gyrus**
+     - BA 41
+   - **Middle Temporal Gyrus**
+     - BA 22
+   - **Heschl Gyrus**
+     - Border with the insular cortex (BA 13)
+   - **Fusiform Gyrus**
+     - BA 20
+   - **Parahippocampal Gyrus**
+
+3. **Parietal Cortex**
+   - **Inferior Parietal Lobule**
+     - BA 40
+   - **Posterior Parietal Cortex**
+
+4. **Occipital Cortex**
+   - **Lingual Gyrus**
+     - BA 19
+   - **Middle Occipital Gyrus**
+     - BA 19
+   - **Superior Occipital Gyrus**
+     - BA 18
+   - **Cuneus**
+     - BA 18
+
+5. **Subcortical Regions**
+   - **Amygdala**
+     - BA 34
+   - **Putamen Nucleus**
+   - **Globus Pallidus**
+   - **Rolandic Operculum**
+
+6. **Other Regions**
+   - **Paracentral Lobule**
+     - BAs 4 and 6
+   - **Insular Cortex**
+
+### Cognitive Functions Associated with These Regions:
+- **Language Processing**: Inferior frontal gyri, superior temporal gyrus, middle temporal gyrus
+- **Memory**: Hippocampal and parahippocampal regions
+- **Attention**: Dorsal-attentional network, including regions like the inferior frontal gyrus, superior temporal gyrus, and fusiform gyrus
+- **Sensorimotor Functions**: Supplementary motor area (SMA), postcentral gyrus, precentral gyrus
+- **Executive Functions**: Middle frontal gyrus, inferior frontal gyri
+- **Emotional Processing**: Amygdala
+- **Visual Processing**: Occipital cortex regions
+- **Auditory Processing**: Superior temporal gyrus, heschl gyrus
+
+These regions and their sub-regions are involved in various cognitive functions, including language, memory, attention, sensorimotor processing, executive functions, emotional processing, and visual and auditory processing.

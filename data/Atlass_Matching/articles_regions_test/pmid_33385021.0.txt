@@ -1,0 +1,33 @@
+## Brain Regions and Sub-regions:
+
+1. **Limbic Systems**
+
+2. **Prefrontal Cortex**
+
+3. **Default Mode Network (DMN)**
+    - Hippocampus
+    - Parahippocampus (PHG)
+    - Parahippocampal Gyrus
+    - Precuneus
+    - Orbital Gyrus
+
+4. **Salience Network (SN)**
+    - Amygdala
+    - Insula
+    - Thalamus
+
+5. **Central Executive Network (CEN)**
+
+6. **Temporal Lobe**
+
+7. **Frontal Lobe**
+
+8. **Parietal Lobe**
+
+9. **Subcortical Lobe**
+
+10. **Visual Network**
+
+11. **Somatomotor Network**
+
+These regions are involved in these cognitive functions: stress processes, cognitive and emotion regulation, self-referential processing, arousal regulation, orienting attention to salient information, and emotion regulation and salience attribution.

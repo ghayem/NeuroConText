@@ -1,0 +1,50 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Olfactory Bulb**
+
+2. **Piriform Cortex**
+
+3. **Entorhinal Cortex**
+
+4. **Hippocampus**
+
+5. **Striatum**
+   - Caudate nucleus
+   - Putamen
+   - Lentiform nucleus
+
+6. **Thalamus**
+
+7. **Amygdala**
+
+8. **Hypothalamus**
+
+9. **Cerebellum**
+
+10. **Parahippocampal Gyrus**
+
+11. **Insula**
+   - Anterior insula
+   - Posterior insula
+
+12. **Frontal Cortex**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Brodmann area 10 (BA 10)
+   - Inferior frontal gyrus
+   - Orbitofrontal cortex (OFC) BA 47
+
+13. **Superior Temporal Gyrus**
+
+14. **Fusiform Gyrus**
+
+15. **Cingulate Gyrus**
+
+These regions are involved in various cognitive functions, including:
+- Olfactory processing (olfactory bulb, piriform cortex)
+- Memory processing and consolidation (entorhinal cortex, hippocampus, parahippocampal gyrus)
+- Reward processing (striatum, amygdala, orbitofrontal cortex)
+- Energy regulation (hypothalamus)
+- Motor control and coordination (cerebellum)
+- Sensory processing (insula, thalamus)
+- Executive functions and decision-making (frontal cortex, cingulate gyrus)
+- Language and social cognition (superior temporal gyrus, fusiform gyrus)

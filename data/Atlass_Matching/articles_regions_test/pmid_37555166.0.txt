@@ -1,0 +1,41 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Limbic System**
+   - Amygdala
+   - Cingulate gyrus
+   - Parahippocampal gyrus
+
+2. **Paralimbic Regions**
+   - Orbitofrontal cortex
+   - Insula
+   - Temporal pole
+
+3. **Frontal Cortex**
+   - Middle frontal gyrus
+   - Superior frontal gyrus
+
+4. **Temporal Cortex**
+   - Superior temporal gyrus
+
+5. **Parietal Cortex**
+   - Posterior cingulate cortex (PCC)
+   - Cuneus
+
+6. **Occipital Cortex**
+   - Lingual gyrus
+   - Fusiform gyrus
+
+7. **Subcortical Structures**
+   - Thalamus
+
+8. **Resting-State Networks (RSNs)**
+   - Default mode network (DMN)
+   - Executive control network (ECN)
+   - Salience network (SAL)
+   - Sensorimotor network (SEN)
+   - Subcortical network (SBC)
+   - Attentional network (ATT)
+   - Visual network (VIS)
+   - Auditory network (AUD)
+
+These regions are involved in various cognitive functions, including emotional processing, decision making, executive control, salience detection, and motor control.

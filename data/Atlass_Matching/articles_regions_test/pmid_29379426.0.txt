@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Ventral Stream**
+   - Fusiform Gyrus (FG)
+   - Inferior Occipital Gyrus (IO)
+   - Occipital Face Area (OFA)
+   - Occipital Sulcus, anterior part (OSa)
+   - Inferior Temporal Gyrus, posterior part (ITp)
+   - Lateral Occipito-Temporal Sulcus, posterior part (LunS)
+   - Medial Occipito-Temporal Sulcus, posterior part (MedOT)
+
+2. **Dorsal Stream**
+   - Superior Occipital Sulcus (SOS)
+   - Intraparietal Sulcus (IPS)
+   - Angular Gyrus (AngG)
+   - Precuneus
+   - Superior Temporal Sulcus, posterior part (STSp)
+
+3. **Premotor Cortex**
+   - Ventral Premotor Cortex (VPM)
+
+4. **Parietal Lobe**
+   - Superior Parietal Lobule (SPL)
+   - Inferior Parietal Lobule (IPL)
+
+5. **Frontal Lobe**
+   - Inferior Frontal Gyrus (IFG)
+   - Middle Frontal Gyrus (MFG)
+
+6. **Temporal Lobe**
+   - Middle Temporal Gyrus (MTG)
+   - Superior Temporal Gyrus (STG)
+   - Inferior Temporal Gyrus (ITG)
+
+7. **Occipital Lobe**
+   - Lateral Occipital Cortex (LOC)
+   - Occipital Pole (OPole)
+
+8. **Insula**
+   - Anterior Insula
+   - Posterior Insula
+
+9. **Cingulate Cortex**
+   - Anterior Cingulate Cortex (ACC)
+   - Posterior Cingulate Cortex (PCC)
+
+10. **Subcortical Structures**
+    - Amygdala
+    - Hippocampus
+
+11. **White Matter Tracts**
+    - Inferior Longitudinal Fasciculus (ILF)
+    - Superior Longitudinal Fasciculus (SLF)
+
+These regions are involved in various cognitive functions, including object recognition, perception, sensorimotor integration, and categorization processes related to faces, tools, and other visual stimuli.

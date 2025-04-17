@@ -1,0 +1,18 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Visual Cortex**
+   - V1
+   - V4
+   - V5/MT
+   - TEO
+
+2. **Parahippocampal Cortex**
+
+3. **Striate Cortex**
+   - Brodmann Area 17 (BA17)
+
+4. **Visual Association Areas**
+   - Brodmann Area 18 (BA18)
+   - Brodmann Area 19 (BA19)
+
+- These regions are involved in visual processing, attention, and perceptual load modulations.

@@ -1,0 +1,71 @@
+1. **Anterior hypothalamus**
+   - Suprachiasmatic nucleus
+   - Third interstitial nucleus
+   - Preoptic nucleus
+
+2. **Thalamus**
+   - Pulvinar
+   - Centromedial thalamic nucleus
+   - Dorsomedial thalamus
+
+3. **Amygdala**
+
+4. **Anterior cingulate cortex (ACC)**
+   - Pregenual anterior cingulate cortex (pACC)
+   - Midfrontal-cingulate cortex
+
+5. **Perirhinal cortex**
+
+6. **Corpus callosum**
+   - Isthmus
+
+7. **Frontal lobe**
+   - Superior frontal gyrus
+   - Mid frontal lobe
+   - Frontopolar cortex
+   - Inferior frontal cortex
+
+8. **Temporal lobe**
+   - Superior/middle temporal gyrus
+   - Inferior temporal cortex
+
+9. **Parietal lobe**
+   - Postcentral gyrus
+   - Superior parietal lobe
+   - Right and left superior parietal cortex
+   - Precuneus
+   - Posterior cingulate cortex
+   - Inferior lateral parietal cortex
+
+10. **Occipital lobe**
+    - Occipito-temporal cortex
+    - Extrastriatal body area
+    - Middle and inferior occipital lobe
+    - Cuneus
+    - Lateral occipital cortex
+
+11. **Subcortical structures**
+    - Amygdala
+    - Hippocampus
+    - Caudate
+    - Putamen
+    - Accumbens
+
+12. **Default mode network (DMN)**
+    - Pregenual cingulate cortex (pACC)
+    - Posterior cingulate and precuneus cortex
+    - Right and left inferior, lateral parietal cortex
+
+13. **Anterior commissure**
+
+14. **Cerebellum**
+    - Cerebellar vermis
+
+15. **Other midline structures**
+    - Suprachiasmatic nucleus
+    - Anterior commissure
+    - Corpus callosum
+    - Hypothalamus
+    - Thalamus
+    - Amygdala
+    - Cerebellar vermis

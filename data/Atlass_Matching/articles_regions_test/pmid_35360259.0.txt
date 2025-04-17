@@ -1,0 +1,28 @@
+Based on the article provided, the brain regions and sub-regions mentioned are:
+
+1. **Cerebellum**
+   - Right cerebellar tumors
+   - Right cerebellar infractions
+   - Right Crus I
+   - Right Crus II
+   - Lobule VI
+   - Midline lobule VIIAt
+
+2. **Supratentorial Language Areas**
+   - Left precentral gyrus (lPreCG)
+   - Left postcentral gyrus (lPostCG)
+   - Left supramarginal gyrus (lSMG)
+   - Left inferior frontal gyrus pars triangularis (lIFGtri)
+
+3. **Other Related Areas**
+   - Inferior frontal gyrus (IFG)
+   - Supramarginal gyrus
+   - Postcentral gyrus
+   - Dentate nucleus
+   - Thalamus
+   - Pons
+   - Right superior cerebellum (rLobule VI/rCrus I)
+   - Frontotemporal area
+   - Prefrontal cortex
+
+These regions are involved in cognitive functions such as language processing, phonological processing, semantic processing, motor speech planning, and verbal working memory.

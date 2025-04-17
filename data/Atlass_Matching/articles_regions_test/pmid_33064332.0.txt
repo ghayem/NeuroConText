@@ -1,0 +1,65 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned, along with their associated cognitive functions:
+
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex
+   - Ventrolateral prefrontal cortex
+   - Medial prefrontal cortex
+   - Anterior prefrontal cortex
+   - Ventral prefrontal cortex
+   - *Cognitive functions*: Decision making, behavioral control, impulsivity, risk-taking, reward-driven behavior, cognitive control, executive functions.
+
+2. **Frontal Lobe**
+   - *Cognitive functions*: Behavioral control, impulsivity.
+
+3. **Mediofrontal Cortex**
+   - *Cognitive functions*: Impulsivity.
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+   - *Cognitive functions*: Decision making, morally distressful stimuli processing, behavioral control.
+
+5. **Temporal Cortex**
+   - Inferior temporal cortex
+   - Middle temporal cortex
+   - Anterior temporal areas
+   - *Cognitive functions*: Morally distressful stimuli processing, behavioral control.
+
+6. **Parietal Association Cortex**
+   - Precuneus
+   - Inferior parietal lobule (IPL)
+   - Intra-parietal sulcus (IPS)
+   - Superior parietal lobule (SPL)
+   - Posterior parietal cortex (PPC)
+   - *Cognitive functions*: Executive functions, behavioral control.
+
+7. **Amygdala**
+   - *Cognitive functions*: Decision making with morally distressful stimuli.
+
+8. **Insula**
+   - *Cognitive functions*: Behavioral control.
+
+9. **Thalamus**
+   - *Cognitive functions*: Behavioral control.
+
+10. **Striatum**
+    - Ventral striatum
+    - *Cognitive functions*: Reward anticipation, reward-driven behavior.
+
+11. **Sensorimotor Network (SMN)**
+    - *Cognitive functions*: Behavioral adaption, behavioral responses.
+
+12. **Default Mode Network (DMN)**
+    - *Cognitive functions*: Internal thoughts, emotion regulation, future planning, self-inspection, apathy, long-term planning, behavior control.
+
+13. **Cingulo-Opercular Network (CON)**
+    - *Cognitive functions*: Executive control, attentional control, emotional control, goal-directed behaviors, stable task control, flexible control of goal-directed behaviors.
+
+14. **Frontoparietal Network (FPN)**
+    - *Cognitive functions*: Executive control, attentional control, emotional control, initiating and adjusting control in response to feedbacks, goal-directed behaviors, switching, updating, and inhibiting tasks.
+
+15. **Occipital Network (OcN)**
+    - *Cognitive functions*: Unspecified in the provided article.
+
+16. **Cerebellum Network (CereN)**
+    - *Cognitive functions*: Unspecified in the provided article.

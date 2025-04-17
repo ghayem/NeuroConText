@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebellum**
+   - Cerebellar cortex
+   - Spinocerebellar tracts
+   - Anterior cerebellar lobe
+   - Lobule VI
+   - Vermis
+   - Crus I
+   - Crus II
+   - VIIIB
+
+2. **Premotor Cortex**
+   - Dorsolateral premotor cortex (PMd)
+     - Area 6d2
+     - Area 6d3
+   - Supplementary motor area (SMA)
+     - Area 6mr/preSMA
+
+3. **Primary Sensory Cortex**
+   - Area 2
+
+4. **Superior Parietal Lobe**
+   - Area 7PC
+
+5. **Posterior Intraparietal Sulcus**
+   - Area hIP8
+
+6. **Cuneus**
+   - Area hPO1
+
+7. **Middle Frontal Gyrus**
+
+8. **Broca Area**
+   - Area 45
+   - Area OP8
+   - Area OP9
+
+9. **Anterior Cingulate**
+   - Area p23
+
+10. **Midfusiform Gyrus**
+    - Area FG4
+
+These regions are involved in various cognitive functions and motor control, including:
+- Motor learning and control
+- Proprioception and sensory feedback
+- Visuomotor adaptation
+- Motor planning and execution
+- Compensatory remodeling following damage to the motor system

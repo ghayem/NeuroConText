@@ -1,0 +1,31 @@
+Sure, here is the list of brain regions and sub-regions mentioned in the article:
+
+1. **G protein-coupled receptors (GPCRs)**
+
+2. **Angiotensin (Ang) II type 1 receptor (AT R)**
+
+3. **Helix 8 of AT R**
+
+4. **Intracellular loop 2 of AT R**
+
+5. **Extracellular loop 2 of AT R**
+
+6. **Intracellular loop 3 of AT R**
+
+7. **N-Terminus of AT R**
+
+8. **Carboxyl-tail of AT R**
+
+9. **DRY motif**
+
+10. **PIF motif**
+
+11. **NPxxY motif**
+
+12. **Transmembrane helix 1 (TM1) of AT R**
+
+13. **Transmembrane helix 2 (TM2) of AT R**
+
+14. **Transmembrane helix 6 (TM6) of AT R**
+
+These regions are involved in various physiological and pharmacological functions, including cardiovascular regulation, hypertension, and the binding of Angiotensin II and ARBs.

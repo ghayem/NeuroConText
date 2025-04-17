@@ -1,0 +1,68 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Insula**
+   - Anterior insula
+   - Posterior insula
+
+2. **Parietal Cortex**
+   - Parietal cortices
+
+3. **Precentral Gyrus**
+   - Precentral gyrus ( Primary motor cortex )
+
+4. **Postcentral Gyrus**
+   - Postcentral gyrus ( Primary somatosensory cortex )
+
+5. **Paracingulate Gyrus**
+   - Paracingulate gyrus
+
+6. **Opercular Cortex**
+   - Opercular cortex
+
+7. **Cingulate Cortex**
+   - Cingulate cortex
+
+8. **Temporal Fusiform/Parahippocampal Gyrus**
+   - Parahippocampal gyrus
+   - Fusiform gyrus
+
+9. **Middle Frontal Gyrus**
+   - Middle frontal gyrus
+
+10. **Supramarginal Gyrus**
+    - Supramarginal gyrus
+
+11. **Angular Gyrus**
+    - Angular gyrus
+
+12. **Putamen**
+    - Putamen
+
+13. **Inferior Temporal Gyrus**
+    - Inferior temporal gyrus
+
+14. **Lateral Occipital Cortex**
+    - Lateral occipital cortex
+
+15. **Frontoparietal Cortex**
+    - Frontoparietal cortex
+
+16. **Default Mode Network (DMN)**
+    - Default mode network
+
+17. **Cerebellum**
+    - Cerebellum
+
+18. **White Matter**
+    - White matter
+
+19. **Ventricular Regions**
+    - Ventricular regions
+
+20. **Subcortical Structures**
+    - Subcortical structures
+
+21. **Sensory-Motor Cortex (SM)**
+    - Sensory-motor cortex
+
+These regions are involved in various cognitive and emotional functions, as well as pain processing and modulation. The article discusses their involvement in the context of osteoarthritis (OA) pain and the reorganization of brain networks in response to chronic pain.

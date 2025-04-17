@@ -1,0 +1,35 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Inferior Frontal Cortex**
+
+2. **Insula**
+
+3. **Pre-Supplementary Motor Area**
+
+4. **Medial-Superior Frontal Gyrus**
+
+5. **Cingulate Cortex**
+
+6. **Striatum**
+
+7. **Thalamus**
+
+8. **Intraparietal Sulcus (IPS)**
+   - Left IPS
+   - Right IPS
+
+9. **Left Temporo-Parietal Junction (TPJ)**
+
+10. **Superior Frontal Gyrus**
+    - Bilateral superior frontal gyrus
+    - Left inferior frontal gyrus
+
+11. **Right Inferior Frontal Gyrus (rIFG)**
+
+12. **Primary Somatosensory Cortex**
+    - Postcentral gyrus
+
+13. **Parietal Cortex**
+    - Right and left parietal cortex
+
+These regions are involved in various cognitive functions, including response inhibition, cognitive control, context monitoring, and general cognitive control functions.

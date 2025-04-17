@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Visual Cortex**
+   - V1 (Primary Visual Cortex)
+   - V2 (Visual Association Cortex)
+   - V4 (Visual Area 4)
+
+2. **Ventral Stream**
+   - Infero-temporal areas
+
+3. **Dorsal Stream**
+   - Dorsal-to-ventral feedback pathways
+
+4. **Frontal and Parietal Cortices**
+   - Fronto-parietal attentional areas
+
+5. **Parietal Cortex**
+   - Parieto-occipital regions
+
+6. **Occipital Cortex**
+   - Occipital regions
+
+7. **Temporal Cortex**
+   - Superior temporal regions
+   - Middle temporal regions
+   - Inferior temporal regions
+
+8. **Anterior-Temporal Cortex**
+   - Left anterior temporal regions
+   - Fusiform gyrus
+
+9. **Frontal Cortex**
+   - Left middle frontal regions
+   - Left inferior frontal regions
+   - Orbitofrontal cortex
+
+10. **Anterior Insula**
+    - Left anterior insula
+
+11. **Superior Parietal Lobe**
+
+These regions are involved in various cognitive functions, including visual perception, attention, and sensory processing. The article specifically highlights the role of these regions in visual crowding and detail-oriented visual processing, which are relevant to understanding the neurophysiological correlates of local visual processing in individuals with Autism Spectrum Disorder (ASD).

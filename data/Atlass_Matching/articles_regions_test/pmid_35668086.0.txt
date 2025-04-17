@@ -1,0 +1,68 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Putamen**
+
+2. **Ventral Tegmental Area (VTA)**
+
+3. **Ventral Striatum**
+   - Nucleus Accumbens (NAc)
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Subgenual ACC
+
+5. **Medial Prefrontal Cortex (mPFC)**
+   - Ventromedial Prefrontal Cortex (vmPFC)
+
+6. **Orbital Frontal Cortex (OFC)**
+
+7. **Caudate**
+   - Bilateral Caudate
+
+8. **Pallidum**
+   - Left Pallidum
+
+9. **Hippocampus**
+   - Left Hippocampus
+   - Bilateral Hippocampus
+
+10. **Parahippocampal Gyrus**
+    - Left Parahippocampal Gyrus
+
+11. **Inferior Parietal Lobe**
+
+12. **Dorsal Medial Prefrontal Cortex (dmPFC)**
+
+13. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+14. **Precuneus**
+
+15. **Posterior Cingulate Gyrus**
+
+16. **Lateral Temporal Cortex**
+    - Right Lateral Temporal Cortex
+
+17. **Fusiform Gyrus**
+    - Left Fusiform Gyrus
+
+18. **Default Mode Network (DMN)**
+
+19. **Cognitive Control Network**
+
+20. **Inferior Temporal Gyrus**
+
+21. **Glutamatergic System**
+
+22. **Dopaminergic System**
+
+23. **Serotoninergic System**
+
+24. **Histaminergic System**
+
+25. **Lateral Temporal Regions**
+
+26. **Visual System**
+   - Occipital Lobes
+
+27. **Occipital Cortex**
+
+These regions are involved in various cognitive functions, including reward processing, emotional regulation, decision-making, and self-regulation.

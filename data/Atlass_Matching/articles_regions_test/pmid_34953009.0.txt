@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Intraparietal Sulci (IPS)**
+   - Left IPS
+   - Right IPS
+
+2. **Frontal Eye Fields (FEF)**
+   - Left FEF
+   - Right FEF
+
+3. **Temporoparietal Junction (TPJ)**
+   - Left TPJ
+   - Right TPJ
+
+4. **Ventral Frontal Cortex**
+
+5. **Middle Frontal Gyrus**
+   - Predominantly in the right hemisphere
+
+6. **Prefrontal Cortex**
+   - Inferior/middle frontal gyrus
+
+These regions are involved in the following cognitive functions and networks:
+
+- **Dorsal Fronto-Parietal Attention Network:** IPS and FEF
+- **Ventral Fronto-Parietal Attention Network:** Ventral frontal cortex and TPJ
+- **Attentional Reorienting:** IPS, FEF, and TPJ
+- **Visual-Spatial Attention:** Dorsal fronto-parietal attention network
+- **Detecting Unattended Behaviorally Relevant Events:** TPJ
+- **Covert and Overt Attentional Orienting:** FEF
+- **Reorienting to Contralesional Targets:** TPJ and IPS
+
+Additionally, the article mentions the following regions in the context of visual processing and attention:
+
+- **Visual Areas** (not specifically named)
+- **Empty boxes** (located to the left, right, top, and bottom of the fixation diamond, used as possible target locations in the spatial cueing paradigm)
+
+The article also discusses the involvement of these regions in specific tasks and conditions, such as the Posner spatial cueing task and attentional reorienting along the horizontal and vertical meridians.

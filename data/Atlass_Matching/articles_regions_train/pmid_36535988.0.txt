@@ -1,0 +1,37 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia**
+   - Caudate Nucleus
+     - Dorsal Caudate (DC)
+     - Ventral Rostral Putamen
+     - Dorsal Caudal Putamen
+   - Putamen
+   - Ventrolateral Prefrontal Cortex (vlPFC)
+   - Inferior Temporal Gyrus
+
+2. **Corticostriatal Circuitry**
+   - Dorsal Caudate (DC)-Ventrolateral Prefrontal Cortex (vlPFC)
+   - DC-Inferior Temporal Gyrus
+   - DC-Putamen
+   - Ventral Rostral Putamen
+   - Dorsal Caudal Putamen
+
+3. **Orbitofrontal Cortex (OFC)**
+
+4. **Dorsolateral Prefrontal Cortex**
+
+5. **Posterior Parietal Cortex**
+
+6. **Parahippocampal Gyrus**
+
+7. **Supplementary Motor Area**
+
+8. **Thalamus**
+
+9. **Pons**
+
+10. **Cerebellum**
+
+11. **Hypothalamus**
+
+These regions are involved in various cognitive functions, including reward processing, emotion regulation, decision-making, motivation, and motor control.

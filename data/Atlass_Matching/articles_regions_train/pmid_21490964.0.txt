@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Ventromedial prefrontal cortex (vmPFC)**
+
+2. **Nucleus accumbens (NAc)**
+   - Bilateral NAc
+
+3. **Rostral anterior cingulate cortex (rACC)**
+
+4. **Ventrolateral prefrontal cortex (vlPFC)**
+
+5. **Anterior insula**
+   - Bilateral anterior insula
+
+6. **Cerebellum**
+   - Bilateral cerebellum
+
+7. **Ventral striatum**
+
+8. **Posterior cingulate cortex**
+
+9. **Amygdala**
+   - Left amygdala
+
+10. **Hippocampal formation**
+    - Bilateral hippocampal formation
+
+11. **Thalamus**
+
+12. **Brainstem**
+
+13. **Orbitofrontal cortex**
+
+14. **Subgenual anterior cingulate cortex (sgACC)**
+
+15. **Pregenual anterior cingulate cortex**
+
+These regions are involved in various cognitive and emotional processes, including reward processing, expectation, pain perception, and emotional regulation.

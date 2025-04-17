@@ -1,0 +1,131 @@
+## Brain Regions and Sub-regions:
+
+1. **Lateral parietal cortex**
+   - Part of the executive network
+
+2. **Default mode network (DMN)**
+
+3. **Dorsal attention system**
+
+4. **Primary sensorimotor/auditory/visual networks**
+
+5. **Frontal cortices**
+   - Involved in executive functions
+
+6. **Temporal poles**
+
+7. **Anterior cingulate**
+
+8. **Middle cingulate gyrus**
+
+9. **Posterior cingulate cortices**
+
+10. **Precuneus**
+
+11. **Somatosensory cortex**
+    - Postcentral gyrus
+
+12. **Primary motor cortex**
+
+13. **Insula**
+
+14. **Postcentral gyrus**
+
+15. **Hippocampus**
+
+16. **Rolandic operculum**
+
+17. **Amygdala**
+
+18. **Putamen**
+
+19. **Pallidum**
+
+20. **Paracentral lobule**
+
+21. **Thalamus**
+
+22. **Olfactory cortex**
+
+23. **Parahippocampal gyrus**
+
+24. **Fusiform gyrus**
+
+25. **Inferior frontal gyrus (opercular)**
+
+26. **Precuneus**
+
+27. **Supplementary motor area**
+
+28. **Superior parietal gyrus**
+
+29. **Anterior cingulate gyrus**
+
+30. **Inferior orbital gyrus**
+
+31. **Frontoparietal regions**
+   - Somatosensory and primary motor cortices
+
+32. **Middle and posterior cingulate cortices**
+
+33. **Frontal cortices**
+
+34. **Temporal poles**
+
+35. **Anterior cingulate**
+
+36. **Limbic, paralimbic, and subcortical structures**
+
+37. **Occipitotemporal cortices**
+   - Primary visual cortex (calcarine regions)
+
+38. **Somatomotor regions**
+
+39. **Association cortices**
+
+40. **Paralimbic structures**
+
+41. **Association areas**
+   - Inferior frontal orbital cortices
+
+42. **Bilateral insula**
+
+43. **Bilateral rolandic operculum**
+
+44. **Bilateral olfactory**
+
+45. **Left parahippocampal gyrus**
+
+46. **Left fusiform gyrus**
+
+47. **Left precuneus**
+
+48. **Right middle cingulate gyrus**
+
+49. **Right supplementary motor area**
+
+50. **Right superior parietal gyrus**
+
+51. **Right anterior cingulate gyrus**
+
+52. **Right inferior orbital gyrus**
+
+53. **Bilateral fusiform**
+
+54. **Left precuneus**
+
+55. **Right middle cingulate cortex**
+
+56. **Right parahippocampal gyrus**
+
+57. **Right anterior cingulate cortex**
+
+58. **Left insula**
+
+59. **Left inferior frontal gyrus (opercular)**
+
+60. **Right postcentral gyrus**
+
+61. **Left rolandic operculum**
+
+These regions are involved in various cognitive functions including sensory processing, memory, attention, executive functions, and motor control.

@@ -1,0 +1,58 @@
+### Brain Regions and Sub-Regions:
+
+1. **Brainstem**
+- Subcortical regions
+
+2. **Cortical Regions**
+- Sensorimotor cortex
+- Right lateral frontal cortex
+- Midline frontal cortex
+- Parietal cortex
+- Supplementary motor cortex
+- Pre-central cortex
+- Post-central cortex
+
+3. **Subcortical Regions**
+- Amygdala
+- Anterior insula
+- Anterior cingulate cortex
+- Medial thalamus
+- Caudate
+- Extra-nucleus of caudate
+- Supramarginal gyrus
+- Inferior parietal cortex
+- Middle frontal cortex
+- Inferior frontal triangularis
+
+4. **Specific Cortical Areas**
+- Premotor area
+- Somatosensory association cortex
+- Somatosensory cortices
+- Lateral sensorimotor cortices
+- Ventro-lateral prefrontal cortex
+- Inferior parietal lobe
+- Middle frontal gyrus
+- Inferior frontal gyrus
+- Postcentral gyrus
+- Pre-central radial dipoles
+- Post-central radial dipoles
+
+5. **Other Areas**
+- SII area
+- SI cortex
+- Left inferior frontal triangularis
+- Left caudate
+
+### Cognitive Functions Involved:
+- Respiratory sensation
+- Respiratory interoception
+- Respiratory mechanosensation
+- Neural processing of respiratory sensation
+- Sensory component of breathlessness
+- Affective component of breathlessness
+- Emotional processing
+- Interpreting sensory stimuli
+- Interacting with attention
+- Motor actions based on cognitive judgments
+- Cognitive awareness in respiratory sensation
+- Behavioral decisions related to respiratory sensation

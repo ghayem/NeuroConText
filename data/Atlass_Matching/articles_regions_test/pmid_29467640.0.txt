@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Nucleus Accumbens**
+
+2. **Caudate Head**
+
+3. **Amygdala**
+
+4. **Insula**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+6. **Cingulate**
+
+7. **Cerebellum**
+
+8. **Rolandic Operculum**
+   - Left rolandic operculum
+
+9. **Pars Triangularis**
+   - Left pars triangularis
+
+10. **Putamen**
+    - Right putamen
+
+11. **Precentral Gyrus**
+    - Left precentral gyrus
+
+12. **Precuneus**
+    - Left precuneus
+
+These regions are involved in various cognitive and emotional processes, including reward processing, emotional regulation, executive function, and motor control.

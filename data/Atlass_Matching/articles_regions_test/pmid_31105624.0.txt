@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions:
+
+1. **Parieto-Occipital Sulcus/Cuneus**
+
+2. **Left Fusiform Gyrus/Cerebellum**
+
+3. **Right Fusiform Gyrus**
+
+4. **Left Precuneus**
+
+5. **Precuneus/Parieto-Occipital Sulcus**
+
+6. **Thalamus**
+
+7. **Right Cerebellum**
+
+8. **Superior Temporal Gyrus**
+
+9. **Middle Temporal Gyrus**
+
+10. **Insula**
+
+11. **Posterior Cingulate Gyrus**
+
+12. **Medial Superior Frontal Gyrus**
+
+13. **Middle Cingulate Gyrus**
+
+14. **White Matter (WM)**
+
+15. **Cerebrospinal Fluid (CSF)**
+
+16. **Grey Matter (GM)**
+
+17. **Grey Matter Volume (GMv)**
+
+18. **Temporo-Parieto-Occipital Junction (TPO)**
+
+19. **Middle Superior Temporal Cortex**
+
+20. **Anterior Portion of the pSTG/S**
+
+### Cognitive Functions Involved:
+These regions are involved in various cognitive functions including language, memory, executive functions, emotional processes, social cognition, cognitive control, motivation, and reward processing.

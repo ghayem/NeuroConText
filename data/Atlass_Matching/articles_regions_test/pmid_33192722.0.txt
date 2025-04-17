@@ -1,0 +1,25 @@
+## The brain regions:
+
+1. **Prefrontal Cortex (PFC)**
+    - Dorsolateral PFC (DLPFC)
+    - Ventrolateral prefrontal cortex (VLPFC)
+    - Anterior prefrontal cortex
+    - Medial prefrontal cortex (MPFC)
+    - Orbital PFC (OPFC)
+    - Right gyrus rectus
+    - Right inferior frontal gyrus/insula
+    - Left inferior frontal gyrus/insula
+
+2. **Basal Ganglia**
+
+3. **Temporal Regions**
+
+4. **Parietal Regions**
+
+5. **Hippocampus**
+
+6. **Default Mode Network**
+
+7. **Right superior frontal gyrus**
+
+These regions are involved in cognitive functions such as working memory, salience detection, attention, social cognition, cognitive dysfunction, and psychopathology.

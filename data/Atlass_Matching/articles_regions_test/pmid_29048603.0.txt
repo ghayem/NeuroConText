@@ -1,0 +1,30 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex**
+
+2. **Cingulate**
+    - Anterior cingulate
+
+3. **Striatum**
+    - Ventral striatum
+        - Nucleus accumbens
+    - Dorsal striatum
+    - Putamen
+
+4. **Thalamus**
+
+5. **Precuneus**
+
+6. **Amygdala**
+
+7. **Insula**
+
+8. **Orbitofrontal Cortex**
+
+9. **Posterior Cingulate**
+
+10. **Temporo-parietal Junction (TPJ)**
+
+11. **Occipital Lobe**
+
+These regions are involved in cognitive functions related to emotional arousal, affect regulation, empathy, mentalizing skills, motivation, pleasure, and approach behavior, as well as social cognition and visual processing.

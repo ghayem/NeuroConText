@@ -1,0 +1,37 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal cortex (PFC)**
+   - Ventral anterior cingulate cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Medial prefrontal cortex (mPFC)
+     - Ventral mPFC (vmPFC)
+   - Orbitofrontal cortex (OFC)
+   - Inferior frontal gyrus (IFG)
+   - Middle frontal region (including insula, from ventral to dorsal and medial to lateral regions)
+
+2. **Temporal regions**
+   - Posterior temporal regions
+   - Superior temporal sulcus (STS)
+
+3. **Parietal regions**
+   - Inferior parietal lobule (IPL)
+   - Posterior cingulate cortex
+   - Precuneus
+   - Parietal lobule
+   - Left posterior cingulate region
+
+4. **Cingulate cortex**
+   - Dorsal cingulate cluster
+   - Anterior cingulate region
+   - Posterior cingulate cortex (PCC)
+
+5. **Insula**
+   - Right posterior insula (PI)
+   - Anterior insula
+
+6. **Other regions**
+   - Right post- and precentral regions (sensorimotor regions)
+   - Amygdala
+   - Occipital regions
+
+These regions are involved in various cognitive functions, including moral cognition, social cognition, self-reflection, emotion processing, empathy, and guilt processing.

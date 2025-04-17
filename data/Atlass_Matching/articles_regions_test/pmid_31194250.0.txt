@@ -1,0 +1,28 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporoparietal Junction (TPJ)**
+   - Right TPJ (RTPJ)
+   - Left TPJ (LTPJ)
+
+2. **Prefrontal Cortex (PFC)**
+   - Medial Prefrontal Cortex (MPFC)
+     - Middle Medial Prefrontal Cortex (MMPFC)
+     - Ventromedial Prefrontal Cortex (VMPFC)
+     - Dorsomedial Prefrontal Cortex (DMPFC)
+
+3. **Precuneus (PC)**
+
+4. **Superior Temporal Sulcus (STS)**
+   - Right Superior Temporal Sulcus (RSTS)
+   - Left Superior Temporal Sulcus (LSTS)
+   - Anterior Superior Temporal Sulcus
+   - Posterior Superior Temporal Sulcus
+
+5. **Other Regions**
+   - Superior Frontal Gyrus (SFG)
+   - Posterior Cingulate Cortex (PCC)
+   - Inferior Parietal Lobule
+   - Premotor Cortex
+   - Insula
+
+- These regions are involved in cognitive functions such as theory of mind (ToM), empathy, social cognition, and mental state reasoning.

@@ -1,0 +1,24 @@
+1. **Auditory Cortex**
+   - Auditory cortex of marmoset monkeys
+
+2. **Right Hemisphere**
+   - Middle Temporal Gyrus (MTG)
+     - Posterior division of the Middle Temporal Gyrus
+   - Superior Temporal Gyrus (STG)
+     - Posterior division of the Superior Temporal Gyrus
+   - Superior Temporal Sulcus (STS)
+   - Temporo-parietal junction (TPJ)
+
+3. **Left Hemisphere**
+   - Superior Temporal Sulcus (STS)
+   - Temporo-parietal junction (TPJ)
+
+4. **Right Hemisphere Superior Temporal Sulcus (STS)**
+   - Selectivity for slow temporal cues (200–300 ms)
+
+5. **Left Hemisphere Superior Temporal Sulcus (STS)**
+   - Selectivity for rapid temporal cues (25–30 ms)
+
+6. **Medial boundary of the STG and MTG**
+
+These regions are involved in auditory processing, specifically the auditory steady-state response (ASSR), and the processing of temporal cues in speech and other auditory stimuli.

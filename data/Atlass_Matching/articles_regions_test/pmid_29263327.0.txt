@@ -1,0 +1,54 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Anterior cingulate cortex**
+
+3. **Cortico-spinal tract (CST)**
+   - Left CST
+   - Right CST
+
+4. **Corpus callosum (CC)**
+   - Forceps minor
+   - Genu of the CC
+   - Splenium of the CC
+
+5. **Fronto-occipital fasciculus**
+   - Inferior fronto-occipital fasciculus (IFOF)
+     - Left IFOF
+     - Right IFOF
+
+6. **Inferior longitudinal fasciculus (ILF)**
+   - Left ILF
+   - Right ILF
+
+7. **Insula**
+   - Right insula
+
+8. **Interstitial nucleus of the anterior hypothalamus**
+
+9. **Longitudinal fasciculus**
+   - Superior longitudinal fasciculus (SLF)
+     - Left SLF
+     - Right SLF
+   - Inferior longitudinal fasciculus (ILF)
+
+10. **Medial frontal cortex**
+
+11. **Medial prefrontal cortex (mPFC)**
+
+12. **Orbito-frontal cortex**
+
+13. **Parietal lobe**
+   - Right parietal lobe
+
+14. **Pre-cuneus**
+   - Cuneus cortex
+
+15. **Temporo-parietal junction**
+
+16. **Thalamus**
+   - Thalamic radiation
+   - Thalamic volumes
+
+These regions are involved in various cognitive functions, including body perception, self-processing, and sexual differentiation.

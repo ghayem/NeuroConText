@@ -1,0 +1,24 @@
+## The brain regions:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+   - Cognitive control network
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsal anterior cingulate cortex (dACC)
+   - Right mPFC
+
+2. **Rostrolateral Prefrontal Cortex (rlPFC)**
+   - Right rlPFC
+
+3. **Lateral Prefrontal Cortex (lPFC)**
+
+4. **Temporal Pole**
+   - Bilateral temporal pole
+
+5. **Amygdala**
+
+6. **Hippocampus**
+   - Bilateral hippocampus
+
+7. **Posterior Cingulate Cortex (PCC)**
+
+These regions are involved in these cognitive functions: decision-making, uncertainty processing, emotional regulation, and threat avoidance.

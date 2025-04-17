@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Bilateral dorsolateral prefrontal cortex
+     - Bilateral superior frontal gyrus
+     - Bilateral middle frontal gyrus
+   - Right dorsolateral prefrontal cortex
+   - Left superior frontal gyrus (orbital part)
+   - Left superior frontal gyrus (medial orbital)
+   - Right superior frontal gyrus (dorsolateral)
+   - Right superior frontal gyrus (medial)
+   - Left superior frontal gyrus (medial)
+   - Medial prefrontal cortex (mPFC)
+   - Left middle frontal gyrus
+   - Right middle frontal gyrus
+
+2. **Temporal Cortex**
+   - Left superior temporal gyrus
+   - Left inferior temporal gyrus
+
+3. **Parietal Cortex**
+   - Inferior parietal gyrus
+
+4. **Insula**
+   - Bilateral insula
+   - Right insula
+   - Left insula
+
+5. **Basal Ganglia**
+   - Bilateral caudate
+   - Right caudate
+
+6. **Other Regions**
+   - Left inferior frontal gyrus (orbital part)
+   - Right rolandic operculum
+   - Rectus gyrus
+   - Lingual gyrus
+   - Precuneus
+   - Default mode network (DMN)
+   - Subcortical regions
+
+These regions are involved in various cognitive functions, including attention, memory, executive functions, working memory, spatial learning, emotional response, cognitive flexibility, and behavioral control.

@@ -1,0 +1,49 @@
+## Brain Regions and Sub-regions:
+
+1. **Left Lateral Frontal Cortex**
+   - Left lateral premotor cortex (LPMC)
+   - Left dorsolateral prefrontal cortex
+   - Left inferior frontal gyrus
+   - Left orbital and polar frontal cortex
+   - Left frontal opercular and insular cortex
+
+2. **Inferior Frontal Gyrus**
+   - Triangular part (F3t)
+   - Orbital part (F3O)
+   - Opercular part (F3op)
+   - Superior insula
+
+3. **Right Insular Cortex**
+   - Right insular cortex
+
+4. **Cerebellum**
+   - Cerebellum
+
+5. **Medial Frontal Cortex**
+   - Left medial frontal cortex
+
+6. **Parietal Cortex**
+   - Bilateral parietal cortex
+   - Medial parietal cortex
+
+7. **Occipital Cortex**
+   - Bilateral occipital cortex
+   - Medial occipital cortex
+
+8. **Temporal Cortex**
+   - Bilateral parietal and occipital cortices
+
+9. **Premotor Cortex**
+   - Bilateral premotor cortex
+   - Left lateral premotor cortex (LPMC)
+
+10. **Frontal Opercular Cortex**
+    - Bilateral frontal opercular cortex
+
+11. **Perisylvian Cortex**
+    - Right perisylvian cortex
+
+12. **Dorsolateral Prefrontal Cortex**
+    - Left dorsolateral prefrontal cortex
+
+These regions are involved in various cognitive functions, including language, motor planning, and executive functions. The article focuses on the structural and functional changes in these regions due to gliomas and their impact on neurological symptoms.

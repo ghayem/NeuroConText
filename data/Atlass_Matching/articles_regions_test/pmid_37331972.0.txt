@@ -1,0 +1,71 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Cortex**
+
+2. **Precuneus**
+
+3. **Anterior Cingulate Cortex**
+
+4. **Insula**
+
+5. **Prefrontal Cortex**
+
+6. **Parietal Lobes**
+
+7. **Amygdala**
+
+8. **Hippocampus**
+
+9. **Medial Prefrontal Cortex (mPFC)**
+
+10. **Posterior Cingulate Cortex**
+
+11. **Dorsal Lateral Prefrontal Cortex**
+    - Right dorsal lateral prefrontal cortex
+    - Left dorsal lateral prefrontal cortex
+
+12. **Angular Gyrus**
+    - Right angular gyrus
+
+13. **Supramarginal Gyrus**
+    - Left supramarginal gyrus
+
+14. **Inferior Parietal Lobule**
+    - Right inferior parietal lobule
+    - Left inferior parietal lobule
+
+15. **Default Mode Network (DMN)**
+    - Anterior DMN (aDMN)
+        - Medial prefrontal cortex (mPFC)
+        - Anterior cingulate cortex
+    - Posterior DMN (pDMN)
+        - Posterior cingulate cortex
+        - Precuneus
+
+16. **Salience Network (SN)**
+    - Anterior and posterior parts of the insula
+    - Anterior cingulate cortex
+
+17. **Central Executive Network (CEN)**
+    - Left CEN (lCEN)
+        - Left dorsal lateral prefrontal cortex
+        - Left supramarginal gyrus
+        - Left inferior parietal lobule
+    - Right CEN (rCEN)
+        - Right dorsal lateral prefrontal cortex
+        - Right angular gyrus
+        - Right inferior parietal lobule
+
+### These regions are involved in the following cognitive functions and processes:
+- Emotion regulation
+- Impulse control
+- Executive functions
+- Social and affective cognitions
+- Self-introspections
+- Information filtering, detection, and integration
+- Executive control processes
+- Cognitive processes during goal-directed behaviors
+- Top-down attention
+- Visuospatial processing
+- Self-referential processing
+- Episodic memory

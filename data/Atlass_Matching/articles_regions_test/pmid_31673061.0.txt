@@ -1,0 +1,51 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal brain regions**
+    - Orbitofrontal cortex
+    - Prefrontal cortex
+    - Dorsolateral prefrontal cortex
+    - Inferior frontal gyrus
+        - Pars opercularis
+    - Frontal pole
+    - Frontal opercular cortex
+    - Frontal orbital cortex
+    - Medial frontal gyrus
+    - Middle frontal gyrus
+
+2. **Reward system**
+    - Putamen
+    - Nucleus accumbens
+
+3. **Default-mode network (DMN)**
+    - Medial prefrontal cortex
+    - Posterior cingulate cortex
+    - Precuneus
+    - Lateral parietal cortex
+
+4. **Inhibitory control network (ICN)**
+    - Inferior frontal gyrus
+    - Medial frontal gyrus
+    - Opercular cortex
+    - Insular cortex
+    - Orbitofrontal cortex
+    - Posterior cingulate cortex
+    - Posterior parietal cortex
+
+5. **Other regions**
+    - Anterior cingulate cortex
+    - Cingulate gyrus
+    - Precentral gyrus
+    - Central opercular cortex
+    - Insular cortex
+
+These regions are involved in various cognitive functions, including:
+
+- Cognitive control
+- Associative learning
+- Response inhibition
+- Attention and memory processes
+- Vigilance
+- Semantic processing
+- Episodic and autobiographical memory
+- Creative problem solving
+- Behavioral inhibition

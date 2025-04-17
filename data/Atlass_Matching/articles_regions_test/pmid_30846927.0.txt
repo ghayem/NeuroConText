@@ -1,0 +1,99 @@
+### Brain Regions and Sub-Regions
+
+1. **Basal Ganglia**
+   - Caudate nucleus
+
+2. **Sensorimotor Cortex**
+   - Postcentral gyrus
+   - Sensorimotor cortex
+
+3. **Frontal-Parietal Attention Network (FPN)**
+   - Frontal eye fields
+   - Inferior parietal sulcus
+   - Right frontal-parietal attention network (FPN)
+
+4. **Default Mode Network (DMN)**
+   - Midline structures
+
+5. **Dorsal Attention Network (DAN)**
+   - Frontal eye fields
+   - Inferior parietal sulcus
+
+6. **Salience Network (SN)**
+
+7. **Cerebellum**
+   - Left cerebellum 9
+   - Left cerebellum 10
+   - Right cerebellum 6
+   - Vermis
+   - Vermis 3
+   - Vermis 8
+   - Right cerebellum crus 1
+   - Right cerebellum crus 2
+   - Left cerebellum crus 1
+   - Left cerebellum crus 2
+   - Right cerebellum 3
+   - Right cerebellum 4–5
+   - Right cerebellum 7b
+   - Right cerebellum 8
+   - Right cerebellum 9
+   - Right cerebellum 10
+
+8. **Thalamus**
+   - Ventrolateral thalamus
+
+9. **Cortical Regions**
+   - Left inferior frontal gyrus
+   - Right middle temporal gyrus
+   - Left superior medial frontal gyrus
+   - Right precuneus
+   - Left inferior frontal gyrus
+   - Left middle temporal gyrus
+   - Posterior superior temporal gyrus and sulcus (pSTG/S)
+   - Middle superior temporal cortex
+   - Anterior portion of the pSTG/S
+
+10. **Parietal Lobe**
+    - Parietal lobe
+    - Postcentral gyrus
+
+11. **Prefrontal Lobe**
+    - Prefrontal lobe
+    - Left superior medial frontal gyrus
+
+12. **Motor Cortex**
+    - Anterior motor cortex
+    - Primary motor cortex
+
+13. **Temporal Lobe**
+    - Middle temporal gyrus
+    - Right middle temporal gyrus
+
+14. **Vestibular Nucleus**
+
+### Cognitive Functions Involved
+- Cognitive impairment
+- Immune function
+- Balance impairments
+- Decreased attention
+- Reduced decision-making capacity
+- Vigilant attention
+- Psychomotor vigilance
+- Sustained attention
+- Motor control
+- Motor speech control
+- Motor sensory synchronization
+- Cortical motor excitability control
+- Motor-related sensory data acquisition control
+- Cognitive function
+- Motor and non-motor behaviors
+- Voluntary motor control
+- Psychomotor vigilance changes
+- Default mode network (DMN)
+- Dorsal attention network (DAN)
+- Salience network (SN)
+- Frontal-parietal attention network (FPN)
+- Cerebellar functional network
+- Cortico-cerebellar-thalamo-cortical circuit
+
+These regions and sub-regions are involved in the cognitive functions listed above, particularly in the context of sleep deprivation and its effects on cognitive and motor functions.

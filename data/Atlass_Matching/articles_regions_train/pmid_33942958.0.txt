@@ -1,0 +1,54 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Visual Stream**
+   - Ventral occipito-temporal (vOT) cortex
+   - Fusiform gyrus
+   - Inferior occipital gyrus (IOG)
+   - Occipital fusiform gyrus (OFuG)
+   - Middle temporal gyrus (MTG)
+   - Cuneus
+   - Lingual gyrus
+   - Supplementary motor cortex
+   - Calcarine
+   - Superior parietal lobe (SPL)
+   - Precuneus
+
+2. **Auditory Language Comprehension**
+   - Heschel's gyrus
+   - Superior temporal gyrus (STG)
+   - Superior temporal sulcus (STS)
+   - Supramarginal gyrus (SMG)
+   - Angular gyrus (AG)
+   - Planum temporale
+
+3. **Reading Network**
+   - Visual Word Form Area (VWFA)
+   - Fusiform gyrus
+   - Inferior frontal gyrus (IFG)
+   - Middle temporal gyrus (MTG)
+   - Superior temporal gyrus (STG)
+   - Superior temporal sulcus (STS)
+   - Supramarginal gyrus (SMG)
+   - Angular gyrus (AG)
+   - Planum temporale
+   - Inferior parietal lobe
+   - Inferior occipital gyrus (IOG)
+   - Occipital fusiform gyrus (OFuG)
+
+4. **Language Network**
+   - Temporo-parietal (TP) language network
+   - Inferior frontal gyrus (IFG)
+   - Middle temporal gyrus (MTG)
+   - Superior temporal gyrus (STG)
+   - Superior temporal sulcus (STS)
+   - Supramarginal gyrus (SMG)
+   - Angular gyrus (AG)
+   - Planum temporale
+
+5. **Other Regions**
+   - Cerebellum
+   - Precentral gyrus
+   - Caudate
+   - Amygdala
+
+These regions are involved in various cognitive functions, including visual processing, auditory language comprehension, reading, and language processing.

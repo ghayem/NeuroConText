@@ -1,0 +1,49 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebrum**
+   - White matter
+   - Frontal lobe
+   - Temporal lobe
+   - Cerebral cortex
+   - Superior temporal gyrus (STG)
+     - Bilateral STG
+     - Left STG
+     - Right STG
+   - Postcentral gyrus (PoCG)
+     - Right PoCG
+   - Inferior temporal gyrus (ITG)
+     - Left ITG
+   - Angular gyrus (AG)
+     - Right AG
+   - Supramarginal gyrus (SMG)
+     - Right SMG
+   - Middle frontal gyrus (MFG)
+     - Right MFG
+   - Temporoparietal junction (TPJ)
+   - Primary motor cerebral cortex
+   - Ventral attention network (VAN)
+
+2. **Cerebellum**
+   - Cerebellar cortex
+   - Cerebellar lobule VIII
+     - Right cerebellum VIIIa
+   - Vermis
+   - Right cerebellum
+   - Left cerebellum
+   - Cerebellar hemispheres
+
+3. **Other regions**
+   - Perivascular spaces
+   - Basal ganglia (implied due to lacunes)
+   - Brainstem (implied due to the use of SUIT for cerebellar and brainstem analysis)
+
+These regions are involved in various cognitive and motor functions, including:
+
+- Language
+- Memory (visuospatial memory, short-term memory, working memory)
+- Executive functions
+- Motor control and planning
+- Sensorimotor function
+- Visuospatial function
+- Attention
+- Emotional processing (due to the mention of emotional disorders)

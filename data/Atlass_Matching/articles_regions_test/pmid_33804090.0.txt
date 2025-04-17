@@ -1,0 +1,37 @@
+Based on the provided article, the mentioned brain regions and sub-regions are:
+
+1. **Insular Cortex**
+   - Right insular cortex extending into temporal cortex
+
+2. **Cingulate Cortices**
+   - Anterior cingulate cortex (ACC)
+   - Middle cingulate cortex (MCC)
+   - Dorsal medial prefrontal cortex (dMPFC)
+   - Ventral medial prefrontal cortex (vMPFC)
+
+3. **Frontoparietal Cortices**
+   - Right inferior frontoparietal cortices
+
+4. **Precuneus**
+   - Bilateral precuneus
+
+5. **Cuneus**
+   - Bilateral cuneus
+
+6. **Medial Prefrontal Cortex (MPFC)**
+   - Dorsal medial prefrontal cortex (dMPFC)
+   - Ventral medial prefrontal cortex (vMPFC)
+   - Frontal_Sup_Medial
+   - Frontal_Med_Orb
+   - Rectus
+
+7. **Default Mode Network**
+   - Precuneus
+   - Medial prefrontal cortex (MPFC)
+
+8. **Emotion-related Network**
+   - Insular cortex
+   - Anterior cingulate cortex (ACC)
+   - Middle cingulate cortex (MCC)
+
+These regions are involved in various cognitive functions, including self-consciousness, emotion processing, self-reflection, and social cognition.

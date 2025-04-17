@@ -1,0 +1,33 @@
+1. **Bilateral medial orbital frontal cortex (mOFC)**
+
+2. **Inferior frontal gyrus (IFG)**
+
+3. **Posterior cingulate cortex (PCC)**
+
+4. **Left dorsolateral prefrontal cortex (DLPFC)**
+
+5. **Right dorsolateral prefrontal cortex (DLPFC)**
+
+6. **Right middle frontal cortex (MFC)**
+
+7. **Left frontal cortex**
+
+8. **Right frontal cortex**
+
+9. **Right frontal polar cortex**
+
+10. **Right supraorbital region**
+
+11. **Prefrontal cortex**
+
+12. **Left frontal brain region**
+
+13. **Contralateral shoulder**
+
+14. **Contralateral prefrontal cortex**
+
+15. **Right arm**
+
+16. **Right prefrontal cortex**
+
+These regions are involved in cognitive functions such as executive functions, reasoning, working memory, inhibition of unwanted information, memory, conceptual reasoning, verbal fluency, category fluency, episodic memory, innovation, and strategic processing.

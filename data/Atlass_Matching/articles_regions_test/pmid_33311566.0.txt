@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+
+2. **Anterior Insula (aIns)**
+
+3. **Inferior Frontal Cortex (IFC)**
+
+4. **Midbrain**
+   - Ventral tegmental area (VTA)
+
+5. **Striatum**
+   - Nucleus accumbens (NAc)
+   - Putamen (dorsal and ventral)
+
+6. **Subthalamic Nucleus (STN)**
+
+7. **Pre-Supplementary Motor Area (pre-SMA)**
+
+8. **Paracentral Lobule (PCL)**
+
+9. **Sensorimotor Cortex (SMC)**
+   - Primary sensorimotor cortex (representing lower body parts)
+   - Hand knob (sensorimotor hand area)
+   - Pre- and postcentral gyri
+
+10. **Precuneus**
+
+11. **Caudate Nucleus**
+
+12. **Occipital Lobe**
+   - Posterior parts
+
+13. **Midline Thalamic Nuclei (mThlms)**
+
+14. **Substantia Nigra (SN)**
+
+15. **Cerebellum**
+   - Cerebellar lobule IV–VI
+
+These regions are involved in various cognitive functions, including error processing, salience and valence prediction error signaling, motor control, and reward processing.

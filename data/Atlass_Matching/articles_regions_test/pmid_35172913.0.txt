@@ -1,0 +1,77 @@
+## Brain Regions and Sub-regions:
+
+1. **Dorsal Striatum**
+
+2. **Ventral Striatum (VS)**
+
+3. **Amygdala**
+
+4. **Insula**
+
+5. **Supplementary Motor Cortex**
+
+6. **Posterior Cingulate**
+
+7. **Orbitofrontal Cortex**
+
+8. **Medial Prefrontal Cortex**
+
+9. **Frontostriatal Circuitry**
+
+10. **Frontoinsular Regions**
+
+11. **Striatum**
+
+12. **Inferior Frontal Gyrus**
+    - Bilateral inferior frontal gyrus
+
+13. **Middle Frontal Gyrus**
+    - Bilateral middle frontal gyrus
+
+14. **Superior Frontal Gyrus**
+    - Bilateral superior frontal gyrus
+
+15. **Inferior Parietal Lobule**
+    - Bilateral inferior parietal lobule
+
+16. **Superior Parietal Lobule**
+    - Bilateral superior parietal lobule
+
+17. **Precentral Gyrus**
+    - Bilateral precentral gyrus
+
+18. **Cerebellum**
+
+19. **Fusiform Gyrus**
+    - Bilateral fusiform gyrus
+
+20. **Lingual Gyrus**
+    - Bilateral lingual gyrus
+
+21. **Superior Occipital Gyrus**
+    - Bilateral superior occipital gyrus
+
+22. **Middle Temporal Gyrus**
+
+23. **Precuneus**
+    - Right precuneus
+
+24. **Angular Gyrus**
+    - Right angular gyrus
+
+25. **Default Mode Network**
+
+26. **Dorsomedial Prefrontal Cortex (PFC)**
+
+27. **Superior Parietal Lobule**
+
+28. **Posterior Cingulate Cortex**
+
+29. **Dorsal Attention Network**
+
+30. **Corticolimbic Brain Regions**
+
+31. **Middle Temporal Gyrus**
+
+## Cognitive Functions:
+These regions are involved in these cognitive functions: reinforcement processing, reward and loss processing, reinforcement-based cognition, learning, decision-making, attention, executive control, cognitive control, and value-based decision making.

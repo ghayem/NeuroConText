@@ -1,0 +1,84 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network**
+
+2. **Medial Temporal Lobe**
+
+3. **Precuneus**
+
+4. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Inferior temporal gyrus
+   - Temporal pole
+
+5. **Supramarginal Gyrus**
+
+6. **Cingulate Gyrus**
+   - Anterior cingulate
+
+7. **Fusiform Gyrus**
+
+8. **Angular Gyrus**
+
+9. **Inferior Parietal Lobule**
+
+10. **Middle Frontal Gyrus**
+    - Dorsolateral prefrontal cortex
+
+11. **Precentral Gyrus**
+
+12. **Parahippocampal Gyrus**
+
+13. **Superior Frontal Gyrus**
+
+14. **Thalamus**
+
+15. **Caudate**
+   - Subcallosal gyrus
+
+16. **Putamen**
+
+17. **Insula**
+
+18. **Frontal Lobe**
+    - Inferior frontal gyrus
+    - Middle frontal gyrus
+
+19. **Parietal Lobe**
+    - Inferior parietal lobule
+    - Postcentral gyrus
+
+20. **Occipital Lobe**
+    - Superior occipital gyrus
+
+21. **Cerebellum**
+
+22. **Brainstem**
+
+23. **Hippocampus**
+
+24. **Amygdala**
+
+25. **Globus pallidus**
+
+26. **Nucleus accumbens**
+
+27. **Substantia nigra**
+
+28. **Ventral tegmental area**
+
+29. **Hypothalamus**
+
+30. **Mammillary bodies**
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Language**: Temporal cortex, superior temporal gyrus, inferior temporal gyrus
+- **Memory**: Medial temporal lobe, hippocampus, parahippocampal gyrus, fusiform gyrus
+- **Executive Functions**: Middle frontal gyrus, dorsolateral prefrontal cortex, anterior cingulate, inferior frontal gyrus
+- **Attention and Inhibitory Control**: Anterior cingulate, middle frontal gyrus
+- **Sensory Processing**: Thalamus, occipital lobe, parietal lobe
+- **Motor Control**: Precentral gyrus, putamen, globus pallidus, substantia nigra, cerebellum
+- **Emotion Regulation**: Amygdala, insula, anterior cingulate, nucleus accumbens, ventral tegmental area
+- **Homeostatic Regulation**: Hypothalamus, mammillary bodies
+
+These regions and their sub-regions are integral to understanding the neural correlates of various cognitive processes and behaviors.

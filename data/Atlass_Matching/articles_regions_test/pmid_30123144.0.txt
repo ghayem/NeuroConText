@@ -1,0 +1,29 @@
+1. **Frontal Lobe**
+    - Prefrontal cortex (PFC)
+    - Orbitofrontal cortex (OFC)
+        - Left superior OFC
+        - Right medial OFC
+        - Left medial OFC
+    - Superior frontal gyrus
+
+2. **Striatum**
+    - Putamen
+        - Bilateral putamen
+        - Left putamen
+    - Caudate nucleus
+
+3. **Supplementary Motor Area (SMA)**
+    - Bilateral SMA
+
+4. **Parietal Lobe**
+    - Left postcentral gyrus
+
+5. **Cingulate Cortex**
+    - Left anterior cingulate (ACC)
+
+6. **Temporal Lobe**
+    - Inferior frontal gyrus (IFG)
+
+7. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+These regions are involved in these cognitive functions: cognitive control, inhibitory control, impulsivity, decision making, habitual behaviors, and goal-directed actions.

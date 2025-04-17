@@ -1,0 +1,66 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Olfactory Cortex**
+   - Primary olfactory cortex
+   - Secondary olfactory cortex
+   - Left primary olfactory cortex
+
+2. **Orbitofrontal Cortex (OFC)**
+   - Left superior OFC
+   - Right superior OFC
+   - Right middle OFC
+   - Left middle OFC
+   - Left inferior OFC
+   - Right inferior OFC
+
+3. **Temporal Lobe**
+   - Left middle temporal lobe
+   - Right inferior temporal lobe
+   - Right superior temporal pole
+   - Left inferior temporal lobe
+   - Left superior temporal pole
+   - Temporal pole
+
+4. **Frontal Lobe**
+   - Right superior frontal lobe
+   - Left paracentral lobule
+   - Left precentral lobule
+   - Right frontal cortex
+
+5. **Gyrus Rectus**
+   - Left gyrus rectus
+   - Right gyrus rectus
+
+6. **Insula**
+
+7. **Parahippocampal Gyrus**
+
+8. **Cerebellum**
+
+9. **Occipital Cortex**
+   - Right superior occipital cortex
+
+10. **Parietal Lobe**
+    - Superior parietal
+
+11. **Caudate**
+
+12. **Hippocampus**
+
+13. **Amygdala**
+
+14. **Entorhinal Cortex**
+    - Lateral entorhinal cortex
+
+15. **Olfactory Tubercle**
+
+16. **Anterior Olfactory Nucleus**
+
+17. **Piriform Cortex**
+    - Anterior piriform cortex
+
+18. **Olfactory Bulb**
+
+19. **Thalamic Nucleus**
+
+These regions are involved in various cognitive and sensory functions, including olfactory processing, memory, emotional responses, and sensory integration.

@@ -1,0 +1,66 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebral Cortex**
+   - Bilateral cerebral cortex
+
+2. **Medulla Oblongata**
+
+3. **Motor Cortex**
+   - Bilateral motor cortices
+   - Affected hemisphere motor cortex (M1)
+   - Unaffected hemisphere motor cortex
+   - Left suprahyoid motor cortex
+   - Right suprahyoid motor cortex
+
+4. **Primary Motor Cortex**
+   - Abductor pollicis brevis muscle
+
+5. **Pharyngeal Motor Cortex**
+   - Ipsilateral pharyngeal motor cortex
+   - Contralateral pharyngeal motor cortex
+
+6. **Primary Sensorimotor Cortex**
+   - Left primary sensorimotor cortex
+
+7. **Primary Somatosensory Cortex**
+   - Right postcentral cortex
+
+8. **Inferior Frontal Gyrus (BA 48)**
+   - Left inferior frontal gyrus
+
+9. **Cerebellum**
+   - Left cerebellum
+
+10. **Medial Frontal Gyrus (BA 11)**
+    - Left medial frontal gyrus
+
+11. **Superior Temporal Gyrus (BA 48)**
+    - Right superior temporal gyrus
+
+12. **Superior Frontal Gyrus (BA 10)**
+    - Right superior frontal gyrus
+
+13. **Postcentral Gyrus (BA 3)**
+    - Right postcentral gyrus
+
+14. **Paracentral Lobule (BA 4)**
+    - Left paracentral lobule
+
+15. **Superior Middle Temporal Gyrus**
+    - Right superior middle temporal gyrus
+
+16. **First Dorsal Interosseous (FDI) Muscle**
+
+17. **Suprahyoid Muscle**
+
+18. **Corpus Callosum**
+
+19. **Basal Ganglia**
+
+20. **Thalamus**
+
+21. **Cingulate Gyrus**
+
+22. **Cranial Nerves**
+
+These regions are involved in various sensorimotor tasks, including swallowing, and in the neural mechanisms of dysphagia and its treatment using transcranial magnetic stimulation (TMS) and theta-burst stimulation (TBS).

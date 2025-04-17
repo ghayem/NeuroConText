@@ -1,0 +1,34 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontal Lobe**
+   - **Right inferior frontal triangular gyrus**
+   - **Anterior cingulate cortex**
+   - **Orbital part of the left middle frontal gyrus**
+   - **Orbital part of the left superior frontal gyrus**
+   - **Dorsolateral prefrontal cortex (DLPFC)**
+
+2. **Temporal Lobe**
+   - **Left middle temporal gyrus**
+   - **Left inferior temporal gyrus**
+   - **Left superior temporal gyrus**
+   - **Left anterior cingulate gyrus**
+
+3. **Occipital Lobe**
+   - **Right lingual gyrus**
+   - **Left inferior occipital gyrus**
+
+4. **Parietal Lobe**
+   - **Left angular gyrus**
+   - **Right angular gyrus**
+   - **Right Rolandic operculum gyrus**
+
+5. **Cerebellum**
+   - **Vermis_3**
+
+6. **Limbic System**
+   - **Left anterior cingulate gyrus**
+
+7. **Default Mode Network**
+   - **Left angular gyrus**
+
+These regions are involved in various cognitive and emotional functions, including executive function, emotion regulation, memory, and sensory processing.

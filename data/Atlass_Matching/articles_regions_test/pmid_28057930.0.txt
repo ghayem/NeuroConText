@@ -1,0 +1,29 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+    - Frontal grey matter
+    - Medial prefrontal cortex (mPFC)
+
+2. **Default Mode Network (DMN)**
+    - Medial prefrontal cortex (mPFC)
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+
+3. **Occipital Lobe**
+    - Left middle occipital gyrus
+
+4. **Temporal Lobe**
+    - Posterior superior temporal sulcus
+
+5. **Parietal Lobe**
+    - Precuneus
+
+6. **Other Regions**
+    - Posterior cingulate cortex (PCC)
+    - Right precuneus
+    - Right dorsal superior frontal cortex
+    - Right occipital gyrus
+    - Lingual gyrus
+    - Fusiform gyrus
+
+These regions are involved in various cognitive functions, including social interaction, communication, restricted and repetitive behaviors, and other high-level cognition functions such as episodic memory, consciousness, and self-referential cognitive processes.

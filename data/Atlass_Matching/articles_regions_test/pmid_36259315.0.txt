@@ -1,0 +1,55 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Left Inferior Frontal Gyrus**
+   - Pars opercularis
+
+2. **Left Angular Gyrus**
+   - Anterior angular gyrus
+   - Posterior angular gyrus
+
+3. **Intraparietal Sulcus**
+   - Right horizontal intraparietal sulcus (hIPS)
+
+4. **Hippocampus**
+   - Bilateral hippocampus
+
+5. **Superior Temporal Cortex**
+   - Superior temporal gyrus (STG)
+   - Left superior temporal gyrus
+   - Left planum temporale
+   - Left planum polare
+
+6. **Precentral Gyrus**
+   - Left precentral gyrus
+
+7. **Parietal Cortex**
+   - Inferior parietal areas
+   - Superior parietal areas
+   - Right inferior parietal lobule
+
+8. **Frontal Cortex**
+   - Inferior frontal areas
+   - Middle frontal areas
+   - Superior frontal and orbital regions
+   - Left middle occipital gyrus
+   - Rolandic operculum
+
+9. **Occipital Cortex**
+   - Occipital areas
+
+10. **Cerebellum**
+
+11. **Posterior Cingulate Cortex**
+
+12. **Insula**
+
+13. **Precuneus**
+   - Right precuneus
+
+14. **Middle Frontal Gyrus**
+   - Bilateral middle frontal gyrus
+
+15. **Supramarginal Gyrus**
+   - Left supramarginal gyrus
+
+These regions are involved in various cognitive functions, including arithmetic processing, verbal processing, magnitude processing, working memory, and attentional processes.

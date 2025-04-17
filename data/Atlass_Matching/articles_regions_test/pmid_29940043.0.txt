@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Prefrontal cortex (PFC)
+   - Superior frontal sulcus (SFS)
+   - Inferior frontal areas
+   - Superior frontal areas
+
+2. **Parietal Cortex**
+   - Intraparietal sulcus (IPS)
+   - Precuneus
+
+3. **Temporal Cortex**
+
+4. **Occipital Cortex**
+   - Primary visual cortex (V1)
+   - Visual area V2
+   - Visual area V3
+   - Visual area V3a
+   - Visual area V3b
+   - Visual area V4
+   - Middle temporal area (MT+)
+
+5. **Cingulate Cortex**
+   - Anterior cingulate gyrus
+
+6. **Basal Ganglia**
+
+7. **Other Higher-Order Cortices**
+   - 42 spherical ROIs in the higher-order cortex (specific regions not named)
+
+These regions are involved in various cognitive functions, including visual processing, attention, task difficulty processing, and decision-making.

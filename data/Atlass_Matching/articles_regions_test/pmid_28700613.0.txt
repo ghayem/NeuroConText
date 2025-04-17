@@ -1,0 +1,23 @@
+# Brain Regions and Sub-regions Mentioned in the Article
+
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Default Mode Network (DMN)**
+
+3. **Amygdala**
+
+4. **Superior Frontal Gyrus (SFG)**
+
+5. **Inferior Frontal Gyrus (IFG)**
+
+6. **Anterior Cingulate Cortex**
+
+7. **Orbitofrontal Cortex**
+
+8. **Posterior Cingulate Cortex**
+
+9. **Middle Temporal Gyrus (mTG)**
+
+10. **Inferior Prefrontal Gyrus**
+
+These regions are involved in various cognitive functions including self-referential processing, emotion regulation, and cognitive reappraisal.

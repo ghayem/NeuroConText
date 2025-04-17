@@ -1,0 +1,44 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Regions**
+
+2. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+3. **Anterior Insula (AI)**
+   - Right Anterior Insula (rAI)
+   - Mid-Anterior Insula
+
+4. **Subgenual Anterior Cingulate Cortex (sgACC)**
+
+5. **Supplementary Motor Area (SMA)**
+
+6. **Postcentral Gyrus (PCG)**
+   - Bilateral PCG
+
+7. **Superior Parietal Lobule (SPL)**
+
+8. **Substantia Nigra (SN)**
+
+9. **Superior Frontal Gyrus (SFG)**
+
+10. **Posterior Occipital Cortex (POC)**
+
+11. **Fusiform Gyrus**
+   - Right Fusiform Gyrus
+
+12. **Middle Occipital Gyrus**
+   - Left Middle Occipital Gyrus
+
+13. **Precuneus**
+
+14. **Posterior Insula (PI)**
+
+15. **Secondary Somatosensory Cortex (SII)**
+
+16. **Dorsomedial Prefrontal Cortex**
+
+17. **Posterior Cingulate Cortex**
+
+18. **Premotor Regions**
+
+These regions are involved in various cognitive functions, including executive control processes, response inhibition, working memory, salience monitoring, self-reflection, and processing of homeostatically relevant information.

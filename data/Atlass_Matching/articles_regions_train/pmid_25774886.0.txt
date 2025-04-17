@@ -1,0 +1,45 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Posterior Cingulate Cortex (PCC)**
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Ventral Striatum (VS)**
+
+4. **Medial Orbitofrontal Cortex (mOFC)**
+
+5. **Posterior Parietal Cortex (PPC)**
+   - Right PPC
+   - Left PPC
+
+6. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Right dlPFC
+
+7. **Lateral Orbitofrontal Cortex (lOFC)**
+   - Right lOFC
+
+8. **Ventrolateral Prefrontal Cortex (vlPFC)**
+   - Right vlPFC
+
+9. **Default Mode Network (DMN)**
+   - Includes regions like the posterior cingulate cortex (PCC), medial prefrontal cortex (mPFC), and angular gyrus (AG)
+
+10. **Sensori-Motor Network (SMN)**
+    - Includes regions like the supplementary motor area (SMA) and central sulcus (CS)
+
+11. **Visual Network (VIS)**
+    - Includes regions like the ventral central sulcus (vCS)
+
+12. **Frontal Insula**
+
+13. **Ventro-Medial Prefrontal Cortex**
+
+14. **Middle Temporal Cortex**
+
+15. **Anterior Cingulate Cortex**
+
+16. **Hippocampus**
+
+17. **Lateral Parietal Regions**
+
+These regions are involved in various cognitive functions, including intertemporal choice, decision-making, reward processing, self-control, and prospection.

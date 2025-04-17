@@ -1,0 +1,26 @@
+## The brain regions:
+
+1. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex
+   - Precuneus/posterior cingulate gyrus
+   - Medial temporal lobe
+   - Inferior parietal lobe
+   - Lateral parietal gyri
+   - Inferior/middle temporal gyri
+   - Cerebellar areas
+   - Brainstem regions
+   - Posterior cingulate gyrus/precuneus
+   - Right middle frontal gyrus
+   - Bilateral medial prefrontal gyrus
+   - Right parahippocampal gyrus/fusiform gyrus
+   - Right precuneus
+
+2. **White Matter (WM)**
+
+3. **Gray Matter (GM)**
+   - Gray matter/white matter (GM/WM) border
+   - Gray matter/cerebrospinal fluid (GM/CSF) border
+
+4. **Cerebrospinal Fluid (CSF)**
+
+- These regions are involved in these cognitive functions: endogenous cognitive activity such as self-referential thoughts, (visual) memory retrieval, intrinsic memory, and unconstrained “top‐down” processing of endogenous or “intrinsic” memories and attention.

@@ -1,0 +1,30 @@
+## Brain Regions and Sub-Regions
+
+1. **Substantia Nigra/Ventral Tegmental Area (SN/VTA)**
+   - Midbrain
+
+2. **Subthalamic Nucleus (STN)**
+   - Borders with zona incerta superiorly
+   - Borders with prelemniscal radiations
+   - Borders with posterior–lateral hypothalamus
+   - Borders with red nucleus
+   - Borders with cerebral peduncle laterally
+   - Inferior tip lies on the superior aspect of the substantia nigra at the level of the optic tract
+
+3. **Striatum**
+   - Includes the caudate nucleus and putamen
+
+4. **Prefrontal Cortex**
+
+5. **Inferior Frontal Gyrus**
+
+6. **Supplementary Motor Area**
+
+7. **Cerebellum**
+   - Left cerebellum
+
+8. **Putamen**
+   - Left putamen
+
+## Cognitive Functions
+These regions are involved in these cognitive functions: instrumental learning, reward prediction, action inhibition, novelty-related exploratory behavior, and motivational behavior.

@@ -1,0 +1,48 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Striatum**
+   - Ventral striatum
+   - Dorsal striatum
+   - Putamen
+   - Nucleus accumbens
+   - Caudate
+
+2. **Middle Temporal Visual Area**
+   - hMT+/V5
+
+3. **Prefrontal Cortex**
+   - Middle frontal gyrus
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+4. **Insula**
+   - Anterior insula
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+
+6. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+
+7. **Parietal Cortex**
+   - Precuneus
+
+8. **Occipito-Temporo-Parietal Region**
+   - Bilateral occipito-temporo-parietal
+
+9. **Lentiform Nucleus**
+
+10. **Precentral Gyrus**
+
+11. **Default Mode Network (DMN)**
+
+These regions are involved in various cognitive functions and processes, including:
+
+- Reward processing and feedback monitoring
+- Visual motion perception and imagery
+- Cognitive control and regulation
+- Salience and attention control
+- Error monitoring and decision-making
+- Motor imagery and execution
+- Self-awareness and interoceptive processes

@@ -1,0 +1,9 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Occipital Cortex**
+   - Occipital poles
+   - Visual cortex
+
+2. **Primary Visual Cortex (V1)**
+
+These regions are involved in visual processing and sensory functions, particularly in the context of gamma oscillations and their response to visual stimuli.

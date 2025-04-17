@@ -1,0 +1,44 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Frontal Lobe**
+   - Bilateral frontal lobe
+   - Brodmann area 10 (BA 10)
+   - Brodmann area 11 (BA 11)
+   - Brodmann area 25 (BA 25)
+   - Brodmann area 47 (BA 47)
+
+2. **Temporal Lobe**
+   - Bilateral temporal lobe
+   - Brodmann area 22 (BA 22)
+   - Brodmann area 30 (BA 30)
+   - Brodmann area 38 (BA 38)
+   - Fusiform gyrus (FG; BA 18)
+
+3. **Cingulate Gyrus**
+   - Anterior cingulate gyrus
+   - Inferior cingulate gyrus
+   - Brodmann area 32 (BA 32)
+
+4. **Caudate Nucleus**
+
+5. **Occipital Lobe**
+
+6. **Lenticular Nucleus**
+
+7. **Thalamus**
+   - Bilateral thalamus
+   - Left thalamus
+
+8. **Cerebellum**
+   - Cerebellar vermis
+   - Gray matter of the cerebellum
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Frontal Lobe**: Body movement, language, working memory, deductive reasoning, affective prosody, risk and decision making, odor evaluation, reward and conflict, pain.
+- **Temporal Lobe**: Auditory, olfactory, vestibular, visual, and linguistic functions.
+- **Cingulate Gyrus**: Cognition, specifically executive functioning.
+- **Caudate Nucleus**: Executive functions, memory, emotion, and language.
+- **Occipital Lobe**: Visual processing.
+- **Lenticular Nucleus**: Motor control.
+- **Thalamus**: Cognitive functions including memory and executive functions of attention and information processing.
+- **Cerebellum**: Motor and cognitive behavior.

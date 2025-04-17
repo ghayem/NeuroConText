@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Left Hemisphere**
+   - Left-hemispheric stroke
+   - Left frontal regions
+     - Superior left frontal gyrus
+     - Middle left frontal gyrus
+   - Left inferior lateral temporooccipital areas
+
+2. **Right Hemisphere**
+   - Right-lateralized ventral attention network
+   - Right frontoparietal regions
+   - Right hemisphere regions
+     - Putamen
+     - Insula
+     - Frontal orbital cortex
+     - Parietal cortex
+     - Supramarginal gyrus
+   - Right superior parietal
+   - Right orbitofrontal
+
+3. **Bilateral Regions**
+   - Bilateral dorsal attention network
+   - Bilateral cerebellar clusters
+   - Brain stem structures
+
+4. **Other Regions**
+   - Inferior fronto-occipital fasciculus
+   - Dorsolateral prefrontal cortex
+   - Temporo-parieto-occipital junction (TPO)
+   - Harvard–Oxford atlas for grey matter
+   - John Hopkins white matter atlas for white matter tracts
+
+These regions are involved in various cognitive functions, including attention, language processing, executive functions, and working memory.

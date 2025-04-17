@@ -1,0 +1,50 @@
+## Brain Regions and Sub-Regions:
+
+1. **Inferior Temporal Gyrus**
+    - Left Inferior Temporal Gyrus (ITG_L)
+
+2. **Caudate Nucleus**
+    - Bilateral Caudate Nucleus (CN)
+    - Left Caudate Nucleus (CN_L)
+    - Right Caudate Nucleus (CN_R)
+
+3. **Cuneus**
+    - Right Cuneus (CUN_R)
+
+4. **Superior Occipital Gyrus**
+    - Left Superior Occipital Gyrus (SOG_L)
+
+5. **Middle Cingulate Cortex**
+    - Left Middle Cingulate Cortex (MCC_L)
+
+6. **Supplementary Motor Area**
+
+7. **Hippocampus**
+
+8. **Parahippocampus**
+
+9. **Cerebellum**
+
+10. **Visual Cortex**
+
+11. **Basal Ganglia**
+
+12. **Motor Cortical Areas**
+
+13. **Cognitive Cortical Areas**
+
+14. **Pontine**
+
+15. **Brainstem**
+
+16. **Cortico-Basal Ganglia-Cerebellar Loop**
+
+17. **Cortical-Pontine-Cerebellar Pathway**
+
+18. **Corticopontine Tract**
+
+19. **Limbic System**
+
+20. **Cavum Septi Pellucidi**
+
+- These regions are involved in these cognitive functions: motor control, cognition, executive functions, visual recognition, visual guidance, visual information system, visual formation, visual perception, visual memory, higher-level visual association processes, memory, sleep, emotions, and behavior.

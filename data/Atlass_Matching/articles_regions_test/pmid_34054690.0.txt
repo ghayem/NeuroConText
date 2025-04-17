@@ -1,0 +1,32 @@
+1. **Amygdala**
+
+2. **Cerebral Cortex**
+
+3. **Limbic System**
+
+4. **Nucleus Accumbens (NAc)**
+   - Left NAc
+   - Right NAc
+
+5. **Anterior Cingulate Cortex (ACC)**
+
+6. **Orbitofrontal Cortex (OFC)**
+
+7. **Inferior Frontal Gyrus (IFG)**
+   - Right Inferior Frontal Gyrus (rIFG)
+
+8. **Cingulate Gyrus**
+
+9. **Orbital Frontal Gyrus**
+
+10. **Medial Prefrontal Cortex**
+
+11. **Ventricular**
+
+12. **White Matter**
+
+13. **Ventral Tegmented Area**
+
+14. **Subcortical Nuclei**
+
+These regions are involved in various cognitive functions including emotional processing, reward processing, decision-making, and executive control.

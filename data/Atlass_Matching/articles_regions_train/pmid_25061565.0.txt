@@ -1,0 +1,52 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Anterior cortices
+   - Frontal regions
+   - Right middle frontal gyrus (MFG)
+   - Anterior cingulate cortex (ACC)
+   - Right precentral gyrus
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+2. **Parietal Lobe**
+   - Parietal lobe (BA 40)
+
+3. **Temporal Lobe**
+   - Temporal lobe (BA 39)
+
+4. **Cerebellum**
+   - Right cerebellar tonsil
+   - Left culmen
+
+5. **Insula**
+   - Insula regions
+
+6. **White Matter**
+   - Axon bundles
+   - White matter tracts
+
+7. **Gray Matter**
+   - Gray matter regions
+
+8. **Subcortical Structures**
+   - Thalamus (posterior thalamic radiation)
+
+9. **Other Regions**
+   - Pontine crossing tract
+   - Medial lemniscus
+   - Inferior cerebellar peduncle
+   - Cerebral peduncle
+   - Cingulum to hippocampus
+   - Superior fronto-occipital fasciculus
+   - Tapetum
+   - Inferior longitudinal fasciculi
+
+These regions are involved in various cognitive functions, including:
+- Executive control
+- Working memory
+- Behavior regulation
+- Postural control
+- Language processing
+- Memory functions
+- Motor functions
+- Verbal and eye responses

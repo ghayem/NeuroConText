@@ -1,0 +1,76 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Amygdala**
+   - Bilateral amygdalae
+   - Left amygdala
+   - Right amygdala
+
+2. **Paraventricular Nucleus**
+
+3. **Prefrontal Cortex**
+
+4. **Thalamus**
+
+5. **Periaqueductal Gray**
+
+6. **Superior Frontal Gyrus (SFG)**
+   - Right superior frontal gyrus
+
+7. **Calcarine Sulcus (CAL)**
+   - Left calcarine sulcus
+
+8. **Superior Parietal Gyrus (SPG)**
+   - Left superior parietal gyrus
+
+9. **Paracentral Lobule (PCL)**
+
+10. **Caudate Nucleus (CAU)**
+    - Ipsilateral caudate nucleus
+
+11. **Precentral Gyrus (PreCG)**
+    - Left precentral gyrus
+
+12. **Post-central Gyrus (PoCG)**
+    - Left post-central gyrus
+
+13. **Middle Frontal Gyrus (MFG)**
+    - Left middle frontal gyrus
+
+14. **Anterior Cingulate Cortex (ACC)**
+    - Left anterior cingulate cortex
+
+15. **Middle Occipital Gyrus (MOG)**
+    - Right middle occipital gyrus
+
+16. **Inferior Frontal Gyrus (IFG)**
+    - Left inferior frontal gyrus
+
+17. **Putamen**
+
+18. **Gray Matter (GM)**
+
+19. **White Matter (WM)**
+
+20. **Cerebrospinal Fluid (CSF)**
+
+21. **Executive Control Network (ECN)**
+
+22. **Salient Network (SN)**
+
+23. **Sensorimotor Network (SMN)**
+
+24. **Insular Cortex**
+
+25. **Sensory Cortices**
+
+26. **Basal Ganglia**
+
+27. **Limbic System**
+
+28. **Hypothalamic-Pituitary-Adrenal (HPA) Axis**
+
+29. **Hippocampus**
+
+30. **Primary Sensory Cortex**
+
+These regions are involved in various cognitive functions, including pain processing, emotion regulation, visual processing, and executive functions.

@@ -1,0 +1,49 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Insula (AI)**
+
+2. **Anterior Midcingulate Cortex (aMCC)**
+   - Extending into the dorsomedial prefrontal cortex (dmPFC)
+   - Anterior cingulate cortex
+
+3. **Ventral Striatum (VS)**
+
+4. **Bilateral Temporoparietal Junction (TPJ)**
+
+5. **Temporal Poles (TP)**
+
+6. **Medial Prefrontal Cortex (mPFC)**
+
+7. **Precuneus/Posterior Cingulate Cortex (PCC)**
+
+8. **Superior Parietal Gyrus (SPG)**
+
+9. **Superior Frontal Gyrus (SFG)**
+
+10. **Postcentral Gyrus (PCG)**
+
+11. **Superior Occipital Gyrus (SOG)**
+
+12. **Calcarine Gyrus**
+
+13. **Putamen**
+
+14. **Inferior Orbital Frontal Gyrus (IOFG)**
+
+15. **Hippocampus**
+
+16. **Middle Frontal Gyrus (MFG)**
+
+17. **Caudate**
+
+18. **Cerebellum**
+
+19. **Rolandic Operculum**
+
+20. **Inferior Frontal Gyrus (IFG)**
+
+21. **Septum**
+
+22. **Left Bed Nucleus of the Stria Terminalis**
+
+These regions are involved in various cognitive functions, including empathy, compassion, Theory of Mind (ToM), social cognition, and social affect.

@@ -1,0 +1,47 @@
+## Brain Regions and Sub-Regions
+
+1. **Temporo-parietal cortex (TPC)**
+2. **Occipito-temporal cortex (OTC)**
+3. **Inferior frontal gyrus**
+   - Left inferior frontal gyrus
+   - Right inferior frontal gyrus
+4. **Superior frontal gyri**
+   - Left superior frontal gyrus
+   - Right superior frontal gyrus
+5. **Middle frontal gyri**
+   - Left middle frontal gyrus
+   - Right middle frontal gyrus
+6. **Superior temporal gyri**
+   - Left superior temporal gyrus
+   - Right superior temporal gyrus
+7. **Middle temporal gyri**
+   - Left middle temporal gyrus
+   - Right middle temporal gyrus
+8. **Occipital cortices**
+   - Left occipital cortex
+   - Right occipital cortex
+9. **Inferior parietal lobule**
+   - Left inferior parietal lobule
+   - Right inferior parietal lobule
+10. **Post central gyrus**
+11. **Insulae**
+   - Left insula
+   - Right insula
+12. **Thalamus**
+   - Left thalamus
+   - Right thalamus
+13. **Posterior cingulate**
+   - Right posterior cingulate
+14. **Middle occipital gyrus**
+   - Left middle occipital gyrus
+15. **Fusiform gyrus**
+   - Left fusiform gyrus
+16. **Supramarginal/angular gyri**
+   - Left supramarginal/angular gyrus (BA 39/40)
+   - Right supramarginal/angular gyrus (BA 39/40)
+17. **Perisylvian brain regions**
+18. **Ventral occipitotemporal regions**
+19. **Mesial temporal cortex**
+   - Right mesial temporal cortex
+
+These regions are involved in various cognitive functions, including language processing, reading, phonological awareness, visual word form recognition, and other related processes.

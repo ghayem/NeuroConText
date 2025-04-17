@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Putamen**
+
+2. **Posterior Cingulate Cortex**
+
+3. **Visual Area**
+
+4. **White Matter**
+
+5. **Ventricles**
+
+6. **Sensorimotor Area**
+
+7. **Thalamus**
+
+8. **Visual-Parietal Areas**
+
+9. **Default Mode Network**
+
+10. **Limbic System**
+   - Hippocampus
+   - Amygdala
+   - Ventral Striatum
+
+11. **Occipital Lobe**
+   - Occipital cluster
+
+12. **Parahippocampus**
+
+13. **Precentral Gyrus**
+   - Left precentral gyrus
+
+14. **Cerebrospinal Fluid (CSF)**
+
+15. **Brainstem**
+
+16. **Medial Temporal Gyrus**
+
+17. **Prefrontal Gyrus**
+
+18. **Orbital Frontal Cortex**
+
+19. **Parietal Cortex**
+
+20. **Temporal Parietal Junctions**
+
+21. **Gray Matter**
+
+These regions are involved in various cognitive functions, sensory processing, and motor control. The article discusses their relevance in the context of resting-state functional magnetic resonance imaging (RS-fMRI) and the analysis of brain activity using different metrics such as ALFF and PSS.

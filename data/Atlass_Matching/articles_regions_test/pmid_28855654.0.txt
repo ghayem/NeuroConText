@@ -1,0 +1,72 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Frontal Lobe**
+   - Frontal cortex
+   - Prefrontal cortex
+   - Ventral medial prefrontal cortex
+   - Superior frontal gyrus (SFG)
+     - Medial rostral part
+   - Premotor cortex
+   - Orbital frontal cortex (OFC)
+   - Ventromedial prefrontal cortex (VMPFC)
+
+2. **Limbic System**
+   - Limbic regions
+   - Anterior cingulate gyrus
+   - Mid-cingulate gyrus
+   - Insula
+   - Amygdala
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Anterior cingulate cortex (ACC)
+     - Dorsal part
+   - Paracingulate gyrus
+
+3. **Temporal Lobe**
+   - Lateral temporal cortex
+   - Middle temporal gyrus (MTG)
+     - Anterior subregion
+     - Middle subregion
+     - Posterior subregion
+   - Temporal pole
+
+4. **Parietal Lobe**
+   - Parietal cortex
+
+5. **Occipital Lobe**
+   - Occipital cortex
+
+6. **Cerebellum**
+   - Cerebellar hemispheric lobules
+     - Lobule IV
+     - Lobule V
+     - Lobule VI
+     - Lobule VIII
+     - Lobule IX
+   - Vermal lobule VIIIb
+
+7. **Basal Ganglia**
+
+8. **Brainstem**
+   - Bulbopontine area
+
+9. **Other Regions**
+   - Gray matter (GM)
+   - White matter tracts
+     - Uncinate fasciculus
+     - Arcuate fasciculus
+     - Fornix
+     - Anterior commissure
+     - Inferior longitudinal fasciculus
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Frontal Lobe**: Executive functions, decision-making, emotion regulation, and motor control.
+- **Limbic System**: Emotion processing, memory, and autonomic regulation.
+- **Temporal Lobe**: Language, memory, emotion processing, and sensory integration.
+- **Parietal Lobe**: Spatial orientation, attention, and sensory processing.
+- **Occipital Lobe**: Visual processing.
+- **Cerebellum**: Motor control, cognitive functions, and emotional regulation.
+- **Basal Ganglia**: Motor control, cognitive functions, and emotion regulation.
+- **Brainstem**: Autonomic functions, arousal, and respiratory control.
+
+These regions and their functions are interconnected and work together to support various cognitive, emotional, and behavioral processes.

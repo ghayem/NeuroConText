@@ -1,0 +1,49 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Left superior frontal gyrus
+
+2. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+3. **Striatum**
+   - Ventral striatum
+
+4. **Posterior Cingulate Cortex**
+
+5. **Middle Frontal Gyrus**
+   - Medial frontal gyrus
+
+6. **Cerebellum**
+
+7. **Cingulate Gyrus**
+
+8. **Rolandic Operculum**
+   - Bilateral Rolandic operculum
+
+9. **Insula**
+   - Bilateral insula
+
+10. **Fusiform Gyri**
+    - Bilateral fusiform gyri
+
+11. **Precuneus**
+
+12. **Parietal Regions**
+    - Frontal, occipital, and parietal regions
+
+These regions are involved in various cognitive functions, including:
+
+- **dlPFC**: Cognitive control, decision-making, working memory, and executive functions.
+- **vmPFC**: Valuation, subjective value representation, and decision-making.
+- **Striatum**: Reward processing, motivation, and reinforcement learning.
+- **Posterior Cingulate Cortex**: Emotion regulation, memory retrieval, and self-referential processing.
+- **Middle Frontal Gyrus**: Cognitive control, working memory, and attention.
+- **Cerebellum**: Motor control, coordination, and cognitive functions.
+- **Cingulate Gyrus**: Emotion regulation, error detection, and conflict monitoring.
+- **Rolandic Operculum**: Gustatory processing and sensory integration.
+- **Insula**: Interoceptive awareness, emotional processing, and sensory integration.
+- **Fusiform Gyri**: Visual processing, face recognition, and object recognition.
+- **Precuneus**: Episodic memory retrieval, self-processing, and consciousness.
+- **Parietal Regions**: Spatial awareness, attention, and sensory integration.
+
+These regions collectively contribute to the complex interplay of cognitive processes involved in value-based decision-making, impulsivity, and the neural mechanisms underlying obesity and related behaviors.

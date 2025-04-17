@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Supragenual ACC (BA24/32)
+
+2. **Medial Prefrontal Cortex (MPFC)**
+
+3. **Insula**
+   - Posterior insula/primary sensory cortex (pIns/S1)
+   - Left middle insular cortex
+   - Bilateral middle to posterior insular cortex
+   - Left middle to posterior insula cortex
+
+4. **Primary Sensory Cortex**
+   - Posterior insula/primary sensory cortex (pIns/S1)
+
+5. **Supplementary Motor Area**
+
+6. **Somatosensory Cortex**
+   - Left postcentral/middle frontal gyrus (BA2, 3, 4, 6, 40)
+   - Right pre/postcentral gyrus (BA2, 3, 4, 6)
+   - Right somatosensory cortex (BA 7, 39, 40)
+
+7. **Amygdala**
+
+8. **Middle Frontal Gyrus**
+   - Left postcentral/middle frontal gyrus (BA2, 3, 4, 6, 40)
+
+9. **Inferior Frontal Gyrus**
+   - Frontal operculum
+
+10. **Temporal Cortex**
+    - Middle/inferior temporal gyrus (BA37)
+
+11. **Parietal Cortex**
+    - Right inferior/superior parietal cortex (BA 7, 39, 40)
+
+12. **Auditory Areas**
+    - Bilateral posterior superior temporal gyri
+
+13. **Frontal Cortex**
+    - Left middle insular cortex and the medial frontal cortex (supplementary motor area)
+    - Left postcentral/middle frontal gyrus (BA2, 3, 4, 6, 40)
+
+14. **Brodmann Areas (BA)**
+    - BA24/32
+    - BA2, 3, 4, 6, 40
+    - BA 7, 39, 40
+    - BA37
+
+These regions are involved in cognitive functions such as interoception, emotional awareness, somatosensory processing, and the integration of bodily sensations with emotional experiences.

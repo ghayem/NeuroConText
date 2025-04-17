@@ -1,0 +1,35 @@
+1. **Left Ventral Occipito-Temporal Cortex (lvOT)**
+    - Visual Word Form System (VWFS)
+    - Visual Word Form Area (VWFA)
+        - Midfusiform gyrus
+
+2. **Occipitotemporal Cortex**
+    - Left occipitotemporal scalp
+    - Left occipito-temporal electrode clusters (LOT)
+    - Right occipito-temporal electrode clusters (ROT)
+
+3. **Inferior Frontal Cortex**
+    - Left inferior frontal gyrus
+
+4. **Superior and Middle Temporal Regions**
+    - Left superior temporal gyrus
+    - Left middle temporal gyrus
+
+5. **Inferior Parietal Cortex**
+    - Bilateral inferior parietal cortex
+
+6. **Fusiform Gyrus**
+    - Left fusiform gyrus
+    - Right fusiform gyrus
+
+7. **Visual Cortex**
+    - Visual N1 event-related potential (ERP)
+
+8. **Temporal Regions**
+    - Left superior temporal gyrus
+    - Left middle temporal gyrus
+
+9. **Parietal Cortex**
+    - Bilateral inferior parietal cortex
+
+These regions are involved in these cognitive functions: reading, orthographic processing, word recognition, and visual processing.

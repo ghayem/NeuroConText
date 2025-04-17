@@ -1,0 +1,13 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Executive Control Network (ECN)**
+    - Dorsolateral prefrontal cortex
+    - Parietal cortex
+    - Pre-sensorimotor cortex
+    - Ventromedial prefrontal cortex
+
+2. **Salience Network (SN)**
+
+3. **Default Mode Network (DMN)**
+
+These regions are involved in cognitive functions such as decision-making processes related to goal-directed behaviors, maintenance of sustained attention, response selection, and executive control.

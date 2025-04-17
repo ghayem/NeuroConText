@@ -1,0 +1,55 @@
+## Brain Regions and Sub-Regions:
+
+1. **Medial Temporal Lobe**
+   - Hippocampal formation
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Posterior Parietal Cortex (PPC)**
+   - Angular Gyrus (AG)
+     - Bilateral AG
+     - Anterior AG (PGa)
+     - Posterior AG (PGp)
+   - Precuneus
+   - Retrosplenial Cortex (RC)
+   - Inferior Parietal Lobule (IPL)
+     - Supramarginal Gyrus (SMG)
+       - PF
+       - PFcm
+       - PFop
+       - PFt
+       - PFm
+   - Inferior Parietal Sulcus (IPS)
+
+4. **Frontal Cortex**
+   - Frontal pole
+   - Superior frontal gyrus
+   - Inferior frontal cortex
+     - Pars opercularis
+     - Pars triangularis
+   - Fronto-orbital cortex
+   - Medial frontal cortex
+
+5. **Temporal Cortex**
+   - Middle temporal gyrus
+
+6. **Cerebellum**
+
+7. **Default Mode Network (DMN)**
+   - Dorsal part of default mode network (dDMN)
+
+8. **Language Network (LANG)**
+
+9. **Executive Control Network (ECN)**
+   - Left executive control network (LECN)
+
+10. **Precuneus Network (PREC)**
+
+11. **Attention Network**
+    - Dorsal attention network (DAN)
+
+12. **Attention-to-Memory (AtoM) Model Network**
+
+13. **Parietal Unified Connectivity-biased Computation (PUCC) Model Network**
+
+- These regions are involved in these cognitive functions: episodic memory, language processing, attention, and executive functions.

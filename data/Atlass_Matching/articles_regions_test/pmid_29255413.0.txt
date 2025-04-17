@@ -1,0 +1,17 @@
+1. **Hippocampus**
+   - Right anterior hippocampus
+   - Right posterior hippocampus
+
+2. **Prefrontal Cortex**
+   - No sub-regions specified
+
+3. **Occipital Cortex**
+   - Right inferior occipital gyrus
+
+4. **Superior Parietal Gyrus**
+   - Left superior parietal gyrus
+
+5. **Angular Gyrus**
+   - Left angular gyrus
+
+These regions are involved in these cognitive functions: memory, particularly episodic memory, and cognitive functions that may include language, executive functions, and sensory processing.

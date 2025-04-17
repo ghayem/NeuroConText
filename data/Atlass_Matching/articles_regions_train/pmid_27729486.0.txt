@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions Mentioned:
+
+1. **Prefrontal brain areas**
+   - Dorsolateral prefrontal cortex
+
+2. **Motor cortex**
+   - Primary motor cortex
+
+3. **Supplementary motor area (SMA)**
+
+4. **Frontal cortical regions**
+   - Ventral premotor cortex (vPMC)
+   - Left ventral premotor cortex (left vPMC)
+   - Superior frontal gyrus
+   - Anterior cingulate cortex (ACC)
+   - Inferior frontal cortex
+   - Frontal cortex
+
+5. **Cerebellum**
+   - Cerebellar region VIIb
+
+6. **Temporal cortex**
+   - Left superior temporal gyrus
+   - Inferior temporal cortex
+
+7. **Parietal cortex**
+   - Left interior parietal lobe
+
+8. **Insula**
+   - Right insula
+
+These regions are involved in various cognitive functions and motor control, including movement initiation, planning, and execution, as well as emotional and cognitive processing.

@@ -1,0 +1,63 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Frontal Lobe**
+   - Frontal pole (FP)
+     - Lateral division
+     - Medial division
+     - Orbital surface
+     - Fp1 (lateral cytoarchitectonic area)
+     - Fp2 (medial cytoarchitectonic area)
+   - Prefrontal cortex (PFC)
+     - Dorsolateral prefrontal cortex (DLPFC)
+     - Ventral prefrontal cortex
+     - Medial prefrontal cortex
+     - Orbital prefrontal cortex
+   - Inferior frontal gyrus (IFG)
+   - Frontal eye fields
+
+2. **Parietal Lobe**
+   - Lateral parietal cortex
+   - Inferior parietal lobule
+   - Superior parietal cortex
+   - Posterior parietal cortex
+
+3. **Temporal Lobe**
+   - Temporal pole
+   - Amygdala
+   - Hippocampus
+   - Posterior superior temporal sulcus
+   - Inferior temporal gyrus
+   - Fusiform gyrus
+   - Extrastriate cortex
+
+4. **Occipital Lobe**
+   - Visual cortex
+   - Lateral occipital cortex (BA39/Angular Gyrus)
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+     - Subgenual ACC
+     - Pregenual ACC
+   - Posterior cingulate cortex
+
+6. **Insula**
+   - Anterior insula
+
+7. **Subcortical Structures**
+   - Thalamus
+     - Anterior thalamic radiation (ATR)
+
+8. **White Matter Tracts**
+   - Inferior fronto-occipital fasciculus (iFOF)
+   - Uncinate fasciculus (UF)
+   - Cingulum bundle (CB)
+   - Superior longitudinal fasciculus (SLF)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Executive functions ( frontal lobe, prefrontal cortex, DLPFC, ACC, posterior parietal cortex)
+- Language (inferior frontal gyrus, temporal lobe)
+- Memory (hippocampus, temporal lobe, prefrontal cortex)
+- Emotion regulation (medial prefrontal cortex, ACC, amygdala)
+- Attention (anterior insula, ACC, posterior parietal cortex)
+- Visual processing (visual cortex, fusiform gyrus, extrastriate cortex)
+- Motivation and reward processing (medial prefrontal cortex, orbital prefrontal cortex, amygdala)

@@ -1,0 +1,21 @@
+1. **Basal Ganglia**
+   - Caudate
+   - Putamen
+   - Globus pallidus internus (GPi)
+   - Globus pallidus externa (GPe)
+   - Substantia nigra (SN)
+   - Pedunculopontine nucleus
+
+2. **Thalamus**
+
+3. **Visual Cortex**
+   - Calcarine
+   - Middle occipital gyrus (bilateral)
+
+4. **Other Cortical Regions**
+   - Sensorimotor network
+   - Default mode network
+   - Frontoparietal network
+   - Basal ganglia network
+
+These regions are involved in motor control, gait, and cognitive functions associated with Parkinson’s disease and Freezing of Gait (FOG).

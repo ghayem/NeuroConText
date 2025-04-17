@@ -1,0 +1,49 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex**
+
+2. **Frontal Areas**
+
+3. **Occipital Lobe**
+
+4. **Parietal Lobe**
+
+5. **Basal Ganglia**
+   - Lentiform nucleus
+   - Caudate
+   - Accumbens
+   - Amygdala
+   - Hippocampus
+   - Putamen
+
+6. **Cerebellum**
+   - Right posterior cerebellum
+   - Right cerebellum (lobules IV-V)
+   - Left cerebellum (lobules IV-V)
+
+7. **Temporal Lobe**
+   - Left anterior superior temporal gyrus
+   - Left middle/superior temporal gyrus
+   - Left postcentral gyrus
+   - Right supramarginal gyrus
+   - Right precentral gyrus
+   - Left inferior frontal gyrus
+
+8. **Parahippocampal Gyrus**
+   - Right parahippocampal gyrus
+
+9. **Thalamus**
+
+10. **Hippocampus/Amygdala Complex**
+    - Left hippocampus/amygdala complex
+
+11. **Posterior Cingulate**
+    - Left posterior cingulate
+
+12. **Precuneus**
+    - Left precuneus
+
+13. **Globus Pallidus**
+    - Left globus pallidus
+
+These regions are involved in various cognitive functions, including attention, executive functions, emotion regulation, and motor control, which are often impaired in ADHD and ASD.

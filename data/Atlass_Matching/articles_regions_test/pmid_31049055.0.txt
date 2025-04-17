@@ -1,0 +1,60 @@
+1. **Pons**
+   - Facial nucleus
+
+2. **Primary Sensorimotor Area**
+
+3. **Supplementary Motor Area**
+
+4. **Secondary Somatosensory Area (SII)**
+
+5. **Insula**
+
+6. **Middle Temporal Cortex**
+   - Right middle temporal cortex
+   - Left middle temporal cortex
+
+7. **Inferior Temporal Cortex**
+   - Right inferior temporal cortex
+   - Left inferior temporal cortex
+
+8. **Superior Temporal Cortex**
+   - Bilateral superior temporal cortex
+   - Right superior temporal cortex
+   - Left superior temporal cortex
+
+9. **Orbitofrontal Cortex**
+   - Bilateral orbitofrontal cortex
+   - Right orbitofrontal cortex
+
+10. **Postcentral Cortex**
+    - Right postcentral cortex
+
+11. **Thalamus**
+    - Bilateral thalamus
+    - Right thalamus
+    - Left thalamus
+
+12. **Anterior Cingulate Cortex (ACC)**
+    - Bilateral ACC
+    - Left ACC
+    - Right ACC
+
+13. **Hippocampus**
+    - Left hippocampus
+    - Right hippocampus
+
+14. **Cerebellum**
+    - Right cerebellum
+    - Left cerebellum
+    - Bilateral cerebellum
+
+15. **Superior Frontal Cortex**
+    - Left superior frontal cortex
+    - Right superior frontal cortex
+    - Bilateral superior frontal cortex
+
+16. **Medial Superior Frontal Gyrus**
+    - Right medial superior frontal gyrus
+
+17. **Inferior Frontal Cortex**
+    - Left inferior frontal cortex

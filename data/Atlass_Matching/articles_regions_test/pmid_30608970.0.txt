@@ -1,0 +1,76 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+   - Angular gyrus
+     - Inferior parietal lobule
+   - Temporal lobe
+     - Neocortex
+     - Hippocampus
+     - Parahippocampus
+   - Ventrolateral prefrontal cortex (VLPFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Medial temporal lobe (MTL)
+     - Hippocampal formation
+   - Inferior temporal cortex
+     - Right and left
+   - Temporal poles
+   - Cerebellum
+   - Frontal pole
+   - Middle temporal gyrus
+   - Mid-cingulate cortex
+   - Calcarine cortex
+   - Superior parietal cortex
+   - Insula
+   - Fusiform gyrus
+   - Thalamus
+   - Basal ganglia
+   - Occipital cortex
+   - Anterior cingulate cortex (ACC)
+   - Lateral frontal cortex
+   - Medial superior frontal cortex
+   - Superior temporal gyrus
+   - Posterior insula
+   - Lateral prefrontal cortex
+   - Lateral parietal cortex
+   - Superior temporal cortex
+   - Lateral temporal cortex
+   - Dorsomedial prefrontal cortex
+
+2. **Other Regions**
+   - Lateral frontal cortex (bilaterally)
+   - Medial superior frontal cortex
+   - Superior parietal cortex (bilaterally)
+   - Inferior parietal area
+   - Fusiform gyrus
+   - Thalamus
+   - Lateral prefrontal cortices (left and right)
+   - Anterior cingulate cortex (ACC)
+   - Lateral and medial parietal cortices
+   - Occipital cortex
+   - Basal ganglia
+   - Thalamus
+   - Right frontal pole
+   - Temporal poles (both)
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Self-referential processing
+- Autobiographical memory
+- Episodic memory
+- Future planning
+- Prospection
+- Mentalizing
+- Self-reflection
+- Theory of mind
+- Social and emotional judgments
+- Attention-demanding tasks
+- Semantic processing
+- Arithmetic tasks
+- Multisensory integration
+- Action imitation
+- Mental simulations
+- Maintenance of the self-concept
+- Low-level ‘background’ monitoring of the environment
+- Internal mentation detached from the outside world

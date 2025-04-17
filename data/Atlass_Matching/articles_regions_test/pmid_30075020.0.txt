@@ -1,0 +1,75 @@
+1. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+2. **Inferior Frontal Gyrus**
+    - Bilateral inferior frontal gyrus
+    - Right inferior frontal gyrus
+
+3. **Intraparietal Sulcus**
+    - Left intraparietal sulcus
+    - Left middle intraparietal sulcus
+    - Left anterior intraparietal sulcus
+
+4. **Occipital Gyrus**
+    - Lateral occipital regions
+    - Left occipital gyrus
+    - Right occipital gyrus
+
+5. **Orbital Gyrus**
+    - Left orbital gyrus
+    - Left posterior orbital gyrus
+
+6. **Postcentral Gyrus**
+    - Right postcentral gyrus
+
+7. **Precuneus**
+    - Bilateral precuneus
+    - Left precuneus
+
+8. **Superior Parietal Gyrus**
+    - Bilateral superior parietal gyrus
+    - Right superior parietal gyrus
+
+9. **Temporal Gyrus**
+    - Bilateral cingulate gyrus
+    - Bilateral inferior/middle frontal gyrus
+    - Left inferior/middle frontal gyrus
+
+10. **Thalamus**
+    - Right thalamus
+
+11. **Caudate Nucleus**
+    - Right caudate nucleus
+
+12. **Cerebellum**
+    - Right cerebellum
+
+13. **Cuneus**
+    - Right cuneus
+
+14. **Putamen**
+    - Left putamen
+
+15. **Calcarine Sulcus**
+    - Calcarine sulcus
+
+16. **Lingual Gyrus**
+    - Lingual gyrus
+
+17. **Precentral Gyrus**
+    - Left precentral gyrus
+
+18. **Middle Frontal Gyrus**
+    - Left superior and middle frontal gyrus
+    - Right middle frontal gyrus
+
+19. **Superior Frontal Gyrus**
+    - Superior frontal gyrus
+
+20. **Middle Occipital Cortex**
+    - Middle occipital cortex
+
+21. **Temporal Gyrus**
+    - Temporal gyrus
+
+- These regions are involved in these cognitive functions: imitation, sequence learning, object processing, spatial processing, working memory, and vicarious learning.

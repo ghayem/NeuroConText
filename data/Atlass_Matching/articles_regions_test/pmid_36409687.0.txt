@@ -1,0 +1,22 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Frontal Lobe**
+   - Bilateral frontal lobe (BA11, BA46)
+
+2. **Temporal Lobe**
+   - Right superior temporal gyrus (BA 41)
+   - Right temporal lobe (BA37)
+   - Right middle and inferior temporal gyrus
+
+3. **Caudate Nucleus**
+   - Left caudate nucleus
+
+4. **Subcortical Structures**
+   - Cerebral volumes
+   - Deep nuclear gray matter
+
+5. **Other Regions**
+   - White matter fasciculi
+   - Thalamus
+
+These regions are involved in various cognitive functions, including motor control, cognition, attention, memory, language, and neuropsychiatric function.

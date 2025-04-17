@@ -1,0 +1,60 @@
+## Brain Regions and Sub-Regions
+
+1. **Orbitofrontal Cortex (OFC)**
+   - Lateral Orbitofrontal Cortex
+   - Ventromedial Orbitofrontal Cortex
+
+2. **Temporal Cortex**
+   - Superior Temporal Gyrus (STG)
+
+3. **Limbic System**
+   - Amygdala
+     - Left Amygdala
+     - Bilateral Amygdala
+   - Anterior Cingulate Cortex (ACC)
+
+4. **Subcortical Regions**
+   - Striatum
+     - Right Striatum
+   - Putamen
+     - Left Putamen
+   - Insula
+     - Right Insula
+     - Bilateral Insula
+
+5. **Frontal Cortex**
+   - Left Medial Superior Frontal Gyrus
+   - Left Medial/Superior Frontal Gyrus
+   - Left Fusiform Gyrus
+   - Left Precuneus
+   - Anterior Insula
+     - Bilateral Anterior Insula
+
+6. **Parietal Cortex**
+   - Right Pre-postcentral Gyrus
+   - Right Supramarginal Gyrus
+
+7. **Somatosensory Association Cortex**
+   - Postcentral Gyrus
+   - Supramarginal Gyrus
+
+8. **Cortical Regions**
+   - Orbitofrontal-paralimbic System
+
+9. **Frontostriatal Cortex**
+
+10. **Mirror Neuron System (MNS)**
+    - Postcentral Gyrus
+    - Supramarginal Gyrus
+    - Superior Temporal Gyrus (STG)
+
+## Cognitive Functions and Associations
+
+- **Orbitofrontal Cortex (OFC)**: Reward and punishment processing, recognition of angry expressions, reactive aggression, top-down affect regulation, moral cognition, stimulus-based learning, decision-making.
+- **Superior Temporal Gyrus (STG)**: Empathy, affective processing, moral reasoning, inferring and predicting mental and emotional states of others.
+- **Amygdala**: Emotion processing, empathy, emotional arousal to fear and distress, responses to cues of danger and punishment.
+- **Putamen**: Inhibitory control, reinforcement learning.
+- **Pre-postcentral Gyrus and Supramarginal Gyrus**: Spatial localization, control of action, emotional contagion, empathic processing.
+- **Orbitofrontal-paralimbic System**: Emotion regulation, motivation, reward processing, decision-making.
+- **Frontostriatal Cortex**: Regulating social behavior, processing socio-emotional stimuli.
+- **Mirror Neuron System (MNS)**: Imitating actions, understanding motor plans, emotional contagion, empathic processing.

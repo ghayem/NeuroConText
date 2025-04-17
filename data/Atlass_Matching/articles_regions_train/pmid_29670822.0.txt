@@ -1,0 +1,33 @@
+## Brain Regions and Sub-regions:
+
+1. **Cortical Midline Structures (CMS)**
+    - **Medial Prefrontal Cortex (mPFC)**
+      - Ventromedial Prefrontal Cortex (vmPFC)
+      - Dorsomedial Prefrontal Cortex (dmPFC)
+    - **Anterior Cingulate Cortex (ACC)**
+    - **Posterior Cingulate Cortex (PCC)**
+
+2. **Left Postcentral Gyrus (PCG)**
+
+3. **Right Orbitofrontal Cortex (OFC)**
+    - Ventromedial Prefrontal Cortex (vmPFC)
+
+4. **Right Lateral Prefrontal Cortex (lPFC)**
+
+5. **Right Hippocampus**
+
+6. **Right Amygdala**
+
+7. **Left Hypothalamus**
+
+8. **Left Pars Orbitalis**
+
+9. **Right Dorsolateral Prefrontal Cortex (dlPFC)**
+
+10. **Left Dorsolateral Prefrontal Cortex (dlPFC)**
+
+11. **Right Middle Frontal Gyrus**
+
+12. **Insula**
+
+- These regions are involved in cognitive functions such as self-referential processing, emotion regulation, and socio-cognitive abilities.

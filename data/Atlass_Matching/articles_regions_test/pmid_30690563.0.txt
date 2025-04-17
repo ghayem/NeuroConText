@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex (PFC)**
+   - Lateral prefrontal cortex (lPFC)
+   - Medial prefrontal cortex (mPFC)
+     - Rostromedial prefrontal cortex (rmPFC)
+     - Rostral medial prefrontal cortex (rmPFC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventral prefrontal cortex
+   - Frontopolar cortex (FPC)
+   - Inferior frontal cortex (IFC)
+
+2. **Parietal Cortex**
+   - Superior parietal regions
+
+3. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal ACC
+
+4. **Orbitofrontal Cortex (OFC)**
+   - Lateral OFC
+
+5. **Insula**
+
+6. **Amygdala**
+
+7. **Ventral Striatum (vStr)**
+
+8. **Locus Coeruleus (LC)**
+
+9. **Occipital Cortex**
+
+10. **Temporal Cortex**
+
+These regions are involved in various cognitive functions, including:
+- Cognitive control
+- Motivational processing
+- Incentive salience and motivation
+- Attention and arousal
+- Decision-making
+- Emotion processing
+- Memory and learning
+- Motor control and planning

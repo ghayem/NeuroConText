@@ -1,0 +1,43 @@
+1. **Left Inferior Frontal Gyrus (LIFG)**
+   - Ventrolateral Prefrontal Cortex (VLPFC)
+   - Anterior Ventral LIFG
+   - Posterior Middle Temporal Gyrus
+
+2. **Prefrontal Cortex**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Anterior Cingulate Cortex / Pre-Supplementary Motor Area
+
+3. **Temporal Cortex**
+   - Posterior Temporal Cortex / Lateral Temporal Occipital Cortex
+
+4. **Parietal Cortex**
+   - Intraparietal Sulcus
+   - Posterior Parietal Lobule
+   - Supramarginal Gyrus
+   - Precuneus Cortex
+
+5. **Insular Cortex**
+   - Left Insula
+
+6. **Frontal Pole**
+   - Right Frontal Pole
+
+7. **Attention Networks**
+   - Frontoparietal Network (FPN)
+   - Ventral Attention Network (VAN)
+   - Dorsal Attention Network (DAN)
+
+8. **Default Mode Network (DMN)**
+   - Medial Parietal Cortex
+   - Right Frontal Pole
+
+9. **Semantic Control Network (SCN)**
+   - Anterior Ventral LIFG
+   - Posterior Middle Temporal Gyrus
+
+10. **Multiple Demand Network (MDN)**
+    - Dorsolateral Prefrontal Cortex (DLPFC)
+    - Anterior Cingulate Cortex / Pre-Supplementary Motor Area
+    - Intraparietal Sulcus
+
+These regions are involved in these cognitive functions: semantic cognition, control processes, memory retrieval, cognitive control, and executive functions.

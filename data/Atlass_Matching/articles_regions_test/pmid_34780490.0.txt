@@ -1,0 +1,69 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Anterior cingulate cortex (ACC)
+   - Bilateral dorsolateral prefrontal cortex (DLPFC)
+   - Orbitofrontal cortex (OFC)
+   - Right middle frontal gyrus
+   - Supplementary motor area (SMA)
+   - Left rostral anterior cingulate cortex (rACC)
+   - Inferior frontal gyrus (IFG)
+   - Right inferior frontal gyrus (rIFG)
+   - Medial frontal gyrus
+   - Superior frontal gyrus
+   - Medial prefrontal cortex (mPFC)
+   - Sub-gyral frontal lobe
+
+2. **Parietal Lobe**
+   - Post-central gyrus (postCG)
+   - Right supramarginal gyrus (rSMG)
+   - Right inferior parietal lobule
+
+3. **Temporal Lobe**
+   - Superior temporal gyrus (STG)
+   - Sub-gyral temporal lobe
+   - Right temporal lobe
+   - Left temporoparietal junction
+   - Right temporoparietal junction
+
+4. **Occipital Lobe**
+   - (Not explicitly mentioned)
+
+5. **Limbic System**
+   - Posterior cingulate/precuneus
+   - Left hippocampus
+   - Right hippocampus
+   - Left anterior insula
+   - Left lentiform nucleus
+
+6. **Subcortical Regions**
+   - Cerebellum
+   - Cerebellar tonsil
+   - Cerebellum anterior lobe
+   - Pons
+   - Brainstem
+   - Caudate
+   - Putamen
+   - Pallidum
+   - Right insula
+   - Thalamus
+   - Sublobar region
+   - Extra-nuclear
+   - Lentiform nucleus
+   - Subthalamic nucleus (STN)
+   - Globus pallidus pars externa
+
+7. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+   - Medial prefrontal cortex (mPFC)
+
+8. **Other**
+   - Default-mode network (DMN)
+   - Fronto-temporal pathway
+   - External capsule
+   - Fronto-striatal circuits
+   - Hyperdirect pathway
+   - Indirect pathway
+
+These regions are involved in various cognitive functions, including executive functions, working memory, response inhibition, visuospatial/visuomotor functions, reward system functions, and internet addiction tendencies.

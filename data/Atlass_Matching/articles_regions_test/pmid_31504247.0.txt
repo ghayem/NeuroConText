@@ -1,0 +1,51 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Left Hemisphere**
+   - Left temporo-parietal regions
+     - Inferior temporal gyrus
+     - Middle temporal gyrus
+     - Superior temporal gyrus
+     - Supramarginal gyrus
+     - Angular gyrus
+   - Left temporo-occipital regions
+     - Medial temporal gyrus
+     - Inferior temporal gyrus
+     - Fusiform cortex
+     - Lateral occipital cortex
+     - Parahippocampal regions
+     - Brain stem
+   - Left lateral regions
+     - Middle frontal gyrus
+     - Inferior frontal gyrus
+   - Left subcortical frontal regions
+     - Anterior thalamic radiation
+   - Left cortical regions
+     - Anterior temporal lobe
+     - Thalamus
+   - Left fronto-parietal cortex
+     - Precentral gyrus
+     - Postcentral gyrus
+
+2. **Bilateral Regions**
+   - Bilateral parietal midline regions
+     - Postcentral gyrus
+     - Precuneus
+     - Superior parietal lobule
+   - Bilateral medial frontal regions
+     - Subcallosal cortex
+     - (Para)cingulate gyrus
+     - Supplementary motor cortex
+
+3. **Right Hemisphere**
+   - Right-sided parieto-occipital regions
+   - Right-sided frontal regions
+
+4. **Other Regions**
+   - Posterior superior temporal cortex
+   - Ventral temporal lobe
+   - Dorsal fronto-parietal cortex
+   - Lateral temporo-occipital areas
+   - Medial and inferior temporal gyrus
+   - Superior parietal cortex
+
+These regions are involved in various cognitive functions, including language, attention, and executive functions.

@@ -1,0 +1,83 @@
+## Brain Regions and Sub-regions:
+
+1. **Dorsal Prefrontal Cortex**
+
+2. **Anterior Cingulate Cortex**
+
+3. **Putamen**
+
+4. **Amygdala**
+
+5. **Inferior Frontal Cortex**
+
+6. **Insula**
+
+7. **Parahippocampal Regions**
+
+8. **Right Caudate**
+
+9. **Orbitofrontal Cortex**
+   - Right orbitofrontal cortex
+
+10. **Anterior Cingulate Cortex**
+    - Bilateral anterior cingulate cortex
+
+11. **Middle Occipital Gyrus**
+    - Left middle occipital gyrus
+
+12. **Motor Cortices**
+
+13. **Superior Frontal Gyrus**
+    - Right superior frontal gyrus
+
+14. **Medial Superior Frontal Gyrus**
+    - Left medial superior frontal gyrus
+
+15. **Middle Frontal Gyrus**
+    - Left middle frontal gyrus
+    - Bilateral middle frontal gyrus
+
+16. **Precuneus**
+    - Bilateral precuneus
+    - Left precuneus
+
+17. **Inferior Parietal Gyrus**
+    - Left inferior parietal gyrus
+
+18. **Inferior Frontal Gyrus**
+    - Left inferior frontal gyrus
+
+19. **Supramarginal Gyrus**
+    - Right supramarginal gyrus
+
+20. **Postcentral Gyrus**
+    - Bilateral postcentral gyrus
+
+21. **Precentral Gyrus**
+    - Right precentral gyrus
+
+22. **Angular Gyrus**
+    - Right angular gyrus
+
+23. **Supplementary Motor Area**
+    - Left supplementary motor area
+
+24. **Vermis**
+    - Right Vermis
+
+25. **Middle Temporal Gyrus**
+    - Bilateral middle temporal gyrus
+
+26. **Medial Orbital Frontal Gyrus**
+    - Right medial orbital frontal gyrus
+
+27. **Inferior Occipital Gyrus**
+    - Right inferior occipital gyrus
+
+## These regions are involved in these cognitive functions:
+- **Executive functions**: Planning, attentional regulation, cognitive flexibility, working memory, behavioral inhibition, and emotion regulation.
+- **Memory**: Visuospatial memory, episodic memory retrieval.
+- **Emotion and Cognition**: Memory, social, decision-making, emotional, and cognitive functions.
+- **Sensory and Motor Functions**: Visual information processing, attention, emotion processing, and motor functions.
+- **Self-Processing and Consciousness**: Higher-order cognitive functions, self-processing, and consciousness.
+- **Perception and Social Cognition**: Bottom-up perception and social cognition.

@@ -1,0 +1,59 @@
+Based on the neuroscientific article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Thalamus**
+    - Bilateral thalami
+
+2. **Cortical Structures**
+    - Frontomesial cortex
+    - Frontal lobe
+
+3. **Subcortical Structures**
+    - Insula
+    - Putamen
+    - Cerebellum
+    - Hippocampus
+    - Parahippocampus
+    - Sensorimotor area
+    - Brain stem
+    - Default mode areas
+
+4. **Frontal Cortex**
+    - Superior frontal gyrus (SFG)
+
+5. **Temporal Cortex**
+    - Superior temporal gyrus (STG)
+    - Middle temporal gyrus (MTG)
+    - Inferior temporal gyrus (ITG)
+    - Temporal pole
+
+6. **Parietal Cortex**
+    - Angular gyrus
+    - Inferior parietal lobule
+    - Parietal lobe
+
+7. **Occipital Cortex**
+    - Middle occipital gyrus
+
+8. **Other Cortical Regions**
+    - Gyrus rectus
+    - Supplementary motor area (SMA)
+
+9. **Deep Nuclei**
+    - Hippocampus
+    - Thalamus
+    - Insula
+    - Putamen
+    - Parahippocampus gyrus
+    - Fusiform gyrus
+
+10. **Default Mode Network (DMN) Regions**
+    - Angular gyrus
+    - Middle occipital gyrus
+    - Inferior temporal gyrus (ITG)
+    - Middle temporal gyrus (MTG)
+
+11. **Other Specific Regions**
+    - Temporo-parieto-occipital junction (TPO)
+    - Mesial prefrontal cortex
+
+These regions are involved in various cognitive functions, including language, memory, motor functions, and executive functions, and are implicated in the pathophysiology of epilepsy and its associated cognitive and behavioral problems.

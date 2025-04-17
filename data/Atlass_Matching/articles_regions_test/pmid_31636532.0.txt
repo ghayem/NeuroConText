@@ -1,0 +1,52 @@
+## Brain Regions and Sub-Regions:
+
+1. **Primary and Secondary Auditory Cortex**
+
+2. **Frontal Cortex**
+   - Right fronto-parietal area
+   - Left frontal cortex
+   - Right frontal cortex
+   - Inferior frontal cortex
+   - Bilateral prefrontal cortex
+   - Left ventral medial prefrontal cortex (mPFC)
+   - Right medial dorsal prefrontal cortex
+   - Prefrontal inter-hemisphere
+   - Medial prefrontal cortex (mPFC)
+   - Left prefrontal cortex
+   - Right prefrontal cortex
+
+3. **Temporal Cortex**
+   - Left temporal cortex
+   - Right temporal cortex
+   - Anterior superior temporal gyrus (aSTG)
+   - Superior temporal gyrus (STG)
+   - Anterior part of the right temporal cortex
+
+4. **Parietal Cortex**
+   - Inferior parietal lobe
+   - Right inferior parietal cortex (IPC)
+   - Supramarginal gyrus (SMG)
+   - Posterior cingulate cortex (PCC)
+   - Posterior cingulate gyrus
+   - Medial part of the parietal lobe
+   - Right supramarginal gyrus
+
+5. **Premotor Cortices**
+
+6. **Cingulate Cortex**
+   - Posterior cingulate cortex (PCC)
+   - Posterior cingulate gyrus
+
+7. **Cerebrospinal Fluid (CSF)**
+
+8. **Scalp**
+
+9. **Skull**
+
+10. **Brain (as a general term)**
+
+11. **Cortical Regions**
+    - Regions of the right hemisphere
+    - Regions of the left hemisphere
+
+These regions are involved in various cognitive functions, including auditory perception, sound category discrimination, motor planning, action representation, semantic processing, emotional processing, and arousal state.

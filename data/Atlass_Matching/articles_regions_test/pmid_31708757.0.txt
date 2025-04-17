@@ -1,0 +1,34 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex**
+
+2. **Superior Parietal Cortex**
+
+3. **Basal Ganglia**
+    - Striatum
+
+4. **Medial Temporal Lobe**
+
+5. **Dorsal Frontoparietal Network**
+    - Frontal Eye Field
+    - Intraparietal Sulcus
+    - Superior Parietal Lobe
+
+6. **Ventral Frontoparietal Network**
+    - Temporoparietal Junction
+    - Inferior Frontal Gyrus
+    - Middle Frontal Gyrus
+
+7. **Right Middle Frontal Gyrus (r-MFG)**
+
+8. **Inferior Temporal Cortex**
+
+9. **Right Parietal Region**
+    - Parietal Operculum
+    - Supramarginal Gyrus
+
+10. **Superior Temporal Gyrus**
+
+11. **Temporal Cortex**
+
+- These regions are involved in these cognitive functions: working memory, attention, inhibitory control, and academic skills.

@@ -1,0 +1,44 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Fusiform Gyrus (FG)**
+2. **Amygdala**
+3. **Superior Temporal Cortex**
+4. **Anterior Temporal Cortex**
+5. **Temporo-parietal Junction**
+6. **Medial Prefrontal Cortex**
+7. **Anterior Cingulate Cortex (ACC)**
+   - Anterior cingulate gyrus (ACG)
+8. **Precuneus**
+9. **Inferior Frontal Cortex**
+10. **Inferior Parietal Lobule (IPL)**
+11. **Middle Frontal Gyrus (MFG)**
+    - Brodmann area (BA) 9
+    - Brodmann area (BA) 8
+    - Brodmann area (BA) 6
+12. **Superior Frontal Gyrus (SFG)**
+    - Brodmann area (BA) 8
+    - Brodmann area (BA) 9
+    - Brodmann area (BA) 6
+13. **Medial Frontal Gyrus**
+    - Brodmann area (BA) 10
+14. **Anterior Cerebellum**
+    - Culmen
+15. **Posterior Cerebellum**
+    - Pyramis
+    - Declive
+16. **Middle Temporal Gyrus (MTG)**
+    - Brodmann area (BA) 21
+17. **Inferior Temporal Gyrus (ITG)**
+    - Brodmann area (BA) 21
+18. **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Within MFG, Brodmann area (BA) 9
+19. **Dorsal Medial Prefrontal Cortex (DMPFC)**
+    - Within the medial frontal gyrus, Brodmann area (BA) 10
+20. **Premotor Cortex**
+    - Within the SFG/MFG, Brodmann area (BA) 6
+21. **Left Anterior Temporal Lobe**
+    - Fusiform gyrus (FG), Brodmann area (BA) 37
+    - Inferior temporal gyrus (ITG), Brodmann area (BA) 21
+    - Middle temporal gyrus (MTG), Brodmann area (BA) 21
+
+These regions are involved in various cognitive functions, including social cognition, executive functioning, and processing social information.

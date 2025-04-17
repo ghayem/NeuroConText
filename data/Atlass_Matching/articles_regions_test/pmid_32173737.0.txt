@@ -1,0 +1,30 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Taste Cortex**
+   - Primary taste cortex
+   - Secondary taste cortex
+
+2. **Insula**
+   - Bilateral insula
+   - Right middle insula
+   - Left insula
+
+3. **Orbitofrontal Cortex (OFC)**
+   - Bilateral superior orbitofrontal regions
+   - Bilateral medial orbitofrontal regions
+   - Bilateral mid-orbitofrontal regions
+   - Bilateral inferior orbitofrontal regions
+   - Right inferior frontal gyrus, pars orbitalis
+   - Caudomedial OFC
+   - Caudolateral OFC
+
+4. **Fronto-parietal Attention Network**
+   - Visual regions
+   - Temporal regions
+   - Fronto-parietal regions
+
+5. **Nucleus Accumbens**
+
+6. **Right Dorsolateral Prefrontal Cortex**
+
+These regions are involved in various cognitive functions including taste processing, attention, reward evaluation, and hedonic evaluation.

@@ -1,0 +1,16 @@
+## The brain regions:
+
+1. **Primary Motor Cortex (M1)**
+2. **Premotor Cortex (PMC)**
+3. **Supplementary Motor Area (SMA)**
+4. **Primary Somatosensory Cortex**
+    - Brodmann Areas BA1
+    - Brodmann Areas BA2
+    - Brodmann Areas BA4
+5. **Pre-supplementary Motor Area**
+6. **Posterior Parietal Cortex**
+7. **Superior Parietal Lobe**
+8. **Intraparietal Sulcus**
+9. **Dorsal Premotor Cortex**
+
+- These regions are involved in motor functions, motor imagery, and motor planning.

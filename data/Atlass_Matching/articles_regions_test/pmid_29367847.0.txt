@@ -1,0 +1,58 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex**
+   - Ventrolateral PFC
+   - Mid anterior cingulate cortex (ACC)
+   - Dorsal anterior cingulate cortex (ACC)
+   - Ventromedial PFC
+   - Subgenual ACC
+   - Dorsolateral PFC (dlPFC)
+   - Ventromedial striatum
+   - Globus pallidus
+   - Thalamus
+   - Premotor cortex (BA6)
+   - Dorsal frontal cortex (BA8)
+   - Frontal cortex
+   - Posterior superior temporal gyrus and sulcus (pSTG/S)
+   - Middle superior temporal cortex
+   - Anterior portion of the pSTG/S
+
+2. **Limbic System**
+   - Amygdala
+   - Hippocampus
+   - Hypothalamus
+   - Nucleus accumbens
+   - Subcallosal cortex
+   - Precuneus
+   - Inferior temporal cortex
+
+3. **Cerebral Cortex**
+   - Cerebral cortex
+   - Somatosensory association cortex (BA5)
+   - Somatosensory cortex (BA1)
+   - Postcentral gyrus
+   - Cerebellum
+   - Parietal cortex
+   - Superior frontal gyrus
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Pericalcarine gyrus
+   - Superior parietal gyrus
+   - Rostral middle frontal gyrus
+   - Insula
+   - Pars triangularis
+   - Pars orbitalis
+   - Lingual gyrus
+   - Cuneus
+   - Medial orbitofrontal gyrus
+   - Inferior parietal gyrus
+
+4. **Subcortical Regions**
+   - Caudate
+   - Putamen
+   - Accumbens area
+   - Ventral diencephalon
+   - Globus pallidus
+   - Thalamus
+
+These regions are involved in various cognitive functions including emotional control and processing, memory, and executive functions.

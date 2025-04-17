@@ -1,0 +1,31 @@
+## Brain Regions and Sub-Regions
+
+1. **Prefrontal Cortex (PFC)**
+    - Dorsal lateral PFC (dlPFC)
+    - Ventral lateral PFC (vlPFC)
+    - Medial PFC (mPFC)
+    - Ventromedial PFC (vmPFC)
+
+2. **Cingulate System**
+    - Dorsal anterior cingulate cortex (dACC)
+
+3. **Amygdala**
+
+4. **Nucleus Accumbens (NAcc)**
+
+5. **Middle Temporal Gyrus**
+
+6. **Thalamus**
+
+7. **Right Precentral Gyrus**
+
+8. **Right Parietal Cortex**
+    - Angular gyrus
+
+9. **Supplementary Motor Area (SMA)**
+
+10. **Posterior Cingulate (Precuneus)**
+
+11. **Dorsal Executive System (DES)**
+
+These regions are involved in various cognitive and emotional processes, including emotion regulation, cognitive reappraisal, and stress response modulation.

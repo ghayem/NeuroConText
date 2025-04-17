@@ -1,0 +1,44 @@
+## The brain regions:
+
+1. **Amygdala**
+
+2. **Insula**
+
+3. **Prefrontal Cortex (PFC)**
+    - Left PFC
+    - Right inferior frontal gyrus (IFG)
+    - Right inferior frontal cortex
+    - Left inferior frontal gyrus (IFG)
+    - Left periamygdalar cortex
+    - Right periamygdalar cortex
+
+4. **Thalamus**
+
+5. **Posterior Inferior Frontal Cortex**
+
+6. **Parietal Cortex**
+    - Left parietal cortex
+
+7. **Anterior Cingulate Cortex**
+
+8. **Middle Temporal Gyrus**
+
+9. **Inferior Parietal Lobe**
+
+10. **Putamen**
+
+11. **Brainstem**
+
+12. **Anterior Insular/Opercular Cortex**
+
+13. **Pre-supplementary Motor Area**
+
+14. **Basal Ganglia**
+
+15. **Medial Prefrontal Cortex**
+    - Ventrolateral
+    - Dorsolateral
+
+16. **Hippocampus**
+
+These regions are involved in cognitive functions such as emotional processing, fear response, attention, inhibitory control, and interoceptive awareness.

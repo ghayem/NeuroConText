@@ -1,0 +1,39 @@
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Insula**
+
+3. **Secondary Somatosensory Cortex (SII)**
+
+4. **Prefrontal Cortex**
+
+5. **Parietal Cortex**
+
+6. **Striate and Extrastriate Cortex of the Occipital Lobe**
+   - Fusiform Gyrus
+
+7. **Frontal Lobe**
+
+8. **Supplementary Motor Area (SMA)**
+   - Pre-SMA
+
+9. **Primary Motor Cortex (MI)**
+
+10. **Medial Prefrontal Cortex (mPFC)**
+
+11. **Anterior Midcingulate Cortex (aMCC)**
+
+12. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+13. **Subgenual Anterior Cingulate Cortex (sACC)**
+
+14. **Posterior Cingulate Cortex (PCC)**
+
+15. **Posterior Insula**
+
+16. **Primary Somatosensory Cortex (SI)**
+
+17. **Posterior Parietal Cortex**
+
+18. **Limbic Parahippocampal Gyrus**
+
+- These regions are involved in cognitive functions such as pain processing, emotional regulation, attention, and cognitive control.

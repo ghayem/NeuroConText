@@ -1,0 +1,55 @@
+1. **Primary Taste Cortex**
+   - Anterior insula/frontal operculum
+
+2. **Secondary Cortical Taste Area**
+   - Caudolateral orbitofrontal cortex (OFC)
+
+3. **Primary Olfactory Cortex**
+   - Anterior olfactory nucleus
+   - Pyriform cortex
+   - Rostral entorhinal cortex
+   - Amygdala
+   - Periamygdaloid complex regions
+
+4. **Secondary Olfactory Cortex**
+   - Orbitofrontal cortex
+
+5. **Overlapping Regions for Taste and Odor**
+   - Insula
+   - Operculum
+   - OFC
+   - Anterior cingulate cortex (ACC)
+
+6. **Other Activated Brain Regions**
+   - Anterior dorsal insula
+   - Anterior ventral insula
+   - Posterior parietal
+   - Right inferior frontal operculum (FO)
+   - Right rolandic operculum
+   - Right ACC
+   - Superior frontal gyrus
+   - Angular gyrus
+   - Claustrum
+   - Middle frontal gyrus
+   - Middle temporal gyrus
+   - Superior frontal gyrus
+   - Inferior occipital gyrus
+   - Substantia nigra
+   - Rectus
+   - Precentral gyrus
+   - Hippocampus
+   - Temporal pole
+
+7. **Regions Related to Pleasantness**
+   - Posterior cingulate gyrus
+   - Substantia nigra compacta
+   - Precuneus
+   - Medial temporal-lobe
+
+8. **Regions Related to Motor Planning**
+   - Precentral gyrus
+
+9. **Regions Related to Emotional Processing**
+   - Amygdala
+
+These regions are involved in various cognitive functions, including sensory perception, emotional processing, motor planning, and reward processing.

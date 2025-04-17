@@ -1,0 +1,18 @@
+## Brain Regions and Sub-Regions:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Rostral ACC
+
+3. **Precentral Gyrus**
+
+4. **Middle Cingulate Cortex (MCC)**
+
+5. **Posterior Cingulate Cortex (PCC)**
+
+6. **Default Mode Network (DMN)**
+   - ACC/mPFC region
+   - PCC/precuneus region
+
+These regions are involved in various cognitive functions, including social cognition, social emotion, self-reference, prosocial behavior, and functional connectivity related to social functioning and prosociality.

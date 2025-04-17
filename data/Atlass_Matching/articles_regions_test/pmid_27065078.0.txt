@@ -1,0 +1,37 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Rolandic Operculum**
+   - Bilateral Rolandic operculum (larger on the left)
+
+2. **Precentral Gyrus**
+   - Right precentral gyrus
+
+3. **Lenticular Nucleus**
+   - Left lenticular nucleus (mainly the putamen)
+
+4. **Anterior Cingulate/Paracingulate Gyri**
+   - Right anterior cingulate/paracingulate gyri
+
+5. **Inferior/Superior Frontal Gyrus**
+   - Left inferior/superior frontal gyrus
+
+6. **Superior Temporal Gyrus**
+   - Left superior temporal gyrus
+
+7. **Frontal Aslant Tract**
+   - Left frontal aslant tract
+
+8. **Motor Cortex**
+   - Right precentral gyrus
+   - Left Rolandic operculum
+
+9. **Articulated Language Output Network**
+   - Rolandic operculum
+
+10. **Limbic System**
+    - Anterior cingulate cortex (ACC)
+
+11. **Deep Gray Nuclei**
+    - Lenticular nucleus (mainly the putamen)
+
+These regions are involved in various cognitive and motor functions, including language output, executive function, motor control, and emotional processing. The article specifically discusses the implications of these regions in the context of amyotrophic lateral sclerosis (ALS).

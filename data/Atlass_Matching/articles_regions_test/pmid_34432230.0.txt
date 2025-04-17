@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Regions**
+
+2. **Temporal Regions**
+    - Temporal pole
+    - Temporal fusiform cortex
+    - Temporal plane
+
+3. **Limbic Regions**
+    - Amygdala
+    - Hippocampus
+    - Parahippocampal gyrus
+    - Anterior limbic network
+
+4. **Cerebellum**
+    - Dentate nucleus (DN)
+    - Cerebellar cortex
+    - Cerebellar lobules
+    - Vermis
+    - Fastigial nuclei
+
+5. **Parietal Regions**
+    - Posterior cingulate gyrus
+    - Angular gyrus
+
+6. **Occipital Regions**
+    - Lateral occipital cortex
+
+7. **Subcortical Regions**
+    - Pulvinar
+    - Ventral prefrontal cortex
+    - Striatum
+    - Thalamus
+    - Prefrontal-striatal-thalamic circuit
+
+8. **Other Regions**
+    - Cerebral associative regions
+    - Default Mode Network (DMN)
+
+These regions are involved in various cognitive and emotional functions, including emotion regulation, affective processing, and cognitive impairments associated with bipolar disorder.

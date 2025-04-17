@@ -1,0 +1,13 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Left intraparietal lobule (LIPL)
+   - Right intraparietal lobule (RIPL)
+
+2. **Other Regions**
+   - White matter
+   - Cerebrospinal fluid
+
+These regions are involved in various cognitive functions, and the DMN is particularly associated with neuropsychological patterns and is implicated in diseases such as ADHD.

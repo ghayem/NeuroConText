@@ -1,0 +1,61 @@
+## The brain regions:
+
+1. **Prefrontal Cortex**
+
+2. **Cingulate Cortex**
+
+3. **Insula (INS)**
+
+4. **Amygdala**
+
+5. **Precuneus**
+
+6. **Superior Temporal Gyrus**
+
+7. **Medial Prefrontal Cortex (mPFC)**
+
+8. **Occipital Areas**
+
+9. **Anterior Cingulate Cortex (ACC)**
+
+10. **Superior Longitudinal Fasciculus**
+
+11. **Corpus Callosum**
+
+12. **Frontal Lobes**
+
+13. **Occipital Lobes**
+
+14. **Parietal Lobes**
+
+15. **Temporal Lobes**
+
+16. **Inferior Temporal Gyrus (ITG)**
+    - Right (ITG_R)
+    - Left (ITG_L)
+
+17. **Postcentral Gyrus (PostCG)**
+    - Precentral Gyrus (preCG)
+
+18. **Superior Frontal Gyrus (SFG)**
+    - Right (SFG_R)
+    - Left (SFG_L)
+
+19. **Orbitofrontal Cortex (OFC)**
+    - Right (OFC_R)
+
+20. **Putamen**
+    - Left
+    - Right
+
+21. **Hippocampus**
+
+22. **Primary Body Sensory Cortex**
+
+23. **Cingulate Gyrus**
+
+24. **Default Network**
+
+25. **Cerebral Limbic System**
+
+- These regions are involved in various cognitive functions including emotion processing, visual processing, sensory information reception, body and visceral sensation, self-pain perception, visceral movement, autonomic nervous control, fine body movements, working memory, scenario memory, attention, complex body and visceral motor functions, and pain responses.

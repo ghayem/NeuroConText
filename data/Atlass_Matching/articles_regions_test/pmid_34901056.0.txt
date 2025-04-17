@@ -1,0 +1,78 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Bilateral frontal lobes
+   - Prefrontal lobe
+   - Medial prefrontal cortex
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+   - Dorsal anterior cingulate cortex
+
+2. **Parietal Lobe**
+   - Bilateral parietal lobes
+   - Inferior parietal lobule
+   - Postcentral gyrus
+   - Precuneus
+   - Left precuneus
+   - Left inferior parietal lobe
+   - Left superior parietal lobe
+   - Parahippocampal gyrus
+   - Parieto-occipital junction
+   - Posterior cingulate cortex
+
+3. **Temporal Lobe**
+   - Bilateral temporal lobes
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+   - Temporal pole
+   - Right temporal cortex pole
+   - Right inferior temporal cortex
+
+4. **Occipital Lobe**
+   - Right occipital pole
+   - Right supracalcarine cortex
+
+5. **Limbic System**
+   - Hippocampus
+   - Right anterior hippocampi
+   - Insula
+   - Left insular cortex
+   - Right insula
+   - Amygdala
+   - Cingulate gyrus
+   - Anterior cingulate gyrus
+   - Posterior cingulate cortex
+
+6. **Basal Ganglia**
+   - Thalamus
+   - Substantia nigra
+
+7. **Other Regions**
+   - Supplemental motor area
+   - Right frontal operculum
+   - Brainstem
+   - Cerebellum
+   - White matter
+   - Corpus callosum
+   - Internal capsule
+   - Corona radiata
+   - Cerebral peduncle
+   - Middle cerebellar peduncle
+   - Pyramidal tract
+   - Inferior fronto-occipital fasciculus
+   - Inferior longitudinal fasciculus
+   - Uncinate fasciculus
+   - Cingulum bundle
+   - Posterior thalamic radiation
+   - Superior longitudinal fasciculus
+
+These regions are involved in various cognitive functions, including but not limited to:
+- **Default-Mode Network (DMN)**: Self-projection, self-awareness, episodic memory, autobiographical memory, and information integration.
+- **Sensorimotor Network (SMN)**: Sensory input, motor coordination, and movement-demanding tasks.
+- **Salience Network (SN)**: Responses to behaviorally salient events.
+- **Hippocampal Network (HN)**: Memory disturbances and slow motor performances.
+
+Additionally, some of these regions are implicated in cognitive impairment, dementia, and other neurological manifestations in patients with end-stage renal disease (ESRD).

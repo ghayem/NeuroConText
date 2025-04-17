@@ -1,0 +1,64 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Medial Temporal Lobes**
+
+2. **Occipital Lobes**
+
+3. **Dorsolateral Prefrontal Cortex**
+   - Precentral sulcus (BA44)
+
+4. **Anterior Cingulate Cortex**
+
+5. **Posterior Parietal Cortex**
+
+6. **Anterior Prefrontal Cortex**
+   - Left anterior prefrontal cortex (BA 10/46)
+
+7. **Inferior Parietal Cortex**
+   - Angular gyrus
+   - Left inferior parietal cortex
+
+8. **Posterior Cingulate Cortex**
+
+9. **Superior Frontal Cortex**
+   - Bilateral superior frontal cortex (BA6/4)
+   - Superior frontal gyrus (BA6)
+
+10. **Precuneus**
+    - Ventral precuneus
+
+11. **Cuneus**
+
+12. **Supramarginal Gyrus**
+    - Left supramarginal gyrus (BA40)
+
+13. **Middle Frontal Gyrus**
+
+14. **Superior Temporal Sulcus**
+
+15. **Putamen**
+
+16. **Hippocampus**
+
+17. **Cerebellum**
+
+18. **Inferior Occipital Gyrus**
+
+19. **Intraparietal Sulcus**
+
+20. **Inferior Frontal Sulcus**
+
+21. **Lingual Gyrus**
+
+22. **Parieto-Occipital Cortex**
+
+23. **Temporo-Parietal Cortex**
+
+24. **Medial Prefrontal Cortex**
+
+25. **Retrosplenial Cortex**
+
+26. **Caudate**
+    - Body and tail of the caudate
+
+These regions are involved in various cognitive functions, including memory, decision-making, categorization, judgment, and executive functions.

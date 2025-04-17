@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebral Cortex**
+   - Entire cerebral cortex
+
+2. **Frontal Lobe**
+   - Medial frontal areas
+   - Bilateral paracentral areas
+   - Right superior frontal gyrus
+   - Right rostral middle frontal gyrus
+   - Pars triangularis of the right inferior frontal gyrus
+   - Bilateral superior frontal gyrus
+   - Left superior frontal cortex
+   - Anteromedial part of the left superior frontal cortex
+   - Dorsolateral part of the left superior frontal cortex
+   - Orbital part of the right inferior frontal gyrus
+   - Orbital part of the right inferior cortex
+
+3. **Parietal Lobe**
+   - Medial parietal areas
+   - Right superior parietal gyrus
+   - Bilateral medial and lateral parietal regions
+   - Left precuneus
+
+4. **Temporal Lobe**
+   - Right superior and middle temporal gyrus
+
+5. **Insula**
+   - Left insular
+
+6. **Basal Ganglia**
+   - Bilateral basal ganglia
+
+7. **White Matter (WM)**
+   - Periventricular WM
+   - Deep WM of bilateral frontal and parietal lobes
+
+8. **Subcortical Regions**
+   - Subcortical regions
+
+9. **Gray Matter (GM)**
+   - GM volume loss in the frontal cortex
+
+10. **Cortical Gray Matter–White Matter (GM–WM) Interface**
+    - Cortical GM–WM interface
+
+## Cognitive Functions Involved:
+- Executive functions
+- Memory
+- Language
+- Visuospatial functions
+- Cognitive control
+- Information integration

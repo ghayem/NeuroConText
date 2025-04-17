@@ -1,0 +1,47 @@
+## Brain Regions and Sub-regions:
+
+1. **Precuneus (preCUN)**
+
+2. **Posterior Cingulate Cortex (PCC)**
+
+3. **Medial Prefrontal Cortex (mPFC)**
+
+4. **Thalamus**
+   - Mediodorsal (MD) thalamus
+
+5. **Striatum**
+
+6. **Anterior Forebrain**
+   - Frontal/Prefrontal cortical-striatopallidal thalamocortical loop systems
+
+7. **Middle Frontal Gyrus (MFG)**
+
+8. **Middle Cingulate Cortex (MCC)**
+
+9. **Anterior Cingulate Cortex**
+
+10. **Fronto-parietal Networks**
+    - Lateral fronto-parietal networks
+    - Midline fronto-parietal networks
+
+11. **Middle Frontal Gyrus (MFG)**
+
+12. **Middle Cingulate Cortex (MCC)**
+
+13. **Default Mode Network (DMN)**
+
+14. **Temporal Cortex**
+
+15. **Parietal Cortex**
+
+16. **Central Thalamus**
+
+17. **Basal Ganglia**
+
+18. **Brainstem Motor Circuits**
+
+19. **Cortico-Subcortical Regions**
+
+20. **Cortico-Cortical Regions**
+
+These regions are involved in cognitive functions such as consciousness, memory retrieval, advanced cognitive functions, motor and cognitive functions, and sensory inputs.

@@ -1,0 +1,85 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Hippocampally-mediated processes
+   - Posterior hippocampus
+
+2. **Medial Temporal Lobe**
+   - Medial temporal lobe structures
+
+3. **Ventral Temporal Cortex**
+   - Category-selective ventral temporal regions
+
+4. **Default Network**
+   - Default/core network regions
+   - Posterior medial system
+   - Autobiographical memory network
+
+5. **Medial Prefrontal Cortex**
+   - Ventromedial prefrontal cortex
+   - Dorsomedial prefrontal cortex
+
+6. **Posterior Cingulate Cortex**
+
+7. **Anterior Superior Temporal Gyrus**
+   - Bilateral anterior superior temporal gyrus
+
+8. **Superior Temporal Sulcus**
+   - Bilateral superior temporal sulcus
+
+9. **Ventral Medial Parietal Cortex**
+
+10. **Parahippocampal Cortex**
+    - Bilateral parahippocampal cortex
+    - Anterior parahippocampal place area
+
+11. **Angular Gyrus**
+    - Bilateral angular gyrus
+    - Left angular gyrus/posterior superior temporal sulcus
+    - Posterior angular gyrus
+    - Anterior occipital place area
+
+12. **Retrosplenial Cortex**
+    - Retrosplenial cortex/parieto-occipital sulcus
+    - Retrosplenial complex
+
+13. **Mid-insula**
+    - Left mid-insula
+
+14. **Somato-motor Cortex**
+    - Bilateral aspects of somato-motor cortex
+    - Somatosensory cortex
+    - Paracentral lobule
+
+15. **Dorsal and Anterior Lateral Prefrontal Cortex**
+
+16. **Intraparietal Sulcus**
+    - Bilateral intraparietal sulcus
+
+17. **Anterior Temporal Lobe**
+
+18. **Posterior Superior Temporal Sulcus/Angular Gyrus**
+
+19. **Lateral Occipital Cortex**
+    - Lateral occipital complex
+
+20. **Dorsal and Anterior Parietal Cortex**
+
+21. **Inferior Frontal Junction**
+
+22. **Superior and Middle Frontal Gyri**
+    - Left superior and middle frontal gyri
+
+23. **Anterior Middle Temporal Gyrus**
+    - Bilateral anterior middle temporal gyrus
+
+24. **Inferior Temporal Gyrus**
+    - Bilateral inferior temporal gyrus
+
+25. **Medial Fusiform**
+
+26. **Anterior Supramarginal Gyrus**
+
+27. **Anterior Frontal Cortex**
+
+These regions are involved in various cognitive functions, including memory retrieval, autobiographical recall, visual working memory, attentional control, speech production, and social cognition.

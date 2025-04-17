@@ -1,0 +1,58 @@
+# Brain regions and sub-regions:
+
+1. **Primary visual cortex**
+   - V1
+
+2. **Visual cortex**
+   - Area V2/V3
+   - Area V3A
+   - Calcarine sulcus
+
+3. **Visual cortex (specific regions)**
+   - V1v (ventral V1)
+   - V1d (dorsal V1)
+   - V2v/VP (ventral V2/VP)
+   - V2d/V3 (dorsal V2/V3)
+
+4. **Motion-sensitive higher areas**
+   - MT+/V5
+
+5. **Retinotopic maps**
+   - Retinotopic areas corresponding to the illusory part of the trajectory
+
+6. **Regions of interest (ROIs)**
+   - ROIs in retinotopic maps abutting the start or end point of the motion trajectory
+
+7. **Occipital cortex**
+   - Left occipital cortex
+
+8. **Cortical surface reconstruction**
+
+9. **Higher areas**
+
+10. **Motion-sensitive area**
+    - V3A
+
+11. **Ventral and dorsal visual cortex**
+    - Along the V2/V3 borders
+
+12. **Motion complex**
+    - Human motion complex MT+/V5
+
+13. **Visual field**
+    - Upper right quadrant
+    - Horizontal meridian
+
+14. **Motion trajectory**
+    - Start/end position of the bar's trajectory
+
+15. **Retinotopic localization**
+    - Retinotopic localization of regions of interest (ROIs) in visual cortex
+
+### Additional Areas:
+- Superior temporal plane (STP)
+- Planum temporale (PT)
+- Posterior superior temporal gyrus and sulcus (pSTG/S)
+- Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in these cognitive functions: visual perception, motion perception, predictive coding, and visual attention.

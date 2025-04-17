@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+
+2. **Medial Prefrontal Cortex**
+
+3. **Ventrolateral Prefrontal Cortex**
+   - Ventral striatum
+
+4. **Cingulate Cortex**
+
+5. **Orbitofrontal Cortex**
+
+6. **Limbic System**
+
+7. **Temporal Lobe**
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus
+   - Temporal pole
+
+8. **Frontal Lobe**
+   - Middle frontal gyrus (MFG)
+   - Orbital inferior frontal gyrus (OIFG)
+   - Inferior frontal gyrus (IFG)
+
+9. **Parietal Lobe**
+
+10. **Occipital Lobe**
+    - Occipital gyrus (OG)
+    - Middle occipital gyrus
+    - Superior occipital gyrus
+    - Bilateral cuneus
+
+11. **Insula**
+
+12. **Cerebellum**
+    - Cerebellum crus I
+    - Cerebellum vermis
+    - Vermis I
+    - Vermis II
+    - Parahippocampal gyrus
+
+13. **Brainstem**
+
+14. **Supplementary Motor Area**
+
+15. **Precentral Gyrus**
+
+16. **Fusiform Gyrus**
+
+These regions are involved in various cognitive functions, including emotional regulation, mental flexibility, impulsivity, self-awareness, self-monitoring, auditory and visual processing, working memory, and emotional processing.

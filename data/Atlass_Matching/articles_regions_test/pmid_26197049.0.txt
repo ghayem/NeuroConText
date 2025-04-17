@@ -1,0 +1,43 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Visual Word Form Area (VWFA)**
+   - Left VWFA (BA 37)
+
+2. **Fusiform Gyrus**
+
+3. **Anterior Cingulate Cortex**
+   - Part of the cingulo-opercular network
+
+4. **Dorsolateral Prefrontal Cortex**
+
+5. **Inferior Frontal Gyrus**
+
+6. **Medial Frontal Gyrus (BA 10)**
+
+7. **Middle Occipital Regions (BA 18, 19)**
+
+8. **Fronto-parietal Network**
+   - Rapid adaptive-control network that allocates attention to a cue
+
+9. **Cingulo-opercular Network**
+   - Set-maintenance network that maintains task goals, sustains adjustments for feedback control, and monitors errors
+
+10. **Dorsal Attention Network**
+
+11. **Ventral Stream**
+    - Related to orthographic processing
+
+12. **Dorsal Stream**
+
+13. **Orthographic Processing Regions**
+    - Ventral stream
+    - Visual word form area (VWFA)
+
+14. **Phonological Processing Regions**
+    - Dorsal stream
+
+15. **Reading Regions**
+    - Middle occipital regions (BA 18, 19)
+    - Medial frontal gyrus (BA 10)
+
+These regions are involved in various cognitive functions, including reading, orthographic processing, phonological processing, executive functions, attention, error monitoring, and cognitive control.

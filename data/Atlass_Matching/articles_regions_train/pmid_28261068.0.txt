@@ -1,0 +1,33 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Nucleus accumbens (NAc)**
+
+2. **Orbitofrontal cortex**
+
+3. **Anterior cingulate cortex (ACC)**
+
+4. **Inferior frontal gyrus (IFG)**
+
+5. **Prefrontal cortex (PFC)**
+
+6. **Ventral striatum**
+
+7. **Inferior temporal gyrus (ITG)**
+
+8. **Supramarginal gyrus**
+
+9. **Lingual gyrus**
+
+10. **Inferior parietal gyrus**
+
+11. **Right hemisphere inferior frontal triangularis**
+
+12. **Caudate**
+
+13. **Insula**
+
+14. **Putamen**
+
+15. **Dorsal striatum**
+
+These regions are involved in various cognitive functions including reward sensitivity, impulsivity, inhibitory control, attentional processing, visual working memory, and emotional processing of reward.

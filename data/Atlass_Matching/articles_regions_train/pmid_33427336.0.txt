@@ -1,0 +1,65 @@
+## Brain Regions and Sub-Regions:
+
+1. **Medial Prefrontal Cortex**
+
+2. **Frontal Cortex**
+
+3. **Striatum**
+   - **Posterior Putamen**
+
+4. **Cortical Level**
+   - **Frontal**
+   - **Parietal**
+
+5. **Basal Ganglia**
+   - **Putamen**
+   - **Caudal (Posterior) Putamen**
+   - **Rostral (Anterior) Putamen**
+
+6. **Primary Motor Cortex**
+
+7. **Supplementary Motor Area (SMA)**
+
+8. **Cerebellum**
+   - **Right Cerebellar Lobule 6**
+   - **Left Cerebellar Lobule 5/Vermis**
+
+9. **Rostral Precentral Gyrus**
+
+10. **Middle Frontal Gyrus**
+
+11. **Pre-Supplementary Motor Area (Pre-SMA)**
+
+12. **Precentral Gyrus**
+   - **Left Precentral Gyrus**
+   - **Right Precentral Gyrus**
+
+13. **Left M1**
+
+14. **Right Cerebellum**
+
+15. **Left Rostral Precentral Gyrus/Middle Frontal Gyrus**
+
+16. **Right Rostral Precentral Gyrus/Middle Frontal Gyrus**
+
+17. **Pre-SMA**
+
+18. **Bilateral Putamen**
+
+19. **Bilateral VOIs**
+
+20. **Left SMA**
+
+21. **Right Cerebellum**
+
+22. **Left Rostral Precentral Gyrus/Middle Frontal Gyrus**
+
+23. **Pre-SMA**
+
+24. **Left M1**
+
+25. **SMA**
+
+---
+
+These regions are involved in various cognitive functions, including motor control, movement execution, habitual movements, and executive control of movements and goal-directed behavior.

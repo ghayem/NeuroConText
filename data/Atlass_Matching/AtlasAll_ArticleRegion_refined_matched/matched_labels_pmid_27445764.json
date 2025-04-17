@@ -1,0 +1,41 @@
+{
+  "AAL": [
+    "Cuneus_R"
+  ],
+  "Harvard_Oxford": [
+    "Cingulate Gyrus, anterior division",
+    "Cingulate Gyrus, posterior division"
+  ],
+  "DiFuMo": [
+    "Anterior cingulate cortex",
+    "Anterior cingulate cortex anterior LH",
+    "Anterior cingulate cortex inferior",
+    "Anterior cingulate cortex inferior LH",
+    "Anterior cingulate cortex superior",
+    "Cingulate anterior",
+    "Cingulate anterior RH",
+    "Cingulate middle RH",
+    "Cingulate middle anterior RH",
+    "Cingulate middle posterior RH",
+    "Cingulate posterior",
+    "Cingulate posterior LH",
+    "Cingulate sulcus posterior",
+    "Cingulate sulcus posterior RH",
+    "Cuneus anterior RH",
+    "Cuneus antero-superior RH",
+    "Cuneus inferior RH",
+    "Cuneus posterior RH",
+    "Cuneus superior RH",
+    "Lingual gyrus anterior RH",
+    "Lingual gyrus mid-posterior RH",
+    "Lingual gyrus middle RH",
+    "Lingual gyrus posterior RH",
+    "Lingual gyrus posterior inferior RH",
+    "Posterior cingulate cortex",
+    "Posterior cingulate cortex anterior",
+    "Posterior cingulate cortex antero-inferior",
+    "Posterior cingulate cortex inferior",
+    "Posterior cingulate cortex inferior LH",
+    "Posterior cingulate cortex postero-inferior"
+  ]
+}

@@ -1,0 +1,42 @@
+## Brain Regions and Sub-regions
+
+1. **Frontal Lobe**
+    - Anterior cingulate gyrus (BA 32)
+    - Medial frontal gyrus (BA 6)
+    - Superior frontal gyrus (BA 8, 9)
+    - Middle frontal gyrus (BA 10)
+    - Orbitofrontal cortex
+
+2. **Parietal Lobe**
+    - Parietal sites (P9, P10)
+    - Parieto-occipital sites (P9, PO7, P10)
+    - Parietal and occipital electrodes (Pz, Oz, P4)
+    - Parieto-occipital electrodes (P3, Pz, Oz)
+
+3. **Temporal Lobe**
+    - Left middle temporal gyrus (BA 39)
+    - Temporo-parietal sites
+
+4. **Occipital Lobe**
+    - Occipital electrodes (Oz, O2, O1)
+    - Occipital and parietal electrodes
+
+5. **Central Regions**
+    - Central and parietal sensors (Cz, CPz, Pz)
+    - Central electrodes (Cz, CPz, C1)
+    - Fronto-central sites (Cz, FCz, Fz)
+
+6. **Cingulate Cortex**
+    - Left anterior cingulate (BA 32)
+
+7. **Default Mode Network (DMN)**
+    - Right anterior cingulate gyrus (BA 32)
+    - Medial frontal gyrus (BA 6)
+
+8. **Motor Cortex**
+    - Right superior and medial frontal gyri (BA 6, 8)
+
+9. **Visual Cortex**
+    - Extrastriate visual cortex
+
+These regions are involved in various cognitive functions including memory, attention, perception, decision-making, and motor planning.

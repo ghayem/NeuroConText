@@ -1,0 +1,32 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Frontal Cortex**
+   - Inferior frontal cortex
+   - Right frontal opercular part
+   - Right DLPFC (dorsolateral prefrontal cortex)
+   - Superior frontal gyrus
+   - Medial frontal gyrus
+   - Inferior frontal pars triangularis (right hemisphere)
+
+2. **Striatum**
+   - Putamen
+   - Caudate nuclei (NC)
+   - Globus pallidus
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+4. **Hippocampus**
+
+5. **Parietal Cortex**
+   - Inferior parietal regions
+   - Superior parietal lobe
+   - Parietal association cortices
+
+6. **Occipito-Temporal Cortex**
+
+7. **Supplementary Motor Area**
+
+8. **Thalamus**
+
+9. **Temporal Regions**
+   - Medial temporal regions

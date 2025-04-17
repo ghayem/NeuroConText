@@ -1,0 +1,37 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Orbitofrontal cortex
+   - Medial prefrontal cortex
+   - Lateral prefrontal cortex
+   - Dorsolateral prefrontal cortex (DLPFC)
+     - Middle frontal gyrus
+     - Brodmann areas 9 and 46
+
+2. **Striatal Regions**
+
+3. **Brain Stem/Midbrain**
+   - Ventral tegmental area (VTA)
+
+4. **Occipital Cortex**
+   - Superior lateral occipital cortex
+
+5. **Parietal Cortex**
+   - Angular gyrus
+   - Inferior parietal gyrus
+   - Superior lateral occipital gyrus/angular gyrus
+
+6. **Frontoparietal Network**
+
+7. **Hippocampus**
+
+These regions are involved in various cognitive functions and neurobiological processes, including:
+
+- Representation of pleasure and self
+- Mesocorticolimbic dopamine (DA) transmission
+- Higher cognitive functions
+- Anticipated reward and motivational deficits
+- Multisensory information integration
+- Comprehensive understanding and attention reorientation
+- Working memory
+- Global brain connectivity in response to changing environmental demands

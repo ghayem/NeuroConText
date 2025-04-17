@@ -1,0 +1,43 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Inferior Frontal Gyrus (IFG)**
+   - Pars opercularis
+
+2. **Superior Temporal Gyrus (STG)**
+   - Posterior STG
+   - Middle STG
+
+3. **Precentral Gyrus (PCG)**
+
+4. **Postcentral Gyrus (PostCG)**
+
+5. **Rolandic Opercula**
+   - Frontal inferior operculum
+
+6. **Supramarginal Gyrus (SMG)**
+
+7. **Insula**
+
+8. **Heschl's Gyrus**
+
+9. **Middle Temporal Gyrus (MTG)**
+
+10. **Ventral Pre-Motor Cortex (VPMC)**
+
+11. **Sensorimotor Cortex**
+
+12. **Anterior Portion of the Superior Longitudinal Fasciculus (SLF III)**
+
+13. **Arcuate Fasciculus (AF)**
+
+14. **White Matter (WM)**
+
+15. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in the following cognitive functions:
+- Speech articulation
+- Language processing
+- Motor planning and execution
+- Auditory processing
+- Working memory
+- Language articulation

@@ -1,0 +1,17 @@
+## Brain Regions and Sub-Regions
+
+1. **Dorso-central insula**
+2. **Middle cingulate cortex**
+    - Anterior sector
+    - Posterior sector
+3. **Posterior part of the temporo-parietal region**
+4. **Posterior part of the middle cingulate cortex**
+5. **Amygdala**
+6. **Anterior part of the insula**
+7. **Middle insula**
+8. **Posterior insula**
+    - Long gyri
+9. **Primary somatosensory cortex (SI)**
+10. **Secondary somatosensory cortex (SII)**
+11. **Dorsal and ventral premotor areas**
+12. **Posterior part of the fusiform gyrus**

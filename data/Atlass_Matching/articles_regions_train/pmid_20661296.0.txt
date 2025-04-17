@@ -1,0 +1,193 @@
+## Brain Regions and Sub-regions
+
+1. **Right inferior frontal gyrus (IFG)**
+
+2. **Pre-supplementary motor area (preSMA)**
+
+3. **Subthalamic nucleus (STN)**
+
+4. **Left motor cortex**
+
+5. **Left postcentral gyrus**
+
+6. **Right occipital cortex**
+
+7. **Right posterior middle frontal gyrus**
+
+8. **Left angular gyrus**
+
+9. **Left superior lateral occipital cortex**
+
+10. **Left precuneus**
+
+11. **Right anterior insula**
+
+12. **Orbitofrontal gyrus**
+
+13. **Anterior cingulate gyrus**
+
+14. **Paracingulate gyrus**
+
+15. **Middle frontal gyrus**
+
+16. **Superior frontal gyrus**
+
+17. **Posterior cingulate gyrus**
+
+18. **Central opercular cortex**
+
+19. **Striatum**
+
+20. **Thalamus**
+
+21. **Brainstem**
+
+22. **Superior temporal gyrus**
+
+23. **Middle temporal gyrus**
+
+24. **Occipital fusiform cortex**
+
+25. **Precuneus cortex**
+
+26. **Intracalcarine cortex**
+
+27. **Supracalcarine cortex**
+
+28. **Lateral inferior occipital cortex**
+
+29. **Occipital pole**
+
+30. **Cerebellum**
+
+31. **Left medial prefrontal cortex**
+
+32. **Rostral anterior cingulate gyrus**
+
+33. **Right medial prefrontal cortex**
+
+34. **Bilateral rostral anterior cingulate gyrus**
+
+35. **Right superior frontal gyrus**
+
+36. **Bilateral striatum**
+
+37. **Right subcallosal cortex**
+
+38. **Bilateral thalamus**
+
+39. **Right superior parietal lobule**
+
+40. **Right supramarginal gyrus**
+
+41. **Right parietal and central opercular cortex**
+
+42. **Right temporal pole**
+
+43. **Right superior temporal gyrus**
+
+44. **Right middle temporal gyrus**
+
+45. **Right cerebellum**
+
+46. **Left-lateralized insula**
+
+47. **Superior temporal gyrus**
+
+48. **Transverse temporal gyrus**
+
+49. **Middle temporal gyrus**
+
+50. **Left-lateralized frontal pole**
+
+51. **Middle frontal gyrus**
+
+52. **Superior frontal gyrus**
+
+53. **PreSMA**
+
+54. **SMA**
+
+55. **Anterior cingulate cortex**
+
+56. **Paracingulate cortex**
+
+57. **Pre- and postcentral gyri**
+
+58. **Frontal opercular cortex**
+
+59. **Striatum**
+
+60. **Pallidum**
+
+61. **Thalamus**
+
+62. **Supramarginal gyrus**
+
+63. **Superior parietal lobule**
+
+64. **Temporal pole**
+
+65. **Right inferior temporal gyrus**
+
+66. **Bilateral occipital cortex**
+
+67. **Ventral striatum**
+
+68. **Amygdala**
+
+69. **Supramarginal gyrus**
+
+70. **Superior temporal gyrus**
+
+71. **Bilateral occipital cortex**
+
+72. **Frontal pole**
+
+73. **Middle frontal gyrus**
+
+74. **Superior frontal gyrus**
+
+75. **PreSMA**
+
+76. **SMA**
+
+77. **Anterior cingulate cortex**
+
+78. **Paracingulate cortex**
+
+79. **Pre- and postcentral gyri**
+
+80. **Insula**
+
+81. **Frontal opercular cortex**
+
+82. **Striatum**
+
+83. **Pallidum**
+
+84. **Thalamus**
+
+85. **Supramarginal gyrus**
+
+86. **Superior parietal lobule**
+
+87. **Temporal pole**
+
+88. **Right inferior temporal gyrus**
+
+89. **Bilateral occipital cortex**
+
+90. **Left postcentral gyrus**
+
+91. **Supramarginal gyrus**
+
+92. **Left motor cortex**
+
+93. **Left postcentral gyrus**
+
+94. **Right occipital cortex**
+
+---
+
+These regions are involved in various cognitive functions including response inhibition, motor control, sensory processing, and executive functions.

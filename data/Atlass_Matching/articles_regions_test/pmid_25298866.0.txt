@@ -1,0 +1,34 @@
+## The brain regions:
+
+1. **Cerebral hemispheres**
+   - Bilateral
+
+2. **Spinal cord**
+
+3. **Brainstem**
+
+4. **Cerebellum**
+
+5. **Dorsal medulla**
+
+6. **Thalamus**
+   - Posterior part
+   - Pulvinar
+   - Dorsal thalamus
+
+7. **Parietal lobe**
+   - Posterior parietal lobe
+   - Posterior parietal cortex
+   - Brodmann area 7
+
+8. **Hippocampus**
+
+9. **Dorsal root ganglia**
+
+10. **Spinocerebellar tract**
+
+11. **Pyramidal tract**
+
+12. **Dorsal columns**
+
+These regions are involved in various neurological and cognitive functions, including sensory processing, motor control, and higher-order cognitive functions.

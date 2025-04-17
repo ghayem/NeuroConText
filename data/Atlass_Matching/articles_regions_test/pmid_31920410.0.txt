@@ -1,0 +1,31 @@
+1. **Frontal Cortex**
+   - Dorsal prefrontal cortex (DPFC)
+   - Middle frontal gyrus
+   - Superior frontal gyrus
+   - Inferior frontal gyrus
+   - Medial frontal gyrus
+
+2. **Orbitofrontal Cortex (OFC)**
+   - Middle OFC
+   - Inferior OFC
+
+3. **Cingulate Gyrus**
+   - Middle cingulate gyrus
+
+4. **Cerebellum**
+
+5. **Hippocampus**
+
+6. **Caudate**
+
+7. **Putamen**
+
+8. **Insula**
+   - Anterior insula
+   - Middle insula
+
+9. **Basal Ganglia**
+
+10. **Hypothalamus**
+
+- These regions are involved in these cognitive functions: inhibitory control, reward processing, motivation, emotion regulation, and feeding behavior.

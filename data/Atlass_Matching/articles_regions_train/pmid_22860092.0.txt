@@ -1,0 +1,53 @@
+1. **Ventral Tegmental Area (VTA)**
+
+2. **Nucleus Accumbens (NAcc)**
+
+3. **Insula**
+
+4. **Amygdala**
+
+5. **Medial Pre-Frontal Cortex (mPFC)**
+
+6. **Dorsal Striatum**
+   - Caudate
+   - Putamen
+
+7. **Anterior Cingulate Cortex (ACC)**
+
+8. **Orbitofrontal Cortex (OFC)**
+
+9. **Occipital Cortex**
+
+10. **Parietal Cortex**
+
+11. **Superior Frontal Cortex (SFC)**
+
+12. **Ventral Striatum**
+
+13. **Thalamus**
+
+14. **Medial Frontal Gyrus (MFG)**
+
+15. **Posterior Cingulate Cortex (PCC)**
+
+16. **Cuneus**
+
+17. **Precuneus**
+
+18. **Fusiform Gyrus**
+
+19. **Cerebellum**
+
+20. **Middle Occipital Gyrus**
+
+21. **Supramarginal Gyrus**
+
+22. **Middle Temporal Gyrus**
+
+23. **Superior Parietal Gyrus**
+
+24. **Inferior Frontal Gyrus**
+
+25. **Inferior Parietal Lobule**
+
+26. **Culmen**

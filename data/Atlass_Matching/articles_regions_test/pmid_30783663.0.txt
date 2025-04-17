@@ -1,0 +1,60 @@
+1. **Default Network (DN)**
+   - Inferior parietal lobe
+   - Posterior cingulate cortex (PCC)
+   - Middle temporal gyrus
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Medial prefrontal cortex (medPFC)
+   - Medial superior prefrontal cortex (medSPFC)
+   - Inferior temporal gyrus
+   - Angular gyrus (AG)
+   - Frontal pole
+   - Superior frontal gyrus
+   - Right medial temporal gyrus
+   - Middle frontal gyrus (MFG)
+   - Postcentral gyrus
+   - Middle anterior cingulate cortex (mACC)
+
+2. **Fronto-Parietal Network (FPN)**
+   - Right dorsolateral prefrontal cortex (DLPFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+   - Inferior parietal lobule (IPL)
+   - Inferior frontal gyrus (IFG)
+   - Frontal eye fields (FEF)
+   - Intraparietal sulcus (IPS)
+
+3. **Salience Network (SN)**
+   - Dorsal anterior cingulate cortex
+   - Anterior insula
+   - Rolandic operculum
+   - Superior insula
+   - Supramarginal gyrus
+   - Precentral gyrus
+   - Frontal eye fields (FEF)
+   - Anterior cingulate cortex (ACC)
+   - Middle anterior cingulate cortex (mACC)
+
+4. **Other Regions**
+   - Medial frontal gyrus (medFG)
+   - Right intraparietal sulcus
+   - Left superior insula
+   - Temporo-parietal junction (TPJ)
+   - Frontal pole
+   - Left vmPFC
+   - Right vmPFC
+   - Left medial PFC
+   - Right medial PFC
+   - Bilateral medial PFC
+   - Left inferior temporal gyrus
+   - Right inferior temporal gyrus
+   - Left frontal pole
+   - Left superior frontal gyrus
+   - Right superior frontal gyrus
+   - Right anterior cingulate cortex
+   - Left middle temporal gyrus
+   - Right middle temporal gyrus
+   - Left inferior frontal gyrus
+   - Right inferior frontal gyrus
+
+These regions are involved in cognitive functions such as creativity, divergent thinking, executive control, and memory processes.

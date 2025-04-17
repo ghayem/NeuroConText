@@ -1,0 +1,17 @@
+1. **Ventrolateral PreFrontal Cortex (VLPFC)**
+2. **Dorsolateral PreFrontal Cortex (DLPFC)**
+3. **Lateral OrbitoFrontal Cortex (lOFC)**
+4. **Anterior Cingulate Cortex (ACC)**
+5. **Ventromedial PreFrontal Cortex (VMPFC)**
+6. **Medial/Rostral OrbitoFrontal Cortex (mOFC)**
+7. **Ventral Striatum**
+   - Globus pallidus
+   - Thalamus
+8. **Dorsal Striatum**
+   - Caudate
+   - Putamen
+9. **Midbrain**
+10. **Amygdala**
+11. **Insula**
+
+These regions are involved in cognitive functions such as cognitive impulsivity, decision-making, and reward processing.

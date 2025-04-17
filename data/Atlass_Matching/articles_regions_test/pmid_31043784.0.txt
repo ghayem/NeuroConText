@@ -1,0 +1,59 @@
+1. **Anterior Cingulate Cortex**
+
+2. **Precuneus/Posterior Cingulate Cortex**
+
+3. **Anterior Insula**
+
+4. **Thalamus**
+   - Anterior thalamic nucleus
+
+5. **Cerebral Cortex**
+
+6. **Subcortical Regions**
+
+7. **Neocortical Regions**
+
+8. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex
+   - Precuneus/posterior cingulate cortex
+   - Bilateral lateral parietal cortices
+
+9. **Dorsal Attention Network**
+
+10. **Visual Network**
+
+11. **Auditory Network**
+
+12. **Salience Network**
+
+13. **Language Systems**
+
+14. **Somatomotor Network**
+
+15. **Executive Control Network**
+
+16. **Papez Circuit**
+   - Hippocampal formation
+   - Fornix
+   - Mammillary bodies
+   - Mammillothalamic tract
+   - Anterior thalamic nucleus
+   - Cingulum
+   - Entorhinal cortex
+   - Hippocampal formation
+
+17. **Right Primary Somatomotor**
+
+18. **Inferior Frontal Gyrus**
+
+19. **Intraparietal Sulcus**
+
+20. **Bilateral Posterior Cingulate Gyri**
+
+21. **Bilateral Hippocampus**
+
+22. **Temporal-Parietal Conjunctions**
+
+23. **Bilateral Lateral Parietal**
+
+These regions are involved in various cognitive functions including consciousness, sleep, wakefulness, memory, attention, and sensory processing.

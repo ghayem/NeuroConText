@@ -1,0 +1,52 @@
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Hippocampus**
+
+3. **Medial Prefrontal Cortex (PFC)**
+   - Infralimbic medial PFC
+
+4. **Locus Coeruleus**
+
+5. **Anterior Cingulate Cortex (ACC)**
+
+6. **Dorsal Hippocampus**
+
+7. **Amygdala**
+
+8. **Dorsolateral Prefrontal Cortex (dlPFC)**
+   - Brodmann Area (BA) 8
+   - Brodmann Area (BA) 9
+   - Brodmann Area (BA) 46
+
+9. **Orbitofrontal Cortex (OFC)**
+   - Brodmann Area (BA) 10
+   - Brodmann Area (BA) 47
+
+10. **Insula**
+    - Brodmann Area (BA) 13
+
+11. **Superior Temporal Gyrus**
+    - Brodmann Area (BA) 22
+    - Brodmann Area (BA) 38
+    - Brodmann Area (BA) 41
+
+12. **Fusiform Gyrus**
+    - Brodmann Area (BA) 37
+
+13. **Precuneus**
+
+14. **Cingulate Gyrus**
+    - Brodmann Area (BA) 32
+
+15. **Lingual Gyrus**
+    - Brodmann Area (BA) 19
+
+16. **Broca’s Area**
+    - Brodmann Area (BA) 44
+    - Brodmann Area (BA) 45
+
+17. **Anterior Hippocampus**
+    - Left anterior hippocampus
+    - Right posterior hippocampus
+
+These regions are involved in cognitive functions such as attention, extinction learning, contextual processing, memory, and emotional regulation.

@@ -1,0 +1,78 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Right frontal brain areas**
+    - Right inferior frontal cortex (rIFC)
+    - Inferior frontal junction (IFJ)
+    - Dorsomedial frontal cortex
+    - Pre-supplementary motor area (pre-SMA)
+
+2. **Posterior cortical regions**
+    - Subthalamic nucleus (STN)
+    - Dorsal anterior cingulate cortex (dACC)
+    - Anterior insula
+    - Inferior parietal lobule (IPL)
+
+3. **Right frontal brain areas**
+    - Right dorsolateral prefrontal cortex (DLPFC)
+    - Right anterior cingulate cortex (ACC)
+    - Right inferior frontal cortex (rIFC)
+
+4. **Fronto-striatal-parietal network**
+    - Fronto-striatal network
+    - Parietal network
+
+5. **Cortical and subcortical brain structures**
+    - Cortical structures
+    - Subcortical structures
+
+6. **Executive control network**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Ventrolateral prefrontal cortex (VLPFC)
+
+7. **Salience network**
+    - Anterior insula
+    - Dorsal anterior cingulate cortex (dACC)
+    - Inferior parietal lobule (IPL)
+
+8. **Memory network**
+    - Hippocampus
+    - Parahippocampus
+
+9. **Frontoparietal network**
+    - Inferior frontal cortex (IFC)
+    - Pre-supplementary motor area (pre-SMA)
+    - Bilateral parietal regions
+
+10. **Ventral attentional network**
+    - Anterior insula
+    - Median cingulate
+    - Paracingulate gyri
+    - Superior parietal cortex
+
+11. **Default-mode network**
+    - Posterior cingulate gyrus
+    - Angular gyri
+
+12. **Bilateral anterior insula**
+    - Right inferior frontal gyrus
+    - Right middle frontal gyrus
+    - Right medial frontal gyrus
+    - Right superior parietal lobule
+    - Right angular gyrus
+    - Right middle temporal gyrus
+
+13. **Right fronto-parieto-temporal network**
+    - Right pre-supplementary motor area (pre-SMA)
+    - Right paracingulate regions
+    - Right superior parietal lobule
+    - Right angular gyrus
+    - Right middle temporal gyri
+
+14. **Ventral attentional network**
+    - Right inferior frontal gyrus
+    - Right middle frontal gyrus
+    - Right superior parietal lobule
+    - Right angular gyrus
+    - Right middle temporal gyri
+
+These regions are involved in cognitive functions such as inhibitory processing, response inhibition, executive control, and cognitive impulse control.

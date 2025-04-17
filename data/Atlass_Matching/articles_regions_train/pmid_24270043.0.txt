@@ -1,0 +1,24 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex**
+   - Ventral lateral prefrontal cortex
+   - Dorsal lateral prefrontal cortex
+   - Right inferior frontal gyrus (rIFG)
+   - Right middle frontal gyrus (rMFG)
+   - Left frontal pole (lFP)
+   - Mesial prefrontal cortex
+
+2. **Anterior Cingulate Cortex**
+   - Left anterior cingulate cortex (lACC)
+
+3. **Posterior Parietal Cortex**
+   - Right supramarginal gyrus (rSMG)
+
+4. **Cognitive Control Network (CCN)**
+   - Includes regions involved in cognitive control over emotional stimuli
+
+5. **Fronto-limbic Network**
+
+6. **Default Mode Network**
+
+These regions are involved in cognitive control, particularly control over mood-congruent information, attentional control, behavioral inhibition, suppression of unwanted thoughts, attention shifting, and efforts to reappraise emotional stimuli.

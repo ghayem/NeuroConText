@@ -1,0 +1,31 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Occipital Lobe**
+   - Primary visual area
+
+2. **Temporal Lobe**
+   - Fusiform face area
+   - Fusiform gyrus
+     - Right fusiform gyrus
+     - Left fusiform gyrus
+   - Sylvian gyrus
+     - Rostral regions of the Sylvian gyrus
+     - Caudal regions of the Sylvian gyrus
+     - Right Sylvian gyrus (RSG)
+     - Left Sylvian gyrus (LSG)
+   - Suprasylvian gyrus
+     - Mid-suprasylvian gyrus
+     - Left mid-suprasylvian gyrus (LmSSG)
+   - Marginal gyrus
+     - Left marginal gyrus (LMG)
+     - Right marginal gyrus (RMG)
+
+3. **Insular Cortex**
+
+4. **Caudate Nucleus**
+   - Left caudate nucleus
+
+5. **Sensorymotoric Cortex**
+   - Right sensorymotoric cortex
+
+These regions are involved in various cognitive functions, including visual processing, face perception, and sensory integration.

@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebellum**
+   - Lobule IV-V
+
+2. **Supplementary Motor Area (SMA)**
+
+3. **Basal Ganglia**
+   - Putamen
+   - Caudate nucleus
+
+4. **Primary Motor Cortex**
+
+5. **Premotor Cortex**
+   - Dorsal premotor cortex
+
+6. **Primary Somatosensory Cortex**
+   - Postcentral gyrus
+
+7. **Precentral Gyrus**
+
+8. **Thalamus**
+
+9. **Inferior Parietal Cortex**
+
+10. **Superior Parietal Cortex**
+
+11. **Middle Frontal Cortex**
+
+12. **Middle Occipital Cortex**
+
+These regions are involved in various cognitive and motor functions, including motor learning, memory consolidation, and sequence learning.

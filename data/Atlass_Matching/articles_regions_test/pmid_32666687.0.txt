@@ -1,0 +1,33 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Frontal Region**
+   - Left middle frontal gyrus
+
+2. **Temporal Region**
+   - Right inferior temporal gyrus
+
+3. **Parietal Region**
+   - Bilateral postcentral gyrus
+
+4. **Limbic Region**
+
+5. **Striatal Region**
+
+6. **Thalamus**
+   - Anterior thalamic nuclei
+   - Ventrolateral thalamus
+   - Dorsomedial thalamic nucleus
+
+7. **Cerebellum**
+
+8. **Prefrontal Cortex**
+
+9. **Orbital Frontal Cortex**
+
+10. **Anterior Cingulate Gyrus**
+
+11. **Accumbens Nucleus**
+
+12. **Postcentral Gyrus**
+
+These regions are involved in various cognitive functions, including motor control, emotion regulation, cognitive processing, memory, and sensory gating.

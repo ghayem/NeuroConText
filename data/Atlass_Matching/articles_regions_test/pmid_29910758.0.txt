@@ -1,0 +1,29 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Insula**
+   - Anterior insula (AI)
+     - Left anterior insula (LAI)
+     - Right anterior insula (RAI)
+   - Posterior insula (PI)
+     - Left posterior insula (LPI)
+     - Right posterior insula (RPI)
+   - Mid-insula (MI)
+     - Left middle insula (LMI)
+     - Right middle insula (RMI)
+
+2. **Prefrontal Cortex (PFC)**
+   - Bilateral prefrontal cortex
+
+3. **Thalamus**
+
+4. **Amygdala**
+
+5. **Anterior Cingulate Cortex (ACC)**
+
+6. **Temporo-parietal Junction (TPJ)**
+
+7. **Caudate**
+
+8. **Ventral Striatum**
+
+These regions are involved in various cognitive and emotional processes, including moral judgment, disgust, emotion regulation, theory of mind (ToM), and moral disgust.

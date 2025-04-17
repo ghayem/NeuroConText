@@ -1,0 +1,53 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Sensorimotor Cortex**
+   - Primary somatosensory cortex (S1)
+   - Secondary somatosensory cortex (S2)
+   - Primary motor cortex (M1)
+   - Premotor cortex (PMC)
+   - Dorsolateral sensorimotor cortex (SMC)
+
+2. **Brainstem**
+   - Pontomedullary reticular formation (PMRF)
+   - Pontine tegmentum
+   - Pontine reticular formation (PRF)
+   - Pontine nuclei
+   - Dorsal pons
+   - Medulla
+
+3. **Cerebellum**
+
+4. **Parietal Cortex**
+   - Parietal operculum cortices
+   - Posterior parietal cortex (PPC)
+   - Superior parietal lobule (SPL)
+   - Inferior parietal lobule (IPL)
+   - Area PGp (part of IPL)
+
+5. **Frontal Cortex**
+   - Frontal operculum cortex
+   - Inferior frontal gyrus
+   - Frontal orbital cortex
+   - Prefrontal cortex
+
+6. **Temporal Cortex**
+
+7. **Occipital Cortex**
+   - Lingual gyri
+   - Parieto-occipital cortices
+
+8. **Insular Cortex**
+   - Anterior insular cortex
+
+9. **Cingulate Cortex**
+
+10. **Subcortical Structures**
+    - Thalamus
+
+11. **Other Regions**
+    - Paracingulate gyrus
+    - Central opercular cortex
+    - Default mode network (including posterior IPL)
+    - Brodmann areas (BA 4a, BA 6, BA 7A, BA 5L)
+
+These regions are involved in various cognitive and motor functions, as discussed in the article.

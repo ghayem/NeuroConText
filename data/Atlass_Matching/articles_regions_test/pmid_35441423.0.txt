@@ -1,0 +1,36 @@
+Based on the article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+    - Dorsal anterior cingulate cortex (dACC)
+    - Rostral-ventral ACC
+    - Caudal-dorsal ACC
+    - Midcingulate cortex
+    - Pre-supplementary motor area (pre-SMA)/medial cingulate cortex
+
+2. **Premotor Cortex**
+    - Dorsal premotor cortex (PMd)
+
+3. **Supplementary Motor Area (SMA)**
+
+4. **Postcentral Sulcus (PoCS)**
+    - Anterior intraparietal sulcus (aIPS)
+
+5. **Supramarginal Gyrus (SMG)**
+
+6. **Posterior Parietal Lobe**
+
+7. **Frontal Cortex**
+
+8. **Parietal Cortex**
+
+9. **Medial Prefrontal Cortex**
+
+10. **Posterior Cingulate Cortex (PCC)**
+
+11. **Operculum**
+
+12. **Sensorimotor Areas**
+
+13. **Dorsal Frontoparietal Cortex**
+
+These regions are involved in various cognitive functions, including intuitive physics, physical prediction, action planning, spatial cognition, social cognition, attention allocation, and executive function.

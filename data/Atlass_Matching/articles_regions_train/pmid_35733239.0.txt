@@ -1,0 +1,48 @@
+### Brain Regions and Sub-Regions:
+
+1. **Anterior Insula**
+   - Anterior Ventral Insula (AVI)
+   - Middle Insula (MI)
+
+2. **Frontal Operculum**
+   - Frontal Operculum 4 (FOP4)
+   - Frontal Operculum 5 (FOP5)
+
+3. **Cingulate Gyrus**
+   - Anterior 24 prime (a24pr)
+   - Anterior 32 prime (a32pr)
+   - Posterior 32 prime (p32pr)
+   - Supplementary and Cingulate Eye Field (SCEF)
+
+4. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Area 46
+
+5. **Middle Cingulate Cortex**
+   - Anterior 24 prime (a24pr)
+   - Anterior 32 prime (a32pr)
+   - Posterior 32 prime (p32pr)
+   - Supplementary and Cingulate Eye Field (SCEF)
+
+6. **Salience Network (SN)**
+   - Anterior Insula
+   - Frontal Operculum
+   - Cingulate Gyrus
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Middle Cingulate Cortex
+
+### Cognitive Functions:
+These regions are involved in the following cognitive functions:
+- Sensation and control of autonomic nervous system processes
+- Human awareness
+- Self-recognition
+- Time perception
+- Perceptual decision-making
+- Cognitive response selection
+- Word and sentence selection during language-based tasks
+- Motivation evaluation
+- Outcome anticipation
+- Reward value recognition
+- Error encoding to influence attention allocation and motor preparation
+- Oculomotor control for goal-directed behavior
+- Goal-directed processes related to higher-order cognition
+- Executive functions related to planning tasks

@@ -1,0 +1,53 @@
+1. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Adjacent cortical regions
+
+2. **Posterior Midline Region (PMR)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+
+3. **Middle Cingulate Cortex (MCC)**
+   - Anterior cingulate cortex
+
+4. **Left Middle Temporal Gyrus (MTG)**
+
+5. **Anterior Insular Cortex (aIC)**
+   - Inferior and middle occipital gyrus
+   - Posterior medial frontal gyrus
+   - Supplementary motor area
+   - Pars triangularis of the left inferior frontal gyrus (IFG)
+
+6. **Right Anterior Insular Cortex (aIC)**
+   - Superior temporal gyrus
+   - Postcentral gyrus
+   - Rolandic operculum
+   - Precentral gyrus
+   - Left middle temporal gyrus (MTG)
+   - Posterior insula lobe
+
+7. **Right Middle Cingulate Cortex (MCC)**
+
+8. **Left Frontal Pole**
+
+9. **Right Hippocampus**
+
+10. **Right Precuneus**
+
+11. **Right Fusiform Gyrus**
+
+12. **Left Middle Occipital Gyrus**
+
+13. **Right Inferior Temporal Gyrus**
+   - Fusiform gyrus
+
+14. **Right Middle Occipital Gyrus**
+
+15. **Left Precuneus**
+
+16. **Middle Cingulate Cortex (MCC)**
+
+17. **Frontal Pole**
+
+18. **Posterior Middle Cingulate Cortex (pMCC)**
+
+These regions are involved in cognitive functions such as memory encoding, retrieval, and associative memory.

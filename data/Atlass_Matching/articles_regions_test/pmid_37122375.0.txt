@@ -1,0 +1,46 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Right hippocampus
+
+2. **Amygdala**
+   - Right amygdala
+
+3. **Cingulate Cortex**
+
+4. **Gray Matter**
+   - Visual gray matter
+
+5. **Parietal Lobe**
+   - Right parietal lobe
+
+6. **Angular Gyrus**
+
+7. **Cerebral Cortex**
+   - Parietal cortex
+
+8. **Midbrain**
+
+9. **Forebrain**
+   - Forebrain vesicles
+
+10. **Optic Nerve**
+
+11. **Retina**
+    - Retinal nerve fiber layer (RNFL)
+    - Ganglion cell layer
+    - Inner plexiform layer (IPL)
+    - Retinal pigment epithelium (RPE)
+    - Internal limiting membrane (ILM)
+    - Inner nuclear layer (INL)
+    - Outer plexiform layer (OPL)
+
+12. **Brain Volume**
+    - Total brain volume (TBV)
+    - Intracranial volume
+
+13. **Cerebrospinal Fluid (CSF)**
+
+14. **White Matter**
+
+These regions are involved in various cognitive functions, including memory, visual processing, and emotional regulation.

@@ -1,0 +1,43 @@
+1. **White Matter (WM)**
+   - Superior longitudinal fasciculus (SLF)
+   - Corpus callosum
+   - Anterior limb of the internal capsule
+   - Cingulum
+   - Anterior thalamic radiation
+   - Posterior thalamic radiation (PTR)
+   - Splenium of corpus callosum
+   - Right anterior corona radiata
+   - Left PTR
+   - Left SLF
+   - Visual network
+   - Sensorimotor network
+
+2. **Thalamus**
+   - This region is involved in processing and integrating sensory information.
+
+3. **Occipital Lobe**
+   - Posterior visual cortex
+   - Optic radiation from the lateral geniculate body
+   - This region is involved in visual perception and processing.
+
+4. **Pre/postcentral gyrus**
+   - This region is involved in integrating and processing bodily information.
+
+5. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Precentral gyrus
+   - Central paracentral lobule
+   - Precuneus
+
+6. **Parietal Lobe**
+   - This region is involved in somatic discomfort, working memory performance, attention, executive function, and emotion.
+
+7. **Cingulate or Paracingulate Gyrus**
+   - Anterior cingulate cortex
+   - This region is involved in cognitive and emotional functioning.
+
+8. **Basal Ganglia**
+   - This region is involved in oscillations stronger in slow-4 band.
+
+9. **Cerebrospinal Fluid (CSF)**
+   - This region is involved in the segmentation process but not directly related to cognitive functions.

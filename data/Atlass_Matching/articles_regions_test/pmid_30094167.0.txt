@@ -1,0 +1,47 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Supplementary motor area (SMA)
+
+2. **Parietal Lobe**
+   - Superior parietal lobule
+   - Inferior parietal lobule
+   - Precuneus
+   - Angular gyrus
+   - Postcentral gyrus
+
+3. **Occipital Lobe**
+   - Superior occipital gyrus
+   - Middle occipital gyrus
+
+4. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+
+5. **Basal Ganglia**
+   - Caudate
+   - Putamen
+
+6. **Cerebellum**
+   - Cerebellar vermis
+   - Cerebellar lobules
+
+7. **Brainstem**
+   - Mesencephalic locomotor region
+   - Pontomedullary reticular formation
+   - Subthalamic locomotor region
+   - Cerebellar locomotor region
+
+8. **Precentral Gyrus**
+   - Primary motor cortex (M1)
+
+9. **Other**
+   - Insula
+   - Thalamus
+   - Paracentral lobule
+   - Grey matter (GM)
+   - White matter (WhM)
+   - CSF compartments
+
+These regions are involved in various cognitive functions and motor control, including motor imagery, gait control, and visuomotor processing.

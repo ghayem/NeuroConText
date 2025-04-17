@@ -1,0 +1,53 @@
+1. **Ventral Striatum**
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Caudate**
+
+4. **Inferior Supramarginal Gyrus of the Parietal Lobe**
+
+5. **Dorsal Anterior Cingulate Cortex**
+
+6. **Thalamus**
+
+7. **Left Superior Temporal Gyrus**
+
+8. **Right Caudate Nucleus**
+
+9. **Left Frontal Pole**
+
+    - **Orbitofrontal Cortex**
+
+10. **Corpus Callosum**
+
+11. **Cingulum Bundle**
+
+12. **Forceps Minor**
+
+13. **Corona Radiata**
+
+    - **Superior Corona Radiata**
+
+14. **Internal Capsule**
+
+    - **Retrolenticular Part of the Internal Capsule**
+
+15. **Cerebellum**
+
+16. **Occipital White Matter**
+
+    - **Middle or Lateral Occipital Gyrus White Matter**
+
+17. **Superior Fasciculus**
+
+18. **Posterior Thalamic Radiata**
+
+19. **Fornix**
+
+20. **External Capsule**
+
+21. **Insula**
+
+22. **Hippocampus**
+
+- These regions are involved in cognitive functions such as reward processing, emotional regulation, decision-making, motor control, and executive functions.

@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions
+
+1. **Frontal Cortex**
+    - Middle frontal gyrus (BA 11/10)
+    - Superior frontal gyrus (BA 11)
+    - Precentral gyrus (BA 44)
+    - Anterior cingulate gyrus
+
+2. **Parietal Cortex**
+    - Central-parietal regions
+    - Parietal-occipital regions
+
+3. **Occipital Cortex**
+    - Parietal-occipital regions
+
+4. **Temporal Cortex**
+    - Superior temporal plane (STP)
+    - Planum temporale (PT)
+    - Posterior superior temporal gyrus and sulcus (pSTG/S)
+    - Temporo-parieto-occipital junction (TPO)
+
+5. **Prefrontal Cortex**
+    - Left ventrolateral prefrontal cortex
+
+6. **Limbic System**
+    - Amygdala
+
+7. **Other Regions**
+    - Prefrontal cortex
+    - Anterior cingulate cortex
+
+- These regions are involved in various cognitive functions, including emotional processing, semantic processing, memory retrieval, and perceptual fluency.

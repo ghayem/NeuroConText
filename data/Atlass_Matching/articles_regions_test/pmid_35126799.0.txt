@@ -1,0 +1,37 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal Lobe**
+   - **Middle Frontal Cortex**
+     - Left middle frontal cortex (lower)
+     - Left middle frontal cortex (upper)
+   - **Superior Frontal Cortex**
+   - **Caudal Middle Frontal Gyrus**
+   - **Precentral Gyrus**
+
+2. **Occipital Lobe**
+
+3. **Limbic System**
+
+4. **Default Mode Networks**
+   - **Posterior Cingulate Cortex (PCC)**
+
+5. **Sensorimotor Cortex**
+
+6. **Cerebellum**
+   - **Cerebellar Lobule VI**
+
+7. **Insular Cortex**
+   - Bilateral insular cortex
+
+8. **Parietal Lobes**
+   - **Precuneus Cortex**
+
+9. **Cerebral Cortex**
+
+10. **Visual Areas**
+
+11. **Cingulate Gyrus**
+
+12. **Cerebral Cortex**
+
+These regions are involved in the pathophysiology of migraines, cognitive evaluation, pain modulation, pain inhibition, and somatic pain regulation.

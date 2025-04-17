@@ -1,0 +1,52 @@
+## Brain Regions and Sub-Regions
+
+1. **Locus Coeruleus (LC)**
+   - Dorsal pons
+
+2. **Anterior Cingulate Cortex (ACC)**
+
+3. **Neocortex**
+
+4. **Basal Forebrain**
+
+5. **Limbic System**
+
+6. **Thalamus**
+
+7. **Hypothalamus**
+
+8. **Cerebellum**
+   - Superior cerebellar peduncle (SCP)
+
+9. **Brainstem Nuclei**
+
+10. **Prefrontal Cortex (PFC)**
+
+11. **Parahippocampal Gyrus**
+
+12. **Frontotemporal Neocortical Areas**
+    - Frontal pole
+    - Superior frontal gyrus
+    - Middle frontal gyrus
+    - Inferior frontal gyrus
+    - Lateral occipital cortex
+
+13. **Amygdala**
+
+14. **Nucleus Accumbens**
+
+15. **Putamen**
+
+16. **Temporoparietal Junction (TPJ)**
+
+17. **Cingulate Cortex**
+
+18. **Fourth Ventricle**
+
+19. **Central Tegmental Tract**
+
+20. **Medial Longitudinal Fasciculus**
+
+21. **Central Gray of the Pons**
+
+These regions are involved in diverse brain functions such as attention, sensory perception, synaptic plasticity, memory, cognitive flexibility, executive functioning, motor performance, and emotion regulation.

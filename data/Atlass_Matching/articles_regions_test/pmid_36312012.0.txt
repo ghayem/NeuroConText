@@ -1,0 +1,23 @@
+1. **Median Cingulate Cortex (MCC)**
+    - Left median cingulate cortex
+    - Right median cingulate cortex
+
+2. **Precentral Gyrus (PrCG)**
+    - Left precentral gyrus
+
+3. **Postcentral Gyrus (PoCG)**
+    - Left postcentral gyrus
+
+4. **Calcarine Cortex (CAL)**
+    - Right calcarine cortex
+
+5. **Supplementary Motor Area (SMA)**
+    - Left supplementary motor area
+
+6. **Paracentral Lobule (PAL)**
+    - Left paracentral lobule
+
+7. **Lingual Gyrus (LG)**
+    - Right lingual gyrus
+
+- These regions are involved in various cognitive functions such as cognitive regulation, negative affect processing, pain processing, motor movements, motor action sequencing and planning, response inhibition, cognitive functions, disorganized behavior, emotional processing, facial expression and emotion processing, and higher levels of visual processing.

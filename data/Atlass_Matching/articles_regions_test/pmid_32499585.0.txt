@@ -1,0 +1,49 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Primary Visual Cortex (V1)**
+   - Also known as Brodmann Area 17
+
+2. **Salience Network**
+   - Anterior insula
+   - Dorsal anterior cingulate cortex
+
+3. **Default Mode Network**
+   - Inferior parietal cortex
+   - Ventromedial frontal cortex
+   - Posterior cingulate/precuneus
+
+4. **Sensorimotor Network**
+   - Postcentral gyrus
+   - Precentral gyrus
+
+5. **Visual Areas**
+   - Superior occipital cortex
+   - Inferior occipital cortex
+   - Lateral occipital cortex
+
+6. **Frontal Cortex**
+   - Dorsolateral frontal cortex
+     - Superior frontal gyrus
+     - Middle frontal gyrus
+     - Inferior frontal gyrus
+   - Dorsomedial frontal cortex
+   - Ventromedial prefrontal cortex
+
+7. **Temporal Cortex**
+   - Superior temporal cortex
+   - Middle temporal cortex
+   - Inferior temporal cortex
+
+8. **Cerebellum**
+
+9. **Lingual Gyrus**
+
+10. **Cuneus**
+
+11. **Supplementary Motor Area**
+
+12. **Thalamus**
+
+13. **Hippocampus/Parahippocampus**
+
+These regions are involved in various cognitive functions such as attention, vigilance, mental imagery, introspection, and sensory processing.

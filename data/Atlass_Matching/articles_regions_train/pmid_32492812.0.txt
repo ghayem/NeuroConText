@@ -1,0 +1,54 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hypothalamus**
+
+2. **Anterior Insula**
+   - Short insula gyri (left and right)
+   - Sensorimotor cortex (connected with anterior insula)
+   - Prefrontal cortex (connected with anterior insula)
+   - Left temporoparietal junction (TPJ)
+
+3. **Thalamus**
+   - Ventroposterior medial nucleus
+   - Connected regions:
+     - Insular cortex
+     - Frontal cortex
+     - Occipital cortex
+     - Mid and posterior insula
+     - Temporal cortices
+     - Temporoparietal junction (TPJ)
+     - Precentral cortex
+     - Prefrontal cortex
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Salience Network**
+   - Anterior insular cortex (key node)
+
+6. **Ventral Attention Network**
+   - Temporoparietal junction (TPJ) (key node)
+
+7. **Basal Ganglia**
+
+8. **Prefrontal Cortex**
+
+9. **Temporoparietal Junction (TPJ)**
+
+10. **Inferior Frontal Cortex**
+
+11. **Midfrontal Cortex**
+
+12. **Mid-insula**
+   - Dorsal mid-insular cortex
+
+13. **Sensorimotor Cortex**
+
+14. **Frontal Cortex**
+
+15. **Occipital Cortex**
+
+16. **Temporal Cortex**
+
+17. **Precentral Cortex**
+
+These regions are involved in various cognitive functions, including sensory processing, homeostatic regulation, gustatory experiences, and the integration of interoceptive information.

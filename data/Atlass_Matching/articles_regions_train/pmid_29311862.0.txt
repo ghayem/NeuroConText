@@ -1,0 +1,23 @@
+## The brain regions:
+
+1. **Parahippocampal Cortex (PHC)**
+
+2. **Retrosplenial Cortex (RSC)**
+   - Brodmann Areas (BA 29 and 30)
+
+3. **Lateral Occipital Cortex**
+
+4. **Inferior Parietal Lobule**
+   - Inferior Parietal Lobe (IPL)
+
+5. **Frontal Cortex**
+
+6. **Parietal Cortex**
+
+7. **Fusiform Gyrus**
+
+8. **Precuneus**
+
+9. **Cerebellum**
+
+- These regions are involved in these cognitive functions: object recognition, context processing, episodic memory, spatial processing, and autobiographical memory.

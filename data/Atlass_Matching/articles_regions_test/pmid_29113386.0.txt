@@ -1,0 +1,24 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Cerebellum**
+   - Posterior lobe of the cerebellum
+   - Anterior lobe of the cerebellum
+
+2. **Frontal Lobe**
+   - Right orbitofrontal area
+   - Left dorsolateral prefrontal cortex
+
+3. **Temporal Lobe**
+   - Right middle temporal gyrus
+   - Right superior temporal gyrus
+
+4. **Parietal Lobe**
+   - Right subcentral area (between the insula and post/precentral gyrus)
+   - Precentral gyrus
+
+5. **White Matter (WM) Structures**
+   - Fornix
+   - Left superior fronto-occipital fasciculus (SFOF)
+   - Right superior fronto-occipital fasciculus (SFOF)
+
+These regions are involved in various cognitive functions, including memory, attention, executive function, and visuospatial abilities.

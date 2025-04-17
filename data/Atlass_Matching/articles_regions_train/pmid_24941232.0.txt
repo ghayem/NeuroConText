@@ -1,0 +1,41 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex (FC)**
+
+2. **Hippocampus (HP)**
+   - Parahippocampal gyrus
+
+3. **Temporal Cortex (TC)**
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+
+4. **Amygdala (A)**
+
+5. **Striatum (ST)**
+   - Caudate
+   - Putamen
+
+6. **Hypothalamus (HY)**
+
+7. **Thalamus (TH)**
+   - Posterior thalamus
+
+8. **Midbrain (MB)**
+
+9. **Cerebellum (CB)**
+   - Cerebellar vermis
+
+10. **Pontine nuclei (PN)**
+
+11. **Medulla (MD)**
+
+12. **Cingulate**
+    - Cingulate gyrus
+
+13. **Parietal Cortex**
+
+14. **Insula (IN)**
+
+15. **Lingual gyrus (L)**
+
+These regions are involved in various cognitive and emotional functions, as well as the pathophysiology of bipolar disorder.

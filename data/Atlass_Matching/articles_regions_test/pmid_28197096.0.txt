@@ -1,0 +1,28 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebellum**
+    - Cerebellar culmen
+
+2. **Frontal Cortex**
+    - Left superior frontal gyrus
+
+3. **Parietal Cortex**
+    - Precuneus
+    - Left postcentral gyrus
+
+4. **Sensorimotor Cortex**
+    - Precentral gyrus
+
+5. **Temporal Cortex**
+    - Right inferior temporal gyrus
+
+6. **Occipital Cortex**
+    - Bilateral lingual gyrus
+
+7. **Insular Cortex**
+    - Right insula
+
+8. **Posterior Cingulate Cortex (PCC)**
+    - Right posterior cingulate cortex
+
+These regions are involved in various cognitive functions, including motor coordination, executive functions, visual-spatial perception, memory, language processing, and sensory processing.

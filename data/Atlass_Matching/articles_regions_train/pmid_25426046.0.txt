@@ -1,0 +1,35 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Orbitofrontal cortex (OFC)**
+
+2. **Amygdala**
+
+3. **Inferior temporal cortex**
+   - Fusiform gyrus (Fusi)
+   - Lateral occipital complex (LOC)
+
+4. **Posterior hippocampus (pHipp)**
+
+5. **Inferior/middle frontal gyri (I/MFG)**
+
+6. **Basal ganglia**
+   - Head of caudate
+   - Putamen
+   - Tail of caudate
+
+7. **Cerebellum**
+   - Crus I
+   - Crus II
+
+8. **Anterior superior temporal sulcus (aSTS)**
+
+9. **Superior frontal gyrus (SFG)**
+
+10. **Anterior cingulate cortex/medial prefrontal cortex (ACC/mPFC)**
+
+11. **Posterior cingulate cortex/precuneus (PCC)**
+
+12. **Medial orbito-frontal cortex (mOFC)**
+   - Field A1 of mOFC
+
+These regions are involved in various cognitive and emotional functions, as discussed in the article.

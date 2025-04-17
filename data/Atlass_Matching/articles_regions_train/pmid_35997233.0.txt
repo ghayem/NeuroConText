@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Premotor Cortex**
+   - Left premotor cortex
+   - Ventral premotor cortex
+   - Dorsal premotor cortex
+   - Ventrolateral premotor cortex
+
+2. **Parietal Cortex**
+   - Posterior parietal regions
+   - Superior parietal lobuli
+   - Inferior parietal cortex
+   - Posterior parietal areas (including BA 7 and 40)
+   - Precuneus
+
+3. **Frontal Cortex**
+   - Inferior frontal gyrus
+   - Posterior medial frontal cortex (rostral to pre-SMA)
+   - Prefrontal regions
+
+4. **Temporal Cortex**
+   - Lateral occipito-temporal cortex (LOTc)
+   - Posterior part of the middle temporal (MT) gyrus (BA 37)
+   - Anterior part of the middle occipital gyrus (BA 19)
+   - Posterior part of the superior temporal sulcus
+
+5. **Occipital Cortex**
+   - Lateral occipito-temporal cortex (LOTc)
+   - Anterior part of the middle occipital gyrus (BA 19)
+   - Visual cortices
+
+6. **Other Specific Regions**
+   - Mirror neurons
+   - Action Observation Network (AON)
+   - Extrastriate body area
+   - Human MT complex
+
+These regions are involved in various cognitive and motor functions, including action observation, motor imagery, action execution, and visuo-motor processing.

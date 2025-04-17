@@ -1,0 +1,27 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Sensorimotor Cortices**
+   - **Primary Sensorimotor Regions**
+
+2. **Motor Cortex**
+   - **Primary Motor Cortex**
+     - Pre-central gyrus
+   - **Secondary Motor Cortex**
+
+3. **Sensory Cortex**
+   - **Primary Sensory Cortex**
+     - Post-central sulcus
+
+4. **Frontal Cortex**
+   - **Prefrontal Cortex**
+
+5. **Parietal Cortex**
+   - **Posterior Parietal Cortex**
+
+6. **Occipital Cortex**
+   - **Visual Cortex**
+
+7. **Temporal Cortex**
+   - **Superior Temporal Cortex**
+
+These regions are involved in various cognitive and motor functions, including sensory processing, motor control, and higher-order cognitive functions.

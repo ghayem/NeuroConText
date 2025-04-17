@@ -1,0 +1,48 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Middle Temporal Area (MT+/V5)**
+
+2. **Parieto-Insular Vestibular Cortex (PIVC)**
+
+3. **Frontal Region**
+
+4. **Parietal Region**
+   - Left parietal operculum (OP1)
+   - Right parietal operculum (OP2)
+
+5. **Occipital Region**
+
+6. **Left, Middle, and Superior Temporal Lobes**
+   - Brodmann area 41 (BA41, primary auditory cortex)
+   - Brodmann area 22 (BA22, Wernicke's area)
+
+7. **Left Insular Cortex**
+
+8. **Left and Right Occipital Cortices (Cuneus)**
+   - Brodmann areas 17 (primary visual cortex)
+   - Brodmann areas 18 (secondary visual cortex)
+
+9. **Posterior Cingulate Cortex**
+
+10. **Right Insula**
+
+11. **Temporal Cortex**
+
+12. **Precuneus**
+
+13. **Posterior Cingulate Cortex**
+
+14. **Left Angular Gyrus**
+
+15. **Right Inferior Parietal Lobe**
+   - Brodmann area 40 (BA40)
+
+16. **Right, Middle, and Superior Frontal Gyri**
+
+17. **Right Insula**
+   - Brodmann area 13 (BA13)
+
+18. **Medial Temporal Area**
+   - V5 (MT+)
+
+These regions are involved in various cognitive functions, including sensory processing, attention, and cognitive control, which are relevant to understanding cybersickness and its neural correlates.

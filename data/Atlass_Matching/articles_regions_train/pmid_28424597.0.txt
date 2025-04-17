@@ -1,0 +1,102 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Cortical Areas**
+   - Frontal lobes
+   - Frontal areas (bilateral)
+   - Parietal areas (bilateral)
+   - Superior temporal lobe (bilateral)
+   - Superior occipital gyrus
+   - Right calcarine
+   - Bilateral fusiform gyrus
+   - Bilateral inferior supramarginal gyrus
+   - Superior hemispheres of the cerebellum (bilateral)
+   - Right inferior cerebellar hemisphere
+   - Left inferior parietal lobe
+   - Posterior cortical areas
+   - Inferior parietal cortex
+   - Angular gyrus
+   - Motor areas
+   - Inferior frontal areas
+   - Subcortical areas
+   - Middle frontal areas (both hemispheres)
+   - Left hemispheric inferior frontal area
+   - Mid frontal areas (Supplementary Motor Area)
+   - Premotor areas
+   - Middle frontal gyri (bilateral)
+   - Right superior frontal gyrus
+   - Posterior parietal cortex
+   - Prefrontal cortex (PFC)
+   - Inferior parietal cortex
+   - Inferior frontal cortex
+   - Subcortical areas
+   - Posterior parietal cortices
+   - Anterior cingulate
+   - Cuneus
+
+2. **White Matter Tracts**
+   - White matter tracts
+   - Right internal capsule
+   - Right posterior arcuate segments
+   - Right anterior arcuate segments
+   - Anterior corpus callosum
+   - Posterior corpus callosum
+   - Right corticospinal tract
+   - Cerebral peduncles
+   - Cerebellar peduncles
+
+3. **Subcortical Structures**
+   - Striatum
+   - Thalamus
+   - Anterior cingulate
+   - Cuneus
+   - Caudate nucleus
+   - Putamen
+   - Subthalamic nucleus (STN)
+   - Globus pallidus (GP)
+   - Pontine nuclei (PN)
+   - Dentate nucleus (DN)
+
+4. **Cerebellum**
+   - Cerebellum
+   - Left cerebellum (LCb)
+   - Right inferior cerebellar hemisphere
+   - Superior hemispheres of the cerebellum (bilateral)
+
+5. **Brainstem**
+   - Brainstem
+
+6. **Other Structures**
+   - Hippocampus
+   - Broca's area
+
+## Cognitive Functions Involved:
+- Working memory (WM)
+- Language
+- Executive control
+- Episodic memory
+- Problem-solving
+- Processing speed
+- Attention
+- Planning
+- Response inhibition
+- Sustained attention
+- Cognitive stability
+- Cognitive flexibility
+- Cognitive control
+- Executive function
+- Memory capacity
+- Information manipulation
+- Information maintenance
+- Spatial information
+- Verbal WM tasks
+- Spatial/visual WM tasks
+- Cognitive flexibility
+- Cognitive stability
+- Error adjustment
+- Timing monitoring/adjustment
+- Serial ordering of information
+- Error-prediction
+- Feedforward and feedback loops
+- Decision-making
+
+These regions and sub-regions are involved in a wide range of cognitive functions, including working memory, language, executive functions, attention, and more. The article discusses how these areas are affected by traumatic brain injury (TBI) and how they respond to cognitive enhancers like methylphenidate (MPh).

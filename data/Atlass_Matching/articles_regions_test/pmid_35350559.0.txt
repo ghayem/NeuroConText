@@ -1,0 +1,56 @@
+1. **Medial Temporal Lobe**
+
+2. **Dorsal Visual Pathway**
+
+3. **Lateral Geniculate Nucleus**
+
+4. **Superior Lateral Occipital Cortices**
+
+5. **Right Posterior Inferior Temporal Cortex**
+
+6. **Right Premotor Cortex**
+
+7. **Cerebellum**
+    - Right cerebellum_8
+
+8. **Sensorimotor Cortex**
+    - Postcentral gyrus
+    - Bilateral postcentral gyrus
+
+9. **Auditory Cortex**
+    - Right superior temporal gyrus
+
+10. **Visual Cortex**
+    - Right middle occipital gyrus
+    - Primary visual cortex
+    - Left cingulate gyrus
+    - Bilateral precuneus
+    - Left angular gyrus
+    - Right occipital lobe/cuneus
+
+11. **Left Executive Control Network (LECN)**
+
+12. **Dorsal Attention Network (DAN)**
+
+13. **Cerebellum Network (CER)**
+
+14. **Right Executive Control Network (RECN)**
+
+15. **Visual Network (VN)**
+    - Visual Network1 (VN1)
+    - Visual Network2 (VN2)
+    - Visual Network3 (VN3)
+    - Visual Network4 (VN4)
+
+16. **Default Mode Network (DMN)**
+    - Default Mode Network1 (DMN1)
+    - Default Mode Network2 (DMN2)
+    - Default Mode Network3 (DMN3)
+
+17. **Salience Network (SN)**
+
+18. **Sensorimotor Network (SMN)**
+
+19. **Auditory Network (AN)**
+
+These regions are involved in various cognitive functions including stereoscopic vision, binocular vision fusion, depth perception, eye movement control, sensorimotor integration, and auditory processing.

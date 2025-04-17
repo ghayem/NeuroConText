@@ -1,0 +1,78 @@
+1. **Dorsal root ganglia**
+
+2. **Spinal cord**
+
+3. **Dorsal medulla**
+
+4. **Cerebellum**
+   - Dentate nuclei
+   - Cerebellar white matter
+   - Posterior cerebellar lobules (VI, VII)
+     - Lobule VI
+     - Crus I (VIIa)
+     - Crus II (VIIa)
+     - Lobule VIIb
+
+5. **Left prefrontal areas**
+   - Brodmann area (BA) 44
+   - BA45
+
+6. **Temporal lobes**
+   - Left
+   - Right
+
+7. **Anterior cingulate cortex (ACC)**
+
+8. **Primary motor cortex (M1)**
+   - 4a/4p
+
+9. **Insula**
+   - Anterior insula
+
+10. **Precentral gyrus**
+
+11. **Premotor cortex**
+
+12. **Supplementary motor area**
+
+13. **Anterior mid-cingulate cortex**
+
+14. **Middle occipital gyrus**
+
+15. **Ventral posterior cingulate cortex**
+
+16. **Inferior parietal lobe**
+
+17. **Superior cerebellar peduncle (SCP)**
+
+18. **Inferior cerebellar peduncle (ICP)**
+
+19. **Midbrain**
+
+20. **Corticospinal tract**
+
+21. **Cerebral peduncles**
+
+22. **Fornix**
+
+23. **Posterior thalamic radiation**
+
+24. **Corpus callosum**
+   - Splenium
+   - Body
+   - Genu
+
+25. **Internal capsule**
+
+26. **Corona radiata**
+   - Posterior
+
+27. **Forceps major**
+
+28. **Inferior longitudinal fasciculus**
+
+29. **Fronto-occipital fasciculus**
+
+30. **Left hippocampal cingulum**
+
+These regions are involved in various cognitive functions, including motor control, language processing, executive functions, and higher cognitive functions.

@@ -1,0 +1,65 @@
+## Brain Regions and Sub-regions:
+
+1. **Cortical Midline Structures**
+    - Medial prefrontal cortex (MPFC)
+    - Posterior cingulate cortex (PCC)
+    - Precuneus (Prec)
+
+2. **Default Mode Network (DMN)**
+    - Medial prefrontal cortex (MPFC)
+    - Posterior cingulate cortex/precuneus (PCC/Prec)
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+4. **Precuneus**
+    - Left precuneus
+
+5. **Temporoparietal Junction (TPJ)**
+    - Right temporoparietal junction (RTPJ)
+
+6. **Intraparietal Sulcus (IPS)**
+    - Left intraparietal sulcus (LIPS)
+
+7. **Fusiform and Inferior Temporal Area**
+    - Bilateral fusiform
+    - Bilateral inferior temporal area
+
+8. **Middle Frontal Region**
+    - Bilateral middle frontal region
+
+9. **Middle Cingulate Region**
+    - Left middle cingulate region
+
+10. **Medial Frontal Region**
+    - Left medial frontal region
+
+11. **Temporal Pole**
+    - Right temporal pole
+
+12. **Thalamus**
+    - Right thalamus
+
+13. **Calcarine Region**
+    - Right calcarine region
+
+14. **Precentral Region**
+    - Right precentral region
+
+15. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+16. **Temporal Pole**
+
+17. **Inferior Parietal Lobule**
+
+18. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+19. **Paracentral Lobule**
+
+20. **Supplementary Motor Area (SMA)**
+
+21. **Subgenual Anterior Cingulate Cortex (sgACC)**
+
+22. **Middle and Inferior Frontal Gyrus**
+    - Right middle and inferior frontal gyrus
+
+These regions are involved in various cognitive functions, including self-referential thinking, rumination, attention, social cognition, and memory.

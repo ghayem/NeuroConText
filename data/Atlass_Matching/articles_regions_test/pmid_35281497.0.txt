@@ -1,0 +1,76 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Occipital Lobe**
+   - No specific sub-regions mentioned.
+
+2. **Parietal Lobe**
+   - No specific sub-regions mentioned.
+
+3. **Postcentral Gyrus (PoCG)**
+   - Left Postcentral Gyrus (PoCG.L)
+   - Right Postcentral Gyrus (PoCG.R)
+
+4. **Paracentral Lobule (PCL)**
+   - Left Paracentral Lobule (PCL.L)
+   - Right Paracentral Lobule (PCL.R)
+
+5. **Insula (INS)**
+   - Left Insula (INS.L)
+   - Right Insula (INS.R)
+
+6. **Middle Cingulate Cortex (MCC)**
+   - Left Middle Cingulate Cortex (MCC.L)
+   - Right Middle Cingulate Cortex (MCC.R)
+
+7. **Superior Frontal Gyrus, Dorsolateral Part (SFGdor)**
+   - Left Superior Frontal Gyrus, Dorsolateral Part (SFGdor.L)
+   - Right Superior Frontal Gyrus, Dorsolateral Part (SFGdor.R)
+
+8. **Calcarine Cortex (CAL)**
+   - Left Calcarine Cortex (CAL.L)
+   - Right Calcarine Cortex (CAL.R)
+
+9. **Thalamus (THA)**
+   - Right Thalamus (THA.R)
+
+10. **Middle Temporal Gyrus (MTG)**
+    - Left Middle Temporal Gyrus (MTG.L)
+    - Right Middle Temporal Gyrus (MTG.R)
+
+11. **Inferior Temporal Gyrus (ITG)**
+    - Left Inferior Temporal Gyrus (ITG.L)
+    - Right Inferior Temporal Gyrus (ITG.R)
+
+12. **Lingual Gyrus (LING)**
+    - Left Lingual Gyrus (LING.L)
+    - Right Lingual Gyrus (LING.R)
+
+13. **Orbital Part of the Middle Frontal Gyrus (MFGorb)**
+    - Left Orbital Part of the Middle Frontal Gyrus (MFGorb.L)
+    - Right Orbital Part of the Middle Frontal Gyrus (MFGorb.R)
+
+14. **Superior Temporal Gyrus, Posterior Part (STGp)**
+    - Right Superior Temporal Gyrus, Posterior Part (STGp.R)
+
+15. **Dorsolateral Prefrontal Cortex**
+    - No specific sub-regions mentioned.
+
+16. **Frontoparietal Network**
+    - No specific sub-regions mentioned.
+
+17. **Executive Control Network**
+    - No specific sub-regions mentioned.
+
+18. **Salience Network**
+    - No specific sub-regions mentioned.
+
+19. **Default Mode Network**
+    - No specific sub-regions mentioned.
+
+20. **Cingulate Cortex**
+    - No specific sub-regions mentioned.
+
+21. **Solitary Nucleus**
+    - No specific sub-regions mentioned.
+
+These regions are involved in various cognitive functions, including emotion, cognition, visceral sensation, and psychological processes.

@@ -1,0 +1,34 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Default Mode Network (DMN)**
+   - Postcentral gyrus
+   - Superior parietal lobule
+
+2. **Salience Network (SN)**
+   - Left supramarginal gyrus
+   - Right supramarginal gyrus
+   - Postcentral gyrus
+   - Brain stem
+   - Precuneus cortex
+   - Intracalcarine cortex
+   - Cerebellum
+   - Supracalcarine cortex
+
+3. **Language Network**
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Lateral occipital cortex
+
+4. **Frontoparietal Network**
+   - Middle frontal gyrus
+   - Precentral gyrus
+
+5. **Other Regions**
+   - Left supramarginal gyrus
+   - Superior parietal lobule
+   - Frontal network
+   - Anterior cingulate cortex
+   - Anterior insula (left/right)
+   - Rostral prefrontal cortex (left/right)
+
+These regions are involved in various cognitive functions, including emotional regulation, stress response, and cognitive processing.

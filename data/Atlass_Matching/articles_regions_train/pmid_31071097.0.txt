@@ -1,0 +1,64 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Superior Temporal Cortex**
+   - Superior temporal auditory cortex
+   - Superior temporal gyrus (STG)
+     - Left STG
+     - Right STG
+   - Superior temporal
+
+2. **Frontal Cortex**
+   - Inferior frontal cortex
+     - Right inferior frontal cortex
+   - Mid-ventrolateral prefrontal cortex
+   - Inferior frontal gyrus (IFG)
+     - Left IFG
+   - Frontal lobe
+     - Right frontal lobe
+
+3. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+     - Left ACC
+     - Right ACC
+   - Middle cingulate cortex
+   - Posterior cingulate
+     - Left posterior cingulate
+
+4. **Temporal Cortex**
+   - Inferior temporal gyrus
+     - Right inferior temporal gyrus
+   - Middle temporal gyrus (MTG)
+     - Left MTG
+   - Temporal lobe
+
+5. **Parietal Cortex**
+   - Inferior parietal lobule
+     - Left inferior parietal lobule
+
+6. **Limbic System**
+   - Insula
+     - Right insula
+   - Parahippocampal gyrus
+     - Right parahippocampal gyrus
+   - Hippocampus
+
+7. **Occipital Cortex**
+   - Temporo-parieto-occipital junction (TPO)
+
+8. **Other Regions**
+   - Neostriatum
+   - Primary auditory cortex
+   - Secondary auditory areas
+   - Heschl’s gyrus (HSC)
+     - Left HSC
+   - Precentral gyrus
+     - Right precentral gyrus
+   - Postcentral gyrus
+     - Right postcentral gyrus
+   - Corpus callosum
+   - Corona radiata
+   - Planum temporale (PT)
+   - White matter
+   - Gray matter
+
+These regions are involved in various cognitive functions, including auditory processing, mismatch negativity (MMN) generation, attention, emotion processing, and higher-order cognitive and psychosocial functioning.

@@ -1,0 +1,30 @@
+## The brain regions:
+
+1. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Fusiform gyrus
+   - Entorhinal cortex
+
+2. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus (PCU)
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Lateral parietal lobe
+   - Angular gyrus
+   - Inferior parietal lobe
+   - Visual cortex
+
+3. **Occipital Cortex**
+   - Superior occipital gyrus (SOG)
+   - Cuneus (CUN)
+
+4. **Frontal Cortex**
+   - Orbitofrontal cortices
+
+5. **Other Regions**
+   - Left temporal pole (middle) (TPOmid)
+   - Middle occipital gyrus
+   - Geniculate nucleus
+
+   - These regions are involved in these cognitive functions: episodic memory, visual memory, visuospatial perception, and other complex cognitive functions.

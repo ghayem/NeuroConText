@@ -1,0 +1,49 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Superior Temporal Gyrus**
+   - Bilateral superior temporal gyrus (BA41, 22)
+
+2. **Frontal Lobe**
+   - Left middle frontal gyrus (BA48, BA46)
+   - Left inferior frontal gyrus (BA47, BA44)
+   - Right precentral gyrus (BA6)
+   - Right middle frontal gyrus (BA47, BA48)
+   - Right inferior frontal gyrus (BA47, BA45)
+   - Left medial frontal gyrus (BA32, BA9)
+   - Right inferior frontal gyrus (BA47)
+
+3. **Parietal Lobe**
+   - Left angular gyrus (BA39)
+   - Left inferior parietal lobule (BA7)
+   - Left supramarginal gyrus (BA40)
+
+4. **Cerebellum**
+   - Bilateral cerebellum
+   - Right cerebellum
+
+5. **Basal Ganglia**
+   - Left caudate nucleus
+   - Right pallidum
+
+6. **Cingulate Gyrus**
+   - Cingulate gyrus
+
+7. **Occipital Lobe**
+   - Right fusiform gyrus (BA37)
+
+8. **Temporal Lobe**
+   - Right para-hippocampal gyrus (BA36)
+
+9. **Other Midline Structures**
+   - Medial frontal gyrus
+   - Precuneus
+   - Posterior cingulate gyrus
+   - Temporoparietal junctions
+
+10. **Other Regions**
+    - Periventricular area
+    - Broca area
+    - Opercularis inferior frontal gyrus
+    - Precentral gyrus
+
+These regions are involved in various cognitive functions, including language processing, semantic integration, emotional processing, self-related processing, auditory processing, and visual processing.

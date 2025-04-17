@@ -1,0 +1,44 @@
+## Brain regions and sub-regions mentioned in the article:
+
+1. **Extrastriate body area (EBA)**
+2. **Fusiform body area (FBA)**
+3. **Medial prefrontal cortex (mPFC)**
+   - Ventral mPFC
+   - Dorsal mPFC
+4. **Anterior cingulate cortex**
+   - Ventral anterior cingulate cortex
+   - Dorsal anterior cingulate cortex
+5. **Anterior insula**
+6. **Right precuneus**
+7. **Left fusiform gyrus**
+8. **Inferior parietal lobule**
+9. **Ventrolateral prefrontal cortex**
+10. **Precentral gyrus**
+11. **Right temporoparietal junction**
+12. **Amygdala**
+13. **Caudate nucleus**
+14. **Left parietal lobe**
+15. **Superior temporal gyrus**
+16. **Thalamus**
+17. **Middle temporal gyrus**
+18. **Inferior temporal gyrus**
+19. **Supplementary motor area (SMA)**
+20. **Dorsomedial prefrontal cortex (dmPFC)**
+21. **Superior parietal lobule**
+22. **Middle occipital gyrus**
+23. **Frontal eye fields**
+24. **Parietal lobes**
+25. **Ventral visual pathway**
+   - Occipital cortex
+   - Temporal cortex
+26. **Fusiform face area (FFA)**
+27. **Right primary and secondary visual cortices**
+   - V1
+   - V2
+28. **Right fusiform gyrus (FUS)**
+29. **Occipital face area**
+30. **Temporal sulcus**
+31. **Superior frontal gyrus**
+32. **Left dmPFC**
+
+These regions are involved in various cognitive functions such as self-recognition, body and face perception, self-referential judgments, and social perception.

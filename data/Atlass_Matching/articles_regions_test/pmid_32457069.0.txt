@@ -1,0 +1,35 @@
+## The brain regions:
+
+1. **Amygdala**
+
+2. **Hypothalamus**
+
+3. **Ventromedial prefrontal cortex (vmPFC)**
+
+4. **Anterior cingulate cortex (ACC)**
+
+5. **Precuneus**
+
+6. **Occipital pole**
+
+7. **Primary visual cortex (V1)**
+
+8. **Ventromedial prefrontal cortex (vmPFC)**
+
+9. **Middle frontal gyrus**
+
+10. **Dorsolateral prefrontal cortex (dlPFC)**
+
+11. **Orbitofrontal cortex**
+
+12. **Basolateral amygdala (BLA)**
+
+13. **Posterior BLA**
+
+14. **Anterior BLA**
+
+15. **Dorsal striatum**
+
+16. **Hippocampus**
+
+- These regions are involved in these cognitive functions: emotional processing, memory, reward processing, decision-making, and sensory integration.

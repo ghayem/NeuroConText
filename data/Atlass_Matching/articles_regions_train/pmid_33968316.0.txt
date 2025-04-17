@@ -1,0 +1,19 @@
+## Brain Regions and Sub-regions:
+
+1. **Hippocampus**
+2. **Medial Prefrontal Cortex (mPFC)**
+3. **Amygdala**
+4. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+5. **Cerebellum**
+   - Right cerebellum
+6. **Middle Frontal Gyrus (MFG)**
+   - Left middle frontal gyrus
+   - Right middle frontal gyrus
+7. **Inferior Frontal Gyrus (IFG)**
+   - Left inferior frontal gyrus (pars opercularis)
+   - Left inferior frontal gyrus (pars triangularis)
+8. **Insula**
+   - Left insula
+
+These regions are involved in cognitive functions such as emotional regulation, memory, stress response, and executive functions.

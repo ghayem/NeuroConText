@@ -1,0 +1,43 @@
+## Brain Regions and Sub-Regions:
+
+1. **Caudate**
+2. **Putamen**
+3. **Pallidum**
+4. **Frontal inferior triangular gyrus**
+5. **Precentral gyrus**
+6. **Thalamus**
+    - Left thalamus
+    - Right thalamus
+7. **Frontal lobe**
+    - Frontal inferior triangular gyrus
+    - Precentral gyrus
+8. **Striatum**
+    - Caudate
+    - Putamen
+    - Pallidum
+9. **Right precentral/middle frontal gyrus/inferior frontal gyrus/inferior triangular gyrus**
+10. **Deep gray matter (DGM)**
+    - Basal ganglia
+    - Thalamus
+11. **Bilateral caudate/putamen/pallidum**
+12. **Right frontal inferior triangular gyrus**
+13. **Right precentral**
+14. **Frontal cortex**
+    - Frontal inferior triangular gyrus
+    - Precentral gyrus
+15. **Cerebral small vessel disease (CSVD)**
+    - Periventricular hyperintensity (PVH)
+    - Deep white matter hyperintensity (DWMH) lesions
+16. **Motor system**
+    - Frontal cortex
+    - Striatum
+    - Thalamus
+17. **Cognitive processing pathways**
+    - Frontal cortex
+    - Striatum
+    - Thalamus
+18. **Caudate head**
+19. **Dorso-medial part of the thalamus**
+20. **Cingulum (hippocampus)**
+
+- These regions are involved in these cognitive functions: motor control and learning, language, cognitive functioning, addiction, awareness and sensory, motor, and cognitive functions, memory, executive functions, working memory, attention, cognitive flexibility, and impulse control.

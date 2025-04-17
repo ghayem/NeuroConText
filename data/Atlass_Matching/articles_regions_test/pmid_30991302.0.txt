@@ -1,0 +1,54 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Inferior temporal gyrus**
+
+2. **Dorsal anterior cingulate cortex**
+
+3. **Cuneus**
+
+4. **Basal forebrain cholinergic nuclei (BFCN)**
+
+5. **Inferior superior temporal cortex**
+
+6. **Precuneus**
+
+7. **Posterior cingulate gyrus**
+
+8. **Hippocampus**
+    - Right hippocampus
+    - Left hippocampus
+
+9. **Bilateral insula**
+
+10. **Posterior cingulate cortex**
+
+11. **Inferior parietal cortex**
+
+12. **Entorhinal cortex**
+
+13. **Superior frontal cortex**
+
+14. **Cerebellum**
+    - Lobule 8
+
+15. **Lateral orbitofrontal cortex**
+
+16. **Medial orbitofrontal cortex**
+
+17. **Precentral gyrus**
+
+18. **Caudate nucleus**
+
+19. **Middle orbital gyrus**
+
+20. **Postcentral gyrus**
+
+21. **Superior frontal cortex**
+
+22. **Middle cingulate gyrus**
+
+23. **Prefrontal cortex**
+
+24. **Medial temporal lobe**
+
+These regions are involved in various cognitive functions, including episodic memory (EM) and executive functions (EFs).

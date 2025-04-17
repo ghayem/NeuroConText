@@ -1,0 +1,41 @@
+Sure, here are the brain regions and sub-regions mentioned in the article, formatted as requested:
+
+1. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus (PCu)
+   - Inferior parietal lobe (IPL)
+   - Left and right angular gyrus
+   - Left and right medial frontal gyrus
+   - Cingulate gyrus
+   - Left and right para-hippocampal gyrus
+
+2. **Central Executive Network (CEN)**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Posterior parietal cortex (PPC)
+   - Multiple medial-frontal regions
+   - Anterior cingulate cortex (ACG)
+   - Paracallosal cingulate
+   - Right precentral gyrus
+   - Right middle frontal gyrus
+   - Right inferior parietal lobule
+   - Suprafrontal gyrus (SFGmed.L)
+   - Middle frontal gyrus (MFG.L)
+
+3. **Salient Network (SN)**
+   - Ventral lateral prefrontal cortex (VLPFC)
+   - Anterior cingulate cortex (ACC)
+   - Left and right insula
+   - Left and right middle frontal gyrus
+   - Left cingulate gyrus
+
+4. **Other Regions**
+   - Hippocampal circuits
+   - Cortical neurons
+   - Subcortical regions
+   - Auditory network
+   - Sensorimotor network
+   - Bilateral angular gyrus (AG)
+   - Right middle frontal gyrus
+   - Superior frontal gyrus
+
+These regions are involved in various cognitive functions, including but not limited to: situational memory, visuospatial processing, consciousness, working memory, decision-making, retention, operational target detection, language, and executive functions.

@@ -1,0 +1,58 @@
+## The brain regions:
+
+1. **Cerebral Cortex**
+    - **Primary Motor Cortex (M1)**
+    - **Primary Somatosensory Cortex (S1)**
+    - **Premotor Cortex (PM)**
+    - **Superior Parietal Lobule (SPL)**
+    - **Intraparietal Sulcus (IPS)**
+    - **Sensorimotor Cortex**
+        - Brodmann Area 1 (BA1)
+        - Brodmann Area 4a (BA4a)
+        - Brodmann Area 6 (BA6)
+    - **Insular Cortex (Insula Id1)**
+    - **Inferior Parietal Lobule (PFop, PFcm, PFm)**
+    - **Opercular Cortex (Parietal Operculum OP3)**
+    - **Visual Cortex**
+        - Brodmann Area 17 (BA17)
+        - Brodmann Area 18 (BA18)
+    - **Intra-parietal Sulcus (hIP2)**
+    - **Broca’s Area (BA44)**
+
+2. **Cerebellum**
+    - **Regions I–IV**
+    - **Region VI**
+    - **Region VIIIa**
+    - **Crus I**
+    - **Crus II**
+
+3. **Subcortical Structures**
+    - **Thalamus**
+    - **Putamen**
+    - **Caudate Nucleus**
+    - **Basal Ganglia**
+    - **Midbrain**
+    - **Pons**
+    - **Medulla**
+        - Ventral Medullary Reticular Nucleus
+        - Dorsal Medullary Reticular Nucleus
+    - **Periaqueductal Gray Substance**
+    - **Raphe Nuclei**
+    - **Reticular Formation (RF)**
+        - Medial Tract
+        - Lateral Tract
+    - **Pontine Nucleus**
+    - **Medial Lemniscus**
+
+4. **Brainstem**
+    - **Medullary Reticular Formation**
+    - **Pontomedullary Reticular Formation**
+    - **Parieto-occipito-temporo-pontine (cortico-reticular) Pathway**
+
+5. **White Matter Tracts**
+    - **Corticospinal Tract (CST)**
+    - **Reticulospinal Tract (RST)**
+        - Medial Reticulospinal Tract
+        - Lateral Reticulospinal Tract
+
+- These regions are involved in these cognitive and motor functions: motor control, sensory processing, motor initiation, postural maintenance, sensory-motor integration, and the modulation of reflexes.

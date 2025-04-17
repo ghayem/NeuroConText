@@ -1,0 +1,54 @@
+## Brain Regions and Sub-regions:
+
+1. **Striatum**
+    - Neostriatum
+        - Caudate
+        - Putamen
+    - Paleostriatum
+        - Pallidum
+
+2. **Thalamus**
+
+3. **Supplementary Motor Area (SMA)**
+    - Bilateral SMA
+
+4. **Medial and Paracingulate Gyrus**
+    - Bilateral medial and paracingulate gyrus
+
+5. **Paracentral Lobule**
+    - Left paracentral lobule
+
+6. **Medial Superior Frontal Gyrus**
+    - Left medial superior frontal gyrus
+
+7. **Anterior Cingulate Gyrus**
+    - Left anterior cingulate gyrus
+
+8. **Lingual Gyrus**
+    - Left lingual gyrus
+
+9. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+10. **Middle Temporal Gyrus**
+    - Left middle temporal gyrus
+
+11. **Superior Temporal Gyrus**
+    - Left superior temporal gyrus
+
+12. **Angular Gyrus**
+    - Left angular gyrus
+
+13. **Default Mode Network**
+
+14. **Salience Network**
+
+15. **Fronto-Parietal Network**
+
+16. **Corticostriatal Circuitry**
+
+17. **White Matter**
+
+18. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in various cognitive functions, including attention, motor control, executive functions, and emotional processing.

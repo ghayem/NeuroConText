@@ -1,0 +1,102 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Brainstem**
+
+2. **Substantia Nigra**
+
+3. **Striatum**
+    - Putamen
+    - Caudate nucleus
+    - Nucleus accumbens
+
+4. **Cerebellum**
+    - Lobule IX
+    - Adjacent vermis
+    - Crus I
+    - Crus II
+    - Lobule VIIb
+    - Lobule VIIa
+    - Lobule VI
+    - Lobule V
+    - Lobule IV
+    - Lobule VIIIa
+    - Lobule VIIIb
+    - Lobule X
+
+5. **Frontoparietal Networks (FPN)**
+    - Left FPN
+    - Right FPN
+
+6. **Sensorimotor Network**
+
+7. **Dorsal Attention Network (DAN)**
+
+8. **Salience Network**
+
+9. **Default Mode Network (DMN)**
+
+10. **Visual Network**
+
+11. **Striatonigral Region**
+
+12. **Olivopontocerebellar Region**
+
+13. **Limbic Striatum**
+    - Left limbic
+    - Right limbic
+
+14. **Executive Striatum**
+    - Left executive
+    - Right executive
+
+15. **Sensorimotor Striatum**
+    - Left sensorimotor
+    - Right sensorimotor
+
+16. **Cerebral Cortex**
+
+17. **Subcallosal Cortex**
+
+18. **Subthalamic Nucleus**
+
+19. **Dentate Nucleus**
+
+20. **Internal Globus Pallidus**
+
+21. **Thalamus**
+
+22. **Pontine Nuclei**
+
+23. **Prefrontal Cortex**
+
+24. **Precentral Gyri**
+
+25. **Insulae**
+
+26. **Anterior Cingulate Cortex**
+
+27. **Lateral and Medial Temporo-Occipital Cortex**
+
+28. **Superior Temporal Lobules**
+
+29. **Angular Gyri**
+
+30. **Basal Temporal Regions**
+
+31. **Orbitofrontal Cortex**
+
+32. **Temporal Pole**
+
+33. **Inferior Lateral Occipital Cortex**
+
+34. **Left Supramarginal Gyrus**
+
+35. **Right Anterior Insula**
+
+36. **Paracentral Lobule**
+
+37. **Inferior Parietal Lobe**
+
+38. **Posterior Cingulate Cortex**
+
+These regions are involved in motor, cognitive, and emotional functions, and their connectivity patterns are crucial for understanding the pathophysiology of neurodegenerative diseases such as Parkinson's disease (PD) and multiple system atrophy (MSA).

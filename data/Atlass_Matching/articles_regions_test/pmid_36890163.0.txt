@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions:
+
+1. **Spinal Cord**
+
+2. **Subcortical Regions**
+   - Basal ganglia
+
+3. **Cortical Regions**
+   - Sensorimotor cortex
+   - Frontoparietal cortex
+   - Anterior cingulate cortex
+   - Hippocampus
+   - Temporal cortex
+   - Frontal cortex
+   - Sensorimotor cortex
+   - Parietal cortex
+   - Posterior parietal cortex
+   - Prefrontal cortex
+   - Superior frontal gyrus
+   - Insula
+   - Superior temporal gyrus
+   - Transverse temporal gyrus
+   - Postcentral gyrus
+   - Precentral gyrus
+   - Supramarginal gyrus
+   - Pars opercularis
+   - Cerebellum
+     - Lobule V
+     - Lobule VIIB
+     - Lobule VIII
+
+4. **White Matter Regions**
+   - Corpus callosum
+   - Superior longitudinal fasciculus
+   - Corticospinal tract
+   - Inferior longitudinal fasciculus
+
+5. **Other Regions**
+   - Ventricular system
+
+   - These regions are involved in these cognitive functions: mobility, sensorimotor adaptability, gait adaptation, locomotion control, and cognitive control of mobility.

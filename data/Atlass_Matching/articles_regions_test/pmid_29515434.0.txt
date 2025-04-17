@@ -1,0 +1,20 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Gray Matter (GM)**
+   - Right superior frontal gyrus
+   - Right precentral gyrus
+   - Right putamen
+   - Left medial temporal lobe (MTL)
+   - Right hippocampus
+   - Right amygdala
+   - Parahippocampal gyri (bilaterally)
+
+2. **White Matter (WM)**
+   - Right superior longitudinal fasciculus (frontal and temporal components)
+   - Right superior and inferior corona radiata
+   - Left superior longitudinal fasciculus
+   - Right inferior longitudinal fasciculus
+   - Right parahippocampal gyrus
+   - Temporal, frontoparietal, and orbitofrontal regions
+
+These regions are involved in various cognitive functions, including memory, executive functions, and overall cognitive integrity. The article discusses their relevance in the context of Alzheimer's disease (AD) and cerebrovascular health.

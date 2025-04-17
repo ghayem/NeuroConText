@@ -1,0 +1,41 @@
+## The brain regions:
+
+1. **Temporoparietal area**
+
+2. **Prefrontal cortex**
+
+3. **Anterior insula**
+   - Visceral/sensory cortex
+
+4. **Ventromedial prefrontal cortex (VMPFC)**
+
+5. **Right middle temporal gyrus**
+
+6. **Left supramarginal gyrus**
+
+7. **Right supramarginal gyrus**
+
+8. **Right posterior insula**
+
+9. **Left superior frontal gyrus**
+
+10. **Right superior frontal gyrus**
+   - Medial segment
+
+11. **Left inferior frontal gyrus**
+   - Pars triangularis
+
+12. **Right superior temporal gyrus**
+
+13. **Left angular gyrus**
+
+14. **Left cerebellum**
+
+15. **Middle frontal gyrus**
+   - Bilaterally
+
+16. **Temporoparietal junction (TPJ)**
+
+17. **Dorsolateral prefrontal cortex (DLPFC)**
+
+18. **Medial prefrontal cortex (MPFC)**

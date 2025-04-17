@@ -1,0 +1,56 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Amygdala (AMG)**
+   - Left AMG
+   - Right AMG
+
+2. **Hippocampus (HC)**
+   - Left HC
+   - Right HC
+   - Anterior hippocampus (HCant)
+   - Posterior hippocampus (HCpost)
+
+3. **Prefrontal Cortex (PFC)**
+   - Left PFC
+   - Right PFC
+   - Ventrolateral prefrontal cortex (VLPFC)
+   - Dorsolateral prefrontal cortex
+   - Dorsomedial prefrontal cortex (DMPFC)
+   - Left ventrolateral PFC (VLPFC)
+   - Right ventrolateral PFC (VLPFC)
+
+4. **Parietal Cortex**
+   - Left lateral parietal cortex
+   - Lateral parietal cortex
+   - Inferior parietal cortex
+   - Posterior parietal cortex
+
+5. **Temporal Cortex**
+   - Occipito-temporal areas
+   - Lateral occipito-temporal cortex
+   - Left temporo-parietal junction
+   - Fusiform cortex
+   - Parahippocampal/fusiform cortex
+
+6. **Occipital Cortex**
+
+7. **Cingulate Cortex**
+   - Posterior cingulate cortex
+   - Precuneus
+   - Retrosplenial cortex
+
+8. **Cerebellum**
+
+9. **Striatum**
+
+10. **Thalamus**
+
+11. **Medial Temporal Lobe (MTL)**
+    - Posterior parahippocampal cortex (pHC)
+    - Parahippocampal cortex (ParaHC)
+
+12. **Temporo-parieto-occipital junction (TPO)**
+
+13. **Corpus callosum**
+
+These regions are involved in various cognitive functions, including emotion processing, memory retrieval, executive functions, and sensory-perceptual processing.

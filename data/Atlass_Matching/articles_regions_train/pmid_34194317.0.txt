@@ -1,0 +1,37 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Substantia Nigra**
+   - Pars compacta (SNc)
+   - Pars reticulata (SNr)
+
+2. **Striatum**
+   - Putamen
+   - Caudate nucleus
+
+3. **Thalamus**
+
+4. **Cerebellum**
+   - Cerebellar crus II
+
+5. **Motor Cortical Areas**
+   - Primary motor cortex (M1)
+   - Premotor cortex (PMC)
+   - Supplementary motor area (SMA)
+
+6. **Parietal Cortex**
+
+7. **Dorsolateral Prefrontal Cortex**
+
+8. **Hippocampus**
+   - Left hippocampus
+
+9. **Insula**
+   - Left insula
+
+10. **Brainstem**
+
+11. **Subthalamic Nucleus**
+
+12. **Midbrain Areas**
+
+These regions are involved in various cognitive and motor functions, including motor sequence learning, stimulus-response associations, memory, and executive functions. The article also discusses their involvement in the neural mechanisms underlying motor sequence learning deficits in Parkinson's disease.

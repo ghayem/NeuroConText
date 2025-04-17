@@ -1,0 +1,26 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Cingulate Cortex**
+    - Sub-genual cingulate cortex
+    - Anterior midcingulate cortex (aMCC)
+    - Dorsal anterior cingulate
+
+2. **Temporal Cortex**
+    - Inferior temporal gyrus (ITG)
+
+3. **Insula**
+    - Posterior insula
+
+4. **Cerebellum**
+    - Cerebellar lobule IX
+
+5. **Hippocampus**
+    - Left hippocampus
+
+These regions are involved in various cognitive functions and emotional processes, including:
+
+- **Cingulate Cortex**: Emotion regulation, cognitive control, error monitoring, and conflict resolution.
+- **Temporal Cortex (ITG)**: Visual object recognition and memory.
+- **Insula**: Interoception, emotional awareness, and bodily physiological state representation.
+- **Cerebellum (Lobule IX)**: Part of the default mode network, involved in off-task 'resting' brain activity.
+- **Hippocampus**: Memory formation, learning, and spatial navigation.

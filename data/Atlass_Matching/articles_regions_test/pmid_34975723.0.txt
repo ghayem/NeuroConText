@@ -1,0 +1,44 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Brainstem**
+
+2. **Thalamus**
+
+3. **Basal Ganglion**
+
+4. **Cerebellum**
+
+5. **Cerebral Cortex**
+   - Postcentral gyrus
+   - Supplementary motor area
+   - Sensorimotor cortex
+   - Occipital cortex
+   - Orbital frontal cortex
+   - Medial prefrontal cortex
+   - Posterior insula
+   - Cingulate gyrus
+   - Caudate
+   - Precentral gyrus
+   - Frontal orbital cortex
+   - Lingual gyrus (BA19)
+   - Lateral occipital cortex (BA19)
+   - Cuneal cortex (BA19)
+
+6. **Amygdala**
+
+7. **Salience Network** (7 ROIs)
+
+8. **Default Mode Network** (4 ROIs)
+
+9. **Frontoparietal Network** (4 ROIs)
+
+10. **Dorsal Attention Network** (4 ROIs)
+
+11. **Visual Network** (4 ROIs)
+
+12. **Language Network** (4 ROIs)
+
+13. **Cerebellar Network** (2 ROIs)
+   - Anterior cerebellar network
+
+These regions are involved in various sensorimotor, cognitive, and emotional processes, as discussed in the article.

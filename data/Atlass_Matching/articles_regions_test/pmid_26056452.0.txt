@@ -1,0 +1,62 @@
+## The brain regions:
+
+1. **Frontal Cortex**
+   - Dorsolateral prefrontal cortex
+   - Frontal precentral gyrus (BA 6/BA 4)
+   - Middle frontal gyrus
+   - Medial frontal gyrus (BA 6)
+   - Superior frontal gyrus (BA 6, BA 9)
+   - Inferior frontal gyrus (BA 44, BA 47)
+   - Fronto-insular cortex
+
+2. **Temporal Cortex**
+   - Superior temporal gyri
+   - Middle temporal gyrus (BA 21, BA 22)
+   - Inferior temporal gyrus (BA 20)
+   - Temporal lobe
+   - Temporal fusiform gyrus (BA 20)
+   - Temporoparietal regions
+   - Right temporal supramarginal gyrus (BA 40)
+
+3. **Parietal Cortex**
+   - Parietal association cortices
+   - Parietal postcentral gyrus (BA 43)
+   - Parietal precuneus (BA 7)
+   - Inferior parietal lobe (BA 40)
+   - Superior parietal gyrus (BA 7)
+
+4. **Occipital Cortex**
+   - Occipital lingual gyrus (BA 30)
+
+5. **Cerebellum**
+   - Anterior cerebellum
+   - Cerebellar cortex
+
+6. **Thalamus**
+   - Left thalamus
+
+7. **Basal Ganglia**
+   - Caudate (body)
+   - Putamen
+   - Lentiform nucleus
+   - Right nucleus accumbens
+
+8. **Limbic System**
+   - Amygdala
+   - Hippocampus
+   - Parahippocampal gyrus (BA 27)
+   - Subgenual anterior cingulate cortex
+   - Left rostral anterior cingulate cortex
+   - Right fronto-insular cortex
+   - Insula (BA 13)
+   - Extra nucleus (BA 13)
+
+9. **Brainstem**
+
+10. **Motor and Supplementary Motor Cortices**
+
+11. **Uncus**
+
+12. **Fusiform Gyrus (BA 37)**
+
+These regions are involved in various cognitive functions, including sensory processing, motor control, language, memory, emotion regulation, and executive functions.

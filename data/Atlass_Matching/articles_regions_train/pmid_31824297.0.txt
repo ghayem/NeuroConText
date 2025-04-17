@@ -1,0 +1,23 @@
+## Brain Regions and Sub-Regions:
+
+1. **Sensorimotor Cortex**
+   - Contralateral sensorimotor cortex
+   - Ipsilateral sensorimotor cortex
+
+2. **Premotor Cortex (PMC)**
+   - Lateral premotor area
+   - Bilateral dorsal premotor area
+   - Left premotor cortex (PMC.L)
+   - Right premotor cortex (PMC.R)
+
+3. **Supplementary Motor Area (SMA)**
+
+4. **Primary Motor Cortex (M1)**
+   - Left primary motor cortex (M1.L)
+   - Right primary motor cortex (M1.R)
+
+5. **Cerebellum**
+
+6. **Basal Ganglia**
+
+These regions are involved in motor functions, cognitive functions, and motor imagery.

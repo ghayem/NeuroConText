@@ -1,0 +1,104 @@
+Here are the brain regions and sub-regions mentioned in the article, along with their associated cognitive functions where applicable:
+
+1. **Hippocampus**
+
+2. **Amygdala**
+
+3. **Entorhinal cortices**
+
+4. **Lateral temporal neocortices**
+
+5. **Medial thalamus**
+    - Inferior frontal lobes
+
+6. **Upper brainstem reticular formation**
+
+7. **Frontal and parietal association cortices**
+
+8. **Mesial temporal epilepsy network regions**
+
+9. **Default-mode network (DMN) regions**
+
+10. **Cerebellum**
+    - Cerebellum 4_5/6/8/9
+    - Cerebellum Crus1
+    - Cerebellum Crus1/Crus2/6
+
+11. **Thalamus**
+
+12. **Supplementary motor area (SMA)**
+
+13. **Precuneus**
+
+14. **Cuneus**
+
+15. **Pallidum**
+
+16. **Lenticula**
+
+17. **Parahippocampal gyrus (PHG)**
+
+18. **Posterior cingulate gyrus (PCG)**
+
+19. **Median cingulate gyrus (MCG)**
+
+20. **Precentral gyrus (PreCG)**
+
+21. **Postcentral gyrus (PostCG)**
+
+22. **Triangular inferior frontal gyrus (TIFG)**
+
+23. **Middle frontal gyrus (MFG)**
+
+24. **Orbital frontal gyrus (OFG)**
+
+25. **Superior frontal gyrus (SFG)**
+
+26. **Rectus gyrus**
+
+27. **Olfactory cortex**
+
+28. **Temporal pole (TP)**
+
+29. **Middle temporal gyrus (MTG)**
+
+30. **Inferior temporal gyrus (ITG)**
+
+31. **Superior marginal gyrus (SMG)**
+
+32. **Medial superior frontal gyrus (MSFG)**
+
+33. **Dorsolateral superior frontal gyrus (DSFG)**
+
+34. **Angular gyrus (AG)**
+
+35. **Superior temporal gyrus (STG)**
+
+36. **Heschl’s gyrus**
+
+37. **Calcarine cortex (CAL)**
+
+38. **Superior occipital gyrus (SOG)**
+
+39. **Lingual gyrus (LG)**
+
+40. **Middle occipital gyrus (MOG)**
+
+41. **Inferior occipital gyrus (IOG)**
+
+42. **Paracentral lobule (PCL)**
+
+43. **Frontal lobe**
+    - Associated with language, execution, and control functions
+    - Component of the cognitive-attention network
+
+44. **Temporal neocortex**
+    - Includes STG, MTG, ITG, TP, and Heschl’s gyrus
+    - Related to auditory function, language, memory, cognitive function, and emotion
+
+45. **Occipital lobe**
+    - Includes CAL, LG, cuneus, etc.
+    - Visual network (VIN)
+    - Related to visual functions, executive function, and attention
+
+These regions are involved in various cognitive functions such as memory, language, emotion regulation, information integration, executive functioning, auditory and language information processing, visual perception, and motor functions.

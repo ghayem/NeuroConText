@@ -1,0 +1,43 @@
+1. **Medial Prefrontal Cortex (mPFC)**
+   - Paracingulate sulcus (PCS)
+   - Anterior paracingulate cortex
+   - Ventral medial prefrontal cortex (vmPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+
+2. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex / precuneus
+   - Lateral parietal cortices
+   - Ventral medial prefrontal cortex (vmPFC)
+   - Dorsomedial prefrontal cortex (dmPFC)
+   - Anterior paracingulate cortex
+   - Right posterior cingulate cortex
+
+3. **Fronto-Parietal Network (FPN)**
+   - Lateral prefrontal cortices (especially middle frontal gyrus)
+   - Anterior inferior parietal lobule
+   - Anterior insula
+   - Caudate
+   - Thalamus
+   - Right lateralised FPN
+   - Posterior regions of paracingulate cortex and precuneus
+   - Middle frontal gyrus
+   - Dorsal regions of the lateral and medial prefrontal cortex
+   - Right paracingulate gyrus
+   - Left superior and inferior frontal gyrus
+   - Bilateral middle frontal gyrus
+   - Right middle frontal gyrus
+   - Bilateral inferior frontal gyrus
+   - Left basal ganglia
+   - Amygdala
+   - Left thalamus
+   - Bilateral occipital cortex
+   - Right superior parietal lobule
+
+4. **External Attention System**
+   - Dorsal Attention component
+
+5. **Other Brain Regions**
+   - Left fusiform gyrus
+   - Left superior temporal gyrus
+
+- These regions are involved in cognitive processes such as reality monitoring, self-referential judgments, mental state inferences, memory recall, and cognitive control.

@@ -1,0 +1,54 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral PFC (DLPFC)
+   - Dorsomedial PFC (DMPFC)
+   - Ventromedial PFC (VMPFC)
+   - Orbitofrontal cortex (OFC)
+   - Inferior Frontal Gyrus (IFG)
+   - Middle Frontal Gyrus (MFG)
+   - Superior Frontal Gyrus (SFG)
+   - Frontal pole
+   - Precentral gyrus
+   - Juxtapositional lobule cortex (formerly pre-motor cortex)
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Paracingulate cortex
+
+3. **Limbic System**
+   - Amygdala
+   - Ventral striatum
+   - Nucleus accumbens
+
+4. **Temporal Cortex**
+   - Temporal pole
+   - Inferior temporal gyrus
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+5. **Occipital Cortex**
+   - Occipital pole
+   - Lateral occipital cortex
+   - Occipital fusiform cortex
+
+6. **Parietal Cortex**
+   - Precuneus
+   - Posterior cingulate cortex
+
+7. **Cerebellum**
+
+8. **Basal Ganglia**
+   - Subcortical regions
+
+9. **Other Regions**
+   - Cuneus
+   - Thalamus
+   - Hippocampus
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Executive functions (PFC, ACC)
+- Emotion processing (Limbic system, OFC, VMPFC)
+- Visual processing (Occipital cortex)
+- Memory (Temporal cortex, Hippocampus)
+- Motor control (Cerebellum, Precentral gyrus)
+- Reward processing (Ventral striatum, Nucleus accumbens)

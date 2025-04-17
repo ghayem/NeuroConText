@@ -1,0 +1,39 @@
+## Brain Regions and Sub-regions
+
+1. **Right Inferior Parietal Lobule (IPL)**
+   - Right Supramarginal Gyrus (SMG)
+
+2. **Right Precuneus**
+
+3. **Right Angular Gyrus**
+
+4. **Right Superior Occipital Gyrus**
+
+5. **Right Caudate Gyrus**
+
+6. **Supplementary Motor Area**
+
+7. **Dorsolateral Superior Frontal Gyrus**
+
+8. **Right Lingual Gyrus**
+
+9. **Left Calcarine**
+
+10. **Left Cuneus**
+
+11. **Left Superior Frontal Gyrus (SFG)**
+   - Left Medial Superior Frontal Gyrus (SFG)
+
+12. **Left Parietal Postcentral Gyrus**
+
+13. **Right Cerebellar Anterior Lobe**
+
+14. **Left Fusiform Gyrus**
+   - Left Fusiform Gyrus (BA37)
+
+15. **Left Superior Parietal Lobule (SPL)**
+   - Left Superior Parietal Lobule (BA7)
+
+16. **Right Subgyral Hippocampus**
+
+These regions are involved in various cognitive functions including language, memory, executive functions, and sensory processing.

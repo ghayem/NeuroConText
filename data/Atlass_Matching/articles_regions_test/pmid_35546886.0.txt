@@ -1,0 +1,20 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Hippocampus**
+   - Anterior hippocampus
+   - Posterior hippocampus
+
+2. **Medial Parietal Cortex**
+   - Mid/posterior cingulate cortex
+   - Precuneus
+
+3. **Inferior Parietal Lobule**
+   - Bilateral inferior parietal lobule
+
+4. **Frontal Cortex**
+   - Left frontal cortex
+
+5. **Temporal Cortex**
+   - Right lateral temporal cortex
+
+These regions are involved in cognitive functions such as memory retrieval, autobiographical recall, and spoken language.

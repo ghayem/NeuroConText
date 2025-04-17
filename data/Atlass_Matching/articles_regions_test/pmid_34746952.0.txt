@@ -1,0 +1,38 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+2. **Anterior Cingulate Cortex (ACC)**
+3. **Caudate**
+4. **Cuneus**
+5. **Dorsolateral Prefrontal Cortex (dlPFC)**
+6. **Dorsomedial Prefrontal Cortex (dmPFC)**
+7. **Fusiform Gyrus (FuG)**
+8. **Hippocampus**
+9. **Inferior Parietal Lobule (IPL)**
+10. **Insula**
+11. **Lingual Gyrus**
+12. **Middle Temporal Gyrus (MTG)**
+13. **Midcingulate Cortex (MCC)**
+14. **Occipital Cortex**
+    - Bilateral occipital cortex
+15. **Operculum**
+    - Temporal operculum
+    - Central operculum
+    - Posterior operculum
+16. **Orbitofrontal Cortex (OFC)**
+17. **Posterior Cingulate Cortex (PCC)**
+18. **Pre-Supplementary Motor Area (pre-SMA)**
+19. **Putamen**
+20. **Rostromedial Prefrontal Cortex**
+21. **Somatomotor Cortex**
+22. **Superior Medial Frontal Gyrus**
+23. **Superior Temporal Gyrus (STG)**
+    - Bilateral STG
+24. **Supplementary Motor Area (SMA)**
+25. **Temporal Pole (TP)**
+26. **Temporoparietal Junction (TPJ)**
+27. **Thalamus**
+28. **Ventrolateral Prefrontal Cortex (vlPFC)**
+29. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+These regions are involved in various cognitive functions, including emotion regulation, memory, attention, and executive functions.

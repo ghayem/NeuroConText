@@ -1,0 +1,54 @@
+## Brain Regions and Sub-Regions:
+
+1. **Supplementary Motor Area (SMA)**
+
+2. **Premotor Cortices**
+   - Dorsal Premotor Cortex (PMd)
+   - Ventral Premotor Cortex (PMv)
+
+3. **Parietal Lobule**
+   - Inferior Parietal Lobule (IPL)
+   - Superior Parietal Lobule (SPL)
+
+4. **Prefrontal Areas**
+
+5. **Cingulate Cortex**
+
+6. **Cerebellar Regions**
+
+7. **Cerebral Palsy (CP)**
+   - Perinatal ischemic stroke
+   - Malformations of white-matter
+   - Unilateral porencephalic cavities (or cysts)
+   - Unilateral brain lesion
+   - Periventricular and deep white matter
+   - Periventricular leukomalacia (PVL)
+   - Subcortical leukomalacia
+
+8. **Basal Ganglia**
+   - Putamen
+   - Pallidum
+
+9. **Thalamus**
+
+10. **Precuneus**
+
+11. **Inferior Frontal Gyrus (IFG)**
+    - IFG pars opercularis
+
+12. **Middle Frontal Gyrus (MfG)**
+
+13. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+14. **Superior Frontal Gyrus/Sulcus**
+
+15. **Posterior Superior Temporal Gyri (pSTG/MTG)**
+
+16. **Intraparietal Sulcus (IPS)**
+
+17. **Cerebellum**
+    - Lobule VI
+
+18. **Superior Temporal Gyrus/Sulcus (STG/MTG)**
+
+These regions are involved in cognitive functions such as motor planning, motor imagery, sensorimotor processing, and executive functions.

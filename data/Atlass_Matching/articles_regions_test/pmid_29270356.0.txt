@@ -1,0 +1,63 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Amygdala**
+
+2. **Medial prefrontal cortex (mPFC)**
+
+3. **Prefrontal cortex (PFC)**
+   - Medial frontal polar cortex
+   - Dorsomedial prefrontal cortex (dMPFC)
+   - Anterior cingulate cortex (ACC)
+     - Dorsal ACC
+     - Ventrolateral PFC
+   - Superior frontal gyrus
+   - Inferior frontal gyrus/lateral orbital cortex
+   - Right inferior frontal gyrus
+   - Dorsolateral PFC
+   - Ventrolateral PFC
+   - Middle frontal gyrus
+     - Right middle frontal gyrus
+     - Left middle frontal gyrus
+
+4. **Parietal cortex**
+   - Left horizontal segment of the intraparietal sulcus
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+     - Bilateral precuneus
+     - Left precuneus
+
+5. **Temporal cortex**
+   - Temporal pole
+     - Right temporal pole
+     - Bilateral temporal pole
+   - Middle temporal gyrus
+
+6. **Occipital cortex**
+   - Cuneus
+   - Lingual gyrus
+
+7. **Basal ganglia**
+   - Putamen
+     - Bilateral putamen
+   - Caudate
+     - Right caudate
+   - Thalamus
+     - Bilateral thalamus
+     - Right thalamus
+
+8. **Limbic system**
+   - Hippocampus
+   - Parahippocampal gyrus
+
+9. **Other regions**
+   - Insula
+     - Right insula
+     - Left insula
+   - Cerebellum
+   - Precentral gyrus
+     - Left precentral gyrus
+
+10. **White matter tracts**
+    - Basal Vein of Rosenthal
+
+These regions are involved in various cognitive functions, including emotion regulation, memory, self-referential processing, salience processing, and reward processing.

@@ -1,0 +1,35 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Primary Motor Cortex** (M1)
+   - Precentral gyrus
+
+2. **Primary Sensory Cortex** (S1)
+   - Postcentral gyrus
+
+3. **Supplementary Motor Area** (SMA)
+
+4. **Superior Parietal Lobule**
+
+5. **Juxtapositional Lobule Cortex**
+
+6. **Cerebellum**
+   - Cerebellum Crus I
+   - Cerebellum lobules I–IV
+
+7. **Thalamus**
+
+8. **Insular Cortex**
+
+9. **Superior Frontal Gyrus**
+
+10. **Periaqueductal Gray**
+
+11. **Locus Coeruleus**
+
+12. **Nucleus Raphe Magnus**
+
+13. **Nucleus Reticularis Gigantocellularis**
+
+14. **Basal Ganglia**
+
+These regions are involved in various cognitive functions and processes, including motor control, sensory processing, pain modulation, and integration of sensorimotor information.

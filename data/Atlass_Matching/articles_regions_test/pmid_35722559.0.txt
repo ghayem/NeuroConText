@@ -1,0 +1,47 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Prefrontal Cortex**
+   - Medial prefrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Bilateral medial orbitofrontal cortex
+   - Orbital frontal cortex (OFC)
+
+2. **Limbic System**
+   - Anterior cingulum cortex (ACC)
+     - Left anterior cingulum cortex
+   - Middle cingulum cortex
+   - Posterior cingulum cortex
+   - Retrosplenial cortex
+
+3. **Default Mode Network (DMN) Regions**
+   - Precuneus cortex
+     - Bilateral precuneus cortex
+
+4. **Other Cortical Regions**
+   - Precentral gyrus
+     - Bilateral precentral gyrus
+     - Left precentral gyrus
+   - Postcentral gyrus
+     - Bilateral postcentral gyrus
+   - Paracentral gyrus
+     - Left paracentral gyrus
+   - Temporal lobe
+     - Bilateral temporal lobe
+   - Fusiform cortex
+     - Left fusiform cortex
+   - Cerebellum
+     - Bilateral cerebellum
+   - Insular cortex
+   - Superior frontal gyrus
+     - Left superior frontal gyrus
+   - Occipital gyrus
+     - Left lateral occipital gyrus
+     - Right superior/middle occipital gyrus
+   - Amygdala
+     - Left amygdala
+
+5. **Other Subcortical Regions**
+   - Ventricular seed-based region
+   - White matter-centered region
+
+These regions are involved in various cognitive functions and emotional processes, which are often disrupted in major depressive disorder (MDD).

@@ -1,0 +1,37 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+
+2. **Cerebellar Vermis**
+
+3. **Fusiform Gyrus**
+   - Fusiform Face Area (FFA)
+
+4. **Precentral Gyrus**
+
+5. **Inferior Frontal Gyrus**
+
+6. **Temporoparietal Junction**
+
+7. **Mid-Frontal Gyrus**
+
+8. **Superior Parietal Cortex**
+
+9. **Frontal Eye Field**
+
+10. **Anterior Cingulate Cortex**
+
+11. **Dorsolateral Prefrontal Cortex**
+
+12. **Anterior Intraparietal Sulcus**
+
+13. **Junction of Intraparietal and Transverse Occipital Sulcus**
+
+These regions are involved in the following cognitive functions and attention systems:
+
+- **Alerting**: Thalamus, Temporoparietal Junction, Mid-Frontal Gyrus
+- **Orienting**: Superior Parietal Cortex, Frontal Eye Field, Fusiform Face Area (FFA)
+- **Executive Control (EC)**: Anterior Cingulate Cortex, Dorsolateral Prefrontal Cortex, Inferior Frontal Gyrus, Precentral Gyrus (for orienting and saccades)
+- **Face Perception**: Fusiform Gyrus (FFA)
+- **Saccades ( Eye Movements)**: Precentral Gyrus, Frontal Eye Field
+- **Cholinergic Function**: Fusiform Gyrus (related to orienting and social interaction)

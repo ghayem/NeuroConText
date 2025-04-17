@@ -1,0 +1,30 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Prefrontal Cortex**
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Rostral ACC
+   - Dorsal ACC
+
+3. **Posterior Cingulate Cortex**
+
+4. **Orbitofrontal Regions**
+
+5. **Posterior Parietal Cortex**
+
+6. **Temporo-Parietal Junctions (TPJ)**
+   - Right hemisphere
+   - Left hemisphere
+
+7. **Precuneus**
+
+8. **Default Mode Network (DMN)**
+   - Includes multiple brain regions typically characterized as the DMN
+
+These regions are involved in various cognitive functions, including:
+- Cognitive control
+- Multitasking
+- Memory
+- Emotional and motivational processes
+- Sensorimotor processes
+- Higher cognitive operations

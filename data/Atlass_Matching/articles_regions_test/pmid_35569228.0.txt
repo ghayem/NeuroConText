@@ -1,0 +1,55 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex
+
+2. **Anterior Cingulate Cortex**
+
+3. **Cingulate Cortex**
+   - Posterior cingulate cortex
+
+4. **Insular Cortex**
+
+5. **Temporal Cortex**
+
+6. **Cerebellum**
+
+7. **Parietal Cortex**
+   - Superior parietal gyrus (BA 7)
+   - Inferior parietal gyrus (BA 40)
+   - Right medial frontal gyrus (BA 8)
+   - Right middle frontal gyrus (BA 6)
+   - Right orbitofrontal gyrus (BA 47)
+   - Bilateral frontal cortices
+   - Right inferior parietal cortex
+
+8. **Frontal Cortex**
+   - Right inferior frontal gyrus (BA 9)
+   - Medial frontal cortex
+   - Right medial frontal gyrus (BA 8)
+   - Right middle frontal gyrus (BA 6)
+   - Right orbital frontal gyrus (BA 47)
+   - Left inferior frontal gyrus
+   - Orbital frontal gyrus
+
+9. **Default-Mode Network**
+
+10. **Frontoparietal Network**
+
+11. **Visual Network**
+
+12. **Medial Prefrontal Cortex**
+
+13. **Bilateral Temporoparietal Junction**
+
+14. **Left Angular Gyrus**
+
+15. **Left Median Cingulate Gyrus**
+
+16. **Right Middle Temporal Gyrus**
+
+17. **Cingulate Motor Area**
+
+18. **Pre-Supplementary Motor Area**
+
+These regions are involved in various cognitive functions, including executive control, learning processes, working memory, semantic processing, task switching, facial recognition, and more. The article also discusses the involvement of these regions in the context of schizophrenia and the effects of medication.

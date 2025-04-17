@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions:
+
+1. **Medial Frontal Regions**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+3. **Default Mode Network (DMN)**
+
+4. **Thalamus**
+
+5. **Premotor and Supplementary Motor Areas**
+
+6. **Parietal Lobes**
+   - Superior temporal gyrus
+
+7. **Left Posterior Cingulate Cortex**
+
+8. **Left Medial Prefrontal Cortex**
+
+9. **Bilateral Precentral Gyri**
+
+10. **Bilateral Angular Gyri**
+
+11. **Bilateral Medial Temporal Gyri**
+
+12. **Bilateral Hippocampi**
+
+13. **Right Hippocampus**
+
+14. **Left Middle Frontal Gyrus**
+
+15. **Right Middle Frontal Gyrus**
+
+16. **Striatum**
+
+17. **Hippocampus**
+
+18. **Middle Frontal Gyri**
+
+19. **Parahippocampus**
+
+These regions are involved in various cognitive functions including attention, motor control, working memory, and higher-order cognitive functions.

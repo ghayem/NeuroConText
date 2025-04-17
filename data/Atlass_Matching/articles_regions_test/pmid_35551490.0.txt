@@ -1,0 +1,47 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Areas**
+   - Visual cortex
+   - Motor cortex
+     - Primary motor cortex (M1)
+     - Left-M1 (hand knob region of the Rolandic sulcus)
+   - Supplementary motor area (SMA)
+   - Somatosensory cortex
+     - Postcentral gyrus
+   - Premotor cortex
+   - Cingulate motor areas
+
+2. **Subcortical Areas**
+   - Basal ganglia
+   - Thalamus
+   - Cerebellum
+
+3. **Other Cortical Regions**
+   - Paracentral lobule
+   - Lateral frontotemporal cortex
+     - Inferior frontal gyrus
+   - Posterior parietal cortex
+     - Superior parietal cortex
+   - Precuneus
+     - Brodmann areas 7 and 31
+   - Medial prefrontal cortex
+   - Lateral parietal cortex
+   - Occipital lobe
+     - Striate cortex (V1, Brodmann area 17)
+     - Extra-striate areas
+   - Second somatosensory area
+   - Granular insula
+   - Posterior cingulate cortex
+   - Parieto-occipital junction
+
+4. **Resting State Networks (RSNs)**
+   - Sensori-Motor Network (SMN)
+   - Default Mode Network (DMN)
+   - Visual Network (VN)
+
+5. **White Matter and Other Structures**
+   - White matter (WM)
+   - Cerebrospinal fluid (CSF)
+   - Grey matter (GM)
+
+These regions are involved in various cognitive and motor functions, as well as resting-state networks that reflect the brain's intrinsic functional connectivity.

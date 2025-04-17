@@ -1,0 +1,30 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+2. **Temporal Cortex**
+3. **Hippocampus**
+4. **Thalamus**
+5. **Nucleus Accumbens**
+6. **Putamen**
+7. **Pallidum**
+8. **Frontotemporal Regions**
+9. **Superior Temporal Lobe**
+10. **Inferior Frontal Gyrus (IFG)**
+    - Pars Triangularis
+    - Pars Opercularis
+    - Triangular Part
+11. **Anterior Cingulate Cortex**
+12. **Insula**
+    - Insular Cortex
+13. **Basal Ganglia**
+14. **Cerebellum**
+15. **Superior Frontal Gyrus**
+16. **Frontal Pole**
+17. **Cuneus**
+18. **Superior Occipital Gyrus**
+19. **Inferior Parietal Gyrus**
+20. **Inferior Occipital Gyrus**
+21. **Superior Parietal Gyrus**
+22. **Middle Frontal Gyrus**
+
+These regions are involved in various cognitive functions and are implicated in the neuroanatomical alterations observed in schizophrenia and autism spectrum disorders.

@@ -1,0 +1,34 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Network (DN)**
+   - **Core Subsystem**
+     - Posterior cingulate cortex (PCC)
+     - Medial prefrontal cortex (MPFC)
+       - Anterior MPFC (aMPFC)
+   - **Other Regions**
+     - Left and right angular gyrus (lAG and rAG)
+
+2. **Dorsal Attention Network (DAN)**
+   - Frontal eye field (FEF)
+     - Right FEF (rFEF)
+     - Left FEF (lFEF)
+   - Inferior parietal sulcus (IPS)
+   - Left and right inferior frontal gyrus (IFG)
+   - Right and left superior parietal lobes (rSPL/lSPL)
+
+3. **Salience Network (SN)**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Anterior insula (AI)
+     - Right AI (rAI)
+     - Left AI (lAI)
+   - Left and right anterior prefrontal cortex (aPFC)
+
+4. **Other Regions**
+   - Anterior prefrontal cortex (aPFC)
+   - Von Economo neurons (VEN)
+
+These regions are involved in various cognitive functions, including:
+
+- **Default Network (DN)**: Self-referential mental activities, internal mentation, and self-projection.
+- **Dorsal Attention Network (DAN)**: Directed attention and working memory.
+- **Salience Network (SN)**: Detection and mapping of external salient inputs and task control.

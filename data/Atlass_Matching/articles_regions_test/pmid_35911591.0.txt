@@ -1,0 +1,99 @@
+1. **Prefrontal Cortex**
+
+2. **Hippocampus**
+
+3. **Amygdala**
+
+4. **Insular Cortex**
+
+5. **Cingulate Cortex**
+
+6. **Cerebellum**
+
+7. **Caudate**
+
+8. **Basal-Forebrain**
+
+9. **Thalamus**
+
+10. **Left Orbital Superior Frontal Gyrus**
+
+11. **Left Middle Frontal Gyrus**
+
+12. **Left Inferior Frontal Gyrus**
+
+13. **Right Superior Frontal Gyrus**
+
+14. **Temporal Pole**
+    - Right Temporal Pole
+
+15. **Parahippocampal Gyrus**
+    - Bilateral Parahippocampal Gyrus
+
+16. **Medial Frontal Gyrus**
+    - Bilateral Medial Frontal Gyrus
+    - Bilateral Medial Frontal Gyrus Extending to the Superior Frontal Gyrus
+
+17. **Supplementary Motor Area (SMA)**
+    - Bilateral Supplementary Motor Area
+
+18. **Visual Cortex**
+
+19. **Superior Temporal Gyrus**
+    - Bilateral Superior Temporal Gyrus Extending to the Supplementary Motor Area
+
+20. **Middle Occipital Gyrus**
+    - Middle Occipital Gyrus Extending to the Superior Occipital Gyrus
+
+21. **Precuneus**
+    - Bilateral Precuneus
+
+22. **Somatosensory Cortex**
+
+23. **Inferior Parietal Lobule**
+    - Bilateral Inferior Parietal Lobule
+    - Left Supramarginal Gyrus
+
+24. **Language Cortex**
+
+25. **Anterior Cingulate Cortex (ACC)**
+
+26. **Auditory Cortex**
+
+27. **Medial Orbital Prefrontal Cortex (moPFC)**
+
+28. **Dorsal Medial Prefrontal Cortex (dmPFC)**
+
+29. **Sensorimotor Cortex**
+
+30. **Limbic Lobe**
+    - Bilateral Limbic Lobe
+
+31. **Cerebellum**
+    - Bilateral Cerebellum
+    - Right Cerebellum
+
+32. **Thalamus**
+    - Bilateral Thalamus
+
+33. **Caudate**
+    - Bilateral Caudate
+
+34. **Inferior Frontal Gyrus**
+    - Bilateral Inferior Frontal Gyrus
+
+35. **Middle Frontal Gyrus**
+    - Bilateral Middle Frontal Gyrus
+
+36. **Superior Frontal Gyrus**
+    - Bilateral Superior Frontal Gyrus
+
+37. **Superior Occipital Gyrus**
+
+38. **Fusiform Gyrus (FuG)**
+
+39. **Postcentral Gyrus (PosG)**
+
+40. **Precentral Gyrus (PreG)**
+
+These regions are involved in various cognitive functions, including memory, attention, executive function, visuospatial construction, and emotional processing.

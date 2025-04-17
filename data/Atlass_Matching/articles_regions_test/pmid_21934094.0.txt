@@ -1,0 +1,21 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Broca's Region**
+2. **Wernicke's Region**
+3. **Left Inferior Frontal Gyrus (IFG)**
+   - Brodmann's Area (BA) 44
+   - BA 45
+   - BA 47
+4. **Left Posterior Middle Temporal Gyrus (MTG)**
+   - BA 21
+5. **Left Anterior Pole**
+6. **Brodmann's Area (BA) 6**
+7. **Brodmann's Area (BA) 7**
+8. **Right Brodmann's Area (BA) 13**
+9. **Supplementary Motor Area**
+   - BA 6
+   - Pre-SMA (anterior to the coronal plane passing through the anterior commissure)
+10. **Bilateral Supplementary Motor Area**
+    - BA 6
+
+These regions are involved in syntactic processing, language production, and language comprehension.

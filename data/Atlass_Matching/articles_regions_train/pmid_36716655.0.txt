@@ -1,0 +1,34 @@
+### Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Left Inferior Parietal Lobule (IPL)**
+    - Supramarginal gyrus (SMG)
+    - Angular gyrus (AG)
+
+2. **Left Temporo-Parieto-Occipital Junction**
+
+3. **Left Inferior Frontal Gyrus (IFG)**
+
+4. **Left Precentral Gyrus**
+
+5. **Left Postcentral Gyrus**
+
+6. **Left Superior Temporal Gyrus (STG)**
+
+7. **Left Middle Temporal Gyrus (MTG)**
+    - Posterior middle temporal gyrus (pMTG)
+
+8. **Left Basal Ganglia**
+    - Putamen
+    - Striatum
+
+9. **Left Insular Region**
+
+10. **Left Perisylvian Central Regions**
+
+11. **Left White Matter Tracts**
+    - Internal capsule
+    - Corona radiata
+
+12. **Left Superior Temporal Sulcus (STS)**
+
+These regions are involved in various cognitive functions, including motor-cognitive mechanisms, gesture imitation, and the processing of meaningful and meaningless gestures.

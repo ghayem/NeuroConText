@@ -1,0 +1,60 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **White Matter (WM)**
+   - General white matter
+   - White matter integrity
+   - White matter alterations
+
+2. **Corpus Callosum**
+   - Genu
+   - Body
+   - Splenium
+
+3. **Internal Capsule**
+
+4. **Corona Radiata**
+   - Anterior corona radiata (right-sided)
+   - Posterior corona radiata (bilateral)
+
+5. **Posterior Thalamic Radiation**
+
+6. **Sagittal Striatum**
+
+7. **External Capsule**
+
+8. **Superior Longitudinal Fasciculus**
+   - Bilateral superior longitudinal fasciculus
+
+9. **Inferior-Frontal Fasciculus**
+   - Bilateral inferior-frontal fasciculus
+
+10. **Forceps Major**
+    - Bilateral forceps major
+
+11. **Cingulum**
+    - Bilateral cingulum
+    - Left posterior cingulum near the hippocampus
+
+12. **Inferior Fronto-Occipital Fasciculi**
+    - Bilateral inferior fronto-occipital fasciculi
+
+13. **Uncinate Fasciculi**
+    - Bilateral uncinate fasciculi
+
+14. **Corticospinal Tracts**
+    - Bilateral corticospinal tracts
+
+15. **Right Supplemental Motor Area**
+
+16. **Ventricular System**
+    - Lateral ventricles
+
+17. **Heteromodal Association Cortex**
+
+18. **Limbic System**
+    - Cingulum bundles
+
+19. **Frontal and Parietal Areas**
+    - Connected by the superior longitudinal fasciculus
+
+These regions are involved in various cognitive functions, including language, memory, executive functions, motor activity, social cognition, and working memory. They are also associated with specific symptoms in schizophrenia, such as positive and negative symptoms, auditory hallucinations, and cognitive impairment.

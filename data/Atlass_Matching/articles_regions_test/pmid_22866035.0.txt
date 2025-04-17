@@ -1,0 +1,55 @@
+### Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Amygdala**
+
+2. **Anterior Cingulate Cortex (ACC)**
+    - Dorsal Anterior Cingulate Cortex (dACC)
+    - Ventral Anterior Cingulate Cortex (vACC)
+
+3. **Caudate Nucleus**
+
+4. **Corpus Callosum**
+
+5. **Dorsomedial Prefrontal Cortex (DMPFC)**
+
+6. **Dorsal Medial Prefrontal Cortex**
+
+7. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+8. **Inferior Parietal Lobule (IPL)**
+
+9. **Lateral Prefrontal Cortex (LPFC)**
+
+10. **Premotor Cortex**
+
+11. **Primary Motor Cortex (PMC)**
+
+12. **Posterior Cingulate Cortex (PCC)**
+
+13. **Precuneus**
+
+14. **Right Ventrolateral Prefrontal Cortex (rVLPFC)**
+
+15. **Somatosensory Area (SSA)**
+
+16. **Superior Parietal Lobule (SPL)**
+
+17. **Superior Temporal Sulcus (STS)**
+
+18. **Temporal Poles**
+
+19. **Thalamus**
+
+20. **Ventral and Dorsal Medial Prefrontal Cortex (MPFC)**
+
+21. **Ventral Medial Prefrontal Cortex (VMPFC)**
+
+22. **Ventrolateral Prefrontal Cortex (VLPFC)**
+
+23. **Visual Cortex**
+    - Left Visual Cortex
+    - Right Visual Cortex
+
+24. **Ventral Striatum (VS)**
+
+These regions are involved in various cognitive and emotional functions, including social processing, pain regulation, emotional regulation, and expectancy violation.

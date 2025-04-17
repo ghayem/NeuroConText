@@ -1,0 +1,34 @@
+{
+  "AAL": [],
+  "Harvard_Oxford": [
+    "Superior Parietal Lobule"
+  ],
+  "DiFuMo": [
+    "Cerebrospinal fluid (between superior parietal lobule LH and skull)",
+    "Cerebrospinal fluid (between superior parietal lobule RH and skull)",
+    "Cerebrospinal fluid (between superior parietal lobule and skull)",
+    "Superior parietal lobule RH",
+    "Superior parietal lobule anterior LH",
+    "Superior parietal lobule anterior RH",
+    "Superior parietal lobule antero-inferior RH",
+    "Superior parietal lobule antero-superior LH",
+    "Superior parietal lobule antero-superior RH",
+    "Superior parietal lobule inferior LH",
+    "Superior parietal lobule mid-posterior LH",
+    "Superior parietal lobule posterior",
+    "Superior parietal lobule posterior LH",
+    "Superior parietal lobule posterior RH",
+    "Superior parietal lobule postero-superior LH",
+    "Superior parietal lobule postero-superior RH",
+    "Superior parietal lobule superior"
+  ],
+  "Juelich": [
+    "GM Superior parietal lobule 5Ci",
+    "GM Superior parietal lobule 5L",
+    "GM Superior parietal lobule 5M",
+    "GM Superior parietal lobule 7A",
+    "GM Superior parietal lobule 7M",
+    "GM Superior parietal lobule 7P",
+    "GM Superior parietal lobule 7PC"
+  ]
+}

@@ -1,0 +1,48 @@
+## The brain regions:
+
+1. **Prefrontal lobe**
+
+2. **Inferior parietal lobule**
+
+3. **Anterior cingulate**
+
+4. **Cerebellum**
+   - Left cerebellum
+
+5. **Salience network**
+
+6. **Executive control network**
+
+7. **Peripheral brain regions**
+
+8. **Left middle frontal gyrus**
+
+9. **Right middle frontal gyrus**
+
+10. **Right superior temporal gyrus**
+
+11. **Left parahippocampal gyrus**
+
+12. **Frontal lobe**
+    - Frontal gyrus
+    - Prefrontal cortex
+    - Right middle frontal gyrus
+    - Left middle frontal gyrus
+
+13. **Superior temporal gyrus**
+    - Right superior temporal gyrus
+    - Medial prefrontal lobe
+
+14. **Limbic lobe**
+    - Left parahippocampal gyrus
+
+15. **Default mode network (DMN)**
+
+16. **Attention network**
+
+17. **Frontal lobe-limbic circuit system**
+
+18. **Precuneus**
+    - Right precuneus
+
+These regions are involved in various cognitive functions, including attention, emotion modularization, conflict resolution, decision-making, working memory, executive control, cognitive processing of emotions, negative stimulus, language, spatial information storage, speech processing, auditory processing, visual search tasks, emotional regulation, emotional control, and cognitive development.

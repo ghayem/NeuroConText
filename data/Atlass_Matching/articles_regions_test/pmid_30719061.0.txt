@@ -1,0 +1,40 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontal Lobe**
+    - Anterior cingulated gyrus
+    - Inferior frontal gyrus (BA13)
+    - Superior frontal gyrus (BA9)
+    - Dorsolateral prefrontal cortex
+
+2. **Parietal Lobe**
+    - Precuneus (BAs 7 and 31)
+    - Postcentral gyrus (BA40)
+    - Inferior parietal lobule (BAs 40 and 2)
+    - Supramarginal gyrus (BA40)
+
+3. **Occipital Lobe**
+    - Lingual gyrus (BAs 18 and 3)
+    - Visual cortex center
+
+4. **Temporal Lobe**
+    - Hippocampus
+
+5. **Other Regions**
+    - Insula
+    - Thalamus
+    - Cerebellum
+    - Default mode network
+    - Pain modulating system
+    - Limbic system
+    - Wernicke's area
+
+These regions are involved in various cognitive functions, including:
+- Emotional processing and recognition
+- Cognition
+- Somatic sensation
+- Spatial orientation
+- Semantic representation and language production
+- Vision
+- Memory
+- Executive functions
+- Sensory and motor processing

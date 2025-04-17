@@ -1,0 +1,75 @@
+## Brain Regions and Sub-Regions
+
+1. **Cortical Regions**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Middle frontal gyrus
+    - Superior frontal gyrus
+    - Cuneus
+    - Lingual gyrus
+    - Precuneus
+    - Angular gyrus (AG)
+    - Postcentral gyrus
+    - Precentral gyrus
+    - Parahippocampal gyrus
+    - Posterior cingulate cortex (PCC)
+    - Medial prefrontal cortex (mPFC)
+    - Subgenual part of anterior cingulate cortex (sgACC)
+    - Dorsal part of anterior cingulate cortex (dACC)
+    - Middle temporal gyrus (MTG)
+    - Superior parietal lobule (SPL)
+    - Supplementary motor area (SMA)
+
+2. **Subcortical Regions**
+    - Caudate
+    - Putamen
+    - Thalamus
+    - Insula
+    - Amygdala
+    - Nucleus accumbens (NAcc)
+    - Pallidum
+    - Hippocampus
+
+3. **Midbrain Regions**
+    - Dopaminergic pathways
+        - Nigrostriatal pathway
+        - Mesocortical pathway
+
+4. **Salience Network**
+    - Anterior insula (AI)
+        - Left anterior insula
+        - Right anterior insula
+    - Anterior cingulate cortex (ACC)
+    - Fronto-insular operculum
+
+5. **Default Mode Network (DMN)**
+    - Precuneus
+    - Posterior cingulate cortex (PCC)
+    - Medial prefrontal cortex (mPFC)
+    - Angular gyrus (AG)
+
+6. **Central Executive Network (CEN)**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Supplementary motor area (SMA)
+
+7. **Reward-Related Areas**
+    - Caudate
+    - Putamen
+    - Thalamus
+    - Insula
+    - Amygdala
+    - Nucleus accumbens (NAcc)
+    - Orbital part of inferior frontal gyrus
+
+8. **Visual Recognition Network**
+    - Lingual gyrus (LG)
+    - Calcarine
+    - Middle occipital gyrus
+
+9. **Other Regions**
+    - Subgenual part of anterior cingulate cortex (sgACC)
+    - Middle cingulate gyrus (MCG)
+    - Superior temporal gyrus (STG)
+    - Middle temporal gyrus (MTG)
+    - Temporo-parieto-occipital junction (TPO)
+
+- These regions are involved in various cognitive and emotional processes, including reward processing, salience detection, cognitive control, emotion regulation, and executive functions. The disrupted interactions and abnormal activities in these regions are implicated in the pathology of major depressive disorder (MDD).

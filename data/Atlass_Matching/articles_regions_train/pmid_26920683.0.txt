@@ -1,0 +1,47 @@
+## The brain regions:
+
+1. **Fusiform gyri (FG)**
+    - Fusiform Body Area (FBA)
+
+2. **Occipitotemporal (OT) cortices**
+    - Extrastriate Body Area (EBA)
+
+3. **Medial prefrontal cortex (mPFC)**
+
+4. **Temporoparietal junction (TPJ)**
+    - Left TPJ
+
+5. **Precuneus**
+
+6. **Temporal poles (TPs)**
+    - Left TP
+
+7. **Medial prefrontal junction (mPFC)**
+
+8. **Left middle temporal gyrus**
+
+9. **Extrastriate Body Area (EBA)**
+
+10. **Fusiform Body Area (FBA)**
+
+11. **Left temporal pole (TP)**
+
+12. **Left temporoparietal junction (TPJ)**
+
+13. **Bilateral temporal poles (TPs)**
+
+14. **Left fusiform gyrus (FG)**
+
+15. **Visual Word Form Area (VWFA)**
+
+16. **Ventral visual stream**
+
+17. **Left posterior superior temporal gyrus and sulcus (pSTG/S)**
+
+18. **Planum temporale (PT)**
+
+19. **Temporo-parieto-occipital junction (TPO)**
+
+20. **Superior temporal plane (STP)**
+
+- These regions are involved in these cognitive functions: person perception, person knowledge, trait inferences, mental state reasoning, visual analysis of body shape and posture, and social cognition.

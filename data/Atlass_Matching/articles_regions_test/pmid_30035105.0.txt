@@ -1,0 +1,18 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Anterior Mid-Cingulate Cortex (aMCC)**
+2. **Anterior Insula (AI)**
+3. **Default Mode Network**
+4. **Reward Network**
+5. **Fronto-Parietal Network**
+6. **Amygdala**
+7. **Anterior Cingulate**
+8. **Bilateral Hippocampus**
+9. **Right Insula**
+10. **Left Fusiform Gyrus**
+11. **Bilateral Cingulate Gyrus**
+12. **Right Middle Temporal Gyrus**
+13. **Orbital Frontal Cortex**
+14. **Temporal Pole**
+
+These regions are involved in various cognitive functions including emotion regulation, perception of others' pain, empathy, cognitive appraisal of emotional stimuli, and the neural origin of violent behaviors.

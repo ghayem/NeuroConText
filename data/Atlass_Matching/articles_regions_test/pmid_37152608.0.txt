@@ -1,0 +1,40 @@
+1. **Locus Coeruleus (LC)**
+   - LC-NE neurons
+
+2. **Posterior Cingulate**
+
+3. **Thalamus**
+
+4. **Caudate Nucleus**
+
+5. **Sensory Cortex**
+
+6. **Default Mode Network (DMN)**
+   - Supramarginal gyrus (SMG)
+
+7. **Prefrontal Cortex**
+
+8. **Inferior Frontal Gyrus (IFG)**
+   - Left inferior frontal gyrus (IFG)
+
+9. **Insula**
+   - Left insula
+
+10. **Cognitive Control Network (CCN)**
+    - Middle frontal gyrus
+
+11. **Salience Network (SN)**
+
+12. **Inferior Parietal Lobule**
+
+13. **Spinal Cord**
+
+14. **Cortex**
+
+15. **Nucleus of the Solitary Tract (NTS)**
+
+16. **Amygdala**
+
+17. **Striatum**
+
+- These regions are involved in various cognitive functions including sleep regulation, arousal, decision-making, cognition, emotion regulation, attention control, and consciousness adjustment.

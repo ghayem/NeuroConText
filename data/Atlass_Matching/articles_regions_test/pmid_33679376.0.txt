@@ -1,0 +1,27 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Cortical Region**
+
+2. **Subcortical Region**
+
+3. **Pontine Region**
+
+4. **Homotopic Cortical Areas**
+
+5. **Occipital Cortex**
+   - **Lingual Gyrus**
+     - Left lingual gyrus (Lingual_L)
+     - Right lingual gyrus (Lingual_R)
+
+6. **Precuneus**
+   - Left precuneus (Precuneus_L)
+
+7. **Ventral Occipitotemporal Cortex**
+
+8. **Default-Mode Network (DMN)**
+
+9. **Frontoparietal Networks**
+
+10. **Temporo-Parieto-Occipital Junction (TPO)**
+
+These regions are involved in cognitive functions such as memory, attention, language processing, and executive functions.

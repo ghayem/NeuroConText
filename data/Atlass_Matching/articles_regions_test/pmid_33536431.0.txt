@@ -1,0 +1,33 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Thalamus**
+   - Anterior nucleus
+   - Ventral intermediate nucleus
+
+2. **Cortex**
+   - Auditory cortex
+   - Motor cortex
+   - Limbic cortex
+   - Executive functioning cortex
+   - Social cognition cortex
+   - Temporal cortex
+   - Sensorimotor cortex
+   - Prefrontal cortex
+   - Precentral gyrus ( left and right)
+   - Postcentral gyrus ( left and right)
+   - Superior parietal lobule (right)
+   - Insulae (right)
+   - Cuneus (right and left)
+
+3. **Default Mode Network (DMN)**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+
+4. **Central Executive Network (CEN)**
+   - Left dorsolateral prefrontal cortex (dlPFC)
+
+5. **Other sub-cortical regions**
+   - Cerebrospinal fluid (CSF)
+   - White matter (WM)
+
+These regions are involved in various cognitive and sensorimotor functions, as well as neurobiological processes associated with autism spectrum disorder (ASD).

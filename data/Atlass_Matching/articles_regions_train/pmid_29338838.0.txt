@@ -1,0 +1,31 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Cortex**
+   - Lateral sulcus
+   - Occipital cortex
+     - Precuneus
+     - Calcarine sulcus (CS)
+     - Primary visual cortex (V1)
+     - Parieto-occipital cortex
+   - Temporal cortex
+     - Primary auditory cortex
+     - Superior temporal gyrus (STG)
+     - Middle temporal gyrus (MTG)
+     - Superior and middle temporal cortex
+   - Frontal regions
+     - Superior frontal regions
+   - Parietal cortex
+   - Prefrontal regions
+   - Inferior frontal gyrus
+   - Planum temporale
+   - hMT+/V5 complex
+
+2. **Subcortical regions**
+   - Optic nerve
+   - Retina
+
+3. **Other regions**
+   - Broca's area
+   - Wernicke's area
+
+These regions are involved in various cognitive functions, including language processing, speech comprehension, visual processing, and multisensory integration.

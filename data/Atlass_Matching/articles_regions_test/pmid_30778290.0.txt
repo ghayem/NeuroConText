@@ -1,0 +1,39 @@
+## Brain Regions and Sub-regions
+
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+    - Anteromedial prefrontal cortex (aMPFC)
+    - Medial prefrontal cortex (mPFC)
+    - Dorsal anterior cingulate cortex (dACC)
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Posterior parietal cortex (PPC)
+    - Premotor areas
+
+2. **Salience Network (SN)**
+    - Anterior insula
+        - Right anterior insula
+    - Posterior insula
+        - Right posterior insula
+    - Central opercular cortex
+    - Midbrain
+
+3. **Frontoparietal Control Network (FPCN)**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Posterior parietal cortex (PPC)
+
+4. **Other Cortical Regions**
+    - Middle occipital gyrus
+    - Cuneus
+    - Precentral gyrus/motor cortex
+    - Lateral occipital cortex
+    - Occipital pole
+    - Occipital cortex
+    - Prefrontal cortex (PFC)
+        - Dorsomedial prefrontal cortex (dMPFC)
+
+5. **Subcortical Regions**
+    - Amygdala
+    - Hippocampus
+
+- These regions are involved in various cognitive and emotional processes, including self-referentiality, emotional regulation, attentional control, and the integration of sensory, emotional, and cognitive information.

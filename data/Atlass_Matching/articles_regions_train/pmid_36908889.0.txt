@@ -1,0 +1,70 @@
+## Brain Regions and Sub-Regions
+
+1. **Left perisylvian cortex**
+
+2. **Right frontal cortex**
+
+3. **Right posterior temporal cortex**
+
+4. **Left frontotemporal network**
+   - Left inferior frontal gyrus (IFG)
+     - Pars triangularis
+     - Pars opercularis
+   - Left posterior superior temporal gyrus (pSTG)
+   - Left middle temporal gyrus (MTG)
+
+5. **Insula**
+   - Anterior portion
+
+6. **Pre-supplementary motor area (pre-SMA)**
+
+7. **Supplementary motor area (SMA)**
+
+8. **Precentral gyrus**
+
+9. **Thalamus**
+
+10. **Putamen**
+
+11. **Cerebellum**
+    - Lobule V
+    - Lobule VI
+    - Lobule VII
+    - Lobule VIII
+    - Crus II
+
+12. **Frontal pole**
+
+13. **Angular gyrus**
+
+14. **Supramarginal gyrus**
+
+15. **Frontoparietal regions**
+
+16. **Ventromedial portion of prefrontal cortex**
+
+17. **Subcortical regions**
+    - Thalamus
+    - Basal ganglia
+
+18. **Temporal regions**
+
+19. **Parietal regions**
+
+20. **Subcortical areas**
+
+21. **Cortical areas**
+
+22. **Left dorsolateral prefrontal cortex**
+
+23. **Left insula**
+
+24. **Right supramarginal gyrus (SMG)**
+
+25. **Left sylvian cortex**
+
+26. **Right frontoparietal areas**
+
+27. **Left cerebellum**
+
+These regions are involved in various cognitive functions including language comprehension, syntactic processing, working memory, and domain-general processes.

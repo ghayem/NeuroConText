@@ -1,0 +1,49 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Hippocampus**
+
+2. **Whole Brain**
+
+3. **Medial Temporal Cortex**
+
+4. **Heteromodal Sensory Association Areas**
+
+5. **Left Lateral Temporal Cortex**
+
+6. **Temporal Cortices**
+   - Lateral
+   - Medial
+
+7. **Parietal Lobes**
+   - Bilateral Inferior Parietal Lobule
+
+8. **Precuneus**
+
+9. **Posterior Cingulate**
+
+10. **Frontal Lobe**
+    - Right Frontal Lobe
+
+11. **Posterior Cingulate Cortex**
+
+12. **Talairach Atlas**
+
+13. **Frontal Cortex**
+    - Left Frontal Cortex
+
+14. **Insular Cortex**
+
+15. **Subcortical Structures**
+
+16. **Gray Matter**
+
+17. **Caudate Nucleus**
+
+18. **Default Mode Network (DMN) Regions**
+    - Posterior Cingulate Cortex (PCC)
+    - Precuneus
+    - Lateral and Medial Temporal Lobe Structures
+
+19. **Left Basal Ganglia**
+
+These regions are involved in various cognitive functions, including memory, language, praxis, and processing speed.

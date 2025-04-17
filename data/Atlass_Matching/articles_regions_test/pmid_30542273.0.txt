@@ -1,0 +1,82 @@
+## Brain Regions and Sub-regions
+
+1. **Substantia nigra**
+   - Substantia nigra pars compacta
+
+2. **Basal ganglia**
+   - Substantia nigra
+
+3. **Cortex**
+   - Temporal pole
+   - Superior frontal cortex
+   - Insula
+   - Isthmus cingulate cortex
+   - Fusiform gyrus
+   - Inferior temporal cortex
+   - Lateral occipital cortex
+   - Posterior cingulate cortex
+   - Middle temporal cortex
+   - Superior parietal cortex
+   - Pars opercularis
+   - Supra marginal gyrus
+   - Precentral cortex
+   - Inferior parietal cortex
+   - Rostral middle frontal cortex
+   - Precuneus
+   - Medial orbitofrontal cortex
+   - Postcentral gyrus
+   - Lateral orbitofrontal cortex
+   - Caudal middle frontal cortex
+
+4. **Gray Matter (GM)**
+   - GM volume
+
+5. **Thalamus**
+
+6. **Caudate**
+
+7. **Cerebellum**
+
+8. **Amygdala**
+
+9. **Frontal lobe**
+   - Frontal cortex
+
+10. **Temporal lobe**
+    - Temporal cortex
+
+11. **Parietal lobe**
+    - Parietal cortex
+
+12. **Occipital lobe**
+    - Occipital cortex
+
+13. **Limbic lobe**
+
+14. **Medial frontal cortex**
+
+15. **Posterior cingulate cortex**
+
+16. **Precuneus**
+
+17. **Lateral occipital cortex**
+
+18. **Temporal cortex**
+
+19. **Dorsolateral prefrontal cortex**
+
+20. **Frontal cortex**
+
+21. **Cingulate cortex**
+
+22. **Mesial frontal cortex**
+
+23. **Posterior cingulate cortex**
+
+24. **Insula**
+
+25. **Right dorsal medulla oblongata shell**
+
+26. **Right dorsal medulla oblongata core**
+
+These regions are involved in various cognitive functions including motor control, language, memory, executive functions, and emotional processing.

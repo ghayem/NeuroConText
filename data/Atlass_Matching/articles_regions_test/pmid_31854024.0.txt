@@ -1,0 +1,24 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Parietal Lobe**
+    - Parietal cortex
+    - Intraparietal sulcus (IPS)
+        - Left IPS
+        - Right IPS
+    - Superior parietal lobule (SPL)
+    - Inferior parietal lobule (IPL)
+
+2. **Frontal Lobe**
+    - Frontal regions (involved in attention and change detection)
+
+3. **Visual Cortex**
+    - Visual cortex
+
+These regions are involved in the following cognitive functions:
+- Numerical processing and representation
+- Symbolic number representation
+- Magnitude representation
+- Ordinal processing
+- Visuo-spatial attention
+- Response selection and motor control
+- Change detection and attentional state modulation

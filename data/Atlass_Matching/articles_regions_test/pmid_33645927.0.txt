@@ -1,0 +1,49 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Inferior Temporal Gyrus (ITG)**
+
+2. **Cuneus**
+   - Left cuneus
+
+3. **Lingual Gyrus**
+   - Right lingual gyrus
+   - Left lingual gyrus
+
+4. **Middle Frontal Gyrus (MFG)**
+   - Left middle frontal gyrus
+
+5. **Superior Frontal Gyrus (SFG)**
+   - Left superior frontal gyrus
+
+6. **Inferior Frontal Gyrus (IFG)**
+   - Left inferior frontal gyrus
+   - Right inferior frontal gyrus
+
+7. **Cerebellum Posterior Lobe (CPL)**
+   - Left cerebellum posterior lobe
+
+8. **Inferior Occipital Gyrus (IOG)**
+   - Left inferior occipital gyrus
+
+9. **Middle Temporal Gyrus (MTG)**
+   - Left middle temporal gyrus
+
+10. **Ventromedial Prefrontal Cortex**
+
+11. **Amygdala**
+
+12. **Calcarine Cortex**
+
+13. **Calcarine Sulcus**
+
+14. **Brodmann Area 18**
+
+15. **Brodmann Area 11**
+
+16. **Primary Visual Cortex (V1)**
+
+17. **Secondary Visual Cortex (V2)**
+
+18. **Ventral Occipital (VO) Lobe**
+
+These regions are involved in various cognitive functions, including visual processing, motor coordination, attention, language, and emotional regulation.

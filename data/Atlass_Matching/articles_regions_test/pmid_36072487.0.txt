@@ -1,0 +1,24 @@
+1. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Medial prefrontal cortex (mPFC)
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+
+2. **Temporal Cortex**
+   - Temporal cortex
+   - Parahippocampal gyrus (PHG)
+
+3. **Cingulate Cortex**
+   - Posterior cingulate cortex (PCC)
+   - Anterior cingulate cortex (ACC)
+
+4. **Hippocampal Region**
+   - Hippocampus
+
+5. **White Matter (WM)**
+
+6. **Cerebrospinal Fluid (CSF)**
+
+7. **Gray Matter (GM)**
+
+- These regions are involved in various cognitive functions including memory, prospection, self-processing, autobiographical memory, spatial navigation, executive function, visuospatial memory, and processing of emotional and non-emotional information.

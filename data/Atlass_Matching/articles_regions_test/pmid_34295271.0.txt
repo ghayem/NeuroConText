@@ -1,0 +1,42 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Auditory Cortex**
+
+2. **Amygdala**
+    - Left amygdala
+    - Right amygdala
+
+3. **Frontal Cortex**
+    - Frontolimbic connections
+
+4. **Limbic System**
+    - Amygdala
+
+5. **Medial-Prefrontal Cortex**
+
+6. **Lateral-Prefrontal Cortex**
+
+7. **Anterior Cingulate Cortex**
+
+8. **Insula**
+
+9. **Putamen**
+    - Left putamen
+
+10. **Mediofrontal Orbital Cortex**
+    - Left mediofrontal orbital cortex
+
+11. **Precuneus**
+    - Left precuneus
+
+12. **Precentral Gyrus**
+    - Right precentral gyrus
+
+13. **Superior Parietal Cortex**
+    - Left superior parietal cortex
+
+14. **Default Mode Network (DMN)**
+    - Precuneus
+    - Superior parietal cortex
+
+These regions are involved in various cognitive and emotional processes, including emotional reactivity, emotion regulation, social cognitive processing, and self-referential thinking.

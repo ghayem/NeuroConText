@@ -1,0 +1,56 @@
+1. **Primary Somatosensory Cortex (S1)**
+
+2. **Primary Motor Cortex (M1)**
+
+3. **Primary Visual Cortex (V1)**
+
+4. **Thalamus**
+   - Thalamus-cortical circuit
+
+5. **Sensorimotor Network**
+
+6. **Default Mode Network**
+
+7. **Superior Frontal Gyrus**
+
+8. **Middle Frontal Gyrus**
+
+9. **Left Precentral Gyrus**
+   - Left precentral gyrus
+
+10. **Right Precentral Gyrus**
+
+11. **Left Postcentral Gyrus**
+    - Left postcentral gyrus
+
+12. **Right Postcentral Gyrus**
+
+13. **Right Hippocampus**
+
+14. **Right Parahippocampus**
+
+15. **Right Amygdala**
+
+16. **Right Pallidum**
+
+17. **Right Anterior Cingulate Gyrus**
+
+18. **Left Thalamus**
+
+19. **Right Thalamus**
+
+20. **Left Calcarine Gyrus**
+
+21. **Right Calcarine Gyrus**
+
+22. **Left Precuneus**
+
+23. **Right Precuneus**
+
+24. **Left Supplementary Motor Area**
+
+25. **Right Supplementary Motor Area**
+
+26. **Posterior Cortical Areas**
+
+These regions are involved in various cognitive and motor functions, including sensory processing, motor control, visual processing, memory, and executive functions.

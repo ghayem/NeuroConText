@@ -1,0 +1,64 @@
+Based on the neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Occipital Cortex**
+   - V1
+   - V2
+   - hOC3V
+   - hOC3D
+   - hOC4V
+   - hOC4D
+   - MT/V5 (hMT+)
+   - Fusiform gyrus
+   - Cuneus
+
+2. **Visual System**
+   - Optic chiasm
+   - Lateral geniculate nucleus
+   - Posterior pulvinar
+   - Striate and extra-striate visual areas
+   - Inferior temporal gyrus
+   - Lateral orbital cortex
+   - Hippocampus
+
+3. **Parietal Cortex**
+   - S1 (Primary somatosensory cortex)
+   - Lateral BA5
+   - Anterior BA7
+   - Posterior BA7
+   - BA40 (Supramarginal gyrus)
+   - Middle cingulate cortex
+
+4. **Auditory Cortex**
+   - A1 (Primary auditory cortex)
+
+5. **Frontal Cortex**
+   - Inferior frontal cortex (Broca's area)
+     - BA44
+     - BA45
+   - Middle frontal areas
+   - Anterior prefrontal cortex (BA10)
+   - Primary motor cortex
+
+6. **Temporal Cortex**
+   - Inferior temporal cortex (BA20)
+   - Middle temporal region (BA22)
+   - Inferior temporal area (BA21)
+
+7. **Other Subcortical and White Matter Regions**
+   - Thalamus
+   - Cerebellum
+   - Optic tracts
+   - Optic radiations
+   - Splenium of the corpus callosum
+   - White matter (WM)
+   - Cerebrospinal fluid (CSF)
+   - Ventral visual pathways
+
+8. **Other Regions**
+   - Wernicke's area
+   - Ventral visual stream
+   - Dorsal visual stream
+   - Pre- and post-central areas
+   - Medial prefrontal cortical area
+
+These regions are involved in various cognitive functions, including sensory processing, language, memory, and spatial navigation.

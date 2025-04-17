@@ -1,0 +1,52 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Medial prefrontal cortex (MPFC)
+   - Left middle frontal gyrus
+   - Right superior frontal gyrus
+   - Precentral gyrus
+   - Inferior frontal gyrus (IFG)
+   - Superior medial frontal cortex (SMFC)
+
+2. **Parietal Lobe**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+   - Inferior parietal lobule (IPL)
+   - Lateral parietal cortex
+
+3. **Occipital Lobe**
+   - Left middle occipital gyrus (MOG)
+   - Cuneus
+
+4. **Temporal Lobe**
+   - Left superior temporal gyrus
+
+5. **Limbic System**
+   - Cingulate cortex
+   - Hippocampus
+   - Parahippocampal cortex
+
+6. **Motor Cortex**
+   - Supplementary motor area (SMA)
+   - Pre-supplementary motor area (pre-SMA)
+
+7. **Cerebellum**
+   - Cerebellum Crus II
+   - Cerebellar hemispheric lobules (VI, VII)
+
+8. **Other Cortical Regions**
+   - Default-mode network (DMN)
+   - Ventricular seeds
+   - White matter (WM)
+   - Middle frontal cortex
+   - Frontal pole
+
+9. **Subcortical Regions**
+   - Thalamus
+   - Basal ganglia
+
+10. **Brainstem and Other Regions**
+    - Brainstem
+    - Sylvian fissure region
+
+These regions are involved in various cognitive and emotional processes, including memory, emotion regulation, self-referential processing, visuospatial processing, and motor control. The article discusses their roles in the context of major depressive disorder (MDD) and gastrointestinal (GI) symptoms.

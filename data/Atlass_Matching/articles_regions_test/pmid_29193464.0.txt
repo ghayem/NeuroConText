@@ -1,0 +1,49 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia**
+
+2. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+
+3. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex
+
+4. **Frontal Lobe**
+   - Frontal pole
+   - Anterior cingulate network
+   - Left fronto-parietal network
+   - Supplementary motor area network
+
+5. **Insular Cortex**
+   - Insular network 1
+   - Insular network 2
+
+6. **Motor Cortex**
+   - Primary motor cortex
+   - Right motor network
+   - Lateral sensorimotor network
+   - Medial sensorimotor network
+   - Left motor network
+
+7. **Occipital Lobe**
+   - Occipital pole network
+
+8. **Parietal Lobe**
+   - Left fronto-parietal network
+
+9. **Temporal Lobe**
+   - Temporal network
+   - Temporal pole network
+   - Inferior temporal regions
+
+10. **Thalamus**
+
+These regions are involved in various cognitive functions and neurological symptoms, including:
+
+- Motor functions (basal ganglia, motor cortex, sensorimotor networks)
+- Visual processing (occipital lobe, temporal networks)
+- Cognitive control and emotional processing (anterior cingulate cortex)
+- Attentional networks (frontal and parietal networks)
+- Memory and executive functions (default mode network, frontal networks)
+- Salience and interoceptive processing (insular cortex)
+- Language and semantic processing (temporal pole network)

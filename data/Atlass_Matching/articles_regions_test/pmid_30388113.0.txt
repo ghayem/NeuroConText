@@ -1,0 +1,38 @@
+## Brain regions and sub-regions:
+
+1. **Nucleus accumbens (NAcc)**
+
+2. **Orbitofrontal cortex (OFC)**
+   - Left OFC
+   - Left medial OFC
+   - Right NAcc
+
+3. **Ventromedial prefrontal cortex (VMPFC)**
+
+4. **Fronto-parietal (FP) control system**
+   - Right inferior parietal lobule
+   - Left inferior parietal lobule
+   - Right precuneus
+   - Left lingual gyrus
+   - Right middle frontal gyrus
+   - Right middle temporal cortex
+
+5. **Left middle occipital gyrus**
+
+6. **Left supramarginal gyrus**
+
+7. **Right postcentral gyrus**
+
+8. **Right inferior frontal gyrus**
+
+9. **Right insula**
+
+10. **Left occipitotemporal cortex**
+
+11. **Left precentral gyrus**
+
+12. **Left cuneus**
+
+13. **Dorsolateral prefrontal cortex (DLPFC)**
+
+These regions are involved in these cognitive functions: reward processing, cognitive control, self-regulation, decision-making, and food evaluation.

@@ -1,0 +1,39 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+2. **Intraparietal Sulcus (IPS)**
+
+3. **Anterior Insular Cortex (aIC)**
+    - Left anterior Insular Cortex ( left aIC)
+    - Bilateral anterior Insular Cortex (bilateral aIC)
+    - Left operculum (extending from left aIC)
+
+4. **Anterior Cingulate Cortex (ACC)**
+    - Dorsal Anterior Cingulate Cortex (dorsal ACC)
+    - Anterior Midcingulate Cortex (based on a more recent receptor-based neurobiological model)
+    - Left dorsal Anterior Cingulate Cortex (left dorsal ACC)
+
+5. **Striatum**
+    - Dorsal striatum
+    - Left lateral caudate nucleus (part of dorsal striatum)
+    - Caudate nucleus (stretching across the internal capsule to the putamen)
+    - Bilateral striatal/thalamic areas
+
+6. **Middle Frontal Gyrus (MFG)**
+    - Left Middle Frontal Gyrus (left MFG)
+    - Bilateral Middle Frontal Gyrus (bilateral MFG)
+
+7. **Angular Gyrus**
+
+8. **Precentral Gyrus/Primary Motor Cortex (M1)**
+
+9. **Posterior Medial Superior Frontal Gyrus (SFG)**
+
+10. **Lateral Superior Frontal Gyrus (SFG)**
+    - Left lateral Superior Frontal Gyrus (left lateral SFG)
+
+11. **Frontal Eye Field (FEF)**
+    - Located in the posterior medial Superior Frontal Gyrus (SFG)
+
+These regions are involved in various cognitive functions, including mental effort investment, task management, performance monitoring, cognitive control, and reward/cost evaluations.

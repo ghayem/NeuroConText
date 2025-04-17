@@ -1,0 +1,73 @@
+## The brain regions:
+
+1. **Fusiform Gyrus (FFG)**
+   - Right Fusiform Gyrus (FFG. R)
+
+2. **Median Cingulate and Paracingulate Gyri (DCG)**
+   - Right Median Cingulate and Paracingulate Gyri (DCG. R)
+
+3. **Medial Orbital of the Superior Frontal Gyrus (ORBsupmed)**
+   - Bilateral Medial Orbital of the Superior Frontal Gyrus (ORBsupmed. L/R)
+
+4. **Medial Superior Frontal Gyrus (SFGmed)**
+   - Bilateral Medial Superior Frontal Gyrus (SFGmed. L/R)
+
+5. **Posterior Cingulate Gyrus (PCG)**
+   - Bilateral Posterior Cingulate Gyrus (PCG. L/R)
+
+6. **Pallidum (PAL)**
+   - Left Pallidum (PAL. L)
+
+7. **Superior Temporal Gyrus (STG)**
+   - Right Superior Temporal Gyrus (STG. R)
+
+8. **Postcentral Gyrus (PoCG)**
+   - Right Postcentral Gyrus (PoCG. R)
+
+9. **Inferior Parietal Lobule (IPL)**
+   - Right Inferior Parietal Lobule (IPL. R)
+
+10. **Precuneus/Posterior Cingulate Cortex (PCC)**
+    - Precuneus/Posterior Cingulate Cortex (PCC)
+
+11. **Medial Prefrontal Cortex (MPFC)**
+    - Medial Prefrontal Cortex (MPFC)
+
+12. **Ventral Anterior Cingulate Cortex**
+    - Ventral Anterior Cingulate Cortex
+
+13. **Subgenual Cingulate Cortex**
+    - Subgenual Cingulate Cortex
+
+14. **Subgenual Prefrontal Cortex**
+    - Subgenual Prefrontal Cortex
+
+15. **Bilateral Angular Gyrus**
+    - Bilateral Angular Gyrus
+
+16. **Middle Occipital Gyrus**
+    - Middle Occipital Gyrus
+
+17. **Occipital Gyrus**
+    - Occipital Gyrus
+
+18. **Temporo-Parieto-Occipital Junction (TPO)**
+    - Temporo-Parieto-Occipital Junction (TPO)
+
+19. **Default Mode Network (DMN)**
+    - Anterior DMN
+    - Posterior DMN
+
+20. **Salience Network**
+    - Salience Network
+
+21. **Central Executive Network**
+    - Central Executive Network
+
+22. **Striatum**
+    - Striatum
+
+23. **Amygdala**
+    - Amygdala
+
+- These regions are involved in these cognitive functions: emotion regulation, cognitive processing, visual information processing, rumination, episodic memory, emotional awareness, emotional regulation, impulse control, reward processing, anhedonia, somatosensory processing, and social cognition.

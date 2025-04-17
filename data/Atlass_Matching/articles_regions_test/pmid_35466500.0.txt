@@ -1,0 +1,65 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Multisensory and Sensorimotor Brain Systems**
+   - Involved in bodily self-representation.
+
+2. **Cortical Midline Structures**
+   - Involved in conceptual self-representation.
+
+3. **Inferior Frontal Gyrus (IFG)**
+   - Part of the human mirror-neuron system.
+   - Involved in action recognition.
+
+4. **Ventromedial Prefrontal Cortex (vmPFC)**
+   - Involved in processing abstract self-related information.
+
+5. **Temporal Parietal Junction (TPJ)**
+   - Involved in self-other distinction across cognitive processes.
+   - Includes the angular gyrus.
+
+6. **Frontal Cortices**
+   - Involved in action recognition and part of the human mirror-neuron system.
+
+7. **Superior Frontal Gyrus**
+   - Involved in self-related processing.
+
+8. **Middle Frontal Gyrus (MFG)**
+   - Involved in action observation and imitation.
+
+9. **Supplementary Motor Area (SMA)**
+   - Involved in action observation and imitation.
+
+10. **Parietal Cortex**
+    - Involved in movement decoding.
+
+11. **Occipital Cortex**
+    - Involved in movement decoding.
+
+12. **Temporal Cortex**
+    - Involved in movement decoding.
+
+13. **Precentral Gyrus**
+    - Involved in movement decoding.
+
+14. **Posterior Middle Temporal Gyrus**
+    - Involved in movement decoding.
+
+15. **Superior Parietal Lobe**
+    - Involved in movement decoding.
+
+16. **Inferior Occipital Gyrus**
+    - Involved in movement decoding.
+
+17. **Lateral Occipital Cortex (LOC)**
+    - Includes the motion-sensitive human middle temporal (hMT) region and the extrastriate body area (EBA).
+
+18. **Superior- and Intraparietal Lobe Regions (SPL/IPL)**
+    - Involved in visual and tactile WM tasks.
+
+19. **Premotor/Motor Cortices**
+    - Involved in movement decoding.
+
+20. **Superior Temporal Sulcus (STS)**
+    - Involved in social perception and sensitive to biological motion and goal-directed actions.
+
+These regions are involved in various cognitive functions, including self-representation, action recognition, working memory, and social perception.

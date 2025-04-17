@@ -1,0 +1,40 @@
+## The brain regions:
+
+1. **Cerebellum**
+   - Cerebellar grey matter
+   - Cerebellar white matter
+
+2. **Frontal Cortex**
+   - Left frontal cortex
+   - Prefrontal cortex
+
+3. **Hippocampus**
+   - Left hippocampal volume
+   - Right hippocampal volume
+   - Dentate gyrus
+
+4. **Amygdala**
+   - Nucleus accumbens
+   - Basolateral amygdala
+
+5. **Ventral Striatum**
+   - Nucleus accumbens
+
+6. **Thalamus**
+   - Left thalamus
+
+7. **Lingual Gyrus**
+   - Right lingual gyrus
+
+8. **Precuneus**
+   - Right precuneus
+
+9. **Orbitofrontal Cortex**
+
+10. **Anterior Cingulate Cortex**
+
+11. **Anterior Insula**
+
+12. **Ventral Tegmental Area**
+
+These regions are involved in various cognitive functions and processes, including reward processing, emotional regulation, memory, and executive functions.

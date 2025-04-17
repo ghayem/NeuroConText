@@ -1,0 +1,45 @@
+1. **Fronto-basal ganglia loops**
+   - Inferior frontal gyrus (IFG)
+   - Pre-supplementary motor area (preSMA)
+   - Subthalamic nucleus (STN)
+   - Striatum (Str)
+   - Globus pallidus internus (GPi)
+   - Globus pallidus externus (GPe)
+   - Substantia nigra pars reticulata (SNr)
+   - Thalamus (Thal)
+
+2. **Locus coeruleus (LC)**
+   - Noradrenaline neurons
+
+3. **Substantia nigra (SN)**
+   - Dopamine neurons
+
+4. **Right inferior frontal gyrus (IFG)**
+
+5. **Dorsomedial striatum**
+
+6. **Dorsostriatal**
+
+7. **Cerebral peduncle**
+
+8. **Pontine**
+
+9. **Subthalamic nucleus (STN)**
+   - Ventral STN
+
+10. **Pre-supplementary motor area (preSMA)**
+
+11. **Caudate nucleus**
+   - Right caudate nucleus
+
+12. **Right subthalamic nucleus (STN)**
+
+13. **Fronto-subthalamic pathway**
+
+14. **Fronto-striatal pathway**
+
+15. **Fronto-subthalamic hyperdirect pathway**
+
+16. **Fronto-striatal indirect pathway**
+
+These regions are involved in these cognitive functions: executive functions, response inhibition, and motor control.

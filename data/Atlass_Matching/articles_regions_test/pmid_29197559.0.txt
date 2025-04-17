@@ -1,0 +1,65 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal and Lateral Temporal Regions**
+
+2. **Bilateral Anterior Temporal Lobe**
+
+3. **Left-Lateralized Fronto-Temporal Network**
+    - **Left Inferior Frontal Gyrus**
+        - Pars opercularis
+        - Pars triangularis
+
+4. **Left Posterior Middle Temporal Gyrus (pMTG)**
+    - Posterior part
+    - Temporooccipital part
+
+5. **Dorsal Angular Gyrus**
+
+6. **Posterior Cingulate Cortex**
+
+7. **Left Orbito-Frontal Cortex**
+
+8. **Left Pre-Frontal Cortex**
+
+9. **Left Parietal Cortex**
+
+10. **Left Temporal Cortex**
+
+11. **Bilateral Frontal Regions**
+
+12. **Bilateral Temporal Regions**
+
+13. **Left Inferior Frontal Region**
+
+14. **Left Anterior Temporal Region**
+
+15. **Left Superior Frontal Gyrus**
+
+16. **Left Angular Gyrus**
+
+17. **Right Temporal Pole**
+
+18. **Wernicke’s Area**
+    - **Left Planum Temporale**
+    - **Left Parietal Operculum**
+
+19. **Left Superior Frontal Gyrus (bilaterally)**
+
+20. **Posterior Part of the Left Superior and Middle Temporal Gyrus**
+
+21. **Left Temporo-Parietal Regions**
+
+22. **Broca’s Region**
+    - BA44
+    - BA45
+    - BA47
+
+23. **Transentorhinal Cortex**
+
+24. **Medial Temporal Lobe**
+
+25. **Lateral Temporal Regions**
+    - Inferior regions
+    - Superior regions
+
+- These regions are involved in cognitive functions such as language, semantic memory, episodic memory, executive functions, and reasoning.

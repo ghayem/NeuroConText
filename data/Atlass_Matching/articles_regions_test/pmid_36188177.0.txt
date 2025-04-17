@@ -1,0 +1,41 @@
+## Brain Regions and Sub-Regions:
+
+1. **Right Superior Parietal Lobule**
+
+2. **Middle Frontal Gyrus**
+
+3. **Left Precuneus**
+
+4. **Primary Visual Cortex**
+
+5. **Visual-Related Region**
+
+6. **Cognitive-Related Region**
+
+7. **Bilateral Posterior Thalamic**
+
+8. **Bilateral Sagittal Stratum**
+
+9. **Parietal Cortex**
+
+10. **Sensorimotor Areas**
+
+11. **Visual Areas**
+
+12. **Middle Occipital Gyrus**
+   - Bilateral
+
+13. **Cerebellum**
+   - Bilateral cerebellum_4_5
+   - Right cerebellum_crus1
+
+14. **Inferior Temporal Gyrus**
+   - Right
+
+15. **Cerebrovascular Disease**
+   - Perilesional primary motor cortex
+
+16. **Ischemic Pontine Stroke**
+   - Bilateral cerebellar posterior lobe
+
+These regions are involved in various neurophysiological functions, including visual processing, motor control, cognitive functions, and balance perception.

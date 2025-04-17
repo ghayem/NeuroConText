@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Brainstem**
+   - Medullary respiratory center
+
+2. **Cerebellum**
+   - Right cerebellum crus
+
+3. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+
+4. **Fusiform Gyrus**
+   - Right fusiform gyrus
+
+5. **Postcentral Gyrus**
+   - Left postcentral gyrus
+
+6. **Cortico-Limbic Circuitry**
+   - Includes cortical, limbic, and paralimbic regions
+
+7. **Central Autonomic Network**
+   - Cingulate gyrus
+   - Insula
+   - Supplementary motor area
+   - Hippocampal formation
+   - Amygdala
+   - Cerebellum
+
+8. **Motor Division of Respiratory Sensorimotor Neural Circuitry**
+   - Motor cortex
+   - Supplementary motor area
+   - Basal ganglia
+   - Cerebellum
+   - Brainstem
+
+9. **Sensory Division of Respiratory Sensorimotor Neural Circuitry**
+   - Insula
+   - Amygdala
+   - Sensory cortex
+   - Cerebellum
+
+These regions are involved in various functions related to respiratory control, autonomic regulation, and sensorimotor integration.

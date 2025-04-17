@@ -1,0 +1,36 @@
+## Brain Regions and Sub-regions
+
+1. **Hippocampus**
+   - Left hippocampus
+
+2. **Prefrontal Cortex**
+   - Left orbitofrontal cortex (OFC)
+   - Right middle frontal cortex (MFC)
+   - Right inferior frontal cortex (IFC)
+
+3. **Cingulate Cortex**
+
+4. **Frontal Cortex**
+   - Inferior frontal cortex (IFC)
+   - Middle frontal cortex (MFC)
+
+5. **Temporal Lobe**
+   - Medial temporal lobe memory system (includes hippocampus)
+
+6. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Anterior part of right MFC (BA 10)
+
+7. **Front-Basal-Ganglia Circuits**
+   - Pars opercularis of the right IFC (Brodmann’s Area 44)
+
+8. **Thalamus**
+
+9. **Caudate Nucleus**
+
+10. **Primary and Secondary Association Regions of the Neocortex**
+
+11. **Subthalamic Nucleus**
+
+12. **Tumor Volume**
+
+- These regions are involved in these cognitive functions: memory, executive functions, verbal memory, non-verbal memory, information consolidation, declarative memory, language processing, planning, working memory, cognitive flexibility, inhibitory control, response to inhibition, flexible associative encoding, emotion, reward, and Go/No-Go tasks.

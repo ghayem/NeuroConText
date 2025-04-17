@@ -1,0 +1,43 @@
+1. **Intraparietal sulcus (IPS)**
+
+2. **Inferior frontal gyrus (IFG)**
+
+3. **Middle occipital gyrus**
+
+4. **Right fusiform gyrus**
+
+5. **Right inferior occipital gyrus**
+
+6. **Left lingual gyrus**
+
+7. **Left superior parietal gyrus**
+
+8. **Right anterior insula**
+
+9. **Left thalamus**
+
+10. **Left posterior parietal cortex**
+
+11. **Left dorsal premotor cortex**
+
+12. **Left medial temporal lobe**
+
+13. **Left and right extrastriate cortex**
+
+14. **Right calcarine sulcus**
+
+15. **Right cerebellar hemisphere**
+
+16. **Vermis**
+
+17. **Area V1**
+
+18. **Area V2**
+
+19. **Primary sensory areas**
+
+20. **Primary visual areas**
+
+21. **Secondary visual areas**
+
+These regions are involved in various cognitive functions, including visual processing, visuospatial search, perception of complex geometric figures, and local vs. global processing.

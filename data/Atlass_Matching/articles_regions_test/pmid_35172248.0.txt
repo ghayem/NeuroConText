@@ -1,0 +1,62 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Precuneus**
+
+2. **Posterior Cingulate Cortex (PCC)**
+
+3. **Lingual Gyrus**
+    - Bilateral lingual gyrus
+
+4. **Superior Temporal Gyrus**
+    - Bilateral superior temporal gyrus
+    - Right superior temporal gyrus
+
+5. **Inferior Frontal Gyrus (IFG)**
+
+6. **Supplementary Motor Area (SMA)**
+    - Right SMA
+
+7. **Cuneus**
+
+8. **Supramarginal Gyrus**
+
+9. **Postcentral Gyrus**
+
+10. **Medial Temporal Pole**
+
+11. **Superior Medial Gyrus**
+
+12. **Middle Frontal Gyrus**
+    - Left middle frontal gyrus
+
+13. **Medial Frontal Gyrus**
+    - Anterior medial frontal gyrus
+
+14. **Insula**
+
+15. **Inferior Parietal Lobule**
+
+16. **Thalamus**
+
+17. **Caudate**
+
+18. **Amygdala**
+    - Right amygdala
+
+19. **Default Mode Network (DMN)**
+    - Includes subnetworks highly interconnected to cognitive processes involved in behavioral therapy
+
+20. **Fronto-parietal Network**
+
+21. **Cingulo-opercular Network**
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Self-awareness and self-reflection (precuneus, PCC)
+- Language processing (lingual gyrus, superior temporal gyrus, IFG, SMA)
+- Memory and understanding others' minds (DMN)
+- Executive control and attention (middle frontal gyrus, medial frontal gyrus)
+- Emotion processing (amygdala, insula)
+- Social cognition and comprehension (superior temporal gyrus, supramarginal gyrus)
+- Motor planning and coordination (postcentral gyrus, SMA)
+- Visual processing (cuneus, lingual gyrus)
+- Decision-making and reward processing (caudate, thalamus)

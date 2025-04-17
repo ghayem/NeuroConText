@@ -1,0 +1,39 @@
+{
+  "AAL": [
+    "Precuneus_L",
+    "Precuneus_R",
+    "Thalamus_L",
+    "Thalamus_R"
+  ],
+  "Harvard_Oxford": [],
+  "DiFuMo": [
+    "Interhemispheric fissure precuneus",
+    "Precuneus anterior",
+    "Precuneus anterior LH",
+    "Precuneus antero-inferior RH",
+    "Precuneus antero-superior",
+    "Precuneus antero-superior LH",
+    "Precuneus inferior LH",
+    "Precuneus interhemispheric fissure",
+    "Precuneus middle LH",
+    "Precuneus middle RH",
+    "Precuneus middle superior LH",
+    "Precuneus middle superior RH",
+    "Precuneus posterior",
+    "Precuneus posterior LH",
+    "Precuneus posterior RH",
+    "Precuneus postero-inferior LH",
+    "Precuneus postero-superior",
+    "Precuneus postero-superior RH",
+    "Precuneus superior",
+    "Precuneus superior RH",
+    "Thalamus LH",
+    "Thalamus anterior RH",
+    "Thalamus antero-superior",
+    "Thalamus inferior",
+    "Thalamus lateral LH",
+    "Thalamus middle",
+    "Thalamus posterior RH",
+    "Thalamus superior"
+  ]
+}

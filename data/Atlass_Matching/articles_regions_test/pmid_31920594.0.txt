@@ -1,0 +1,54 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Polar medial prefrontal cortex (MPFC)
+   - Medial frontal cortex (MFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Inferior frontal gyrus (IFG)
+
+2. **Premotor Cortex**
+   - Premotor cortex (PMC)
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus (MTG)
+   - Inferior temporal gyrus (ITG)
+
+4. **Parietal Cortex**
+   - Inferior parietal lobule (IPL)
+   - Superior parietal lobule (SPL)
+   - Temporal-parietal junction (TPJ)
+   - Supramarginal gyrus (SMG)
+   - Angular gyrus (AG)
+
+5. **Occipital Cortex**
+   - Cuneus
+   - Precuneus
+   - Occipital gyrus
+
+6. **Frontal Cortex**
+   - Superior frontal gyrus (SFG)
+   - Middle frontal gyrus (MFG)
+
+7. **Motor Cortex**
+   - Precentral gyrus (PreCG)
+   - Postcentral gyrus (PostCG)
+   - Supplementary motor area (SMA)
+
+8. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex
+
+These regions are involved in various cognitive functions, including:
+
+- **Internally directed attention/spontaneous cognition**: MPFC, MFC
+- **Externally directed attention/cognitive control**: IFG, PMC, DLPFC
+- **Feedback regulation of perceptual-motor processing and control**: STG, IPL, TPJ, PMC, PreCG, PostCG
+- **Internally motivated cognition (self-expression)**: Polar MPFC
+- **Executive control mediated by conscious self-monitoring**: DLPFC
+- **Low-level imaginative processes**: MFC, IPL
+- **Coordination of complex action underlying sequential planning**: MFC, ACC, SMA
+- **Sensory predictive feedback**: IPL
+- **Transformation of auditory signals into a form that constrains motor processing**: TPJ
+- **Reward-based modulation by music**: TPJ
+- **Visual observation and processing**: Cuneus, precuneus, occipital gyrus

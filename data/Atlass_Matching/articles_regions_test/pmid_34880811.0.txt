@@ -1,0 +1,64 @@
+## Brain Regions and Sub-Regions
+
+1. **Bilateral Cerebellum**
+
+2. **Supramarginal Gyrus (SMG)**
+
+3. **Hippocampus**
+
+4. **Amygdala**
+
+5. **Anterior Insula**
+
+6. **Posterior Insula**
+
+7. **Inferior Frontal Gyrus (IFG)**
+
+8. **Postcentral Gyrus**
+
+9. **Primary Somatosensory Cortex (S1)**
+
+10. **Secondary Somatosensory Cortex (S2)**
+
+11. **Thalamus**
+
+12. **Caudate Nucleus**
+
+13. **Anterior Cingulate Cortex (ACC)**
+
+14. **Middle Cingulate Cortex**
+
+15. **Middle Frontal Gyrus**
+
+16. **Inferior Frontal Gyrus**
+
+17. **Medial Frontal Gyrus**
+
+18. **Left Entorhinal Cortex**
+
+19. **Left Putamen**
+
+20. **Supplementary Motor Area (SMA)**
+
+21. **Precuneus**
+
+22. **Superior Frontal Gyrus**
+
+23. **Parietal Regions**
+   - Supramarginal Gyrus (SMG)
+   - Angular Gyrus (AG)
+
+24. **Temporal Regions**
+   - Superior Temporal Gyrus (STG)
+
+25. **Parahippocampal Gyrus**
+
+26. **Right Thalamus**
+
+27. **Left Dorsal Striatum**
+
+28. **Left Medial Frontal Gyrus**
+
+29. **Right Caudate Nucleus**
+
+These regions are involved in cognitive functions such as humor detection, comprehension, appreciation, affective regulation, mentalizing, and empathy.

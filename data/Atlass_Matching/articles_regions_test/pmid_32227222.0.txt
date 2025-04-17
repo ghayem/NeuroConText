@@ -1,0 +1,28 @@
+Based on the neuroscientific article provided, the following brain regions and sub-regions are mentioned:
+
+1. **Hippocampus**
+    - Left anterior hippocampus
+
+2. **Neocortex**
+
+3. **Medial temporal lobe**
+
+4. **Centroparietal electrodes**
+    - C3
+    - C4
+
+5. **Frontal electrodes**
+    - F3
+    - F4
+
+6. **Occipital electrodes**
+    - O1
+    - O2
+
+7. **Electrooculographic (EOG) channels**
+    - EOG1
+    - EOG2
+
+8. **Submental electromyography (EMG) measures**
+
+These regions are involved in these cognitive functions: memory encoding, learning, attentiveness, systems consolidation, synaptic downscaling, and declarative memory.

@@ -1,0 +1,55 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Inferior Temporal Cortex**
+   - Inferior temporal gyrus
+
+2. **Inferior Frontal Cortex**
+   - Inferior frontal gyrus
+
+3. **Supramarginal Gyrus**
+
+4. **Angular Gyrus**
+
+5. **Prefrontal Cortex**
+   - Left prefrontal area
+   - Mid-dorsolateral prefrontal cortex
+   - Posterior inferior frontal sulcus
+   - Medial superior frontal gyrus
+   - Precentral gyrus
+   - Opercular cortex
+   - Dorsomedial prefrontal cortex (dmPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+
+6. **Occipital Cortex**
+   - Occipital poles
+   - Medial prestriate cortex
+
+7. **Temporal Cortex**
+   - Ventrolateral temporal area
+   - Middle temporal gyrus
+   - Superior temporal sulcus
+   - Left middle temporal gyrus
+   - Left posterior superior and middle temporal lobe (Wernicke’s area)
+   - Ventral occipitotemporal cortex
+   - Visual word form area (VWFA)
+   - Left middle temporal gyrus
+
+8. **Parietal Cortex**
+   - Inferior parietal cortex
+   - Angular gyrus
+   - Superior parietal cortex
+
+9. **Subcortical Regions**
+   - Medial caudate
+   - Medial orbitofrontal cortex
+
+10. **Other Regions**
+    - Pre-SMA
+    - Left medial prestriate cortex
+    - Left mid-dorsolateral prefrontal cortex
+    - Left posterior inferior frontal sulcus
+    - Left medial superior frontal gyrus
+    - Left angular and middle temporal gyrus (AG/MTG)
+    - Left precentral/opercular cortex
+
+These regions are involved in various cognitive functions including visual word recognition, memory, language comprehension, and executive control processes.

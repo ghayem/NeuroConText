@@ -1,0 +1,13 @@
+## Brain regions and sub-regions:
+
+1. **Mesolimbic dopaminergic system**
+   - Striatum
+   - Ventromedial prefrontal cortex (vMPFC)
+
+2. **Prefrontal cortical network**
+   - Dorsal anterior cingulate (dACC)
+   - Lateral prefrontal cortex (LPFC)
+
+3. **Temporo-parieto-occipital junction (TPJ)**
+
+These regions are involved in these cognitive functions: subjective value, top-down control, conflict monitoring, reappraisal, error correction, cognitive effort, and choice difficulty.

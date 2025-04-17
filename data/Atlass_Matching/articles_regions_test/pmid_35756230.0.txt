@@ -1,0 +1,37 @@
+Based on the article, the mentioned brain regions and sub-regions are as follows:
+
+1. **Amygdala**
+    - Left amygdala
+
+2. **Frontal Regions**
+    - Frontal eye field
+    - Prefrontal area
+    - Inferior frontal gyrus
+    - Supplementary motor area
+
+3. **Parietal Regions**
+    - Postcentral area
+    - Parietal lobe
+    - Superior temporal gyrus
+    - Supramarginal gyrus
+    - Inferior parietal gyrus
+
+4. **Temporal Regions**
+    - Temporal area
+    - Superior temporal gyrus
+
+5. **Cingulate Regions**
+    - Cingulate gyrus
+    - Anterior cingulate
+
+6. **Insula**
+    - Anterior insula
+    - Ventral anterior insula
+
+7. **Other Regions**
+    - Posterior cingulate cortex
+    - Medial frontal area
+    - Limbic system
+    - Bilateral brainstem
+
+These regions are involved in various cognitive functions, including emotional regulation, cognitive control, motivation, attention, and the processing of valence information.

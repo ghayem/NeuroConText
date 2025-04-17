@@ -1,0 +1,49 @@
+{
+  "AAL": [
+    "Caudate_L",
+    "Caudate_R"
+  ],
+  "Harvard_Oxford": [
+    "Occipital Fusiform Gyrus"
+  ],
+  "DiFuMo": [
+    "Caudate",
+    "Caudate LH",
+    "Caudate anterior RH",
+    "Caudate antero-superior",
+    "Caudate posterior ",
+    "Caudate posterior LH",
+    "Caudate posterior RH",
+    "Caudate superior anterior",
+    "Caudate superior posterior",
+    "Cerebellum Crus I LH",
+    "Cerebellum Crus I RH",
+    "Cerebellum Crus I anterior LH",
+    "Cerebellum Crus I anterior RH",
+    "Cerebellum Crus I lateral LH",
+    "Cerebellum Crus I posterior LH",
+    "Cerebellum Crus I superior RH",
+    "Cerebellum Crus II LH",
+    "Cerebellum Crus II RH",
+    "Cerebellum IV LH",
+    "Cerebellum V LH",
+    "Cerebellum V RH",
+    "Cerebellum VI LH",
+    "Cerebellum VI RH",
+    "Cerebellum VI anterior RH",
+    "Cerebellum VI superior RH",
+    "Cerebellum VIIIa LH",
+    "Cerebellum horizontal fissure LH",
+    "Cerebellum superior posterior fissure RH",
+    "Fusiform gyrus RH",
+    "Fusiform gyrus anterior LH",
+    "Fusiform gyrus anterior RH",
+    "Fusiform gyrus mid-anterior LH",
+    "Fusiform gyrus mid-anterior RH",
+    "Fusiform gyrus mid-posterior LH",
+    "Fusiform gyrus mid-posterior RH",
+    "Fusiform gyrus middle RH",
+    "Fusiform gyrus posterior LH",
+    "Fusiform gyrus posterior RH"
+  ]
+}

@@ -1,0 +1,36 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+   - Right inferior frontal gyrus
+   - Right precentral gyrus
+   - Right postcentral gyrus
+   - Left middle frontal gyrus (MFG)
+   - Right dorsal lateral prefrontal cortex (DLPFC)
+   - Medial frontal cortex
+
+2. **Temporal Cortex**
+   - Left superior temporal gyrus (STG)
+
+3. **Parietal Cortex**
+   - Left middle cingulum cortex (MCC)
+   - Left cuneus
+   - Right parahippocampal gyrus (PHG)
+   - Left calcarine
+
+4. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+5. **Occipital Cortex**
+   - Left calcarine
+   - Left cuneus
+
+6. **Cerebellum**
+   - Cerebellar vermis
+   - Left cerebelum_crus
+   - Left cerebelum_4_5
+
+7. **Other Subcortical Regions**
+   - Right parahippocampal gyrus (PHG)
+
+These regions are involved in various cognitive functions, including executive functions, memory, and attention. The article specifically focuses on executive functions and their relation to these brain regions.

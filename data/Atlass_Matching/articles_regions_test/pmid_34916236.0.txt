@@ -1,0 +1,51 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Insular Cortex**
+
+3. **Anterior Cingulate**
+
+4. **Parietal Cortex**
+
+5. **Hippocampus**
+
+6. **Fusiform Gyrus**
+
+7. **Ventrolateral Cortex**
+
+8. **Dorsolateral Prefrontal Cortex**
+
+9. **Mediofrontal Cortex**
+
+10. **Frontal Cortex**
+
+11. **Inferior Frontal Junction**
+
+12. **Lateral Prefrontal Cortex**
+
+13. **Anterior Insula**
+
+14. **Anterior Midcingulate Cortex**
+
+15. **Presupplementary Motor Area**
+
+16. **Left Middle Frontal Gyrus**
+
+17. **Inferior Frontal Gyrus**
+
+18. **Precentral Gyrus**
+
+19. **Ventrolateral Prefrontal Cortex**
+
+20. **Dorsolateral Prefrontal Cortex**
+
+21. **Premotor Cortex**
+
+22. **Medial Superior Frontal Gyrus**
+
+23. **Anterior Part of the Presupplementary Motor Area**
+
+24. **Midcingulate Cortex**
+
+These regions are involved in various cognitive functions, including emotional processing, attentional control, and executive functions.

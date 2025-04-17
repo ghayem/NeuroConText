@@ -1,0 +1,39 @@
+## Brain Regions and Sub-regions
+
+1. **Superior Temporal Sulcus (STS)**
+
+2. **Inferior Frontal Gyrus (IFG)**
+
+3. **Amygdala**
+
+4. **Ventral Striatum**
+
+5. **Posterior STS**
+
+6. **Fusiform Gyrus**
+
+7. **Temporal Pole**
+
+8. **Insular Cortex**
+
+9. **Superior Temporal Gyrus (STG)**
+
+10. **Frontal Pole**
+
+11. **Posterior Cingulate Cortex (PCC)**
+
+12. **Anterior Cingulate Cortex (ACC)**
+
+13. **Middle Cingulate Cortex (MCC)**
+
+14. **Superior Frontal Gyrus**
+
+15. **Precentral Gyrus (PG)**
+
+16. **Angular Gyrus**
+
+17. **Temporo-parieto-occipital Junction (TPO)**
+
+18. **Temporoparietal Junction (TPJ)**
+
+   - These regions are involved in these cognitive functions: emotional prosody processing, social perception, auditory processing, and mentalizing.

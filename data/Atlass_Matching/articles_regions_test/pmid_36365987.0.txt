@@ -1,0 +1,28 @@
+## Brain Regions and Sub-Regions
+
+1. **Prefrontal Cortex (PFC)**
+
+2. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Brodmann Area 9 (BA 9)
+
+3. **Parietal Lobe**
+   - Brodmann Area 7 (BA 7)
+   - Brodmann Area 40 (BA 40)
+
+4. **Inferior Frontal Gyrus**
+   - Brodmann Area 44 (BA 44)
+
+5. **Premotor Cortex**
+   - Brodmann Area 6 (BA 6)
+
+6. **Frontal Lobe**
+
+7. **Motor Cortex**
+
+8. **Visual Cortex**
+
+9. **Cerebellum**
+
+10. **Frontal Pole**
+
+These regions are involved in these cognitive functions: executive function, planning, decision-making, goal-directed behavior, emotional expression, and motor and visual processing.

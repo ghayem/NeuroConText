@@ -1,0 +1,31 @@
+Based on the article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Hippocampus**
+   - Rostral hippocampus (Brainnetome area 215, 216)
+   - Caudal hippocampus (Brainnetome area 217, 218)
+
+2. **Entorhinal Cortex**
+   - Entorhinal cortex (Brainnetome area 115, 116)
+
+3. **Medial Temporal Cortex**
+   - Entorhinal cortex
+   - Parahippocampal gyrus
+   - Hippocampus
+
+4. **Dorsomedial Thalamus**
+
+5. **Cerebellar Crus II**
+
+6. **Frontal Cortex**
+
+7. **Parietal Cortex**
+
+8. **Anterior Cingulate Cortex**
+
+9. **Precuneus-Posterior Cingulate Cortex**
+
+10. **Lateral Temporal Cortex**
+
+11. **Amygdala** (implied by the mention of amyloid burden and its effects on memory, though not explicitly stated)
+
+These regions are involved in the cognitive functions discussed in the article, particularly episodic memory, language, and executive functioning.

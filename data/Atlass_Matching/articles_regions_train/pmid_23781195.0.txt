@@ -1,0 +1,37 @@
+## Brain Regions and Sub-Regions:
+
+1. **Striatum**
+   - Nucleus accumbens (NAcc)
+   - Ventral caudate (vCaud)
+   - Dorsal caudate (dCaud)
+   - Ventral anterior putamen (vaPut)
+   - Dorsal anterior putamen (daPut)
+   - Posterior putamen (pPut)
+
+2. **Frontal Cortex**
+   - Orbitomedial prefrontal cortex (omPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Anterior cingulate cortex
+
+3. **Midbrain**
+   - Ventral tegmental area (VTA)
+   - Substantia nigra (SN)
+
+4. **Sensorimotor Cortices**
+   - Precentral gyrus
+   - Postcentral gyrus
+
+5. **Ventral Visual Stream**
+   - Inferior temporal gyrus (ITG)
+
+6. **Other Regions**
+   - Medial prefrontal cortex (mPFC)
+   - Lateral prefrontal cortex (PFC)
+
+## Cognitive Functions:
+
+- **Striatum**: Involved in processing rewards and punishments, combining motor and affective information.
+- **Frontal Cortex**: Involved in reward processing, decision-making, and emotional regulation.
+- **Midbrain**: Involved in dopaminergic pathways, crucial for reward processing and motivation.
+- **Sensorimotor Cortices**: Involved in motor planning and execution.
+- **Ventral Visual Stream**: Involved in visual processing and object recognition.

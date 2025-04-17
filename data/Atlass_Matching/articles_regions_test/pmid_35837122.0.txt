@@ -1,0 +1,64 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebral Cortex**
+
+2. **Temporal Lobe**
+   - Hippocampus
+
+3. **Frontal Lobe**
+   - Inferior frontal gyrus (IFG)
+     - Left inferior frontal gyrus
+   - Superior frontal gyrus
+     - Bilateral superior frontal gyrus (Frontal_Sup_R/L)
+   - Middle frontal gyrus
+   - Frontal pole
+   - Superior frontal sulcus
+   - Middle frontal sulcus
+
+4. **Parietal Lobe**
+   - Supramarginal gyrus (SMG)
+     - Right supramarginal gyrus
+   - Angular gyrus
+   - Precuneus
+     - Precuneus cortex
+   - Postcentral gyrus
+
+5. **Occipital Lobe**
+   - Cuneus
+     - Left cuneal cortex
+   - Lingual gyrus
+     - Left lingual gyrus
+
+6. **Cingulate Cortex**
+   - Anterior cingulate cortex
+     - Right/Left anterior cingulate cortex (Cingulum_Ant_R/L)
+   - Middle cingulate cortex
+     - Right/Left middle cingulate cortex (Cingulum_Mid_R/L)
+
+7. **Cerebellum**
+   - Cerebellar cortex
+   - Anterior lobe
+     - Bilateral cerebellum anterior lobe
+   - Lobule VI
+   - Crus I/II
+   - Lobule VIIB
+   - Lobule IX
+   - Lobule X
+   - Cerebellar vermis
+
+8. **Subcortical Regions**
+   - Thalamus
+   - Brainstem
+
+9. **Other Regions**
+   - Insular cortex
+   - Fusiform gyrus
+   - Inferior temporal gyrus
+     - Bilateral middle temporal gyrus (MTG)
+   - Superior temporal gyrus
+     - Left/Right superior temporal gyrus (Language.pSTG l/r)
+   - Temporal pole
+     - Middle temporal pole (TPOmid.R)
+     - Left temporal pole middle gyrus
+
+These regions are involved in various cognitive functions, including language, memory, attention, visual ability, and executive functions.

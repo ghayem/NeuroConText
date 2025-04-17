@@ -1,0 +1,60 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Frontal Region**
+   - Anterior cingulate cortex (ACC)
+   - Medial frontal gyrus
+   - Left inferior orbitofrontal gyrus
+   - Gyrus rectus
+   - Bilateral anterior insula
+   - Inferior frontal gyrus
+   - Inferior frontal junction area
+   - Superior temporal gyrus
+
+2. **Temporolimbic Region**
+   - Bilateral anterior insula
+   - Anterior cingulate cortex (ACC)
+
+3. **Motor Cortices**
+   - Bilateral motor cortex
+   - Right motor cortex
+
+4. **Subcortical Regions**
+   - Bilateral caudate
+   - Putamen
+   - Thalamus
+   - Right thalamus
+
+5. **Other Regions**
+   - Frontomedial/ACC-caudate circuit
+   - Frontolimbic structures
+   - Medial prefrontal cortex
+   - Caudate head
+   - Medial frontal gyrus
+   - Cognitive networks
+   - Frontomedial/ACC and striatal regions
+   - Motor system
+   - Anteromedial portions of the temporal lobe
+   - Sensorimotor cortex
+   - Visual cortex
+
+These regions are involved in various cognitive and motor functions, including:
+- Emotional and cognitive processes
+- Perception/interception and inhibition functions
+- Motor execution
+- Attention
+- Language-related processing
+- Emotion
+- Cognitive function
+- Emotion
+- Inhibition
+- Somatosensory processing
+- Executive function
+- Social cognition
+- Motor execution
+- Gray matter atrophy in motor regions
+- Upper motor neuron involvement
+- Pathological propagation of “prion-like” protein
+- Transmission of TDP-43 pathology along axonal pathways
+- Stereotyped progression of the ALS-FTD spectrum
+
+This list includes all the brain regions and sub-regions mentioned in the article, along with their associated cognitive and motor functions.

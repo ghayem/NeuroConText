@@ -1,0 +1,58 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Hippocampus**
+   - Right hippocampus
+   - Left hippocampus
+
+2. **Dorsal Striatum**
+   - Caudate nucleus
+   - Putamen
+
+3. **Entorhinal Cortex**
+   - Right entorhinal cortex
+   - Left entorhinal cortex
+
+4. **Parahippocampal Cortex**
+   - Right parahippocampal gyrus
+   - Left parahippocampal gyrus
+
+5. **Retrosplenial Cortex**
+   - Left retrosplenial cortex
+
+6. **Frontal Cortex**
+   - Right middle frontal gyrus
+   - Left middle frontal gyrus
+   - Right superior frontal gyrus
+   - Left superior frontal gyrus
+
+7. **Precuneus**
+   - Right precuneus
+
+8. **Posterior Cingulate Cortex**
+   - Right posterior cingulate cortex
+   - Left posterior cingulate cortex
+
+9. **Parietal Cortex**
+   - Right postcentral gyrus
+
+10. **Cerebellum**
+
+11. **Occipital Cortex**
+
+12. **Temporal Cortex**
+   - Right temporal cortex
+   - Left temporal cortex
+
+13. **Medial Parietal Cortex**
+   - Brodmann areas 29, 30, and 31
+
+14. **Lingual Gyrus**
+   - Right lingual gyrus
+
+15. **Rectal Gyrus**
+   - Left rectal gyrus
+
+16. **Supramarginal Gyrus**
+   - Right supramarginal gyrus
+
+These regions are involved in various cognitive functions, including spatial memory, navigation, learning, and memory consolidation.

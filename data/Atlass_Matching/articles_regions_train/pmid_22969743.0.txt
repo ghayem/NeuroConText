@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions:
+
+1. **Premotor Cortex**
+   - Dorsal Premotor Cortex (PMd)
+
+2. **Parietal Cortex**
+   - Inferior Parietal Lobule (IPL)
+   - Superior Parietal Lobule (SPL)
+   - Supramarginal Gyrus
+   - Posterior Parts of the Inferior and Superior Frontal Gyrus
+   - Anterior Cingulate Gyrus
+   - Pre and Post Central Gyrus
+
+3. **Frontal Cortex**
+   - Inferior Frontal Gyrus
+   - Superior Frontal Gyrus
+   - Middle Frontal Gyrus
+   - Anterior Insula
+
+4. **Occipital Cortex**
+   - Middle Occipital Gyrus
+   - Superior Occipital Gyrus
+   - Visual Association Cortex
+
+5. **Temporal Cortex**
+   - Inferior Temporal Gyrus
+   - Fusiform Gyrus
+
+6. **Other Regions**
+   - Broca’s Area
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Supplementary Motor Area
+   - Insula
+   - Cuneus
+   - Cerebellum
+
+## Cognitive Functions:
+These regions are involved in the following cognitive functions:
+- **Arithmetic Operations**: Mental calculation and digit memory tasks.
+- **Visual Imagery**: Mental abacus strategy.
+- **Verbal Working Memory**: Language-related cognitive tasks.
+- **Visuospatial Working Memory**: Mental abacus and digit memory tasks.
+- **Motor Function**: Hand grip tasks and motor control.
+- **Language Processing**: Verbal fluency tasks and speech production.

@@ -1,0 +1,39 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cingulate Cortex**
+   - Brodmann areas 23, 24, 25, 29, 30, 31, 32, and 33
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+2. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus (PCUN)
+   - Inferior parietal cortex (IPC)
+     - Angular gyrus (AG)
+       - Left angular gyrus (LAG)
+       - Right angular gyrus (RAG)
+   - Medial temporal (MT) lobes
+   - Medial prefrontal cortex (MPFC)
+     - Ventral medial prefrontal cortex (vMPFC)
+       - Left ventral medial prefrontal cortex (LvMPFC)
+       - Right ventral medial prefrontal cortex (RvMPFC)
+     - Dorsal medial prefrontal cortex (dMPFC)
+       - Left dorsal medial prefrontal cortex (LdMPFC)
+       - Right dorsal medial prefrontal cortex (RdMPFC)
+   - Anterior cingulate cortex (ACC)
+     - Left anterior cingulate cortex (LACC)
+     - Right anterior cingulate cortex (RACC)
+   - Inferior temporal gyrus (ITG)
+     - Left inferior temporal gyrus (LITG)
+     - Right inferior temporal gyrus (RITG)
+   - Posterior cingulate/precuneus cortex
+     - Left posterior cingulate/precuneus cortex (LPCC)
+     - Right posterior cingulate/precuneus cortex (RPCC)
+
+3. **Other Regions**
+   - Frontal lobe
+   - Temporal lobe
+   - Hippocampus
+   - Cingulate gyrus
+
+These regions are involved in various cognitive functions, including visuospatial processing, memory, emotion, cognition, premotor activity, behavior monitoring, error detection, adaptive decision making, and more.

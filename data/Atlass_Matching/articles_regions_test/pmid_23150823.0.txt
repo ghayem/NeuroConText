@@ -1,0 +1,25 @@
+## Brain Regions and Sub-Regions:
+
+1. **Temporal Lobe**
+   - Mesial temporal lobe
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Fusiform gyrus
+   - Superior temporal gyrus
+   - Amygdala
+   - Uncus
+
+2. **Extratemporal Areas**
+   - Basal ganglia
+   - Insula
+   - Thalamus
+   - Cerebellum
+   - Frontal lobe
+   - Parietal lobe
+   - Occipital lobe
+   - Cingulate gyrus
+   - Precentral gyrus
+   - Lingual gyrus
+   - Corpus callosum
+
+These regions are involved in various functions, including memory, emotion, sensory processing, motor control, and cognitive functions.

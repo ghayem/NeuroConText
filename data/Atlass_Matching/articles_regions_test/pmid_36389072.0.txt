@@ -1,0 +1,46 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Anterior and medial frontal cortex
+   - Bilateral temporal lobes
+   - Precuneus
+   - Lateral parietal cortex
+
+2. **Salience Network**
+
+3. **Central Executive Network**
+
+4. **Lingual Gyrus**
+   - Bilateral lingual gyrus
+
+5. **Superior Temporal Gyrus**
+   - Left superior temporal gyrus (STG)
+
+6. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus (MTG)
+
+7. **Middle Frontal Gyrus**
+   - Left middle frontal gyrus (MFG)
+
+8. **Posterior Cingulate**
+   - Bilateral posterior cingulate (PC)
+
+9. **Calcarine Cortex**
+
+10. **Cerebellum**
+    - Left cerebellum anterior lobe (CAL)
+
+11. **Cuneus**
+    - Bilateral cuneus
+
+12. **Visual Network (VN)**
+
+13. **Cerebellar Networks**
+
+14. **Gray Matter**
+
+15. **White Matter**
+
+16. **Cerebrospinal Fluid (CSF)**
+
+These regions are involved in various cognitive functions, including attention, memory, executive function, visuospatial function, language ability, cognition, emotion, autonomic nerves, and sensory control.

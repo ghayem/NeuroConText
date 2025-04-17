@@ -1,0 +1,39 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal Cortex**
+
+2. **Temporal Cortex**
+
+3. **Hippocampus**
+
+4. **Orbitofrontal Cortex**
+
+5. **Left Inferior Frontal Gyrus/Temporal Pole**
+
+6. **Right Inferior Frontal Gyrus/Temporal Pole**
+
+7. **Dorsolateral Prefrontal Cortex**
+
+8. **Parahippocampal Gyrus**
+
+9. **Middle Temporal Gyrus**
+
+10. **Fusiform Gyrus**
+
+11. **Amygdala**
+
+12. **Cerebellum**
+
+13. **Posterior Cingulate Cortex**
+
+14. **Peripheral Nervous System (PNS)**
+   - Sensory Ganglia
+   - Trigeminal Ganglia
+
+15. **White Matter (WM)**
+
+16. **Cerebrospinal Fluid (CSF)**
+
+17. **Intracranial Volume (ICV)**
+
+18. **Temporo-parieto-occipital Junction (TPO)**

@@ -1,0 +1,53 @@
+### Brain Regions and Sub-Regions
+
+1. **Thalamus**
+
+2. **Prefrontal Cortex**
+
+3. **Default Mode Network (DMN)**
+
+4. **Dorsal Attention Network**
+
+5. **Upper Longitudinal Tract Fibers**
+   - Connecting the frontal and parietal lobes
+
+6. **Bilateral Inferior Temporal Gyrus**
+
+7. **Left Insula**
+
+8. **Left Inferior Frontal Gyrus**
+
+9. **Bilateral Precentral Gyrus**
+
+10. **Bilateral Cerebellum**
+
+11. **Putamen**
+
+12. **Middle Occipital Gyrus**
+
+13. **Right Supramarginal Gyrus**
+
+14. **Right Supplementary Motor Area**
+
+15. **Left Inferior Occipital Gyrus**
+
+16. **Left Middle Temporal Gyrus**
+
+17. **Left Inferior Parietal Lobule**
+
+18. **Right Middle Frontal Gyrus**
+
+19. **Right Middle Occipital Gyrus**
+
+20. **Frontal-Parietal Network**
+
+21. **Middle Temporal Gyrus**
+
+22. **Middle Frontal Gyrus**
+
+23. **Sensorimotor Network (SMN)**
+
+24. **Subcortical Regions**
+   - Including the cerebellum, thalamus, and putamen
+
+These regions are involved in various cognitive functions, including attention, working memory, affect, psychomotor vigilance, and sleep-wake regulation.

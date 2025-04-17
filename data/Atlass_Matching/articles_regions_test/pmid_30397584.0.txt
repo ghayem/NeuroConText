@@ -1,0 +1,45 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Default Mode Network (DMN)**
+    - Precuneus
+    - Thalamus
+    - Frontal gyrus
+    - Temporal gyrus
+
+2. **Medial Prefrontal Cortex (mPFC)**
+
+3. **Nucleus Accumbens (NAcc)**
+
+4. **Supplementary Motor Areas (SMAs)**
+    - Left supplementary motor area (SMA)
+    - Right supplementary motor area (SMA)
+
+5. **Insula**
+    - Bilateral regions between the insula and inferior frontal gyrus (insula/IFG)
+
+6. **Anterior Cingulate Cortex**
+    - Ventral anterior cingulate cortex (vACC)
+    - Dorsal anterior cingulate cortex (dACC)
+
+7. **Inferior Frontal Gyrus (IFG)**
+    - Left inferior frontal gyrus
+    - Right inferior frontal gyrus
+
+8. **Secondary Somatosensory Cortex**
+    - Mandibular angle
+    - Cheek
+    - Lip
+    - Forehead
+    - Foot
+
+9. **Inferior Parietal Lobule (IPL)**
+    - Left inferior parietal lobule
+    - Right inferior parietal lobule
+
+10. **Posterior Inferior Gyrus**
+    - Left posterior inferior gyrus
+    - Right posterior inferior gyrus
+
+11. **Ventral Premotor Area (VPC)**
+
+These regions are involved in various cognitive functions, including reward, motivation, emotion, arousal, self-relevant thought, empathy, mirror neuron activation, and somatosensory activation.

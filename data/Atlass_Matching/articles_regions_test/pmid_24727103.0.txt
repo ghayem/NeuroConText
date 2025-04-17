@@ -1,0 +1,91 @@
+### Brain Regions and Sub-Regions
+
+1. **Inferior Frontal Cortex**
+   - Pars orbitalis (BA 47)
+   - Pars triangularis (BA 45)
+   - Pars opercularis (BA 44)
+
+2. **Middle Temporal Cortex**
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Fusiform gyrus
+
+4. **Parietal Cortex**
+   - Supramarginal gyrus
+   - Superior parietal cortex
+
+5. **Frontocentral Cortex**
+   - Precentral gyrus
+   - Central sulcus
+
+6. **Left-Perisylvian Area**
+
+7. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex
+   - Anterior temporal cortex
+   - Premotor cortex
+
+8. **Sensory Brain Regions**
+   - Gustatory regions
+   - Olfactory regions
+   - Auditory regions
+
+9. **Inferior-Temporal Cortex**
+   - Inferior temporal/fusiform gyrus
+
+10. **Cerebellum**
+    - Close to fusiform gyrus
+
+11. **Middle Cingulate Cortex**
+
+12. **Occipital Cortex**
+    - Inferior occipital cortex
+    - Superior occipital cortex
+
+13. **Motor Systems**
+    - Central motor cortex
+    - Premotor cortex
+    - Precentral gyrus
+
+14. **Superior Temporal Sulcus**
+    - Anterior superior temporal sulcus
+
+15. **Frontal-Insula Regions**
+    - Anterior frontal-insula region
+    - Posterior frontal-insula region
+
+16. **Temperoparietal Junction**
+
+17. **Middle Frontal Cortex**
+
+18. **Left Superior Temporal Sulcus (STS)**
+
+19. **Left Anterior Superior Temporal Sulcus (aSTS)**
+
+20. **Left Temperoparietal Junction (TPJ)**
+
+21. **Somatotopic Motor Systems**
+
+22. **Inferior Frontal Gyrus (IFG) / Insula**
+
+23. **Left and Right Area MT+**
+
+### Cognitive Functions Involved
+
+- Language processing
+- Semantic processing
+- Lexical and grammatical processing
+- Sensorimotor activation
+- Object and action perception
+- Visual language processing
+- Memory
+- Executive functions
+- Concrete and abstract word processing
+- Emotion and internal state processing
+- Combinatorial properties of words
+- Semantic category representation
+- Action schema processing
+- Form knowledge processing

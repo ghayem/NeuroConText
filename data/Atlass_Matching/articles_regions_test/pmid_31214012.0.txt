@@ -1,0 +1,47 @@
+1. **Prefrontal Cortex**
+
+2. **Parietal White Matter**
+
+3. **Hippocampus**
+
+4. **Frontal Lobe**
+
+5. **Middle Frontal Gyrus**
+
+6. **Medial Frontal Gyrus**
+
+7. **Inferior Parietal Cortices**
+
+8. **Insula**
+
+9. **Cerebellum**
+
+10. **Posterior Cingulate**
+
+11. **Superior Frontal Gyrus**
+
+12. **Anterior Cingulate**
+
+13. **Posterior Midline Cortex**
+
+14. **Medial Frontal Cortex**
+
+15. **Left Anterior Cingulate**
+
+16. **Right Anterior Insula**
+
+17. **Left Middle Frontal Gyrus**
+
+18. **Right Supramarginal Gyrus**
+
+19. **Default Mode Network (DMN)**
+
+20. **Frontal Cortex**
+
+21. **White Matter**
+
+22. **Gray Matter**
+
+23. **Temporal Cortex**
+
+    - These regions are involved in these cognitive functions: processing speed, selective attention, working memory, task-switching, episodic retrieval, visuospatial skills, response inhibition, selective attention skills, verbal working memory, cognitive decline, and cognitive control.

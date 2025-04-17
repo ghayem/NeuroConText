@@ -1,0 +1,37 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Prefrontal Cortex (PFC)**
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+2. **Parietal Cortex (PC)**
+   - Inferior parietal lobule
+
+3. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Parahippocampal gyrus
+
+4. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+5. **Frontal Cortex**
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+
+6. **Cingulate Cortex**
+   - Cingulate gyrus
+   - Dorsal cingulate
+
+7. **Occipital Cortex**
+   - Cuneus
+
+8. **Other Subcortical Structures**
+   - Striatum
+   - Cerebellum
+
+9. **Other Regions**
+   - Insular cortex
+
+These regions are involved in various cognitive functions, including working memory, executive function, verbal fluency, attention, visual and verbal memory, and psychosis vulnerability.

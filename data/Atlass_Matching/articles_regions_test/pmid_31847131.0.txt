@@ -1,0 +1,65 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Anterior Cingulate Gyrus**
+
+2. **Dorsolateral Prefrontal Cortex**
+
+3. **Dorsomedial Prefrontal Cortex**
+
+4. **Left Ventral Striatum**
+
+5. **Anterior Cingulate**
+
+6. **Middle Frontal Gyrus**
+
+7. **Right Pericalcarine Cortex**
+   - Cuneus
+   - Occipital pole
+   - Middle occipital cortex
+   - Superior occipital gyrus
+
+8. **Left Precuneus**
+   - Superior parietal lobule (SPL)
+   - Superior occipital gyrus
+   - Cuneus
+
+9. **Right Paracentral Lobule**
+   - Precuneus
+   - Posterior cingulate cortex
+
+10. **Primary Visual Cortex V1**
+    - Pericalcarine cortex
+    - Posterior occipital cortices
+
+11. **Superior Parietal Lobule (SPL)**
+
+12. **Precuneus**
+
+13. **Paracentral Lobule**
+    - Supplementary motor area (SMA)
+
+14. **Posterior Cingulate Gyrus**
+
+15. **Dorsomedial Frontal**
+
+16. **Temporal Pole**
+
+17. **Ventral Striatal Volumes**
+
+18. **Middle Frontal Gyrus**
+
+19. **Supramarginal Gyrus**
+
+20. **Temporo-parieto-occipital junction (TPO)**
+
+These regions are involved in various cognitive functions, including:
+- Executive functioning
+- Attentional control
+- Emotion-based decision-making
+- Cognitive control
+- Visual information processing
+- Spatial orientation
+- Self-referential processing
+- Regulating attentional states
+- Motor-related processes
+- Internally-directed cognition

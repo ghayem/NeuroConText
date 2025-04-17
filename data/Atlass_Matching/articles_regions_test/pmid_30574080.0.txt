@@ -1,0 +1,63 @@
+1. **Left temporo-parietal areas**
+   - Involved in phonological representation and the conversion between orthography and phonology.
+
+2. **Left inferior frontal gyrus (IFG)**
+   - Involved in phonological segmentation and manipulation during phonological awareness tasks.
+
+3. **Middle occipital gyrus (MOG)**
+   - Involved in visual-perception tasks such as number identification, symbol detection, and arrow shape judgment.
+   - Involved in orthographic tasks that involve pseudoword reading, lexical decision making, font judgment, letter matching, and letter identification.
+
+4. **Posterior parietal cortex (PPC)**
+   - Inferior parietal lobule (IPL)
+   - Superior parietal lobule (SPL)
+   - Precuneus
+   - Involved in visual–spatial processing.
+
+5. **Bilateral occipital-parietal region**
+   - Includes the bilateral MOG, right precuneus, and left cingulate.
+
+6. **Left visual word form area**
+   - Involved in visual word processing.
+
+7. **Left precuneus**
+   - Involved in visual–spatial processing and visuo-orthographic processing during Chinese visual word recognition.
+
+8. **Right pre/postcentral gyrus**
+   - Involved in language articulation and compensation for poor verbal memory.
+
+9. **Left cingulate gyrus**
+   - Involved in executive control and task-related motor control.
+
+10. **Right anterior cingulate cortex (ACC)**
+    - Involved in executive control and bilingual language switching.
+
+11. **Left superior temporal gyrus (STG)**
+    - Involved in phonological processing.
+
+12. **Right parahippocampal gyrus (RPHIP)**
+    - Involved in perceiving the local visual environment and processing the layout of local space.
+
+13. **Left fusiform gyrus**
+    - Involved in orthographic processing.
+
+14. **Superior temporal gyrus (STG)**
+    - Involved in phonological processing during visual word rhyming tasks.
+
+15. **Left middle temporal gyrus (MTG)**
+    - Involved in language processing.
+
+16. **Right inferior temporal gyrus (ITG)**
+    - Involved in language processing.
+
+17. **Left inferior occipital cortex (IOC)**
+    - Involved in visual processing.
+
+18. **Right cuneus**
+    - Involved in visual processing.
+
+19. **Lentiform nucleus**
+    - Involved in motor control and executive functions.
+
+20. **Fusiform gyrus**
+    - Involved in visual word processing and orthographic processing.

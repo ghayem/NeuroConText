@@ -1,0 +1,90 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Motor Cortex**
+
+2. **Occipital Cortex**
+
+3. **Parietal Cortex**
+
+4. **Temporal Cortex**
+
+5. **Cingulate Cortex**
+
+6. **Gray Matter (GM)**
+
+7. **White Matter (WM)**
+
+8. **Precuneus**
+
+9. **Cingulate Gyrus**
+
+10. **Thalamus**
+
+11. **Cerebellum**
+   - Automated Anatomical Labeling (AAL) Atlas
+   - Cerebellar area 1
+   - Cerebellar area 9
+
+12. **Putamen**
+   - Right putamen
+   - Left putamen
+
+13. **Intracalcarine Cortex (ICC)**
+   - Left intracalcarine cortex
+
+14. **Supracalcarine Cortex (SCC)**
+   - Right supracalcarine cortex
+
+15. **Opercular Part of the Inferior Frontal Gyrus (IFG)**
+   - Right opercular part of the IFG
+
+16. **Posterior Cingulate Cortex (PCC)**
+
+17. **Medial Prefrontal Cortex (MPFC)**
+
+18. **Right Lateral Parietal (RLP) Cortex**
+
+19. **Left Lateral Parietal (LLP) Cortex**
+
+20. **Insular Cortex**
+
+21. **Orbitofrontal Cortex**
+
+22. **Prefrontal Cortex**
+
+23. **Supramarginal Gyri**
+   - Superior parietal lobule (SPL)
+   - Supramarginal gyrus (SG) – posterior division
+
+24. **Caudate**
+
+25. **Superior Temporal/Supramarginal Gyri**
+
+26. **Visual Cortex**
+   - Occipital fusiform gyrus
+   - Occipital pole
+   - Lateral Occipital Cortex, inferior division (iLOC)
+   - Inferior division of the right lateral occipital cortex
+
+27. **Hippocampal Formation**
+   - Left hippocampus
+   - Right hippocampus
+   - Hippocampus (Hi)
+
+28. **Lingual Gyrus**
+
+29. **Callosal Body**
+
+30. **Primary Visual Network (PVN)**
+
+31. **Posterior Cerebellar Network (PCN)**
+
+32. **Default Mode Network (DMN)**
+
+33. **Frontal Regions**
+
+34. **Parietal Regions**
+
+35. **Temporo-parieto-occipital Junction (TPO)**
+
+These regions are involved in various cognitive functions, including motor control, visual processing, memory, and executive functions.

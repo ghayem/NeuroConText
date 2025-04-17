@@ -1,0 +1,36 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cerebellum**
+
+2. **Hippocampus**
+
+3. **Cortical Regions**
+
+4. **Brainstem**
+   - Median raphe nuclei (MRN)
+
+5. **Middle Occipital Gyrus (MOG)**
+   - Right middle occipital gyrus
+   - Left middle occipital gyrus
+
+6. **Inferior Occipital Gyrus (IOG)**
+   - Right inferior occipital gyrus
+   - Left inferior occipital gyrus
+
+7. **Colliculus**
+   - Superior colliculus
+   - Inferior colliculus
+
+8. **Periaqueductal Grey (PAG)**
+
+9. **Locus Ceruleus (LC)**
+
+10. **Dorsal Pons Medulla Junction**
+
+11. **Gray Matter (GM)**
+
+12. **White Matter (WM)**
+
+13. **Cerebral Spinal Fluid (CSF)**
+
+These regions are involved in various aspects of migraine pathophysiology, including pain modulation, emotional processing, and sensory integration.

@@ -1,0 +1,50 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Medial Prefrontal Cortex (MPFC)**
+
+2. **Lateral Parietal Cortex (LP)**
+    - Bilateral LP
+
+3. **Posterior Cingulate Cortex (PCC)**
+    - Bilateral PCC
+
+4. **Inferior Frontal Gyrus (IFG)**
+    - Left IFG
+
+5. **Anterior Insula (AI)**
+    - Bilateral AI
+    - Right AI
+    - Left AI
+
+6. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+7. **Intraparietal Sulcus (IPS)**
+    - Left IPS
+    - Right IPS
+
+8. **Precuneus (PrG)**
+    - Bilateral PrG
+
+9. **Middle Cingulate Cortex (MCC)**
+
+10. **Rostral Prefrontal Cortex (RPFC)**
+    - Left RPFC
+    - Right RPFC
+    - Bilateral RPFC
+
+11. **Supramarginal Gyrus (SMG)**
+    - Left SMG
+
+12. **Cerebellum (CB)**
+    - Anterior lobules
+    - Posterior lobules
+
+13. **Postcentral Gyrus**
+
+14. **Precentral Gyrus**
+
+15. **Supplementary Motor Area**
+
+16. **Frontal Eye Fields (FEF)**
+
+These regions are involved in various cognitive functions, including self-referential processing, salience attribution, cognitive control, attention, and motor coordination.

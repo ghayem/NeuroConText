@@ -1,0 +1,26 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Visual Cortex**
+   - V1
+   - V2
+   - V3
+   - V4
+   - Lateral occipital cortex (LOC)
+   - Fusiform gyrus (FG)
+
+2. **Dorsal Attention Network (DAN)**
+   - Frontal eye fields (FEF)
+   - Intraparietal sulcus (IPS)
+     - IPS1
+     - IPS2
+   - Superior parietal lobe (SPL)
+
+3. **Other Regions**
+   - Prefrontal cortex
+     - Inferior frontal junction
+   - Dorsomedial prefrontal cortex
+   - Angular gyrus
+   - Precuneus
+   - Posterior cingulate cortex
+
+These regions are involved in the cognitive functions of selective attention, feature-based attention, and spatial-based attention.

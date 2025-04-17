@@ -1,0 +1,51 @@
+# Brain Regions and Sub-Regions
+
+1. **Thalamus**
+
+2. **Globus pallidus**
+
+3. **Striatum**
+
+4. **Medial polar prefrontal cortex**
+
+5. **Angular gyrus**
+
+6. **Amygdala**
+
+7. **Posterior cingulate**
+
+8. **Basal ganglia**
+
+9. **Caudate**
+
+10. **Internal capsule**
+
+11. **Posterior cingulum**
+
+12. **Inferior fronto-occipital fasciculus**
+   - Middle occipital gyrus
+
+13. **Superior longitudinal fasciculus**
+   - Supramarginal gyrus
+
+14. **Forceps minor**
+   - Medial frontal pole
+
+15. **Parahippocampal gyrus**
+
+16. **Septum**
+   - Septal cortex
+
+17. **Hippocampus**
+
+18. **Corpus callosum**
+
+19. **Anterior hypothalamus**
+
+20. **Inferior parietal lobule**
+
+21. **Fornix**
+
+22. **External capsule**
+
+These regions are involved in various cognitive functions, including moral decision-making, sexual arousal, reward sensitivity, fear conditioning, and social cognition.

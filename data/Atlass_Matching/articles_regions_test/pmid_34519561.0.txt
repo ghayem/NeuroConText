@@ -1,0 +1,42 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Ventral Striatum**
+
+3. **Dorsal Striatum**
+   - Putamen
+   - Caudate
+
+4. **Frontal Cortex**
+   - Anterior Cingulate Cortex (ACC)
+   - Paracingulate
+   - Premotor Cortex (PMC)
+   - Inferior/Middle Frontal Gyrus
+   - Frontal Pole
+
+5. **Prefrontal Cortex**
+   - Ventromedial Prefrontal Cortex (vmPFC)
+
+6. **Temporal Cortex**
+   - Middle Temporal Gyrus
+
+7. **Operculum**
+
+8. **Amygdala**
+
+9. **Insula**
+
+10. **Ventral Tegmental Area**
+
+11. **Locus Coeruleus**
+
+12. **Primary Motor Cortex**
+
+13. **Lateral Occipital Cortex**
+
+14. **Precuneus**
+
+15. **Cerebellum**
+
+These regions are involved in various cognitive functions, including reward processing, instrumental learning, cognitive control, and goal-directed behavior.

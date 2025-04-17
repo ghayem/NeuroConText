@@ -1,0 +1,25 @@
+Based on the article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Posterior Cingulate Cortex/Precuneus (PCC/PCUN)**
+
+2. **Medial Prefrontal Cortex (MPFC)**
+
+3. **Bilateral Inferior Parietal Lobule (IPL)**
+    - Left Inferior Parietal Lobule
+    - Right Inferior Parietal Lobule
+
+4. **Inferior Temporal Cortex (ITC)**
+    - Left Inferior Temporal Cortex
+    - Right Inferior Temporal Cortex
+
+5. **Parahippocampal Gyrus (PHG)**
+    - Left Parahippocampal Gyrus
+    - Right Parahippocampal Gyrus
+
+6. **Cingulum Tracts**
+
+7. **Superior Frontal-Occipital Fasciculus**
+    - Left Superior Frontal-Occipital Fasciculus
+    - Right Superior Frontal-Occipital Fasciculus
+
+These regions are involved in the Default Mode Network (DMN) and are associated with cognitive functions such as self-awareness, episodic memory, and interactive modulation between internal mind activities and external tasks.

@@ -1,0 +1,21 @@
+1. **Default Mode Network (DMN)**
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+
+2. **Brainstem**
+    - Ventral tegmental area (VTA)
+    - Substantia nigra
+
+3. **Other Cortical and Subcortical Regions**
+    - Brainstem
+    - Cerebellum
+    - Insula
+    - Hippocampus
+    - Thalamus
+    - Mediofrontal cortex
+    - Sensorimotor cortex
+    - Precentral cortex
+    - Postcentral cortex
+    - Anterior cingulate cortex
+
+These regions are involved in various cognitive functions, including consciousness, wakefulness, and neuromodulation.

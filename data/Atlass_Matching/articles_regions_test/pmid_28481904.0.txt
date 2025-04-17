@@ -1,0 +1,39 @@
+Based on the article, the following brain regions and sub-regions are mentioned:
+
+1. **Anterior Cingulate Cortex**
+   - Medial frontal gyrus
+
+2. **Frontal Cortex**
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Medial frontal gyrus
+   - Prefrontal cortex
+
+3. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Parahippocampal gyrus
+   - Temporal pole
+   - Lateral temporal cortex
+   - Temporo-limbic structures
+
+4. **Parietal Cortex**
+   - Postcentral gyrus
+   - Inferior parietal lobule
+   - Parietal lobe
+
+5. **Occipital Cortex**
+
+6. **Insular Cortex**
+
+7. **Hippocampus**
+
+8. **Cingulate Cortex**
+   - Anterior cingulate gyrus
+
+9. **Precentral Gyrus**
+
+10. **Subcortical Structures**
+    - Striatum
+
+These regions are involved in various cognitive and emotional functions, including memory, emotional processing, salience networks, executive functions, and sensory integration.

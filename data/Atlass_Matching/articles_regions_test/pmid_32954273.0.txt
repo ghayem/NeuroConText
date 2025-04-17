@@ -1,0 +1,35 @@
+## The brain regions and sub-regions:
+
+1. **Parahippocampal place area**
+
+2. **Occipital place area**
+
+3. **Fusiform body area**
+
+4. **Extrastriate body area**
+
+5. **Face processing network**
+
+6. **Lateral occipital area (LO)**
+
+7. **Visual word form area (VWFA)**
+
+8. **Occipital face area (OFA)**
+
+9. **Fusiform face area (FFA)**
+
+10. **Anterior temporal lobe (ATL)**
+
+11. **Posterior fusiform gyrus**
+
+12. **Inferior frontal gyrus**
+
+13. **Middle temporal gyrus**
+
+14. **Lingual gyri**
+
+15. **Lateral occipital cortex**
+
+16. **Temporo-occipital fusiform cortex**
+
+These regions are involved in various cognitive functions, including face recognition, body perception, topographical processing, and reading.

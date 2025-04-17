@@ -1,0 +1,26 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Temporoparietal junction (TPJ)**
+   - Supramarginal gyrus
+
+2. **Precuneus**
+   - Medial aspect of the hemisphere
+   - Dorsal parietal lobe (lateral aspect)
+
+3. **Middle cingulate gyrus**
+   - Medial frontal lobe
+
+4. **Intraparietal sulcus**
+
+5. **Angular gyrus**
+
+6. **Medial prefrontal cortex**
+
+7. **Middle cingulate**
+
+These regions are involved in the following cognitive functions:
+- Attention control
+- Predictive modeling for attention
+- Social cognition
+- Theory of mind
+- Error correction and updating of predictive models

@@ -1,0 +1,35 @@
+Based on the neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Frontal Lobe**
+   - **Inferior frontal gyrus**
+     - Pars triangularis (IFG tri)
+     - Pars opercularis (IFG oper)
+   - **Middle frontal gyrus (MFG)**
+   - **Precentral gyrus**
+
+2. **Parietal Lobe**
+   - **Inferior parietal lobe**
+     - Supramarginal gyrus (anterior and posterior)
+     - Angular gyrus (ANG)
+   - **Superior parietal lobule (SPL)**
+   - **Posterior parietal areas**
+
+3. **Occipital Lobe**
+   - **Superior lateral occipital cortex (sLOC)**
+
+4. **Temporal Lobe**
+   - **Temporo-occipital middle temporal gyrus**
+   - **Superior temporal areas**
+
+5. **Basal Ganglia**
+   - **Pallidum**
+
+6. **Ventral Premotor Cortex**
+
+7. **Dorsal Premotor Cortex**
+
+8. **Cerebrospinal Fluid (CSF)**
+
+9. **White Matter**
+
+These regions are involved in various cognitive and motor functions, including praxis abilities, motor control, and visuospatial processing.

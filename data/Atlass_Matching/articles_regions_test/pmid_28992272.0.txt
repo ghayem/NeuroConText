@@ -1,0 +1,41 @@
+1. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+2. **Dorsomedial Prefrontal Cortex (dmPFC)**
+
+3. **Dorsal Anterior Cingulate Cortex (daCC)**
+
+4. **Lateral Prefrontal Cortex (lPFC)**
+   - Right lateral prefrontal cortex (r. lpfc)
+   - Left dorsolateral prefrontal cortex (l. dlpfc)
+
+5. **Striatum**
+   - Right striatum
+
+6. **Amygdala**
+
+7. **Lateral Orbitofrontal Cortex (lOFC)**
+   - Right orbitofrontal cortex (r. ofc)
+
+8. **Occipital Cortex**
+   - Right occipital cortex (r. occip)
+   - Right parietal/occipital cortex (r. parietal/occip)
+
+9. **Middle Temporal Gyrus**
+   - Right middle temporal gyrus (r. mid temp)
+
+10. **Precentral Gyrus**
+
+11. **Parietal/Occipital Junction**
+   - Right parietal/occipital junction
+
+12. **Prefrontal Cortex**
+   - Right lateral prefrontal cortex (r. lpfc)
+   - Left dorsolateral prefrontal cortex (l. dlpfc)
+
+13. **Temporal Gyrus**
+   - Right middle temporal gyrus (r. mid temp)
+
+14. **Parietal Cortex**
+   - Right parietal/occipital cortex (r. parietal/occip)
+
+- These regions are involved in cognitive functions such as emotion regulation, emotional flexibility, and emotional inertia.

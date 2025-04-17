@@ -1,0 +1,44 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Centrotemporal region**
+   - This region is associated with focal motor and sensory seizures involving the face and oropharynx.
+
+2. **Frontal lobe**
+
+3. **Temporal lobe**
+   - Left temporal pole
+
+4. **Left triangular region**
+
+5. **Brainstem**
+   - Right brainstem
+
+6. **Cingulate gyrus**
+   - Right middle cingulate gyrus
+
+7. **Thalamus**
+   - Right thalamus
+
+8. **Precuneus**
+   - Left precuneus
+
+9. **Limbic system**
+   - Cingulate gyrus is a part of the limbic system.
+
+10. **Default mode network**
+    - Precuneus is a key hub of the default mode network.
+
+11. **Paralimbic region**
+    - Temporal pole is a crucial paralimbic region.
+
+These regions are involved in various cognitive functions, including:
+- **Centrotemporal region**: Sensorimotor functions, language processing.
+- **Frontal lobe**: Executive functions, motor control, language production.
+- **Temporal lobe**: Auditory processing, language comprehension, memory.
+- **Brainstem**: Regulation of automatic functions (heart rate, breathing), sleep-wake cycle.
+- **Cingulate gyrus**: Emotion, sensorimotor functions, cognitive control.
+- **Thalamus**: Sensory processing, motor control, consciousness.
+- **Precuneus**: Self-referential processing, state of consciousness, visuospatial imagery.
+- **Limbic system**: Emotion, memory, motivation.
+- **Default mode network**: Self-referential processing, mind-wandering, consciousness.
+- **Paralimbic region**: Emotion, motivation, visceral functions.

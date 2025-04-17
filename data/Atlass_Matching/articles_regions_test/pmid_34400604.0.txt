@@ -1,0 +1,47 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Precentral gyrus
+   - Medial orbitofrontal cortex (OFC)
+   - Anterior cingulate cortex (ACC)
+
+2. **Parietal Lobe**
+   - Inferior parietal cortex
+     - Supramarginal gyrus
+   - Postcentral gyrus
+   - Precuneus
+
+3. **Temporal Lobe**
+   - Temporal gyrus
+   - Entorhinal cortex
+   - Parahippocampal cortex
+   - Amygdala
+   - Insula
+
+4. **Occipital Lobe**
+   - Occipital cortex
+
+5. **Limbic System**
+   - Amygdala
+   - Insula
+   - Entorhinal cortex
+   - Parahippocampal cortex
+
+6. **Midline Regions**
+   - Midline cingulate regions
+   - Anterior cingulate cortex (ACC)
+   - Precuneus
+   - Medial orbitofrontal cortex (OFC)
+
+7. **Other Specific Regions**
+   - Opercular cortex
+   - Supplementary motor cortex
+   - Cerebellum
+   - Dorsal cingulate
+   - Lingual cortex
+   - Motor areas (precentral and postcentral gyrus)
+   - Paralimbic regions
+   - Default mode network (DMN)
+
+These regions are involved in various cognitive functions and are affected in alcohol use disorder (AUD), particularly in relation to sleep disturbances.

@@ -1,0 +1,39 @@
+Based on the article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex**
+   - Dorso-lateral prefrontal cortex (DLPFC)
+   - Dorso-medial prefrontal cortex (DMPFC)
+   - Ventro-lateral prefrontal cortex (VLPFC)
+   - Inferior frontal gyrus (IFG)
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+
+2. **Insular Cortex**
+   - Left insular cortex
+
+3. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+   - Parahippocampal gyrus (PHG)
+
+4. **Basal Ganglia**
+   - Globus pallidus
+   - Putamen
+
+5. **Claustrum**
+
+6. **Thalamus**
+   - Pulvinar
+
+7. **Cingulate Cortex**
+   - Posterior cingulate cortex (PCC)
+
+8. **Frontal Gyrus**
+   - Left middle frontal gyrus
+
+9. **Subcortical Limbic Structures**
+
+10. **Prefrontal Gyrus**
+    - Right prefrontal gyrus
+
+These regions are involved in cognitive functions such as emotion regulation, cognitive control, sensory awareness, and the default mode network.

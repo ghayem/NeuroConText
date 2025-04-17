@@ -1,0 +1,15 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Occipital Lobe**
+   - Right calcarine (R.CAL)
+
+2. **Temporal Lobe**
+   - Right inferior temporal gyrus (R.ITG)
+
+3. **Cingulate Cortex**
+   - Left posterior cingulate gyrus (L.PCC)
+
+4. **Brodmann's Area**
+   - Brodmann’s region 17 (BA17)
+
+These regions are involved in various cognitive functions including visual processing, visual information integration, emotional regulation, social cognition, and default mode network (DMN) functions such as self-awareness and monitoring of the external environment.

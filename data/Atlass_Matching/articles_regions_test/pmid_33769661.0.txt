@@ -1,0 +1,47 @@
+## Brain Regions and Sub-Regions:
+
+1. **Precentral Cortex**
+   - Primary motor cortex
+   - Premotor cortex
+
+2. **Transverse Temporal Cortex**
+   - Heschl's gyrus
+   - Primary auditory cortex
+
+3. **Superior Temporal Cortex**
+   - Superior temporal gyrus
+   - Superior temporal sulcus
+
+4. **Cuneus**
+   - Medial occipital gyrus
+   - Visual association cortex
+
+5. **Rostral Middle Frontal Cortex**
+   - Dorsolateral prefrontal cortex
+   - Frontal eye field
+
+6. **Subcortical Gray Matter Structures**
+   - Hippocampus
+
+7. **White Matter Volume (WMV)**
+   - White matter tracts
+
+8. **Cortical Gray Matter Volume (GMV)**
+   - Cortical gray matter
+
+9. **Total Brain Volume (TBV)**
+   - Overall brain volume
+
+10. **Brain Parenchymal Fraction**
+    - Proportion of brain tissue relative to intracranial volume
+
+11. **Medial Temporal Lobe Structures**
+    - Hippocampus
+    - Parahippocampal gyrus
+    - Entorhinal cortex
+
+12. **Left Rostral Middle Frontal Cortex**
+    - Dorsolateral prefrontal cortex
+    - Frontal eye field
+
+These regions are involved in various cognitive functions including motor regulation, auditory processing, visual information processing, and higher cognitive functions such as language processing and executive function.

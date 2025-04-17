@@ -1,0 +1,45 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Posterior Cingulate Cortex (PCC)**
+
+2. **Precuneus**
+
+3. **Medial Prefrontal Cortex (mPFC)**
+   - Dorsomedial Prefrontal Cortex (dmPFC)
+   - Ventromedial Prefrontal Cortex (vmPFC)
+
+4. **Amygdala**
+
+5. **Insula**
+   - Anterior Insula
+   - Posterior Insula
+
+6. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+7. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+8. **Ventrolateral Prefrontal Cortex (vlPFC)**
+
+9. **Hippocampus**
+
+10. **Mid-Cingulate Cortex**
+
+11. **Ventral Striatum/Nucleus Accumbens (VS/NAcc)**
+
+12. **Calcarine Cortex/Cuneus**
+
+13. **Parietal/Central Operculum**
+
+14. **Periaqueductal Gray (PAG)**
+
+15. **Planum Temporale (PT)** (mentioned in the context of a different study)
+
+These regions are involved in various cognitive and emotional functions, including but not limited to:
+
+- Self-referential processing, autobiographical memory, and social cognition (DMN)
+- Environmental monitoring, interoceptive processing, autonomic regulation, approach/avoidance behaviors, and emotion generation/processing (SN)
+- Emotion regulation and executive functioning (prefrontal areas)
+- Memory and emotional processing (limbic regions)
+- Reward-based processing (VS/NAcc)
+- Visual processing (calcarine cortex/cuneus)
+- Language and auditory processing (planum temporale)

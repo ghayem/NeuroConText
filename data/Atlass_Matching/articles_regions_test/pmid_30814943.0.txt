@@ -1,0 +1,25 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+   - Anterior cingulate cortex (ACC)
+   - Dorsolateral prefrontal cortex (dlPFC)
+
+2. **Parietal Cortex**
+   - Temporo-parietal junction (TPJ)
+   - Precuneus
+
+3. **Basal Ganglia**
+   - Caudate
+
+4. **Insula**
+   - Bilateral insula
+
+5. **Temporal Cortex**
+   - Temporo-parietal junction (TPJ)
+
+6. **Default Mode Network**
+
+7. **Fronto-parietal Network**
+
+These regions are involved in various cognitive functions, including social cognition, reward processing, cognitive control, decision-making, and social decision-making.

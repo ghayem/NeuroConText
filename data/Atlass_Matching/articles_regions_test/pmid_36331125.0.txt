@@ -1,0 +1,52 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Visual Areas**
+   - V1
+   - V5 (MT+)
+   - V7
+   - Calcarine
+   - Lingual gyrus
+   - Middle occipital gyrus
+   - Cuneus
+
+2. **Lateral Geniculate Nucleus (LGN)**
+
+3. **Posterior Parietal Cortex (PPC)**
+   - Superior parietal cortex
+   - Inferior parietal cortex
+   - Temporoparietal junction (TPJ)
+
+4. **Frontal Eye Fields (FEF)**
+   - Medial FEF
+   - Lateral FEF
+   - Superior frontal gyrus
+
+5. **Supplementary Eye Fields (SEF)**
+   - Posterior-medial frontal cortex
+
+6. **Midcingulate Cortex (MCC)**
+
+7. **Angular Gyrus**
+
+8. **Cerebellum**
+   - Crus I
+
+9. **Basal Ganglia**
+
+10. **Precentral Gyrus**
+
+11. **Precuneus**
+
+12. **Middle Temporal Gyrus**
+
+13. **Temporal Pole**
+
+14. **Fusiform Gyrus**
+
+15. **Insulae**
+
+16. **Heschl's Gyrus**
+
+17. **Rolandic Operculum**
+
+These regions are involved in various cognitive and oculomotor functions, including visual processing, motion perception, attention, eye movement control, and higher cognitive processes.

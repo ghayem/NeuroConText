@@ -1,0 +1,46 @@
+## Brain Regions and Sub-Regions:
+
+1. **Hippocampus**
+    - Dentate gyrus
+    - Hippocampus proper
+    - Subiculum
+    - Anterior hippocampus
+    - Antero-medial hippocampus
+    - Antero-lateral hippocampus
+    - Middle hippocampus
+    - Posterior hippocampus
+
+2. **Superior Temporal Gyrus**
+    - Bilateral superior temporal gyrus
+
+3. **Fusiform Gyrus**
+
+4. **Thalamus**
+
+5. **Medial Prefrontal Cortex**
+
+6. **Caudate**
+
+7. **Visual Cortex**
+
+8. **Primary Auditory Cortex**
+
+9. **Salience Network**
+
+10. **Parahippocampal Sub-Regions**
+
+11. **Cerebrospinal Fluid (CSF)**
+
+12. **Gray Matter**
+
+13. **White Matter**
+
+14. **Left Middle Part of the Hippocampus**
+
+15. **Bilateral Antero-Lateral Part of the Hippocampus**
+
+16. **Right Antero-Medial Part of the Hippocampus**
+
+17. **Right Hippocampus**
+
+- These regions are involved in these cognitive functions: sensory representation, memory, language processing, and executive functions.

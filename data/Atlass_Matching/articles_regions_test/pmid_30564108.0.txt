@@ -1,0 +1,69 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+    - Right amygdala
+
+2. **Superior Temporal Gyrus**
+
+3. **Thalamus**
+    - Medial thalamus
+
+4. **Anterior Cingulate Cortex**
+
+5. **Medial Orbitofrontal Cortex (OFC)**
+
+6. **Right Lingual Gyrus**
+
+7. **Precuneus**
+
+8. **Left Lingual Gyrus**
+
+9. **Parahippocampus**
+
+10. **Medial Frontal Gyrus**
+
+11. **Left Hippocampus**
+
+12. **Ventrolateral Prefrontal Cortex (PFC)**
+    - Right ventrolateral PFC
+    - Left ventrolateral PFC
+
+13. **Medial Prefrontal Cortex**
+
+14. **Insula**
+    - Right insula
+    - Left insula
+
+15. **Cuneus**
+
+16. **Caudate Nucleus**
+
+17. **Putamen**
+
+18. **Globus Pallidus**
+
+19. **Nucleus Accumbens**
+
+20. **Basal Forebrain**
+
+21. **Substantia Nigra**
+
+22. **Ventral Tegmental Area**
+
+23. **Periaqueductal Gray**
+
+24. **Raphe Nuclei**
+
+25. **Locus Coeruleus**
+
+26. **Medulla**
+
+27. **Cerebellum**
+
+28. **Brainstem**
+
+29. **Hypothalamus**
+
+30. **Pituitary Gland**
+
+These regions are involved in various cognitive functions, including emotion regulation, attention, memory, and stress response.

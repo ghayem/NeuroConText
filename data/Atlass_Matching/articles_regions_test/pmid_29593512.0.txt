@@ -1,0 +1,63 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Auditory Cortex**
+   - Primary auditory cortex
+   - Secondary auditory cortex
+   - Anterior auditory field
+
+2. **Auditory Midbrain**
+
+3. **Superior Temporal Gyrus (STG)**
+   - Left STG
+
+4. **Prefrontal Cortex**
+   - Middle frontal gyrus (MFG)
+     - Left MFG
+   - Medial prefrontal gyrus
+
+5. **Parahippocampal Gyrus (PHG)**
+   - Right PHG
+
+6. **Precuneus**
+   - Right precuneus
+
+7. **Posterior Cingulate Cortex (PCC)**
+
+8. **Cuneus**
+   - Left cuneus
+
+9. **Postcentral Gyrus (PoCG)**
+   - Left PoCG
+   - Right PoCG
+
+10. **Inferior Parietal Lobule (IPL)**
+    - Right IPL
+
+11. **Default Mode Network (DMN)**
+    - Precuneus/PCC
+    - Bilateral IPL
+    - Medial temporal gyrus
+    - Medial prefrontal gyrus
+
+12. **Limbic System**
+    - Parahippocampal gyrus (PHG)
+
+13. **Temporal Lobe**
+    - Right temporal lobe
+
+14. **Dorsal Attention Network**
+
+15. **Visual Cortex**
+    - Right motion-sensitive visual area
+
+16. **Somatosensory Cortex**
+    - Postcentral gyrus (PoCG)
+
+These regions are involved in various cognitive functions, including:
+- **Auditory processing**: Auditory cortex, auditory midbrain, superior temporal gyrus
+- **Language and speech processing**: Superior temporal gyrus, prefrontal cortex
+- **Memory**: Parahippocampal gyrus, limbic system
+- **Executive functions**: Prefrontal cortex, inferior parietal lobule
+- **Visual processing**: Visual cortex
+- **Somatosensory processing**: Postcentral gyrus
+- **Default mode and attention networks**: Default mode network, dorsal attention network

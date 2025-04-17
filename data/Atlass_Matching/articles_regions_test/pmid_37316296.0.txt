@@ -1,0 +1,44 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Brodmann area 24
+
+2. **Anterior Insula**
+
+3. **Dorsal Attention Network (DAN)**
+
+4. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+5. **Dorsomedial Prefrontal Cortex**
+
+6. **Insula**
+   - Middle insula
+   - Posterior insula
+
+7. **Lateral Occipital Area V5/MT**
+
+8. **Lateral Prefrontal Cortex (LPFC)**
+
+9. **Medial Prefrontal Cortex (MPFC)**
+
+10. **Middle Temporal (MT or V5) Region**
+
+11. **Prefrontal Cortex**
+
+12. **Salience Network (SLN)**
+   - Anterior insula
+   - Anterior cingulate cortex (ACC)
+
+13. **Somatosensory Regions**
+
+14. **Somatomotor Cortex**
+
+15. **Striatum**
+
+16. **Temporal/Occipital Cortices**
+
+17. **Temporoparietal Junction (TPJ)**
+
+18. **Ventral Occipital Cortex**
+
+These regions are involved in various cognitive functions, including interoceptive attention, error monitoring, emotion regulation, wellbeing, and sensory integration.

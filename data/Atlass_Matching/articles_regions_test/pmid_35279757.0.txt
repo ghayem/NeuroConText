@@ -1,0 +1,59 @@
+## Brain Regions and Sub-regions:
+
+1. **Prefrontal Cortex**
+    - Bilateral prefrontal cortices
+
+2. **Occipital Cortex**
+    - Bilateral occipital cortices
+
+3. **Thalamus**
+    - Right thalamus
+
+4. **Cerebellum**
+    - Left cerebellum
+    - Posterior cerebellum
+
+5. **Superior Frontal Gyrus**
+    - Bilateral superior frontal gyrus
+
+6. **Medial Frontal Gyrus**
+    - Bilateral medial frontal gyrus
+
+7. **Anterior Cingulate**
+    - Right anterior cingulate
+
+8. **Insular Cortex**
+    - Right insular cortex
+
+9. **Inferior Frontal Gyrus**
+    - Right inferior frontal gyrus
+
+10. **Frontal Orbital Cortex**
+    - Right frontal orbital cortex
+
+11. **Caudate**
+    - Right caudate
+
+12. **Fronto-Striatal-Limbic Network**
+    - Fronto-striatal-limbic system
+    - Fronto-striatal connectivity
+    - Fronto-limbic regions
+    - Striatal structures
+    - Limbic structures
+
+13. **Temporo-parieto-occipital Junction (TPO)**
+
+14. **Temporal Cortex**
+    - Superior temporal cortex
+
+15. **Putamen**
+    - Striatal (including the putamen)
+
+16. **Corticospinal Fluid Probability Maps**
+    - Grey matter
+    - White matter
+    - Corticospinal fluid
+
+17. **Montreal Neurological Institute (MNI) Space**
+
+These regions are involved in various cognitive and psychiatric functions, including language, memory, executive functions, and psychotic symptoms such as hallucinations, delusions, and schizotypal traits.

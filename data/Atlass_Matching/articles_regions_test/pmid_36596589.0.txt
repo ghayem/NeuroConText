@@ -1,0 +1,39 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Limbic–Cortical Circuit**
+   - Hippocampus
+   - Left insula
+   - Inferior frontal gyrus
+   - Orbitofrontal gyrus
+   - Superior frontal gyrus
+
+2. **Default Mode Network (DMN)**
+   - Precuneus
+   - Posterior cingulate cortex
+   - Left middle occipital gyrus
+   - Right superior frontal gyrus
+
+3. **Prefrontal Cortex**
+   - Bilateral superior frontal gyrus
+   - Left inferior orbitofrontal cortex
+
+4. **Temporal Cortex**
+   - Right middle temporal cortex
+
+5. **Occipital Cortex**
+   - Left middle occipital cortex
+   - Right cuneus
+
+6. **Parietal Cortex**
+   - Left precuneus
+
+7. **Frontal Cortex**
+   - Right precentral cortex
+   - Right superior frontal gyrus
+
+8. **Other Regions**
+   - Right calcarine
+   - Bilateral superior occipital gyrus
+   - Right precentral gyrus
+
+- These regions are involved in various cognitive functions and emotional regulation processes, including attention, response inhibition, working memory, cognitive flexibility, and processing speed.

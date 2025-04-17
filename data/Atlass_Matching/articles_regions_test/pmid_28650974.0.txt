@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Insula**
+   - Left insula (BA13)
+   - Right insula (BA13)
+
+2. **Anterior Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Dorsal anterior cingulate cortex (dACC) (BA24)
+   - Subgenual anterior cingulate cortex (sgACC)
+   - Pregenual anterior cingulate cortex (pgACC)
+
+3. **Prefrontal Cortex**
+   - Prefrontal cortex
+   - Dorsal lateral prefrontal cortex (DLPFC) (BA9)
+     - Left dorsal lateral prefrontal cortex
+     - Right dorsal lateral prefrontal cortex
+
+4. **Posterior Cingulate Cortex**
+   - Posterior cingulate cortex (PCC) (BA23)
+   - Left posterior cingulate cortex
+   - Right posterior cingulate cortex
+
+5. **Precuneus**
+   - Precuneus
+
+6. **Default Mode Network**
+   - Self-referential default mode network
+
+7. **Executive Control Network**
+   - Executive control network
+
+8. **Salience Network**
+   - Salience network
+
+9. **Central Executive Network**
+   - Central executive network
+
+10. **Hippocampus**
+    - Hippocampus
+
+These regions are involved in various cognitive and affective functions, including pain processing, salience processing, self-referential processing, and executive control.

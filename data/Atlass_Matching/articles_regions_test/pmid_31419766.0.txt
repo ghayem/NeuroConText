@@ -1,0 +1,39 @@
+Based on the provided article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal areas
+   - Inferior frontal gyrus (IFG)
+   - Middle frontal gyrus (MFG)
+   - Anterior cingulate
+
+2. **Temporal Cortex**
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus (MTG)
+   - Inferior temporal gyrus (ITG)
+   - Parahippocampal gyrus (PHG)
+
+3. **Parietal Cortex**
+   - Postcentral gyrus (postCG)
+   - Middle occipital gyrus (MOG)
+   - Inferior parietal lobule (IPL)
+   - Superior parietal areas
+
+4. **Frontal Cortex**
+   - Precentral gyrus (preCG)
+
+5. **Limbic System**
+   - Hippocampal areas
+
+6. **Striatal Areas**
+   - Striatum
+
+7. **Occipital Cortex**
+   - Occipital lobe areas
+
+8. **White Matter Tracts**
+   - Arcuate fasciculus (AF)
+   - Uncinate fasciculus (UF)
+   - Inferior fronto-occipital fasciculus (IFOF)
+   - Inferior longitudinal fasciculus (ILF)
+
+These regions are involved in various cognitive functions, including language processing, verbal memory, working memory, and learning, as well as musical and prosodic processing.

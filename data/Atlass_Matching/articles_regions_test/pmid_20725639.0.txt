@@ -1,0 +1,28 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Principal sulcus (PS, Area 46)
+
+2. **Frontal Regions**
+   - Medial frontal (BA6)
+   - Left superior frontal (BA6)
+   - Middle frontal (BA6/10)
+   - Right middle frontal (BA6/9)
+   - Inferior frontal gyri (BA9)
+   - Precentral gyri
+   - Superior frontal gyrus (medial BA8)
+
+3. **Parietal Regions**
+   - Superior parietal lobule (BA 7/40)
+   - Inferior parietal lobule (BA 7/40)
+   - Bilateral parietal regions
+   - Right parietal regions
+
+4. **Other Regions**
+   - Precuneus
+   - Cingulate gyrus
+   - Anterior left precentral gyrus
+   - Left ventral occipitotemporal cortex
+   - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in various cognitive functions, including working memory, higher cognitive functions, sensory processing, and phonological decoding.

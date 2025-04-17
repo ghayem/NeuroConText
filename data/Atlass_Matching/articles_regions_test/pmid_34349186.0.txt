@@ -1,0 +1,58 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+
+2. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+3. **Ventrolateral Prefrontal Cortex (vlPFC)**
+
+4. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+5. **Supplementary Motor Area (SMA)**
+
+6. **Inferior Parietal Lobule (IPL)**
+   - Superior parietal lobule (SPL)
+   - Inferior parietal lobule/superior parietal lobule (IPL/SPL)
+
+7. **Middle Frontal Gyrus (MFG)**
+
+8. **Vision-related Areas**
+
+9. **Hippocampus**
+
+10. **Striatum**
+
+11. **Middle Temporal Gyrus (MTG)**
+
+12. **Supramarginal Gyrus**
+
+13. **Anterior Insula**
+
+14. **Sensorimotor Areas**
+
+15. **Posterior Cingulate Cortex (PCC)**
+
+16. **Premotor Cortex**
+
+17. **Thalamus**
+
+18. **Frontopolar Cortex (FPC)**
+
+19. **Angular Gyrus**
+
+20. **Precuneus**
+
+21. **Superior Temporal Pole (STP)**
+
+22. **Amygdala**
+
+23. **Putamen**
+
+24. **Middle Cingulate Cortex**
+
+25. **Lingual Gyrus**
+
+26. **Precentral Gyrus**
+
+These regions are involved in cognitive functions such as decision-making, motivational processes, cognitive control, and reward-seeking behaviors.

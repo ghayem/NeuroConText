@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Cortex**
+    - Right mid frontal cortex
+
+2. **Subcortical Regions**
+    - Striatum
+        - Bilateral striatum
+        - Right striatum
+        - Left striatum
+    - Putamen
+        - Right putamen
+
+3. **Motor Cortex**
+    - Left motor cortex
+
+4. **Parietal Cortex**
+    - Right parietal cortex
+    - Bilateral inferior parietal lobes
+
+5. **Temporal Cortex**
+    - Bilateral temporal gyri
+    - Superior temporal gyrus
+
+6. **Cerebellum**
+
+7. **Cingulate Cortex**
+    - Anterior cingulate cortex
+
+8. **Precuneus**
+
+9. **Postcentral Gyrus**
+
+10. **Insula**
+    - Left insula
+
+11. **Cuneus**
+
+12. **Prefrontal Cortex**
+
+13. **Basal Ganglia**
+
+14. **Mid Temporal Gyrus**
+
+These regions are involved in the following cognitive functions:
+- Executive functions (inhibition, planning, problem-solving, cognitive flexibility, working memory, mental shifting, information processing)
+- Motor control and inhibition
+- Self-regulation
+- Proactive and reactive inhibitory control
+- Functional coupling between cortical and subcortical regions

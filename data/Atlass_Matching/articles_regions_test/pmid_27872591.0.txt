@@ -1,0 +1,75 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Entorhinal cortex
+   - Perirhinal cortex
+
+2. **Prefrontal Cortex (PFC)**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+   - Medial Prefrontal Cortex (mPFC)
+   - Bilateral DLPFC (L, BA9; R, BA46)
+   - Right precentral gyrus (BA6)
+   - Left medial frontal gyrus (BA6)
+   - Left superior frontal gyrus (BA6)
+   - Right DLPFC (BA9)
+   - Right precentral gyrus (BA6)
+   - Superior frontal gyrus (BA8)
+   - Middle frontal gyrus (L, BA6)
+
+3. **Parietal Lobe**
+   - Bilateral precuneus (BA7 and BA19)
+   - Right superior parietal lobule (BA7)
+   - Left angular gyrus (BA39)
+   - Bilateral precuneus (BA7)
+   - Right precuneus (BA31/7)
+   - Right precuneus (BA31)
+
+4. **Limbic Lobe**
+   - Bilateral parahippocampal gyrus (R, L, BA27 and L, BA36)
+   - Bilateral entorhinal cortex
+   - Left perirhinal cortex
+   - Bilateral entorhinal (BA27, 28)
+   - Bilateral perirhinal cortex (BA36)
+
+5. **Occipital Lobe**
+   - Right lingual gyrus (BA18)
+   - Right cuneus (BA17)
+   - Right middle occipital gyrus (BA19)
+   - Bilateral lingual gyrus (BA18)
+   - Bilateral middle occipital gyrus (L, BA18; R, BA19)
+   - Bilateral cuneus (BA17)
+
+6. **Temporal Lobe**
+   - Left fusiform gyrus (BA37)
+   - Bilateral fusiform gyrus (BA37)
+   - Left superior temporal gyrus (BA38)
+   - Left middle temporal gyrus (BA39)
+   - Superior temporal gyrus (BA22, 38)
+
+7. **Subcortical Structures**
+   - Left sub-lobar thalamus
+   - Left thalamus
+   - Right lateral globus pallidus
+   - Bilateral thalamus
+   - Left lentiform nucleus
+   - Right lingual gyrus (BA18)
+   - Right claustrum
+   - Left amygdala
+   - Bilateral globus pallidus
+   - Bilateral thalamus pulvinar
+
+8. **Cerebellum**
+   - Bilateral cerebellum
+   - Part of left cerebellum
+   - Part of right cerebellum
+
+9. **Other Regions**
+   - Left insular cortex (BA13)
+   - Right posterior cingulate (BA23)
+   - Left posterior cingulate cortex (PCC)
+   - Bilateral hippocampus
+   - Right extra-nuclear (BA7)
+
+These regions are involved in various cognitive functions, including memory (episodic memory, encoding, retrieval), language, attention/executive function, visuospatial skills, and semantic knowledge representation.

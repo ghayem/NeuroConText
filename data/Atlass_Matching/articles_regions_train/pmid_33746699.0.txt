@@ -1,0 +1,66 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Insula**
+
+2. **Hippocampus**
+
+3. **Parahippocampal Gyrus**
+
+4. **Posterior Cingulate Cortex (PCC)**
+
+5. **Anterior Cingulate Cortex**
+
+6. **Auditory Cortex**
+
+7. **Cochlear Nucleus**
+
+8. **Thalamus**
+   - Left Thalamus
+   - Right Thalamus
+
+9. **Precuneus**
+
+10. **Medial Superior Frontal Areas**
+
+11. **Somatosensory and Motor Cortex (SMC)**
+    - Left SMC
+    - Right SMC
+
+12. **Dorsal Stream Visual Cortex (DSVC)**
+    - Bilateral DSVC
+
+13. **Paracentral Lobular and Midcingulate Cortex (PCL and MCC)**
+    - Bilateral PCL and MCC
+
+14. **Superior Parietal Cortex (SPC)**
+    - Bilateral SPC
+
+15. **Inferior Parietal Cortex (IPC)**
+    - Left IPC
+
+16. **Primary Visual Cortex (PVC)**
+    - Bilateral PVC
+
+17. **Orbital and Polar Frontal Cortex (OPFC)**
+    - Right OPFC
+
+18. **Medial Prefrontal Cortex (mPFC)**
+    - Right mPFC
+
+19. **Precentral Gyrus (PreCG)**
+
+20. **Default-Mode Network (DMN)**
+
+21. **Orbitofrontal Cortex**
+
+22. **Superior Parietal Lobule (SPL)**
+
+23. **Somatosensory Area (SMA)**
+
+24. **Middle Occipital Gyrus**
+
+25. **Parahippocampal Gyrus**
+
+26. **Middle Temporal Gyrus**
+
+These regions are involved in various cognitive functions, including auditory processing, emotion regulation, executive control, attention, and cognitive dysfunction.

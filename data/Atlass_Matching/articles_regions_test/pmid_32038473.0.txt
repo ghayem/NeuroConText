@@ -1,0 +1,100 @@
+### Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Hippocampus**
+   - Cornu ammonis
+   - Fascia dentata
+
+2. **Amygdala**
+   - Laterobasal amygdala
+
+3. **Parietal Precuneus**
+   - Posterior cingulate cortex (PCC)
+
+4. **Thalamus**
+
+5. **Parahippocampal Gyrus**
+
+6. **Posterior Medial Frontal Gyrus**
+   - Supplementary motor area (SMA)
+
+7. **Inferior Frontal Gyrus**
+
+8. **Middle Orbital Gyrus**
+   - Rectal gyrus
+
+9. **Insula**
+
+10. **Fusiform Gyrus**
+    - FG4
+    - FG2
+
+11. **Right Inferior Temporal Gyrus**
+
+12. **Inferior Occipital Gyrus**
+
+13. **Cerebellum**
+    - Lobule VI
+    - Lobule VIIa
+    - Lobule IX
+    - Lobule X
+
+14. **Inferior Parietal Lobe (IPL)**
+    - Parietal operculum
+    - Angular gyrus
+    - PGa
+    - PFm
+    - PGp
+
+15. **Middle Temporal Gyrus**
+
+16. **Left Middle and Superior Frontal Gyrus**
+
+17. **Right Middle Temporal Gyrus**
+
+18. **Superior Medial and Anterior Cingulate Cortex (ACC)**
+
+19. **Caudate Nucleus**
+
+20. **Putamen**
+
+21. **Pallidum**
+
+22. **Middle Cingulate Cortex**
+
+23. **Left Inferior Frontal Gyrus**
+
+24. **Right Inferior Frontal Gyrus**
+
+25. **Right Inferior Occipital Gyrus**
+
+26. **Superior Frontal Gyrus**
+
+27. **Precentral Gyrus**
+
+28. **Postcentral Gyrus**
+
+29. **Superior Occipital Gyrus**
+
+30. **Middle Orbital Gyrus**
+
+31. **Middle Frontal Gyrus**
+
+32. **Orbitofrontal Cortex (OFC)**
+
+33. **Medial Frontal Cortex**
+
+34. **Lateral Prefrontal Cortex (DLPFC)**
+
+35. **Inferior Parietal Lobe (Supramarginal Gyrus)**
+
+36. **Middle Occipital Gyrus**
+
+37. **Anterior Insula**
+
+38. **Ventromedial Prefrontal Cortex**
+
+39. **Fronto-Insular Cortex**
+
+40. **Cerebrospinal Fluid**
+
+These regions are involved in various cognitive functions such as language, memory, executive functions, emotional control, reward processing, introspection, social cognition, motion perception, and theory of mind.

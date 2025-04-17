@@ -1,0 +1,39 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Cerebral areas involved early in neural dysfunction of AD**
+
+2. **Associative cortices**
+
+3. **Medial temporal lobe**
+   - Medial temporal lobe atrophy
+
+4. **Cerebral metabolism**
+
+5. **Cerebellum**
+   - Gray matter of the cerebellum
+
+6. **Posterior cingulate**
+   - Right posterior cingulate
+   - Left posterior cingulate
+
+7. **Angular gyrus**
+   - Right angular gyrus
+   - Left angular gyrus
+
+8. **Middle/inferior temporal areas**
+   - Right middle/inferior temporal area
+   - Left middle/inferior temporal area
+
+9. **Hippocampus**
+   - Right hippocampus
+
+10. **Posterior parahippocampal gyrus**
+    - Left posterior parahippocampal gyrus
+
+11. **Insular cortex**
+    - Right insular cortex
+
+12. **Temporo-occipital gyrus**
+    - Right middle temporo-occipital gyrus
+
+These regions are involved in various cognitive functions and are particularly relevant in the context of Alzheimer's disease (AD) and the effects of multidomain intervention (MI) and omega-3 supplementation.

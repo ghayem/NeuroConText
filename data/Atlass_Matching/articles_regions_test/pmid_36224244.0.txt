@@ -1,0 +1,32 @@
+## Brain Regions and Sub-Regions:
+
+1. **Pregenual Anterior Cingulate Cortex (pgACC)**
+2. **Posterior Insula (pINS)**
+3. **Periaqueductal Gray (PAG)**
+4. **Mid-Insula (mid-INS)**
+5. **Dorsolateral Prefrontal Cortex (dlPFC)**
+6. **Inferior Parietal Lobule (IPL)**
+7. **Lateral Thalamus**
+8. **Primary Sensory Cortex (S1)**
+9. **Primary Motor Cortex (M1)**
+10. **Anterior Insula (aINS)**
+11. **Default-Mode Network (DMN)**
+12. **Salience Network (SN)**
+13. **Middle Frontal Gyrus (MFG)**
+14. **Executive Control Network (ECN)**
+15. **Frontal Pole**
+16. **Angular Gyrus**
+17. **Ventrolateral Thalamus**
+18. **Mediodorsal Thalamic Nucleus**
+19. **Rostro-Medial Prefrontal Cortex (vmPFC)**
+20. **Medial Prefrontal Cortex (mPFC)**
+21. **Dorsal Anterior Cingulate Cortex (dACC)**
+22. **Secondary Sensory Cortex (S2)**
+23. **Basal Ganglia**
+24. **Amygdala**
+25. **Prefrontal Cortex**
+26. **Anterior Thalamic Radiations**
+27. **Right Medio-Frontal Cortex**
+28. **Rostro-Medial Prefrontal Cortex (rmPFC)**
+
+These regions are involved in various cognitive and sensory functions, including pain processing, emotional regulation, executive control, and self-referential processing.

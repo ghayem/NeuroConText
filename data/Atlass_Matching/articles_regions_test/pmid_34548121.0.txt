@@ -1,0 +1,27 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex (PFC)**
+   - Medial PFC
+   - Anterior PFC
+   - Paracingulate sulcus (PCS)
+   - Cingulate sulcus
+
+2. **Temporoparietal Areas**
+   - Angular gyrus
+     - Right angular gyrus
+   - Supramarginal gyrus
+     - Left supramarginal gyrus
+   - Superior temporal gyrus
+     - Left superior temporal gyrus
+   - Lingual gyrus
+     - Right lingual gyrus
+   - Inferior temporal gyrus
+     - Left inferior temporal gyrus
+     - Right inferior temporal gyrus
+   - Fusiform gyrus
+     - Left fusiform gyrus
+     - Right fusiform gyrus
+   - Superior frontal gyrus
+     - Right superior frontal gyrus
+
+These regions are involved in reality monitoring, externalization bias, and auditory hallucinations (AHs) in patients with schizophrenia.

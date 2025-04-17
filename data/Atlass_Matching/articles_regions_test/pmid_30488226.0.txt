@@ -1,0 +1,331 @@
+1. **Left Inferior Frontal Gyrus**
+   - Left supramarginal gyrus
+   - Left angular gyri
+   - Left posterior, inferior frontal gyrus
+   - Left precentral gyrus
+
+2. **Left Supramarginal and Angular Gyri**
+
+3. **Bilateral and Lateral Temporal Cortices**
+
+4. **Anterior Cingulate**
+
+5. **Right Lateral Prefrontal Cortex**
+
+6. **Right Inferior Frontal Gyrus**
+
+7. **Bilateral Cingulate**
+
+8. **Precuneus**
+
+9. **Left Middle Frontal Gyrus**
+
+10. **Left Dorsal Medial Prefrontal Cortex**
+
+11. **Left Anterior Middle Temporal Gyrus**
+
+12. **Left Fusiform Gyrus**
+
+13. **Bilateral Precuneus**
+
+14. **Bilateral Posterior Cingulate Cortex**
+
+15. **Left Inferior Temporal Cortices**
+
+16. **Left Precentral Gyrus**
+
+17. **Left Postcentral Gyrus**
+
+18. **Left Posterior Cingulate**
+
+19. **Left Supramarginal Gyrus**
+
+20. **Left Anterior Cingulate Cortex**
+
+21. **Left Thalamus**
+
+22. **Right Precentral Gyrus**
+
+23. **Right Postcentral Gyrus**
+
+24. **Right Posterior Cingulate**
+
+25. **Right Insula**
+
+26. **Right Occipital Cortex**
+
+27. **Right Lateral Occipital Cortex**
+
+28. **Bilateral Calcarine Cortex**
+
+29. **Bilateral Visual Cortex**
+
+30. **Bilateral Precentral and Postcentral Gyri**
+
+31. **Bilateral Supramarginal Gyri**
+
+32. **Cerebellum**
+
+33. **Motor Cortex**
+
+34. **Occipital Cortex**
+
+35. **Occipital Pole**
+
+36. **Left Inferior Frontal Gyrus**
+
+37. **Left Anterior Cingulate Cortex**
+
+38. **Bilateral Precentral and Postcentral Gyri**
+
+39. **Bilateral Supramarginal Gyri**
+
+40. **Bilateral Inferior Temporal Cortices**
+
+41. **Left Anterior Cingulate Cortex**
+
+42. **Bilateral Precuneus**
+
+43. **Bilateral Inferior Temporal Cortices**
+
+44. **Left Inferior Temporal Cortices**
+
+45. **Left Precentral Gyrus**
+
+46. **Left Postcentral Gyrus**
+
+47. **Left Posterior Cingulate**
+
+48. **Left Supramarginal Gyrus**
+
+49. **Left Anterior Cingulate Cortex**
+
+50. **Left Thalamus**
+
+51. **Right Precentral Gyrus**
+
+52. **Right Postcentral Gyrus**
+
+53. **Right Posterior Cingulate**
+
+54. **Right Insula**
+
+55. **Right Occipital Cortex**
+
+56. **Right Lateral Occipital Cortex**
+
+57. **Bilateral Calcarine Cortex**
+
+58. **Bilateral Visual Cortex**
+
+59. **Bilateral Precentral and Postcentral Gyri**
+
+60. **Bilateral Supramarginal Gyri**
+
+61. **Cerebellum**
+
+62. **Motor Cortex**
+
+63. **Occipital Cortex**
+
+64. **Occipital Pole**
+
+65. **Left Inferior Frontal Gyrus**
+
+66. **Left Anterior Cingulate Cortex**
+
+67. **Bilateral Precentral and Postcentral Gyri**
+
+68. **Bilateral Supramarginal Gyri**
+
+69. **Bilateral Inferior Temporal Cortices**
+
+70. **Left Anterior Cingulate Cortex**
+
+71. **Bilateral Precuneus**
+
+72. **Bilateral Inferior Temporal Cortices**
+
+73. **Left Inferior Temporal Cortices**
+
+74. **Left Precentral Gyrus**
+
+75. **Left Postcentral Gyrus**
+
+76. **Left Posterior Cingulate**
+
+77. **Left Supramarginal Gyrus**
+
+78. **Left Anterior Cingulate Cortex**
+
+79. **Left Thalamus**
+
+80. **Right Precentral Gyrus**
+
+81. **Right Postcentral Gyrus**
+
+82. **Right Posterior Cingulate**
+
+83. **Right Insula**
+
+84. **Right Occipital Cortex**
+
+85. **Right Lateral Occipital Cortex**
+
+86. **Bilateral Calcarine Cortex**
+
+87. **Bilateral Visual Cortex**
+
+88. **Bilateral Precentral and Postcentral Gyri**
+
+89. **Bilateral Supramarginal Gyri**
+
+90. **Cerebellum**
+
+91. **Motor Cortex**
+
+92. **Occipital Cortex**
+
+93. **Occipital Pole**
+
+94. **Left Inferior Frontal Gyrus**
+
+95. **Left Anterior Cingulate Cortex**
+
+96. **Bilateral Precentral and Postcentral Gyri**
+
+97. **Bilateral Supramarginal Gyri**
+
+98. **Bilateral Inferior Temporal Cortices**
+
+99. **Left Anterior Cingulate Cortex**
+
+100. **Bilateral Precuneus**
+
+101. **Bilateral Inferior Temporal Cortices**
+
+102. **Left Inferior Temporal Cortices**
+
+103. **Left Precentral Gyrus**
+
+104. **Left Postcentral Gyrus**
+
+105. **Left Posterior Cingulate**
+
+106. **Left Supramarginal Gyrus**
+
+107. **Left Anterior Cingulate Cortex**
+
+108. **Left Thalamus**
+
+109. **Right Precentral Gyrus**
+
+110. **Right Postcentral Gyrus**
+
+111. **Right Posterior Cingulate**
+
+112. **Right Insula**
+
+113. **Right Occipital Cortex**
+
+114. **Right Lateral Occipital Cortex**
+
+115. **Bilateral Calcarine Cortex**
+
+116. **Bilateral Visual Cortex**
+
+117. **Bilateral Precentral and Postcentral Gyri**
+
+118. **Bilateral Supramarginal Gyri**
+
+119. **Cerebellum**
+
+120. **Motor Cortex**
+
+121. **Occipital Cortex**
+
+122. **Occipital Pole**
+
+123. **Left Inferior Frontal Gyrus**
+
+124. **Left Anterior Cingulate Cortex**
+
+125. **Bilateral Precentral and Postcentral Gyri**
+
+126. **Bilateral Supramarginal Gyri**
+
+127. **Bilateral Inferior Temporal Cortices**
+
+128. **Left Anterior Cingulate Cortex**
+
+129. **Bilateral Precuneus**
+
+130. **Bilateral Inferior Temporal Cortices**
+
+131. **Left Inferior Temporal Cortices**
+
+132. **Left Precentral Gyrus**
+
+133. **Left Postcentral Gyrus**
+
+134. **Left Posterior Cingulate**
+
+135. **Left Supramarginal Gyrus**
+
+136. **Left Anterior Cingulate Cortex**
+
+137. **Left Thalamus**
+
+138. **Right Precentral Gyrus**
+
+139. **Right Postcentral Gyrus**
+
+140. **Right Posterior Cingulate**
+
+141. **Right Insula**
+
+142. **Right Occipital Cortex**
+
+143. **Right Lateral Occipital Cortex**
+
+144. **Bilateral Calcarine Cortex**
+
+145. **Bilateral Visual Cortex**
+
+146. **Bilateral Precentral and Postcentral Gyri**
+
+147. **Bilateral Supramarginal Gyri**
+
+148. **Cerebellum**
+
+149. **Motor Cortex**
+
+150. **Occipital Cortex**
+
+151. **Occipital Pole**
+
+152. **Left Caudate**
+
+153. **Left Middle Frontal Gyrus**
+
+154. **Left Cingulate**
+
+155. **Left Supramarginal Gyrus**
+
+156. **Left Precuneus**
+
+157. **Left Lateral Occipital Cortex**
+
+158. **Right Caudate**
+
+159. **Right Middle Frontal Gyrus**
+
+160. **Right Cingulate**
+
+161. **Right Supramarginal Gyrus**
+
+162. **Right Precuneus**
+
+163. **Right Lateral Occipital Cortex**
+
+- These regions are involved in these cognitive functions: language, memory, executive functions, inhibition, conflict monitoring, task control, inhibitory mechanisms, semantic processing, phonological processing, cognitive control, and motor responses.

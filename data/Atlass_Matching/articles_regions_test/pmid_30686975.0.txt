@@ -1,0 +1,24 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Cortical Regions**
+   - Cortical neuronal activity
+   - Subcortical neuronal activity
+   - Subcortical sources
+   - Cortical electrical neuronal activity
+   - Temporal cortex (implied by EEG measurements)
+   - Occipital cortex
+     - Inferior occipital cortex
+   - Parietal cortex
+     - Right parietal regions
+   - Cingulum
+
+2. **Subcortical Regions**
+   - Diencephalon
+   - Brainstem
+
+3. **Other Specific Regions**
+   - Right occipital regions
+   - Inferior occipital cortex
+   - Broader posterior and caudal regions
+
+These regions are involved in various cognitive functions, including attention, sensory processing, and motor control, as implied by the tasks and measurements described in the article.

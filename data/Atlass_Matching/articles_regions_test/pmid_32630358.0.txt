@@ -1,0 +1,42 @@
+1. **Hypothalamus**
+    - Lateral hypothalamus
+    - Posterior hypothalamus
+
+2. **Cingulo-opercular network**
+    - Bilateral insula
+    - Thalamus
+    - Anterior cingulate cortex
+    - Right middle frontal gyrus
+    - Bilateral midcingulate cortex
+    - Right intraparietal sulcus
+    - Left inferior parietal gyrus
+
+3. **Frontoparietal network**
+    - Bilateral superior frontal gyrus
+    - Midcingulate cortex
+    - Right inferior frontal gyrus
+    - Angular gyrus
+
+4. **Arousal system**
+    - Bilateral red nucleus
+    - Substantia nigra
+    - Locus coeruleus
+
+5. **Motor areas**
+    - Left pre- and postcentral gyrus
+    - Bilateral supplementary motor area
+    - Putamen
+    - Cerebellum
+
+6. **Visual cortex**
+    - Bilateral inferior orbitofrontal gyrus
+    - Fusiform gyrus
+
+7. **Other regions**
+    - Bilateral temporal lobe
+    - Right angular gyrus
+    - Vermis
+    - Bilateral inferior orbitofrontal gyrus
+    - Subthalamic nucleus
+
+- These regions are involved in various cognitive functions including sustained attention, response inhibition, motor control, arousal, and visual processing.

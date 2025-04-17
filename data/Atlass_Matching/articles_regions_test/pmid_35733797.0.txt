@@ -1,0 +1,61 @@
+## Brain Regions and Sub-Regions
+
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Insula**
+
+3. **Anterior Cingulate Cortex (ACC)**
+
+4. **Striatum**
+
+5. **Superior Frontal Gyrus**
+
+6. **Precentral Gyrus**
+
+7. **Precuneus**
+
+8. **Middle Cingulum Gyrus**
+
+9. **Cerebellum Posterior Lobe**
+
+10. **Inferior Frontal Gyrus**
+    - Left inferior frontal gyrus
+
+11. **Lingual Gyrus**
+    - Right lingual gyrus
+
+12. **Fusiform Gyrus**
+    - Left fusiform gyrus
+
+13. **Occipital Inferior Gyrus**
+    - Left occipital inferior gyrus
+
+14. **Calcarine**
+    - Left calcarine
+
+15. **Lentiform Nucleus**
+    - Right lentiform nucleus
+
+16. **Posterior Cingulate Cortex (PCC)**
+
+17. **Postcentral Gyrus**
+    - Left postcentral gyrus
+
+18. **Inferior Parietal Lobule**
+    - Left inferior parietal lobule
+
+19. **Default Mode Network (DMN)**
+    - Fronto-striatal circuits
+
+20. **Dorsolateral Prefrontal Cortex (dlPFC)**
+    - Right dorsolateral prefrontal cortex
+
+21. **Globus Pallidus**
+
+22. **Putamen**
+
+23. **Basal Ganglia**
+
+24. **Executive Control Network (ECN)**
+
+25. **Central Executive Network (CEN)**

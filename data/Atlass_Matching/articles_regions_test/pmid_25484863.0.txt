@@ -1,0 +1,24 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Occipitotemporal Cortex**
+   - Extra-striate body area (EBA)
+   - Fusiform body area (FBA)
+
+2. **Inferior Parietal Lobe (IPL)**
+
+3. **Superior Temporal Sulcus**
+   - Posterior superior temporal sulcus (pSTS)
+
+4. **Precentral Gyrus**
+
+5. **Inferior Frontal Gyrus (IFG)**
+
+6. **Superior Parietal Lobule**
+
+7. **Amygdala**
+
+8. **Thalamus**
+
+9. **Fusiform Gyrus**
+
+These regions are involved in the cognitive functions related to the perception and interpretation of human form and motion, social interaction, and emotional processing.

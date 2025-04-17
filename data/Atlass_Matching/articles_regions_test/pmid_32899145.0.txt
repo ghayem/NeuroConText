@@ -1,0 +1,40 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Cortex**
+   - Temporal cortex
+     - Primary auditory cortex
+     - Superior temporal gyrus
+     - Middle temporal gyrus
+   - Frontal lobe
+     - Left frontal lobe
+   - Parahippocampal gyrus
+     - Left parahippocampal gyrus
+   - Midbrain
+     - Right midbrain
+   - Corpus callosum
+
+2. **Cerebral Hemispheres**
+
+3. **Ventricular System**
+   - Intraventricular hemorrhage
+
+4. **Subarachnoid Space**
+   - Subarachnoid hemorrhage
+
+5. **Brainstem**
+
+6. **Cerebellum**
+
+7. **Resting State Networks**
+   - Medial visual network
+   - Occipital pole network
+   - Lateral visual network
+   - Default mode network
+   - Cerebellar network
+   - Sensorimotor network
+   - Auditory network
+   - Executive control network
+   - Right frontoparietal network
+   - Left frontoparietal network
+
+These regions are involved in various cognitive functions, including auditory processing, speech perception, command following, and resting-state connectivity.

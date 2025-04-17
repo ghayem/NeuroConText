@@ -1,0 +1,59 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Primary Somatosensory Cortex (SI)**
+   - Postcentral gyrus
+   - Brodmann area BA 3
+
+2. **Secondary Somatosensory Cortex (SII)**
+
+3. **Supplementary Motor Area**
+
+4. **Posterior Parietal Cortex (PPC)**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+6. **Thalamus**
+   - Ventral posteromedial nucleus (VPM)
+   - Intralaminar nuclei
+
+7. **Precentral Gyrus (preG)**
+
+8. **Superior Temporal Gyrus (STG)**
+
+9. **Middle Occipital Gyrus**
+
+10. **Motor Cortex (MI)**
+
+11. **Inferior Frontal Gyrus (IFG)**
+
+12. **Supramarginal Gyrus (SMG)**
+
+13. **Cerebellum**
+   - Cerebellum 6
+   - Cerebellum crus II
+
+14. **Postcentral Gyrus (PostCG)**
+   - Anterior superior marginal gyrus (aSMG)
+
+15. **Angular Gyrus (AG)**
+
+16. **Middle Temporal Gyrus (MTG)**
+   - Posterior middle temporal gyrus (pMTG)
+
+17. **Fusiform Gyrus (FG)**
+
+18. **Lateral Occipital Cortex (LOC)**
+   - Superior lateral occipital cortex (sLOC)
+   - Inferior lateral occipital cortex (iLOC)
+
+19. **Superior Frontal Gyrus (SFG)**
+
+20. **Superior Parietal Lobule (SPL)**
+
+21. **Insular Cortex (IC)**
+
+22. **Ventral Trigeminal Lemniscus**
+
+23. **Main Sensory Trigeminal Nucleus**
+
+These regions are involved in various cognitive and sensorimotor functions, including sensory processing, motor control, and higher-order cognitive processes.

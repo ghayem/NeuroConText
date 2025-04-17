@@ -1,0 +1,20 @@
+{
+  "AAL": [
+    "Pallidum_L",
+    "Pallidum_R",
+    "Putamen_L",
+    "Putamen_R"
+  ],
+  "Harvard_Oxford": [],
+  "DiFuMo": [
+    "Putamen and globus pallidus anterior LH",
+    "Putamen anterior",
+    "Putamen anterior LH",
+    "Putamen anterior RH",
+    "Putamen inferior RH",
+    "Putamen middle LH",
+    "Putamen posterior LH",
+    "Putamen posterior RH",
+    "Putamen superior RH"
+  ]
+}

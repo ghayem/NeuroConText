@@ -1,0 +1,53 @@
+## Brain Regions and Sub-regions:
+
+1. **Hippocampus**
+    - Anterior hippocampus (ventral hippocampus in rodents)
+    - Posterior hippocampus (dorsal hippocampus in rodents)
+    - Left hippocampus
+        - Anterior-most emotional cluster (HIPe)
+        - Middle cognitive cluster (HIPc)
+        - Posterior-most perceptual cluster (HIPp)
+
+2. **Medial temporal gyrus**
+    - Right medial temporal gyrus (RMTG)
+
+3. **Middle occipital gyrus**
+    - Left middle occipital gyrus (LMOG)
+
+4. **Putamen**
+    - Left putamen
+
+5. **Angular gyrus**
+    - Right angular gyrus (RAG)
+    - Left angular gyrus (LAG)
+
+6. **Postcentral gyrus**
+    - Left postcentral gyrus
+
+7. **Inferior parietal lobule**
+    - Left inferior parietal lobule
+
+8. **Medial frontal gyrus**
+    - Medial frontal gyrus
+
+9. **Temporal gyrus**
+    - Medial/inferior temporal gyrus
+    - Fusiform gyrus
+
+10. **Occipital gyrus**
+    - Occipital gyrus
+
+11. **Parietal lobule**
+    - Inferior parietal lobule
+
+12. **Parahippocampal cortex**
+
+13. **Cerebrospinal fluid**
+
+14. **White matter**
+
+15. **Grey matter**
+
+16. **Temporo-parieto-occipital junction (TPO)**
+
+These regions are involved in these cognitive functions: memory, emotion regulation, facial emotion processing, and cognitive processes such as semantic processing, attention, and memory retrieval.

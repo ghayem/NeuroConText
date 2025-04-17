@@ -1,0 +1,88 @@
+## The brain regions and sub-regions:
+
+1. **Default Mode Network (DMN)**
+    - Medial prefrontal cortex (mPFC)
+    - Posterior cingulate cortex (PCC)
+    - Precuneus
+    - Anterior cingulate cortex (ACC)
+    - Angular gyrus (AG)
+
+2. **Visual Cortex**
+    - Primary visual cortex (V1)
+    - Secondary visual cortex (V2)
+    - Visual association cortex
+
+3. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Ventrolateral prefrontal cortex (VLPFC)
+    - Medial prefrontal cortex (mPFC)
+    - Orbitofrontal cortex (OFC)
+
+4. **Parietal Cortex**
+    - Superior parietal lobule (SPL)
+    - Inferior parietal lobule (IPL)
+    - Precuneus
+    - Angular gyrus (AG)
+    - Supramarginal gyrus (SMG)
+
+5. **Temporal Cortex**
+    - Superior temporal gyrus (STG)
+    - Middle temporal gyrus (MTG)
+    - Inferior temporal gyrus (ITG)
+    - Fusiform gyrus
+    - Parahippocampal gyrus
+
+6. **Occipital Cortex**
+    - Primary visual cortex (V1)
+    - Secondary visual cortex (V2)
+    - Visual association cortex
+
+7. **Frontal-Parietal Network**
+    - Dorsolateral prefrontal cortex (DLPFC)
+    - Inferior parietal lobule (IPL)
+    - Supramarginal gyrus (SMG)
+    - Precuneus
+
+8. **Brainstem**
+    - Pons
+    - Medulla
+    - Midbrain
+
+9. **Middle Temporal Gyrus (MTG)**
+    - Bilateral middle temporal gyrus
+
+10. **Left Superior Temporal Gyrus (STG)**
+    - Left STG
+
+11. **Left Precuneus**
+    - Left precuneus
+
+12. **Right Medial Frontal Gyrus**
+    - Right medial frontal gyrus
+
+13. **Left Middle Occipital Gyrus**
+    - Left middle occipital gyrus
+
+14. **Left Temporal Lobe Subgyral**
+    - Left temporal lobe subgyral
+
+15. **Right Precuneus**
+    - Right precuneus
+
+16. **Left Middle Temporal Gyrus (MTG)**
+    - Left middle temporal gyrus
+
+17. **Bilateral Middle Temporal Gyrus (MTG)**
+    - Bilateral middle temporal gyrus
+
+18. **Bilateral Medial Temporal Gyrus (MTG)**
+    - Bilateral medial temporal gyrus
+
+19. **Left Medial Frontal Gyrus**
+    - Left medial frontal gyrus
+
+20. **Left Middle Occipital Gyrus**
+    - Left middle occipital gyrus
+
+21. **Right Medial Frontal Gyrus**
+    - Right medial frontal gyrus

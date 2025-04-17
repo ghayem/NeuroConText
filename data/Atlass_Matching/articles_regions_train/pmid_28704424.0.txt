@@ -1,0 +1,65 @@
+Here are the brain regions and sub-regions mentioned in the article, along with their associated cognitive functions:
+
+1. **Frontal Cortex**
+    - Prefrontal cortex (left and right)
+        - Dorsolateral prefrontal areas (inferior, middle, and superior frontal gyri)
+        - Ventrolateral prefrontal cortex
+        - Anterior prefrontal cortex (frontal pole, Brodmann area 10)
+    - Motor areas (left and right)
+    - Premotor cortex
+    - Supplementary motor area (SMA)
+    - Middle cingulate gyrus
+    - Anterior cingulate cortex (ACC)
+    - Medial frontal areas
+    - Orbitofrontal cortex
+
+2. **Parietal Cortex**
+    - Parietal lobule (left and right)
+        - Inferior parietal lobule (angular gyrus, supramarginal gyrus, postcentral gyrus)
+    - Precuneus
+    - Posterior parietal cortex
+
+3. **Temporal Cortex**
+    - Superior temporal gyrus (left and right)
+    - Middle temporal gyrus (left and right)
+    - Inferior temporal gyrus (left and right)
+    - Temporo-parieto-occipital junction (TPO)
+    - Fusiform gyrus (left and right)
+    - Medial temporal lobe
+        - Parahippocampal gyrus (left and right)
+        - Hippocampus
+
+4. **Occipital Cortex**
+    - Visual areas (left and right)
+        - Primary visual cortex (V1)
+        - Secondary visual cortex (V2)
+        - Middle occipital gyrus (left and right)
+        - Inferior occipital gyrus (left and right)
+        - Cuneus (right)
+        - Calcarine gyrus (left)
+    - Occipito-temporal areas
+        - Inferior occipital gyrus (left and right)
+        - Fusiform gyri (left and right)
+    - Extrastriate areas
+
+5. **Subcortical Structures**
+    - Caudate nucleus (left)
+    - Pulvinar (right)
+    - Cerebellum (left and right)
+
+6. **Other Regions**
+    - Insula
+    - Middle cingulate cortex
+    - Precentral gyrus
+    - Temporo-parietal junction
+
+**Associated Cognitive Functions:**
+- Working memory (encoding, maintenance, retrieval)
+- Executive functions (attentional control, attentional focusing)
+- Visual processing (perceptual shape analysis, face processing)
+- Verbal processing (phonological processing, articulatory rehearsal)
+- Language networks
+- Memory storage and retrieval
+- Attentional refreshing and control
+- Task switching and coordination
+- Interference resolution and conflict monitoring

@@ -1,0 +1,57 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Hippocampus**
+
+2. **Medial Temporal Lobes**
+
+3. **Cingulate Gyrus**
+
+4. **Mammillary Bodies**
+
+5. **Fornix**
+
+6. **Thalamus**
+
+7. **Dorsal Anterior Cingulate**
+
+8. **Anterior Insular Cortices**
+
+9. **Prefrontal Areas**
+
+10. **Posterior Cingulate Cortex**
+
+11. **Inferior Parietal**
+
+12. **Medial Prefrontal Cortex**
+
+13. **Inferior Parietal Lobule**
+
+14. **Superior Parietal Lobule**
+
+15. **Temporal Lobule**
+
+16. **Middle Frontal Gyrus**
+
+17. **Angular Gyrus**
+
+18. **Bilateral Primary Somatosensory Cortex**
+   - Precentral Gyri areas
+   - Postcentral Gyri areas
+
+19. **Primary Visual Cortex**
+   - Bilateral Calcarine Sulcus
+   - Medial Extra-Striate Region
+     - Lingual Gyrus
+     - Cuneus
+
+20. **Right Inferior Frontal Operculum**
+
+21. **Left Superior Frontal Lobe**
+
+22. **Right Medial Superior Frontal Lobe**
+
+23. **Right Middle Frontal Lobe**
+
+24. **Right Superior Occipital Lobe**
+
+These regions are involved in various cognitive functions, including executive function, attention, episodic memory, language, psychomotor speed, visuospatial ability, mood, and sensorimotor processing.

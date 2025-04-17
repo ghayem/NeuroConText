@@ -1,0 +1,22 @@
+## The brain regions:
+
+1. **Visual Association Cortex**
+2. **Hypothalamus**
+3. **Limbic System**
+4. **Middle Occipital Gyrus (BA19)**
+5. **Primary Somatosensory Area (SI)**
+6. **Secondary Somatosensory Area (SII)**
+7. **Medial Frontal Gyrus (BA10)**
+8. **Superior Parietal Lobe (BA7)**
+9. **Middle Temporal Gyrus (BA21)**
+10. **Rostral Anterior Cingulate Cortex (rACC, BA24)**
+11. **Lentiform Nucleus**
+12. **Insula**
+13. **Cerebellum**
+14. **Thalamus**
+15. **Lingual Gyrus**
+16. **Inferior Frontal Gyrus (BA47)**
+17. **Posterior Cingulate Cortex (PCC, BA29)**
+18. **Superior Frontal Gyrus**
+
+- These regions are involved in various cognitive and sensory functions, including visual processing, pain modulation, somatosensory perception, and visceral modulation.

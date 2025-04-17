@@ -1,0 +1,69 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Anterior Insula (AI)**
+   - Fronto-insular cortices
+   - Left AI (lAI)
+   - Right AI (rAI)
+
+2. **Cingulate Cortex (CC)**
+   - Anterior medial cingulate cortex (aMCC)
+   - Posterior anterior cingulate cortex (pACC)
+   - Posterior cingulate cortex (PCC)
+
+3. **Inferior Frontal Gyrus (IFG)**
+   - Bilateral IFG
+
+4. **Premotor Cortex**
+
+5. **Visceromotor Brain Areas**
+   - Visceromotor and viscerosensitive neural structures
+
+6. **Sensory Brain Areas**
+
+7. **Amygdala**
+
+8. **Medial Orbitofrontal Cortex**
+
+9. **Dorsolateral Prefrontal Cortex**
+
+10. **Posterior Insular Cortex**
+
+11. **Posterior and Central Sectors of the Insular Cortex**
+
+12. **Medial Frontal Gyrus (MFG)**
+
+13. **Precuneus**
+
+14. **Inferior Occipital Gyrus (IOG)**
+   - Right inferior occipital gyrus (rIOG)
+
+15. **Calcarine Gyrus**
+
+16. **Fusiform Face Area (FFA)**
+
+17. **Mesial Regions**
+   - Rat's mesial regions homologous to human aMCC and pACC
+
+18. **Visuo-linguistic Cerebral Nodes**
+
+19. **Central Sectors of the Insular Cortex**
+
+20. **Corrugator Supercilii Facial Muscle (related to contraction and activation)**
+
+21. **Dorsal Premotor Cortex**
+
+22. **Temporal Cortex**
+
+23. **Occipital Face Area**
+
+### These regions are involved in cognitive functions such as:
+- Empathy for pain
+- Emotional processing
+- Aesthetic judgement (AJ)
+- Sensorimotor and visceromotor engagement
+- Motor mirror-neuron mechanism
+- Face perceptual analysis
+- Visual and self-referential processing
+- Memory retrieval and self-processing operations
+- Aesthetic appreciation and evaluation
+- Emotional experience and recognition

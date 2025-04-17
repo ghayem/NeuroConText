@@ -1,0 +1,31 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Cortical areas**
+   - Somatosensory cortex
+   - Dorsolateral prefrontal cortex
+   - Inferior frontal gyrus (IFG)
+   - Supplementary motor area (SMA)
+   - Inferior parietal cortex
+   - Cingulate cortex
+   - Anterior cingulate cortex (ACC)
+
+2. **Somatosensory cortex**
+   - Primary somatosensory cortex (S1)
+   - Secondary somatosensory cortex (S2)
+
+3. **Motor cortex**
+   - Primary motor cortex (M1)
+   - Precentral gyrus (PCG)
+
+4. **Frontal cortex**
+   - Frontal operculum (FO)
+
+5. **Thalamus**
+
+6. **White matter (WM)**
+
+7. **Gray matter (GM)**
+
+8. **Cerebrospinal fluid (CSF)**
+
+These regions are involved in various cognitive and motor functions, including sensorimotor integration, movement planning and execution, cognitive monitoring, and sensory processing.

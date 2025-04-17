@@ -1,0 +1,46 @@
+## Brain Regions and Sub-Regions
+
+1. **Occipitotemporal Region**
+   - Ventral visual cortex
+
+2. **Lateral Temporal Area**
+   - Associated with meaning
+
+3. **Inferior Parietal Area**
+   - Involved in phonological conversion
+
+4. **Frontotemporal Junction Area**
+   - Involved in pronunciation
+
+5. **Sensorimotor Cortex**
+   - Involved in semantic processing of nouns and verbs associated with body parts and their actions
+
+6. **Limbic System**
+   - Amygdala
+   - Cingulate cortex
+
+7. **Extrastriate Cortex**
+   - Associated with emotion word processing
+
+8. **Inferior Frontal Gyrus (IFG)**
+   - Ventrolateral part
+   - Orbital part
+
+9. **Anterior Cingulate Gyrus (ACG)**
+
+10. **Posterior Parietal Cortex (PPC)**
+
+11. **Occipitotemporal Cortex (OTC)**
+   - Visual word-form area (VWFA)
+
+12. **Basolateral Amygdala**
+
+13. **Uncinate Fasciculus**
+
+14. **Orbital Part of the IFG**
+
+15. **Ventrolateral and Orbital Parts of the IFG**
+
+16. **Pulvinar**
+
+These regions are involved in various cognitive functions including language processing, phonological activation, meaning comprehension, semantic processing, pronunciation, emotional processing, visual recognition, and affective word processing.

@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions:
+
+1. **Amygdala**
+
+2. **Dorsal anterior cingulate cortex (dorsal ACC)**
+
+3. **Anterior insula**
+
+4. **Parahippocampal cortex**
+
+5. **Insular cortex**
+
+6. **Anterior cingulate cortex (ACC)**
+
+7. **Precuneus**
+
+8. **Left middle occipital gyrus (MOG/BA18)**
+
+9. **Middle temporal gyrus (MTG)**
+   - Right middle temporal gyrus
+
+10. **Middle frontal gyrus (MFG)**
+    - Bilateral middle frontal gyrus
+
+11. **Fusiform gyrus**
+    - Right fusiform gyrus (FFG)
+
+12. **Parahippocampal gyrus**
+    - Right parahippocampal gyrus
+
+13. **Temporal pole**
+    - Left temporal pole
+
+14. **Orbital frontal gyrus (OFG)**
+    - Left orbital frontal gyrus
+
+15. **Posterior cingulate cortex (PCC)**
+
+16. **Dorsolateral prefrontal cortex (DLPFC)**
+    - Left dorsolateral prefrontal cortex
+
+17. **Medial prefrontal cortex (MPFC)**
+    - Right medial prefrontal cortex
+
+18. **Parietal-occipital cortex**
+    - Bilateral parietal-occipital cortex
+
+19. **Occipital gyrus**
+    - Bilateral middle occipital gyrus
+
+20. **Anterior attention network (AAN)**
+
+These regions are involved in cognitive functions such as attention, emotional processing, threat detection, memory retrieval, and social judgment.

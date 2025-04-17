@@ -1,0 +1,36 @@
+1. **Default Mode Network**
+   - Medial prefrontal cortex (mPFC)
+   - Posterior cingulate cortex (PCC)
+   - Inferior parietal lobule (IPL)
+   - Hippocampal formation
+
+2. **Dorsal Attention Network**
+   - Superior parietal lobule
+   - Middle frontal gyrus
+   - Intraparietal sulcus
+   - Frontal eye-fields
+
+3. **Executive Control Network**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Anterior cingulate cortex (ACC)
+   - Posterior parietal cortex
+
+4. **Frontoparietal Network**
+   - Inferior frontal gyrus (Pars opercularis and pars triangularis)
+   - Angular gyrus
+   - Supramarginal gyrus
+   - Middle temporal gyrus (MTG)
+
+5. **Limbic Network**
+   - Amygdala
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Cingulate gyrus
+
+6. **Salience Network**
+   - Anterior insula
+   - Dorsal anterior cingulate cortex (dACC)
+   - Ventrolateral prefrontal cortex (VLPFC)
+   - Sublateral areas
+
+- These regions are involved in these cognitive functions: attention, emotion processing, executive functions, and social cognition.

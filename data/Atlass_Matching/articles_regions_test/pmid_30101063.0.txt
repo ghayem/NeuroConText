@@ -1,0 +1,59 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Central Nervous System (CNS)**
+
+2. **Cerebrospinal Fluid (CSF)**
+
+3. **White Matter**
+   - Corpus callosum
+     - Genu
+     - Body
+     - Splenium
+   - Superior longitudinal fasciculus
+   - Corona radiata
+   - White matter microstructural integrity
+
+4. **Gray Matter**
+
+5. **Cortical Regions**
+   - Frontal lobe
+     - Middle frontal gyrus
+   - Parietal lobe
+     - Inferior parietal cortex
+     - Inferior parietal lobule
+     - Lateral parietal cortex
+     - Parahippocampal cortex
+   - Occipital lobe
+     - Lateral occipital network
+     - Inferior occipital gyrus
+   - Temporal lobe
+     - Parahippocampal gyrus
+   - Cingulate cortex
+     - Precuneus
+
+6. **Subcortical Regions**
+   - Brainstem
+   - Third ventricle
+   - Striatum
+     - Dorsal caudate (DC)
+     - Dorsal caudal putamen (DCP)
+     - Dorsal rostral putamen (DRP)
+     - Ventral rostral putamen (VRP)
+     - Ventral striatum inferior (VSi)
+     - Ventral striatum superior (VSs)
+
+7. **Networks**
+   - Default mode network (DMN)
+   - Frontoparietal network (FPN)
+   - Cingulo-opercular network (CON)
+   - Lateral occipital network
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Executive functions
+- Attention
+- Working memory
+- Information processing speed
+- Memory
+- Psychomotor speed
+- Fine motor function
+- Set-shifting (executive functioning)

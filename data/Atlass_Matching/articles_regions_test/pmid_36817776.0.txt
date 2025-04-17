@@ -1,0 +1,70 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Medial Temporal Lobe (MTL)**
+   - Hippocampus
+   - Entorhinal cortex
+   - Parahippocampal gyrus
+   - Parasubiculum
+   - Presubiculum
+   - Subiculum
+   - CA1
+   - CA3 (including CA2)
+   - CA4
+   - Granulate cell of the molecular layer of dentate gyrus
+   - Hippocampal molecular layer
+   - Hippocampal fissure
+   - Fimbria
+   - Hippocampus-amygdala transition area
+
+2. **Temporo-Parietal Cortex**
+
+3. **Frontal Lobe**
+   - Triangular part of the inferior frontal gyrus
+   - Orbital part of the middle frontal gyrus
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Superior medial frontal gyrus
+   - Orbital part of the medial frontal gyrus
+   - Precentral gyrus
+   - Lateral orbitofrontal cortex
+
+4. **Parietal Lobe**
+   - Postcentral gyrus
+   - Inferior parietal lobe
+   - Precuneus
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Middle cingulate cortex
+
+6. **Temporal Lobe**
+   - Inferior temporal gyrus
+   - Middle temporal gyrus
+   - Fusiform gyrus
+
+7. **Occipito-Temporal Areas**
+
+8. **Subcortical Structures**
+   - Thalamus
+   - Corona radiata
+   - Cholinergic basal nuclei
+
+9. **Other Regions**
+   - Bilateral insula
+   - Precentral/postcentral gyrus
+   - Left precentral/postcentral gyrus
+   - Left triangular part of the inferior frontal gyrus
+   - Left precentral/postcentral gyrus
+   - Right middle temporal gyrus
+   - Left entorhinal cortex
+   - Right lateral orbitofrontal cortex
+
+10. **AD Signature Index Regions**
+    - Entorhinal cortex
+    - Inferior temporal gyrus
+    - Middle temporal gyrus
+    - Inferior parietal lobe
+    - Fusiform gyrus
+    - Precuneus
+
+These regions are involved in these cognitive functions: executive function, attention, episodic memory, language, successful episodic memory retrieval, and cognitive control processes (e.g., retrieval monitoring).

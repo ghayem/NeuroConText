@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions:
+
+1. **Occipital Lobe**
+    - Lateral occipital region
+    - Temporo-occipital region
+    - Superior pericentral region
+        - Precentral gyrus
+        - Central gyrus
+        - Postcentral gyrus
+    - Cuneus
+
+2. **Temporal Lobe**
+    - Middle temporal gyrus
+    - Inferior temporal cortex
+    - Fusiform gyrus
+    - Parahippocampal gyrus
+    - Superior temporal cortex
+    - Temporal cortex (general)
+
+3. **Frontal Lobe**
+    - Orbitofrontal cortex
+    - Medial prefrontal cortex
+
+4. **Parietal Lobe**
+    - Superior insula
+    - Adjacent parietal operculum
+    - Precuneus
+
+5. **Limbic System**
+    - Amygdala
+    - Hippocampus
+
+6. **Basal Ganglia**
+    - Caudate nucleus
+    - Putamen
+
+7. **Cerebellum**
+
+8. **Other Regions**
+    - Anterior cingulate
+    - Insula
+    - Superior insula
+    - Operculum
+
+These regions are involved in various cognitive functions, including social abilities such as mindreading and empathy, visual processing, memory, and emotional regulation.

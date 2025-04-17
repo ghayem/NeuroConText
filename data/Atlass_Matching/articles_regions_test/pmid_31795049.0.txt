@@ -1,0 +1,57 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Left inferior longitudinal fasciculus
+   - Frontal operculum
+   - Middle frontal gyrus (MFG)
+   - Orbitofrontal cortex
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Right ventromedial prefrontal cortex
+   - Medial frontal gyrus
+   - Superior frontal gyrus (SFG)
+   - Right medial orbital frontal cortex (mOFC)
+   - Right ventromedial prefrontal cortex
+
+2. **Parietal Lobe**
+   - Inferior parietal lobule (IPL)
+   - Precuneus
+   - Posterior cingulate (PCC)
+   - Bilateral inferior parietal gyri
+   - Bilateral superior parietal gyri
+   - Right entorhinal cortex
+
+3. **Temporal Lobe**
+   - Right temporal pole
+   - Left temporal pole
+
+4. **Occipital Lobe**
+   - Left lateral occipital cortex
+
+5. **Limbic System**
+   - Anterior cingulate cortex (ACC)
+   - Right rostral anterior cingulate cortex
+   - Left rostral anterior cingulate cortex
+
+6. **Other Regions**
+   - Precentral gyrus
+   - Supplementary motor area (SMA)
+   - Cerebellum
+   - Default mode network (DMN)
+   - Salience network
+   - Central executive network
+
+These regions are involved in various cognitive functions, including:
+- Executive functioning
+- Working memory
+- Reward valuation
+- Delay discounting
+- Decision making
+- Inhibition
+- Attention
+- Impulsivity
+- Cognitive flexibility
+- Verbal memory
+- Processing speed
+- Fluid intelligence
+- Language and vocabulary comprehension
+- Psychomotor dexterity

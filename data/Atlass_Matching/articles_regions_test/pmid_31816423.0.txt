@@ -1,0 +1,35 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Precuneus (PRC)**
+2. **Inferior Parietal Cortex**
+   - Left Inferior Parietal Cortex (lIPC)
+   - Right Inferior Parietal Cortex (rIPC)
+3. **Medial Prefrontal Cortex (mPFC)**
+4. **Supplementary Motor Area (SMA)**
+5. **Somatomotor Region**
+   - Left Somatomotor Region (lSMR)
+   - Right Somatomotor Region (rSMR)
+6. **Insula**
+   - Left Insula (lINS)
+   - Right Insula (rINS)
+7. **Anterior Cingulate Cortex (ACC)**
+8. **Middle Frontal Gyrus**
+   - Left Middle Frontal Gyrus (lMFG)
+   - Right Middle Frontal Gyrus (rMFG)
+9. **Cerebrospinal Fluid (CSF) signal**
+   - From a 5 mm ROI in the circulatory system
+10. **White Matter (WM) signal**
+    - From a 7 mm ROI in the brainstem
+
+These regions are involved in various cognitive functions and networks, including:
+
+- **Default Mode Network (DMN)**
+- **Somatomotor Network (SMR)**
+- **Salience Network (SAL)**
+
+Additionally, the article mentions the following networks and their combinations:
+
+- **Somatomotor Network (SMR)**
+- **Salience Network (SAL)**
+- **Default Mode Network (DMN)**
+- **Combined Network (SMR + SAL + DMN)**

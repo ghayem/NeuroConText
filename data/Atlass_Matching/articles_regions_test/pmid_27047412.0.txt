@@ -1,0 +1,40 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Brodmann area (BA) 46/9
+
+2. **Hippocampus**
+
+3. **Caudate**
+
+4. **Thalamus**
+
+5. **Posterior Parahippocampal Formation**
+
+6. **Posterior Hippocampus**
+
+7. **Caudal Prefrontal Cortex (cPFC)**
+   - Approximating BA 44/9
+
+8. **Mid-Ventrolateral Prefrontal Cortex (mid-VLPFC)**
+   - Approximating posterior BA 45
+
+9. **Inferior Parietal Cortex**
+   - BA 40
+
+10. **Supplementary Motor Area**
+
+11. **Inferior Frontal Gyrus**
+    - Pars triangularis
+
+12. **Lateral Parietal Cortex**
+
+13. **Fusiform Cortex**
+
+14. **Insular Cortex**
+
+15. **Occipital Cortex**
+
+16. **Cerebellum**
+
+These regions are involved in various cognitive functions, including memory retrieval, suppression, substitution, and executive control.

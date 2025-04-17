@@ -1,0 +1,73 @@
+# Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Inferior Temporal Gyrus**
+   - Left Inferior Temporal Gyrus (ITG.L)
+
+2. **Anterior Cingulate and Paracingulate Gyri**
+   - Right Anterior Cingulate and Paracingulate Gyri (ACG.R)
+
+3. **Superior Frontal Gyrus**
+   - Left Superior Frontal Gyrus (Orbital Part) (ORBsup.L)
+
+4. **Superior Occipital Gyrus**
+   - Right Superior Occipital Gyrus (SOG.R)
+
+5. **Primary Visual Cortex**
+
+6. **Hypothalamic Lateral Geniculate Nucleus**
+
+7. **Superior Frontal Gyrus**
+   - Superior Frontal Gyrus (SFG)
+
+8. **Occipital Lobe**
+   - Occipital Face Area
+
+9. **Inferior Occipital Gyrus**
+
+10. **Middle Occipital Gyrus**
+
+11. **Cingulate Cortex**
+   - Anterior Cingulate Cortex (ACC)
+
+12. **Prefrontal Cortex**
+
+13. **Hippocampus**
+
+14. **Hypothalamus**
+
+15. **Amygdala**
+
+16. **Para-hippocampus Gyrus**
+   - Left Para-hippocampus Gyrus (PHG)
+
+17. **Precentral Gyrus**
+   - Precentral Gyrus (PreCG)
+
+18. **Cerebellum Posterior Lobe**
+   - Cerebellum Posterior Lobe (CPL)
+
+19. **Fusiform Gyrus**
+   - Fusiform Gyrus (FG)
+
+20. **Temporal Gyrus**
+   - Temporal Gyrus (TG)
+
+21. **Lingual Gyrus**
+   - Lingual Gyrus (LG)
+
+22. **Post Central Gyrus**
+   - Post Central Gyrus (PG)
+
+23. **Temporo-parieto-occipital Junction**
+   - Temporo-parieto-occipital Junction (TPO)
+
+24. **Superior Temporal Plane**
+   - Superior Temporal Plane (STP)
+
+25. **Planum Temporale**
+   - Planum Temporale (PT)
+
+26. **Posterior Superior Temporal Gyrus and Sulcus**
+   - Posterior Superior Temporal Gyrus and Sulcus (pSTG/S)
+
+These regions are involved in various cognitive functions including visual processing, object and face recognition, emotion processing, pain perception, and higher-level visual associative activity.

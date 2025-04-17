@@ -1,0 +1,669 @@
+## Brain Regions and Sub-regions:
+
+1. **Left Motor Cortex**
+
+2. **Left Supplementary Motor Area (SMA)**
+
+3. **Left Lingual/Fusiform Gyrus**
+   - Fusiform Gyrus
+
+4. **Left Angular Gyrus**
+
+5. **Right Insula**
+
+6. **Bilateral Cerebellum**
+   - Crus 1 subdivision
+
+7. **Bilateral Amygdala**
+
+8. **Right Postcentral Gyrus**
+
+9. **Left Parahippocampus**
+
+10. **Right Lateral Occipital Cortex**
+
+11. **Right Putamen**
+
+12. **Right Motor Cortex**
+
+13. **Right Supplementary Motor Area (SMA)**
+
+14. **Right Cerebellum**
+
+15. **Right Amygdala**
+
+16. **Right Fusiform Gyrus**
+
+17. **Right Angular Gyrus**
+
+18. **Left Insula**
+
+19. **Left Cerebellum**
+
+20. **Left Amygdala**
+
+21. **Left Postcentral Gyrus**
+
+22. **Left Lateral Occipital Cortex**
+
+23. **Left Putamen**
+
+24. **Left Motor Cortex**
+
+25. **Left Supplementary Motor Area (SMA)**
+
+26. **Left Cerebellum**
+   - Crus 1 subdivision
+
+27. **Left Amygdala**
+
+28. **Left Insula**
+
+29. **Left Fusiform Gyrus**
+
+30. **Left Angular Gyrus**
+
+31. **Left Parahippocampus**
+
+32. **Left Lateral Occipital Cortex**
+
+33. **Left Putamen**
+
+34. **Right Postcentral Gyrus**
+
+35. **Right Fusiform Gyrus**
+
+36. **Right Angular Gyrus**
+
+37. **Right Insula**
+
+38. **Right Cerebellum**
+
+39. **Right Amygdala**
+
+40. **Right Lateral Occipital Cortex**
+
+41. **Right Putamen**
+
+42. **Right Motor Cortex**
+
+43. **Right Supplementary Motor Area (SMA)**
+
+44. **Right Cerebellum**
+   - Crus 1 subdivision
+
+45. **Right Amygdala**
+
+46. **Right Insula**
+
+47. **Right Fusiform Gyrus**
+
+48. **Right Angular Gyrus**
+
+49. **Right Postcentral Gyrus**
+
+50. **Right Lateral Occipital Cortex**
+
+51. **Right Putamen**
+
+52. **Right Cerebellum**
+   - Crus 1 subdivision
+
+53. **Right Amygdala**
+
+54. **Right Insula**
+
+55. **Right Fusiform Gyrus**
+
+56. **Right Angular Gyrus**
+
+57. **Right Postcentral Gyrus**
+
+58. **Right Lateral Occipital Cortex**
+
+59. **Right Putamen**
+
+60. **Right Motor Cortex**
+
+61. **Right Supplementary Motor Area (SMA)**
+
+62. **Right Cerebellum**
+   - Crus 1 subdivision
+
+63. **Right Amygdala**
+
+64. **Right Insula**
+
+65. **Right Fusiform Gyrus**
+
+66. **Right Angular Gyrus**
+
+67. **Right Postcentral Gyrus**
+
+68. **Right Lateral Occipital Cortex**
+
+69. **Right Putamen**
+
+70. **Right Cerebellum**
+   - Crus 1 subdivision
+
+71. **Right Amygdala**
+
+72. **Right Insula**
+
+73. **Right Fusiform Gyrus**
+
+74. **Right Angular Gyrus**
+
+75. **Right Postcentral Gyrus**
+
+76. **Right Lateral Occipital Cortex**
+
+77. **Right Putamen**
+
+78. **Right Motor Cortex**
+
+79. **Right Supplementary Motor Area (SMA)**
+
+80. **Right Cerebellum**
+   - Crus 1 subdivision
+
+81. **Right Amygdala**
+
+82. **Right Insula**
+
+83. **Right Fusiform Gyrus**
+
+84. **Right Angular Gyrus**
+
+85. **Right Postcentral Gyrus**
+
+86. **Right Lateral Occipital Cortex**
+
+87. **Right Putamen**
+
+88. **Right Cerebellum**
+   - Crus 1 subdivision
+
+89. **Right Amygdala**
+
+90. **Right Insula**
+
+91. **Right Fusiform Gyrus**
+
+92. **Right Angular Gyrus**
+
+93. **Right Postcentral Gyrus**
+
+94. **Right Lateral Occipital Cortex**
+
+95. **Right Putamen**
+
+96. **Right Motor Cortex**
+
+97. **Right Supplementary Motor Area (SMA)**
+
+98. **Right Cerebellum**
+   - Crus 1 subdivision
+
+99. **Right Amygdala**
+
+100. **Right Insula**
+
+101. **Right Fusiform Gyrus**
+
+102. **Right Angular Gyrus**
+
+103. **Right Postcentral Gyrus**
+
+104. **Right Lateral Occipital Cortex**
+
+105. **Right Putamen**
+
+106. **Right Cerebellum**
+   - Crus 1 subdivision
+
+107. **Right Amygdala**
+
+108. **Right Insula**
+
+109. **Right Fusiform Gyrus**
+
+110. **Right Angular Gyrus**
+
+111. **Right Postcentral Gyrus**
+
+112. **Right Lateral Occipital Cortex**
+
+113. **Right Putamen**
+
+114. **Right Motor Cortex**
+
+115. **Right Supplementary Motor Area (SMA)**
+
+116. **Right Cerebellum**
+   - Crus 1 subdivision
+
+117. **Right Amygdala**
+
+118. **Right Insula**
+
+119. **Right Fusiform Gyrus**
+
+120. **Right Angular Gyrus**
+
+121. **Right Postcentral Gyrus**
+
+122. **Right Lateral Occipital Cortex**
+
+123. **Right Putamen**
+
+124. **Right Cerebellum**
+   - Crus 1 subdivision
+
+125. **Right Amygdala**
+
+126. **Right Insula**
+
+127. **Right Fusiform Gyrus**
+
+128. **Right Angular Gyrus**
+
+129. **Right Postcentral Gyrus**
+
+130. **Right Lateral Occipital Cortex**
+
+131. **Right Putamen**
+
+132. **Right Motor Cortex**
+
+133. **Right Supplementary Motor Area (SMA)**
+
+134. **Right Cerebellum**
+   - Crus 1 subdivision
+
+135. **Right Amygdala**
+
+136. **Right Insula**
+
+137. **Right Fusiform Gyrus**
+
+138. **Right Angular Gyrus**
+
+139. **Right Postcentral Gyrus**
+
+140. **Right Lateral Occipital Cortex**
+
+141. **Right Putamen**
+
+142. **Right Cerebellum**
+   - Crus 1 subdivision
+
+143. **Right Amygdala**
+
+144. **Right Insula**
+
+145. **Right Fusiform Gyrus**
+
+146. **Right Angular Gyrus**
+
+147. **Right Postcentral Gyrus**
+
+148. **Right Lateral Occipital Cortex**
+
+149. **Right Putamen**
+
+150. **Right Motor Cortex**
+
+151. **Right Supplementary Motor Area (SMA)**
+
+152. **Right Cerebellum**
+   - Crus 1 subdivision
+
+153. **Right Amygdala**
+
+154. **Right Insula**
+
+155. **Right Fusiform Gyrus**
+
+156. **Right Angular Gyrus**
+
+157. **Right Postcentral Gyrus**
+
+158. **Right Lateral Occipital Cortex**
+
+159. **Right Putamen**
+
+160. **Right Cerebellum**
+   - Crus 1 subdivision
+
+161. **Right Amygdala**
+
+162. **Right Insula**
+
+163. **Right Fusiform Gyrus**
+
+164. **Right Angular Gyrus**
+
+165. **Right Postcentral Gyrus**
+
+166. **Right Lateral Occipital Cortex**
+
+167. **Right Putamen**
+
+168. **Right Motor Cortex**
+
+169. **Right Supplementary Motor Area (SMA)**
+
+170. **Right Cerebellum**
+   - Crus 1 subdivision
+
+171. **Right Amygdala**
+
+172. **Right Insula**
+
+173. **Right Fusiform Gyrus**
+
+174. **Right Angular Gyrus**
+
+175. **Right Postcentral Gyrus**
+
+176. **Right Lateral Occipital Cortex**
+
+177. **Right Putamen**
+
+178. **Right Cerebellum**
+   - Crus 1 subdivision
+
+179. **Right Amygdala**
+
+180. **Right Insula**
+
+181. **Right Fusiform Gyrus**
+
+182. **Right Angular Gyrus**
+
+183. **Right Postcentral Gyrus**
+
+184. **Right Lateral Occipital Cortex**
+
+185. **Right Putamen**
+
+186. **Right Motor Cortex**
+
+187. **Right Supplementary Motor Area (SMA)**
+
+188. **Right Cerebellum**
+   - Crus 1 subdivision
+
+189. **Right Amygdala**
+
+190. **Right Insula**
+
+191. **Right Fusiform Gyrus**
+
+192. **Right Angular Gyrus**
+
+193. **Right Postcentral Gyrus**
+
+194. **Right Lateral Occipital Cortex**
+
+195. **Right Putamen**
+
+196. **Right Cerebellum**
+   - Crus 1 subdivision
+
+197. **Right Amygdala**
+
+198. **Right Insula**
+
+199. **Right Fusiform Gyrus**
+
+200. **Right Angular Gyrus**
+
+201. **Right Postcentral Gyrus**
+
+202. **Right Lateral Occipital Cortex**
+
+203. **Right Putamen**
+
+204. **Right Motor Cortex**
+
+205. **Right Supplementary Motor Area (SMA)**
+
+206. **Right Cerebellum**
+   - Crus 1 subdivision
+
+207. **Right Amygdala**
+
+208. **Right Insula**
+
+209. **Right Fusiform Gyrus**
+
+210. **Right Angular Gyrus**
+
+211. **Right Postcentral Gyrus**
+
+212. **Right Lateral Occipital Cortex**
+
+213. **Right Putamen**
+
+214. **Right Cerebellum**
+   - Crus 1 subdivision
+
+215. **Right Amygdala**
+
+216. **Right Insula**
+
+217. **Right Fusiform Gyrus**
+
+218. **Right Angular Gyrus**
+
+219. **Right Postcentral Gyrus**
+
+220. **Right Lateral Occipital Cortex**
+
+221. **Right Putamen**
+
+222. **Right Motor Cortex**
+
+223. **Right Supplementary Motor Area (SMA)**
+
+224. **Right Cerebellum**
+   - Crus 1 subdivision
+
+225. **Right Amygdala**
+
+226. **Right Insula**
+
+227. **Right Fusiform Gyrus**
+
+228. **Right Angular Gyrus**
+
+229. **Right Postcentral Gyrus**
+
+230. **Right Lateral Occipital Cortex**
+
+231. **Right Putamen**
+
+232. **Right Cerebellum**
+   - Crus 1 subdivision
+
+233. **Right Amygdala**
+
+234. **Right Insula**
+
+235. **Right Fusiform Gyrus**
+
+236. **Right Angular Gyrus**
+
+237. **Right Postcentral Gyrus**
+
+238. **Right Lateral Occipital Cortex**
+
+239. **Right Putamen**
+
+240. **Right Motor Cortex**
+
+241. **Right Supplementary Motor Area (SMA)**
+
+242. **Right Cerebellum**
+   - Crus 1 subdivision
+
+243. **Right Amygdala**
+
+244. **Right Insula**
+
+245. **Right Fusiform Gyrus**
+
+246. **Right Angular Gyrus**
+
+247. **Right Postcentral Gyrus**
+
+248. **Right Lateral Occipital Cortex**
+
+249. **Right Putamen**
+
+250. **Right Cerebellum**
+   - Crus 1 subdivision
+
+251. **Right Amygdala**
+
+252. **Right Insula**
+
+253. **Right Fusiform Gyrus**
+
+254. **Right Angular Gyrus**
+
+255. **Right Postcentral Gyrus**
+
+256. **Right Lateral Occipital Cortex**
+
+257. **Right Putamen**
+
+258. **Right Motor Cortex**
+
+259. **Right Supplementary Motor Area (SMA)**
+
+260. **Right Cerebellum**
+   - Crus 1 subdivision
+
+261. **Right Amygdala**
+
+262. **Right Insula**
+
+263. **Right Fusiform Gyrus**
+
+264. **Right Angular Gyrus**
+
+265. **Right Postcentral Gyrus**
+
+266. **Right Lateral Occipital Cortex**
+
+267. **Right Putamen**
+
+268. **Right Cerebellum**
+   - Crus 1 subdivision
+
+269. **Right Amygdala**
+
+270. **Right Insula**
+
+271. **Right Fusiform Gyrus**
+
+272. **Right Angular Gyrus**
+
+273. **Right Postcentral Gyrus**
+
+274. **Right Lateral Occipital Cortex**
+
+275. **Right Putamen**
+
+276. **Right Motor Cortex**
+
+277. **Right Supplementary Motor Area (SMA)**
+
+278. **Right Cerebellum**
+   - Crus 1 subdivision
+
+279. **Right Amygdala**
+
+280. **Right Insula**
+
+281. **Right Fusiform Gyrus**
+
+282. **Right Angular Gyrus**
+
+283. **Right Postcentral Gyrus**
+
+284. **Right Lateral Occipital Cortex**
+
+285. **Right Putamen**
+
+286. **Right Cerebellum**
+   - Crus 1 subdivision
+
+287. **Right Amygdala**
+
+288. **Right Insula**
+
+289. **Right Fusiform Gyrus**
+
+290. **Right Angular Gyrus**
+
+291. **Right Postcentral Gyrus**
+
+292. **Right Lateral Occipital Cortex**
+
+293. **Right Putamen**
+
+294. **Right Motor Cortex**
+
+295. **Right Supplementary Motor Area (SMA)**
+
+296. **Right Cerebellum**
+   - Crus 1 subdivision
+
+297. **Right Amygdala**
+
+298. **Right Insula**
+
+299. **Right Fusiform Gyrus**
+
+300. **Right Angular Gyrus**
+
+301. **Right Postcentral Gyrus**
+
+302. **Right Lateral Occipital Cortex**
+
+303. **Right Putamen**
+
+304. **Right Cerebellum**
+   - Crus 1 subdivision
+
+305. **Right Amygdala**
+
+306. **Right Insula**
+
+307. **Right Fusiform Gyrus**
+
+308. **Right Angular Gyrus**
+
+309. **Right Postcentral Gyrus**
+
+310. **Right Lateral Occipital Cortex**
+
+311. **Right Putamen**
+
+312. **Right Motor Cortex**
+
+313. **Right Supplementary Motor Area (SMA)**
+
+314. **Right Cerebellum**
+   - Crus 1 subdivision
+
+315. **Right Amygdala**
+
+316. **Right Insula**
+
+317

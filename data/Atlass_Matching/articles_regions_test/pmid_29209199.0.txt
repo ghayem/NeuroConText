@@ -1,0 +1,38 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Medial Temporal Lobe**
+   - Hippocampus
+
+2. **Temporal Lobe**
+   - Right temporal lobe
+   - Right inferior temporal gyrus (ITG.R)
+
+3. **Frontal Lobe**
+   - Inferior frontal cortex
+   - Left middle frontal gyrus (MFG.L)
+   - Left superior frontal gyrus (SFGdor.L)
+   - Left anterior cingulate and paracingulate gyri (ACG.L)
+
+4. **Parietal Lobe**
+   - Precuneus
+
+5. **Cingulate Cortex**
+   - Cingulate gyrus
+
+6. **Occipital Lobe**
+   - Right cuneus (CUN.R)
+   - Left cuneus (CUN.L)
+   - Right middle occipital gyrus (MOG.R)
+   - Right superior occipital gyrus (SOG.R)
+
+7. **Other Regions**
+   - Gray matter (GM)
+   - White matter (WM)
+   - Cerebral spinal fluid (CSF)
+
+These regions are involved in various cognitive functions, including:
+- Memory storage and retrieval (hippocampus, temporal lobe)
+- Language and reasoning (frontal lobe, temporal lobe)
+- Visual processing (occipital lobe)
+- Spatial awareness and episodic memory (precuneus)
+- Emotion regulation and conflict monitoring (cingulate cortex)

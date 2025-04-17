@@ -1,0 +1,35 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Fronto-parietal brain network**
+   - Ventral premotor cortex (vPM)
+   - Intraparietal sulcus (IPS)
+   - Primary somatosensory cortex (PSC)
+   - Temporoparietal cortex
+   - Dorsal premotor cortex (PM)
+   - Superior parietal lobe (SPL)
+   - Supramarginal gyrus (SMG)
+   - Primary visual cortex (PVC)
+   - Middle temporal area (MT/V5)
+   - Primary auditory cortex (PAC)
+
+2. **Subcortical structures**
+   - Amygdala (AMG)
+
+3. **Cingulate cortex**
+   - Anterior cingulate cortex (ACC)
+
+4. **Insular cortex**
+   - Anterior subdivision of the insula (aINS)
+
+5. **Temporoparietal junction (TPJ)**
+
+6. **Superior temporal sulcus (STS)**
+
+These regions are involved in various cognitive functions, including:
+- Multisensory integration and bodily self-representation (vPM, IPS, PSC, temporoparietal cortex)
+- Threat processing and emotional responses (AMG, ACC, aINS)
+- Visuomotor processing (PVC, MT/V5)
+- Auditory processing (PAC)
+- Spatial awareness and attention (SPL, SMG)
+- Perspective taking and self-other distinction (TPJ, SMG)
+- Decision-making and social-emotional processing (ACC)

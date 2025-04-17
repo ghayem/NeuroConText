@@ -1,0 +1,44 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Superior Temporal Gyrus**
+   - Involved in speech processing.
+
+2. **Occipital Gyri**
+   - Left and right occipital gyri.
+   - Involved in spatial-visual attention.
+
+3. **Motor Cortex**
+   - Premotor cortex.
+   - Parietal lobe.
+   - Involved in motor functions and planning of movements.
+
+4. **Inferior Frontal Gyrus**
+   - Involved in language processing, specifically Broca's area.
+
+5. **Anterior Cingulate**
+   - Involved in error detection, conflict monitoring, and cognitive control.
+
+6. **Intraparietal Sulcus**
+   - Part of the fronto-parietal network.
+   - Involved in visuospatial processing and attention.
+
+7. **Fronto-Parietal Network**
+   - Includes regions around the intraparietal sulcus and inferior frontal gyrus.
+   - Involved in executive functions and attention.
+
+8. **Fusiform Gyrus**
+   - Involved in high-level visual processing, including face and object recognition.
+
+9. **Precentral Gyrus**
+   - Primary motor cortex.
+   - Involved in voluntary movement.
+
+10. **Visual Cortex**
+    - Occipital lobe.
+    - Involved in visual processing.
+
+11. **Auditory Cortex**
+    - Temporal lobe.
+    - Involved in auditory processing.
+
+These regions are involved in various cognitive functions, including language processing, visual and auditory processing, motor control, and executive functions.

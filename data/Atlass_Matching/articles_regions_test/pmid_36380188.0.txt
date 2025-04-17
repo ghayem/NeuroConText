@@ -1,0 +1,32 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Frontal Lobe**
+   - Medial frontal cortex
+   - Inferior frontal cortex
+   - Superior frontal cortex
+   - Medial frontal cortex
+   - Dorsolateral frontal cortex
+   - Ventral medial prefrontal cortex
+   - Dorsolateral prefrontal cortex
+
+2. **Temporal Lobe**
+   - Temporal cortex
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+3. **Amygdala (AMY)**
+
+4. **Hippocampus (HIP)**
+
+5. **Fusiform Gyrus (FFG)**
+   - Fusiform face area (FFA)
+
+6. **Occipital Lobe**
+   - Inferior occipital gyrus
+
+7. **Supplementary Motor Area (SMA)**
+
+8. **Subcortical Structures**
+
+These regions are involved in various cognitive functions, including social cognition, facial emotion recognition, and processing facial emotions.

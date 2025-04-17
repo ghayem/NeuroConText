@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions:
+
+1. **Prefrontal Cortex (PFC)**
+    - Ventrolateral PFC (VLPFC)
+    - Dorsolateral PFC (DLPFC)
+
+2. **Anterior Cingulate Cortex (ACC)**
+
+3. **Posterior Parietal Cortex (PPC)**
+
+4. **Posterior Parietal Lobe (PPL)**
+
+5. **Paracentral Lobules**
+    - Left paracentral lobule (lLP)
+    - Right paracentral lobule (rLP)
+
+6. **Medial Prefrontal Cortex (MPFC)**
+
+7. **Posterior Cingulate Cortex (PCC)**
+
+8. **Frontal Eye Fields**
+    - Left frontal eye field
+    - Right frontal eye field
+
+9. **Intraparietal Sulcus**
+    - Left intraparietal sulcus
+    - Right intraparietal sulcus (rIPS)
+
+10. **Lateral Prefrontal Cortex**
+    - Left lateral prefrontal cortex
+    - Right lateral prefrontal cortex (rLPFC)
+
+11. **Anterior Insula**
+    - Left anterior insula
+    - Right anterior insula
+
+12. **Rostrolateral Prefrontal Cortices**
+    - Left rostrolateral prefrontal cortex
+    - Right rostrolateral prefrontal cortex
+
+13. **Supramarginal Gyri**
+    - Left supramarginal gyrus
+    - Right supramarginal gyrus
+
+These regions are involved in various cognitive functions, including working memory, attention, and executive control.

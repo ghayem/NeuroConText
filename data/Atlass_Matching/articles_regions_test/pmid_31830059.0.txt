@@ -1,0 +1,70 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Hypothalamic-pituitary-adrenal axis**
+
+2. **Amygdala**
+
+3. **Medial prefrontal cortex (mPFC)**
+
+4. **Insula**
+
+5. **Dorsolateral prefrontal cortex (dlPFC)**
+
+6. **Ventrolateral prefrontal cortex (vlPFC)**
+
+7. **Anterior cingulate cortex (ACC)**
+   - Pregenual ACC
+
+8. **Orbitofrontal cortex (OFC)**
+   - Orbital and ventral prefrontal cortices
+
+9. **Ventral striatum (VS)**
+
+10. **Frontal pole**
+
+11. **Fusiform gyri**
+   - Right fusiform gyrus
+   - Left fusiform gyrus
+
+12. **Occipital cortices**
+   - Right lateral occipital cortex
+   - Left lateral occipital cortex
+   - Right occipital pole
+
+13. **Medial orbitofrontal cortex**
+
+14. **Superior parietal cortex**
+   - Right superior parietal cortex
+   - Left superior parietal cortex
+
+15. **Lateral superior occipital cortices**
+
+16. **Supramarginal and angular gyri**
+   - Right supramarginal and angular gyrus
+   - Left supramarginal and angular gyrus
+
+17. **Paracingulate**
+   - Bilateral paracingulate
+
+18. **Caudate**
+   - Left caudate
+   - Right caudate
+
+19. **Putamen**
+
+20. **Thalamus**
+   - Right thalamus
+
+21. **Precuneus**
+   - Bilateral precuneus
+
+22. **Posterior cingulate cortex**
+
+23. **Central operculum**
+   - Right central operculum
+   - Left central operculum
+
+24. **Middle frontal gyrus**
+   - Right middle frontal gyrus
+
+These regions are involved in various cognitive and emotional processes, including emotion and reward processing, cognitive control, emotion regulation, conflict monitoring, and subjective experience of reward and motivation.

@@ -1,0 +1,38 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network (DMN)**
+   - Bilateral anterior precuneus
+   - Right medial frontal gyrus
+   - Posterior cingulate gyrus
+   - Inferior parietal lobule
+   - Left fusiform gyrus
+   - Medial prefrontal cortex
+   - Superior frontalis
+   - Middle frontalis
+   - Middle temporal gyrus
+   - Infratemporal gyrus
+   - Hippocampus
+
+2. **Executive Control Network (ECN)**
+   - Superior frontal gyrus
+   - Left thalamus
+   - Middle frontal gyrus
+   - Right posterior parietal cortex
+   - Dorsolateral prefrontal cortex
+   - Cingulate gyrus in the dorsolateral prefrontal cortex
+
+3. **Salience Network (SN)**
+   - Left anterior insula
+   - Bilateral forebrain island
+   - Anterior cingulate gyrus
+
+4. **Frontoparietal Network**
+
+5. **Other Regions**
+   - Left lateralization of DMN
+   - Angular gyrus
+   - Some subcortical areas
+   - Left frontal regions
+   - Left anterior insula
+
+These regions are involved in various cognitive functions, including memory, executive functions, attention, interoceptive awareness, and affection.

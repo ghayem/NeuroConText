@@ -1,0 +1,43 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobe**
+   - Hippocampus
+   - Anterior temporal lobe
+   - Superior temporal gyrus (STG)
+
+2. **Frontal Lobe**
+   - Superior frontal gyrus
+   - Frontal poles
+   - Medial frontal areas
+   - Prefrontal regions
+
+3. **Parietal Lobe**
+   - Precuneus
+   - Posterior cingulate
+   - Angular gyrus
+
+4. **Occipital Lobe**
+   - Calcarine
+   - Middle occipital gyrus
+   - Lingual gyrus
+   - Occipital pole
+
+5. **Motor Cortex**
+   - Supplementary motor area
+   - Precentral gyrus
+   - Postcentral gyrus
+
+6. **Other Subcortical Regions**
+   - Thalamus
+   - Basal ganglia
+   - Fornix
+   - Cerebellum
+
+7. **Insular Cortex**
+   - Insula
+
+8. **Limbs and Other White Matter Regions**
+   - White matter lesions (WML)
+   - Ventricles (CSF)
+
+These regions are involved in various cognitive functions and are affected in temporal lobe epilepsy (TLE), as discussed in the article.

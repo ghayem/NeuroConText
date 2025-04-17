@@ -1,0 +1,44 @@
+## Brain regions and sub-regions:
+
+1. **Somatosensory cortex**
+   - Primary somatosensory cortex (SI)
+   - Secondary somatosensory cortex (SII)
+
+2. **Prefrontal cortex (PFC)**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Ventrolateral prefrontal cortex (vlPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+
+3. **Thalamus**
+
+4. **Anterior cingulate cortex (ACC)**
+
+5. **Insula**
+
+6. **Amygdala**
+
+7. **Posterior cingulate cortex (PCC)**
+
+8. **Superior parietal cortex (SPC)**
+
+9. **Left postcentral gyrus (PostCG)**
+
+10. **Right precuneus (PCu)**
+
+11. **Right middle frontal gyrus (MFG)**
+
+12. **Right inferior frontal gyrus (IFG)**
+
+13. **Midbrain**
+
+14. **Middle cingulate cortex (MCC)**
+
+15. **Superior temporal gyrus**
+
+16. **Cerebellum**
+
+17. **Orbitofrontal cortex (OFC)**
+
+18. **Pregenual ACC**
+
+19. **Default mode network**

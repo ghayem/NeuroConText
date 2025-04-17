@@ -1,0 +1,31 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Dorsolateral prefrontal cortex (DLPFC)**
+   - Left DLPFC
+   - Inferior frontal gyrus (TD structures)
+   - Middle frontal gyrus (TD structures)
+   - Pars opercularis of the inferior frontal gyrus (AAL structures)
+   - Pars triangularis of the inferior frontal gyrus (AAL structures)
+
+2. **Motor cortex (M1)**
+   - Primary motor cortex
+   - Right somatosensory cortex (SI; BA3a)
+
+3. **Paracingulate gyrus**
+   - Anterior cingulate cortex (ACC)
+
+4. **Parietal lobule**
+   - Right superior parietal lobule
+   - Left inferior parietal lobule
+
+5. **Occipital cortex**
+   - Lateral occipital cortex (LOC)
+   - Middle occipital cortex
+
+6. **Putamen**
+
+7. **Bilateral occipital cortex**
+
+8. **Superior parietal cortex**
+
+These regions are involved in various cognitive functions, including working memory, motor control, visual processing, and executive functions.

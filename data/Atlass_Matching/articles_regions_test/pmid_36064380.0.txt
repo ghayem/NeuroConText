@@ -1,0 +1,64 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal-Parietal Network**
+   - (No specific sub-regions mentioned)
+
+2. **Frontal-Limbic Network**
+   - (No specific sub-regions mentioned)
+
+3. **Default Mode Network**
+   - (No specific sub-regions mentioned)
+
+4. **Lateral Habenula (LHb)**
+   - (No specific sub-regions mentioned)
+
+5. **Medial Thalamus**
+   - (No specific sub-regions mentioned)
+
+6. **Posterior Parietal Thalamus (PPtha)**
+   - Left PPtha (239th subregion)
+   - Right PPtha (240th subregion)
+
+7. **Temporal Lobe**
+   - Inferior temporal gyrus (ITG)
+     - Left ITG (Temporal_Inf_L [AAL])
+     - Right ITG (Temporal_Inf_R [AAL])
+   - Middle temporal gyrus (MTG)
+     - Right MTG
+   - Superior temporal gyrus (STG)
+     - Right STG
+   - Temporal pole
+     - Middle temporal pole (Temporal_Pole_Mid_R [AAL])
+
+8. **Frontal Lobe**
+   - Middle frontal gyrus (MFG)
+     - Right MFG
+   - Superior frontal gyrus
+     - Dorsolateral superior frontal gyrus (Frontal_Sup_R [AAL])
+   - Medial frontal gyrus
+   - Supplementary motor area
+     - Right supplementary motor area (Supp_Motor_Area_R [AAL])
+
+9. **Parietal Lobe**
+   - Superior parietal gyrus (SPG)
+     - Left SPG (Parietal_Sup_L [AAL])
+   - Postcentral gyrus
+   - Precuneus
+     - Right precuneus (Precuneus_R [AAL])
+
+10. **Occipital Lobe**
+    - (No specific sub-regions mentioned)
+
+11. **Cerebellum**
+    - Posterior lobe
+      - Right cerebellum posterior lobe
+    - Anterior lobe
+      - Right cerebellum anterior lobe
+
+12. **Limbic System**
+    - (No specific sub-regions mentioned)
+
+13. **Monoamine Nucleus of the Midbrain**
+    - (No specific sub-regions mentioned)
+
+These regions are involved in various cognitive and emotional processes, as well as the pathogenesis of depression.

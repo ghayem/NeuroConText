@@ -1,0 +1,49 @@
+## Brain Regions and Sub-regions:
+
+1. **Frontal Cortex**
+    - Superior Frontal Gyrus (SFG)
+    - Middle Frontal Gyrus (MFG)
+    - Inferior Frontal Gyrus (IFG)
+
+2. **Parietal Lobule**
+    - Superior Parietal Lobule (SPL)
+    - Inferior Parietal Lobule (IPL)
+
+3. **Cingulate Cortex**
+    - Anterior Cingulate Cortex (ACC)
+    - Posterior Cingulate Cortex (PCC)
+
+4. **Insula Cortex**
+
+5. **Thalamic Radiation**
+
+6. **Corona Radiata**
+
+7. **Parahippocampal Cortex**
+
+8. **Precuneus**
+
+9. **Hippocampus**
+    - Parahippocampus
+
+10. **Occipital Lobes**
+    - Bilateral lingual lobes
+    - Bilateral calcarine
+
+11. **Temporal Lobes**
+    - Bilateral fusiform
+    - Right temporal lobe
+    - Bilateral superior temporal gyri
+    - Bilateral temporal pole
+    - Left uncus
+    - Right amygdala
+
+12. **Corpus Callosum**
+    - Genu
+    - Splenium
+
+13. **Cuneus**
+
+14. **Anterior-Posterior Commissure Line**
+
+- These regions are involved in various cognitive functions including working memory, executive function, language, spatial information processing, and cognitive slowing.

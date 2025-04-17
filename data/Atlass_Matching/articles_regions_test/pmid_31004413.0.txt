@@ -1,0 +1,54 @@
+Based on the provided neuroscientific article, the mentioned brain regions and sub-regions are:
+
+1. **Medial Prefrontal Cortex (MPFC)**
+   - Dorsal MPFC (dMPFC)
+   - Ventral MPFC (vMPFC)
+
+2. **Posterior Cingulate Cortex (PCC)**
+   - Posterior cingulate gyri (PCG)
+   - Middle cingulate gyrus (MCG)
+
+3. **Precuneus**
+
+4. **Cerebellum**
+   - Bilateral posterior cerebellum
+   - Cerebellar granule cells
+
+5. **Supramarginal Gyrus**
+   - Left supramarginal gyrus
+   - Right supramarginal gyrus
+
+6. **Anterior Cingulate Cortex**
+
+7. **Supplementary Motor Area**
+
+8. **Insula**
+
+9. **Inferior Temporal Gyrus**
+
+10. **Superior Parietal Lobules**
+    - Bilateral superior parietal lobules
+
+11. **Precentral Gyrus**
+    - Bilateral precentral gyrus
+
+12. **Postcentral Gyrus**
+    - Right postcentral gyrus
+
+13. **Middle Frontal Gyrus**
+    - Right middle frontal gyrus
+
+14. **Angular Gyrus**
+    - Left angular gyrus
+
+15. **Superior Frontal Gyrus**
+    - Left superior frontal gyrus
+
+16. **Cuneus**
+    - Bilateral cuneus
+
+17. **Temporal Cortices**
+
+18. **Occipital Cortices**
+
+These regions are involved in cognitive functions and psychopathological states such as self-preoccupation, external-preoccupation, depression, and burnout.

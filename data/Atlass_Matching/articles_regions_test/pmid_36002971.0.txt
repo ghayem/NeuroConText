@@ -1,0 +1,91 @@
+## Brain Regions and Sub-regions:
+
+1. **Cerebrum**
+    - Cerebral cortex
+    - Dorsal default mode network (dDMN)
+    - Ventral default mode network (vDMN)
+    - Precuneus network (Prec)
+    - Anterior salience network (aSal)
+    - Posterior salience network (pSal)
+    - Left executive control network (LECN)
+    - Right executive control network (RECN)
+    - Visuospatial (dorsal attention) network (Visu)
+    - Language network (Lang)
+    - Primary visual network (pVis)
+    - High visual network (hVis)
+    - Sensorimotor network (SMN)
+    - Auditory network (Aud)
+    - Anterior insula
+    - Posterior insula
+    - Calcarine
+    - Middle occipital gyrus
+    - Superior parietal lobule
+    - Precentral gyrus
+    - Middle frontal gyrus
+    - Superior frontal gyrus
+    - Orbital gyrus
+    - Postcentral gyrus
+    - Occipital pole
+    - Middle temporal gyrus
+    - Angular gyrus
+    - Posterior cerebellum
+    - Anterior cerebellum
+    - Bilateral supramarginal gyrus
+    - Right superior frontal gyrus
+    - Left middle frontal gyrus
+    - Mid/anterior cingulate gyrus
+    - Left anterior insula
+    - Bilateral thalamus
+    - Left precentral gyrus
+    - Left inferior/middle temporal gyrus
+    - Left occipital fusiform gyrus
+    - Bilateral cuneus
+    - Right middle temporal gyrus
+    - Postcentral gyrus
+    - Precentral gyrus
+    - Superior occipital gyrus
+    - Occipital pole
+    - Bilateral occipital fusiform gyrus
+    - Middle occipital gyrus
+    - Superior parietal lobule
+    - Left precentral gyrus
+    - Middle frontal gyrus
+    - Cerebellum
+    - Other subcortical areas
+    - Right superior frontal gyrus
+    - Middle temporal gyrus/angular gyrus
+
+2. **Cerebellum**
+    - Posterior cerebellum
+    - Anterior cerebellum
+
+3. **Subcortical Structures**
+    - Thalamus
+    - Basal ganglia
+        - Striatum
+            - Caudate
+            - Putamen
+        - Globus pallidus
+        - Substantia nigra
+        - Subthalamic nucleus
+    - Midbrain
+    - Brainstem
+    - Cerebellum
+        - Posterior cerebellum
+        - Anterior cerebellum
+    - Hippocampal formation
+    - Amygdala
+    - Nucleus accumbens
+    - Cerebellum
+
+4. **Other Regions**
+    - Medial superior frontal gyrus
+    - Bilateral frontal pole
+    - White matter
+    - Cerebrospinal fluid
+    - Global signal
+    - Midbrain
+    - Calcarine
+    - Insula
+
+These regions are involved in various cognitive functions, including motor control, cognition, affective function, perception, object recognition, sensorimotor processing, and executive functions.

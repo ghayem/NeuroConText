@@ -1,0 +1,43 @@
+Sure, here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Dorsal Striatum**
+   - Putamen
+   - Caudate
+   - Caudate body
+   - Caudate head
+
+2. **Reward System**
+   - Nucleus accumbens (NAcc)
+   - Ventral tegmental area (VTA)
+   - Ventral striatum
+   - Substantia nigra
+
+3. **Cortical Regions**
+   - Inferior frontal gyrus (IFG)
+   - Middle temporal gyrus (MTG)
+   - Medial frontal gyrus
+   - Precentral gyrus
+   - Cuneus
+   - Parahippocampal gyrus
+   - Superior temporal gyrus (STG)
+   - Middle frontal gyrus (MFG)
+   - Anterior cingulate cortex (ACC)
+   - Posterior cingulate cortex (PCC)
+
+4. **Subcortical Regions**
+   - Globus pallidus (GP)
+   - Hippocampus
+   - Medial dorsal nucleus (MDN)
+   - Mammillary body
+   - Thalamus
+   - Culmen
+
+5. **Insula**
+   - Anterior insula
+   - Dorsal insula
+
+6. **Other Regions**
+   - Ventromedial prefrontal cortex
+   - Amygdala
+
+These regions are involved in various cognitive functions including reward processing, social cognition, empathy, theory of mind, interoception, subjective feelings, self-consciousness, self-monitoring, reinforcement learning, and habitual behaviors.

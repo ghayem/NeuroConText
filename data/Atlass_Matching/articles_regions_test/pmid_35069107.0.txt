@@ -1,0 +1,29 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Fusiform gyrus**
+   - Left fusiform gyrus (LFG)
+
+2. **Angular gyrus**
+   - Left angular gyrus (LAG)
+
+3. **Inferior frontal gyrus**
+   - Right triangular part of inferior frontal gyrus (IFG)
+
+4. **Insula**
+   - Right insula
+
+5. **Cingulate gyrus**
+
+6. **Default mode network (DMN)**
+
+7. **Prefrontal cortex**
+   - Right triangular inferior frontal gyrus
+
+These regions are involved in various cognitive functions, including:
+- **Fusiform gyrus**: Visual processing, face perception, emotional perception processing, especially emotional expression recognition.
+- **Angular gyrus**: Language and semantic processing, recognition and attention, episodic memory retrieval.
+- **Inferior frontal gyrus**: Higher-order cognitive processes including attention, working memory, and executive function.
+- **Insula**: Emotional processing, self-awareness, cognitive functioning.
+- **Cingulate gyrus**: Emotion formation and processing, learning, memory, and executive functions.
+- **Default mode network (DMN)**: Involved in self-referential processing, episodic memory retrieval, and mind-wandering.
+- **Prefrontal cortex**: Executive functions, decision-making, moderating social behavior, and planning.

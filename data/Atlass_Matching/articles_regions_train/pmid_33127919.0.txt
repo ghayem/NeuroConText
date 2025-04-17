@@ -1,0 +1,59 @@
+## Brain Regions and Sub-Regions:
+
+1. **Parietal Lobe**
+    - Parietal areas
+    - Superior parietal lobule (part of the precuneus)
+
+2. **Frontal Lobe**
+    - Frontal areas
+    - Superior frontal gyrus
+    - Left medial superior frontal gyrus
+    - Right superior frontal gyrus
+
+3. **Temporal Lobe**
+    - Middle temporal gyrus (bilaterally)
+    - Left middle temporal gyrus
+    - Right middle temporal gyrus
+
+4. **Occipital Lobe**
+    - Visual areas (cortical thickness)
+
+5. **Cingulate Gyrus**
+    - Posterior/middle cingulate gyrus (bilaterally)
+
+6. **Thalamus**
+
+7. **Angular Gyrus**
+    - Right angular gyrus
+    - Left angular gyrus
+
+8. **Amygdala**
+    - Right amygdala
+
+9. **Parahippocampal Gyrus**
+    - Right parahippocampal gyrus
+
+10. **Perirhinal Cortex**
+
+11. **Orbitofrontal Cortex**
+
+12. **Precentral Gyrus**
+    - Medial segment of the precentral gyrus (bilaterally)
+
+13. **Corpus Callosum**
+
+14. **Anterior Commissure**
+
+15. **Hypothalamic Regions**
+
+16. **Precuneus**
+
+17. **Supplementary Motor Cortex**
+
+18. **Premotor Cortex**
+
+19. **Default Mode Network**
+
+20. **Posterior/Middle Cingulate Gyrus**
+
+These regions are involved in various cognitive functions including mental rotation, spatial cognition, memory, and executive functions.

@@ -1,0 +1,47 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Hypothalamus**
+
+2. **Frontal Lobe**
+   - Frontal poles
+   - Frontal orbital cortex
+   - Frontopolar regions
+   - Frontal medial cortex
+   - Frontal cingulate cortex
+
+3. **Temporal Lobe**
+   - Temporal pole
+   - Middle temporal gyrus
+   - Superior temporal gyrus
+
+4. **Parietal Lobe**
+   - Anterior cingulate gyrus
+   - Posterior cingulate gyrus
+   - Paracingulate gyrus
+   - Angular gyrus
+
+5. **Occipital Lobe**
+   - Lateral occipital cortex
+   - Superior occipital cortex
+   - Inferior lateral occipital cortex
+
+6. **Insular Cortex**
+
+7. **Subcortical Regions**
+   - Putamen
+   - Amygdala
+   - Cerebellum
+
+8. **Limbic System**
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+
+These regions are involved in various cognitive functions, including:
+- **Hypothalamus**: Metabolism, eating behavior, reward and autonomic pathways.
+- **Frontal Lobe**: Decision-making, evaluating outcomes, socioemotional disturbances.
+- **Temporal Lobe**: Emotion processing, semantic processing, knowledge of foods.
+- **Parietal Lobe**: Anticipation of reward, task reinforcement, integrating cognitive with autonomic information.
+- **Occipital Lobe**: Visual processing related to eating and reward pathways.
+- **Insular Cortex**: Integration of taste, reward processing, salience network, sensory homeostatic signaling.
+- **Subcortical Regions**: Emotion processing, reward processing, complex eating behaviors.
+- **Limbic System**: Reward anticipation, task reinforcement, controlling visceromotor, endocrine, and skeletomotor outputs.

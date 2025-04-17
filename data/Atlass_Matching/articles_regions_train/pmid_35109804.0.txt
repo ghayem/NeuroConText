@@ -1,0 +1,44 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Cerebellum**
+   - Right cerebellum
+   - Left cerebellum
+
+2. **Temporal Cortex**
+   - Right inferior temporal gyrus
+   - Middle right temporal pole
+   - Right temporal pole mid
+
+3. **Basal Ganglia**
+   - Left putamen
+
+4. **Parietal Cortex**
+   - Left angular gyrus
+   - Right angular gyrus
+   - Right superior parietal gyrus
+
+5. **Frontal Cortex**
+   - Right middle frontal gyrus
+   - Right superior frontal gyrus
+   - Right medial frontal gyrus
+
+6. **Cingulate Cortex**
+   - Left middle cingulate gyrus
+
+7. **Limbic System**
+   - Left hippocampus
+   - Right hippocampus
+   - Left thalamus
+
+8. **Occipital Cortex**
+   - Visual cortex
+
+9. **Visual Pathways**
+   - Dorsal visual pathway
+   - Ventral visual pathway
+
+10. **Other Regions**
+    - Right parietal sup
+    - Brodmann’s area (BA 7, BA 8, BA 10, BA 31, BA 34, BA 37, BA 38, BA 39)
+
+These regions are involved in various cognitive functions, including visual processing, attention, cognition, motor control, emotional regulation, and memory.

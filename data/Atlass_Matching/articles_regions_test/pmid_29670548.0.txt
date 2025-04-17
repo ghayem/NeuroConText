@@ -1,0 +1,51 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Frontotemporoparietal cortex**
+
+2. **Left inferior frontal gyrus (IFG)**
+
+3. **Superior temporal gyrus**
+
+4. **Dorsolateral prefrontal cortex**
+
+5. **Inferior parietal (IPL) cortex**
+
+6. **Frontal region**
+
+7. **Frontocentral region**
+
+8. **Basal ganglia**
+
+9. **Supplementary motor area (SMA)**
+
+10. **Posterior cingulate cortex (PCC)**
+
+11. **Left temporal cortex**
+
+12. **Bilateral angular gyri (AG)**
+    - Brodmann area (BA) 39
+
+13. **Left middle frontal gyrus (MFG)**
+    - Brodmann area (BA) 9
+
+14. **Left medial superior frontal gyrus (SFG)**
+    - Brodmann area (BA) 9
+    - Brodmann area (BA) 8
+
+15. **Left inferior parietal lobule (IPL)**
+    - Brodmann area (BA) 40
+
+16. **Right anterior cingulate gyrus (ACG)**
+    - Brodmann area (BA) 32
+
+17. **Dorsomedial prefrontal cortex (DMPFC)**
+
+18. **Ventromedial prefrontal areas**
+
+19. **Lateral prefrontal networks**
+
+20. **Left anterior mid-cingulate cortex**
+
+21. **Premotor to mid-dorsolateral prefrontal cortex**
+
+These regions are involved in various cognitive functions, including semantic processing, cognitive control, emotion processes, social cognition, self-referential processing, default mode, representational aspects of semantic memory, anticipatory attentional control, conflict resolution processes, error detection, and evaluation.

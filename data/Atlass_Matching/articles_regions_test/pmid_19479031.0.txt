@@ -1,0 +1,32 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Frontotemporal regions**
+   - Frontotemporal dementia (FTD) is mentioned, which implies involvement of frontal and temporal lobes.
+
+2. **Motor cortex**
+   - Upper motor neurons
+   - Lower motor neurons
+
+3. **Sensory nerves**
+   - Although not a specific brain region, sensory nerves are mentioned in the context of neurological features.
+
+4. **Spinal cord**
+   - Although not a brain region, it is part of the central nervous system (CNS) and is mentioned in the context of ALS.
+
+5. **Cortex**
+   - The article mentions the central nervous system (CNS), which includes the cortex.
+
+6. **Chromosomal regions**
+   - Although not brain regions, specific chromosomal regions are mentioned that may contain genes relevant to ALS, such as:
+     - Chromosome 1
+     - Chromosome 13
+     - Chromosome 15
+     - Chromosome 16
+     - Chromosome 17
+     - Chromosome 22
+     - Chromosome 4p15.2-p14
+     - Chromosome 4q32.2-34.3
+     - Chromosome 6p25.3-23
+     - Chromosome 9p21.3-13.2
+
+These regions are involved in the neurodegenerative disease Amyotrophic Lateral Sclerosis (ALS), which affects motor neurons and leads to progressive muscle weakness and paralysis.

@@ -1,0 +1,52 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex**
+   - Dorsolateral prefrontal cortex (DLPFC) (BA 46)
+   - Orbitofrontal cortex
+   - Inferior frontal gyrus (IFG) (BA 44)
+   - Premotor cortex (PMC) (BA 6)
+
+2. **Cingulate Cortex**
+   - Anterior cingulate cortex
+   - Subgenual cingulate cortex
+   - Posterior cingulate cortex (PCC) (BA 23)
+
+3. **Parietal Lobe**
+   - Superior parietal lobule (SPL) (BA 7)
+   - Supramarginal gyrus (SMG) (BA 40)
+   - Precuneus (BA 7)
+
+4. **Temporal Lobe**
+   - Inferior temporal gyrus (ITG) (BA 20)
+   - Fusiform gyrus (BA 37)
+
+5. **Occipital Lobe**
+   - Lingual gyrus (BA 19)
+
+6. **Limbic System**
+   - Amygdala
+   - Parahippocampal gyrus (PHG) (BA 36)
+
+7. **Insular Cortex**
+   - Insula
+
+8. **Subcortical Structures**
+   - Thalamus
+
+9. **Cerebellum**
+   - Cerebellum posterior lobe (CPL)
+
+10. **Other Networks**
+    - Default mode network (DMN)
+    - Cognitive control network
+    - Affective network
+
+These regions are involved in various cognitive and emotional functions, including but not limited to:
+- Executive control and emotion regulation (DLPFC, SPL)
+- Emotion recognition and processing (IFG, amygdala, insula)
+- Motor preparation and control (PMC)
+- Self-referential thought and memory retrieval (DMN, including PCC and precuneus)
+- Visual recognition and processing (lingual gyrus, fusiform gyrus)
+- Spatial processing and emotional regulation (precuneus, PHG)
+- Language and memory processing (temporal lobe structures)
+- Sensorimotor and cognitive processing (cerebellum)

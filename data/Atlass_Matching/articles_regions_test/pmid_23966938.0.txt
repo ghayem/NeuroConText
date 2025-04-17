@@ -1,0 +1,29 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebellum**
+
+2. **Supplementary Motor Area**
+
+3. **Thalamus**
+
+4. **Caudate Nucleus**
+
+5. **Insula**
+
+6. **Precentral Gyrus**
+
+7. **Postcentral Gyrus**
+
+8. **Inferior Frontal Gyrus**
+
+9. **Midline**
+
+10. **Primary Sensory Cortex**
+
+11. **Primary Motor Cortex**
+
+12. **Sensorimotor Cortex**
+
+13. **Corpus Callosum**
+
+These regions are involved in various cognitive functions including motor control, sensory processing, and executive functions.

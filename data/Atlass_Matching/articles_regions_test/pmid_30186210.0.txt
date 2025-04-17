@@ -1,0 +1,49 @@
+1. **Frontal Lobe**
+    - Left frontal lobe
+    - Left inferior frontal gyrus
+    - Bilateral inferior frontal gyri
+    - Bilateral middle frontal gyri
+    - Left medial temporal gyrus
+    - Left superior temporal gyrus
+    - Supplementary motor area (SMA)
+    - Bilateral precentral gyri
+    - Left precentral gyrus
+
+2. **Temporal Lobe**
+    - Left middle temporal gyrus
+    - Left superior temporal gyrus
+    - Bilateral middle temporal gyri
+    - Bilateral superior temporal gyri
+    - Left inferior temporal gyrus
+    - Bilateral inferior temporal gyri
+    - Left parahippocampal gyrus
+    - Left fusiform
+    - Left mid-fusiform cortex
+
+3. **Parietal Lobe**
+    - Left inferior parietal gyrus
+
+4. **Occipital Lobe**
+    - Bilateral occipital lobes
+    - Left lingual gyrus
+    - Bilateral middle occipital gyri
+
+5. **Subcortical Structures**
+    - Right caudate nucleus
+    - Anterior cingulate
+    - Cerebellum
+    - Orbitofrontal cortex (OFC)
+    - Left inferior OFC
+    - Medial OFC
+    - Insula
+    - Bilateral insula
+    - Anterior insula
+    - Amygdala
+
+6. **Other Regions**
+    - Left supplementary motor area (SMA)
+    - Left precentral gyrus
+    - Left fusiform gyrus (FFG)
+    - Left precentral gyrus (PreCG)
+
+These regions are involved in various cognitive and affective processes, including language processing, visual and auditory perception, emotional evaluation, and esthetic appreciation.

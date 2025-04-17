@@ -1,0 +1,37 @@
+## Brain Regions and Sub-Regions:
+
+1. **Default Network (DN)**
+   - Angular gyrus
+   - Middle temporal gyrus
+   - Medial temporal lobes
+   - Ventromedial frontal cortex
+   - Superior frontal gyrus
+   - Cerebellum
+   - Posterior cingulate (PCC)
+   - Inferior frontal gyri
+   - Subcortical areas
+
+2. **Task-Positive Network (TPN)**
+   - Anterior portion of the insula
+   - Precentral gyrus
+   - Middle frontal gyrus
+   - Anterior cingulate
+   - Lingual gyrus
+   - Superior temporal gyrus
+   - Parietal areas
+   - Supplementary motor area (SMA)
+
+3. **Other Regions**
+   - Medial frontal gyrus
+   - Precentral gyrus
+   - Supramarginal gyrus
+   - Amygdala
+   - Fusiform face area
+   - Precuneus
+   - Anterior cingulate
+   - Paracentral lobule
+   - Motor cortex
+   - Medial frontal/SMA
+   - Postcentral gyrus
+
+   - These regions are involved in these cognitive functions: cognitive tasks, language, motor functions, and visual processing.

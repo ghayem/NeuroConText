@@ -1,0 +1,59 @@
+### Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Auditory Cortex**
+   - Primary auditory cortex
+   - Bilateral auditory cortices
+   - Auditory resting state network
+
+2. **Cingulate Cortex**
+   - Anterior cingulate
+   - Middle cingulate
+   - Posterior cingulate
+
+3. **Prefrontal Cortex**
+   - Orbitofrontal cortex
+   - Subcallosal area
+
+4. **Temporal Cortex**
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Superior temporal gyrus
+   - Temporopolar area
+
+5. **Parietal Cortex**
+   - Supramarginal gyrus
+   - Angular gyrus
+   - Inferior parietal gyrus
+   - Precuneus
+
+6. **Occipital Cortex**
+   - Lateral occipital area
+   - Secondary visual cortex
+   - Bilateral lingual gyrus
+
+7. **Frontal Cortex**
+   - Orbitofrontal area
+   - Precentral gyrus
+   - Postcentral gyrus
+
+8. **Insular Cortex**
+
+9. **Fusiform Gyrus**
+
+10. **Cerebellum**
+    - Bilateral crus of the cerebellum
+    - Left cerebellar area
+
+11. **Retrosubicular Area**
+
+12. **Thalamus**
+
+13. **Visual Cortex (V1)**
+
+14. **Motor Cortex (M1)**
+
+15. **Sensorimotor Cortex**
+
+16. **Default Mode Network**
+
+17. **Attention and Short-term Memory Networks**

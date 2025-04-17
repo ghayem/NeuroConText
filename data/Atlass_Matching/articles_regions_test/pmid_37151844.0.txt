@@ -1,0 +1,75 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex (PFC)**
+   - Lateral areas
+     - Broadman Area (BA) 9
+     - Broadman Area (BA) 46
+     - Broadman Area (BA) 44
+     - Broadman Area (BA) 45
+   - Anterior PFC
+     - Broadman Area (BA) 10
+   - Inferior frontal gyrus
+     - Pars opercularis (BA 44, Broca’s area)
+   - Dorsal lateral prefrontal cortex (DLPFC)
+     - Broadman Area (BA) 9
+   - Premotor cortex
+     - Broadman Area (BA) 6
+   - Frontal eye fields
+     - Broadman Area (BA) 8
+
+2. **Parietal Lobe**
+   - Inferior parietal lobule
+   - Supramarginal gyrus
+     - Broadman Area (BA) 40
+   - Angular gyrus
+   - Parietal areas (extending from secondary visual cortex)
+
+3. **Temporal Lobe**
+   - Middle temporal gyrus
+     - Broadman Area (BA) 21
+   - Superior temporal gyrus
+     - Broadman Area (BA) 22
+   - Fusiform gyrus
+     - Broadman Area (BA) 37
+   - Parahippocampal gyrus
+
+4. **Occipital Lobe**
+   - Secondary visual cortex
+     - Broadman Area (BA) 18
+
+5. **Cingulate Cortex**
+   - Anterior cingulate cortex (ACC)
+     - Dorsal portions (BA 32)
+     - Ventral (BA 24)
+   - Posterior cingulate cortex (PCC)
+   - Dorsal posterior and anterior cingulate
+     - Broadman Area (BA) 31 and 32
+
+6. **Other Cortical Regions**
+   - Primary somatosensory cortex
+     - Broadman Area (BA) 1
+   - Precentral and postcentral gyri
+   - Supplementary motor area (SMA)
+     - Broadman Area (BA) 6
+   - Primary motor cortex
+     - Broadman Area (BA) 4
+
+7. **Subcortical Regions**
+   - Striatal regions
+   - Corpus callosum
+
+8. **Other Regions**
+   - Fronto-parietal network
+   - Limbic lobe
+
+**Cognitive Functions Involved:**
+- Executive functioning
+- Task switching
+- Working memory
+- Attentional selection or priming
+- Inhibition
+- Conflict resolution
+- Stimulus–response congruency effects
+- Language functions (related to the inferior frontal gyrus, supramarginal gyrus, and middle temporal gyrus activations in older adults)
+
+These regions are involved in various cognitive functions, including executive functions, task switching, working memory, attentional selection, inhibition, conflict resolution, stimulus–response congruency effects, and language functions.

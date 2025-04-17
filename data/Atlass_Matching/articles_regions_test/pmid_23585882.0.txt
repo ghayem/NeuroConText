@@ -1,0 +1,50 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Striatum**
+   - Caudate
+   - Putamen
+
+2. **Prefrontal Cortex (PFC)**
+   - Dorsolateral Prefrontal Cortex (DLPFC)
+     - Superior/Middle frontal gyrus (BA 8/9)
+   - Ventrolateral Prefrontal Cortex (VLPFC)
+     - Inferior frontal gyrus (BA 44, 47)
+   - Ventromedial Prefrontal Cortex (BA 25)
+   - Orbitofrontal Cortex
+     - Gyrus rectus (BA 11)
+   - Premotor Cortex (BA 6)
+
+3. **Frontal Cortex**
+   - Inferior Frontal Cortex (BA 47)
+   - Premotor Cortex (BA 6)
+   - Frontal Cortex (BA 8, 9, 10)
+
+4. **Parietal Cortex**
+   - Inferior Parietal Cortex (BA 40)
+   - Precuneus (BA 7)
+   - Parieto-occipital part of the Angular Gyrus (BA 39)
+
+5. **Temporal Cortex**
+   - Superior Temporal Cortex (BA 13, 38)
+   - Lateral Temporal Cortex (BA 20, 37)
+   - Mediotemporal Cortex
+     - Hippocampus
+     - Parahippocampal Gyrus (BA 28)
+   - Anterior Hippocampus
+
+6. **Occipital Cortex**
+   - Occipital parts of BA 39 and BA 19
+
+7. **Thalamus**
+
+8. **Cingulate Cortex**
+
+9. **Cerebellum**
+   - Posterior Cerebellum
+
+10. **Brainstem**
+    - Mesencephalon
+    - Metencephalon (Pons)
+    - Rostral Raphe Nuclei
+
+These regions are involved in various cognitive functions, including memory, executive functions, and emotional processing.

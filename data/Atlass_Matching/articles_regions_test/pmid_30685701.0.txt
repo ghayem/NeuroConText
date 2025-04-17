@@ -1,0 +1,26 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Amygdala**
+
+2. **Anterior cingulate**
+   - Rostral anterior cingulate gyrus (rACC)
+
+3. **Insula**
+   - Anterior insula (aINS)
+
+4. **Prefrontal cortex**
+   - Ventral medial prefrontal gyrus (vmPFC)
+   - Middle frontal gyrus (MFG)
+
+5. **Striatum**
+   - Ventral striatum
+   - Caudate
+
+6. **Visual cortex**
+   - Cuneus
+
+7. **Other regions**
+   - Limbic regions
+   - Reward-related brain regions
+
+These regions are involved in emotional processing, reward circuitry, and other cognitive functions relevant to major depressive disorder.

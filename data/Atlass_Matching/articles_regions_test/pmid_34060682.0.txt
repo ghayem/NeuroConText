@@ -1,0 +1,59 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Auditory Cortex**
+   - Primary auditory cortex (A1)
+   - Heschl's gyrus
+   - Superior temporal gyri
+   - Superior temporal gyrus (STG)
+   - Middle superior temporal cortex
+   - Anterior superior temporal sulcus
+   - Middle superior temporal sulcus
+
+2. **Visual Cortex**
+   - Primary visual cortex
+   - Calcarine
+   - Cuneus
+   - Lingual gyrus
+   - Superior occipital gyrus
+   - Middle occipital gyrus
+   - Inferior occipital gyri
+
+3. **Sensorimotor Cortex**
+   - Paracentral lobule
+   - Post-central gyri
+   - Pre-central gyri
+   - Intraparietal sulcus
+   - Inferior parietal lobule
+   - Superior parietal lobule
+
+4. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex
+   - Inferior parietal cortex
+   - Precuneus
+   - Medial frontal cortex
+   - Medial parietal cortex
+   - Medial temporal cortex
+
+5. **Salience Network (SN)**
+   - Anterior cingulate cortex
+   - Insula
+   - Parahippocampal gyrus
+
+6. **Attention Network (AN)**
+   - Intraparietal sulcus
+   - Inferior parietal lobule
+   - Superior parietal lobule
+
+7. **Frontal Network (FN)**
+   - Dorsal frontal cortex
+
+8. **Additional Regions**
+   - Supramarginal gyrus
+   - Middle temporal gyrus
+   - Anterior cingulate cortex
+   - Ventricular region
+   - White matter
+   - Cerebrospinal fluid (CSF)
+   - Temporo-parieto-occipital junction (TPO)
+
+These regions are involved in various cognitive functions, including auditory processing, visual processing, sensorimotor integration, default mode processing, salience detection, attention, and frontal executive functions.

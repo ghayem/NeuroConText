@@ -1,0 +1,40 @@
+## Brain Regions and Sub-Regions
+
+1. **Postcentral Gyrus**
+
+2. **Posterior Insula**
+
+3. **Dorsal Anterior Cingulate Cortex**
+    - Anterior cingulate cortex
+
+4. **Dorsolateral Prefrontal Cortex**
+
+5. **Superior Frontal Gyrus**
+    - Dorsomedial prefrontal cortex
+
+6. **Medial Prefrontal Cortex**
+
+7. **Anterior Cingulate Cortex**
+
+8. **Posterior Cingulate Cortex**
+
+9. **Precuneus**
+
+10. **Thalamus**
+
+11. **Superior Parietal Lobules**
+
+12. **Cerebellum**
+    - Cerebellar lobule IX
+    - Cerebellar lobule VII
+
+13. **Brainstem**
+
+14. **Midbrain**
+
+15. **Periaqueductal Grey (PAG)**
+
+16. **Default Mode Network (DMN)**
+    - Includes multiple regions mentioned above
+
+17. **Precentral Gyrus**

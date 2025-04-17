@@ -1,0 +1,42 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Ventricle System**
+
+2. **Thalamus**
+   - Bilateral thalamus
+   - Left thalamus
+   - Right thalamus
+
+3. **Superior Temporal Gyrus (STG)**
+   - Left STG
+   - Right STG
+
+4. **Nucleus Accumbens**
+
+5. **Frontal Regions**
+   - Inferior frontal gyrus (IFG)
+     - Left IFG
+     - Right IFG
+     - Brodmann’s areas 44 and 45
+   - Medial frontal gyrus
+     - Brodmann’s areas 8, 11
+   - Middle orbital frontal gyrus
+
+6. **Precentral Gyrus**
+
+7. **Inferior Parietal Lobule**
+
+8. **Temporal Regions**
+   - Inferior temporal gyrus
+   - Middle temporal gyrus
+
+9. **Cerebellum**
+   - Cerebellum posterior lobe
+   - Cerebellum anterior lobe
+   - Cerebellum vermis
+
+10. **Caudate**
+
+11. **Frontotemporal Region**
+
+These regions are involved in various cognitive functions, including language processing, memory, auditory perception, and executive functions. The article discusses their relevance to auditory verbal hallucinations (AVHs) in schizophrenia.

@@ -1,0 +1,20 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobes**
+   - Right posterior temporal cortex
+   - Left posterior temporal cortex
+   - Posterior part of the superior temporal lobe (STL)
+   - Anterior STL
+
+2. **Superior Temporal Cortex**
+   - Posterior superior temporal sulcus (pSTS)
+   - Planum temporale (PT)
+
+3. **Hemispheres**
+   - Left hemisphere
+   - Right hemisphere
+   - Left posterior STS
+   - Right posterior STS
+   - Right planum temporale (PT)
+
+These regions are involved in the processing of pitch patterns, specifically in the hierarchical processing of global and local levels of pitch sequences. The article discusses the lateralization of these functions and the involvement of these regions in both normal and lesioned brains.

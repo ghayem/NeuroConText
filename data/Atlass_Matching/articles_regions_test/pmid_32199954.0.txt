@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions:
+
+1. **Midcingulate Cortex (MCC)**
+   - Anterior midcingulate cortex (aMCC)
+   - Posterior midcingulate cortex (pMCC)
+
+2. **Cingulate and Peri-Cingulate Cortex**
+   - Right cingulate cortex
+   - Peri-cingulate cortex
+
+3. **Occipitotemporal Regions**
+   - Bilateral inferior/middle occipital gyrus
+   - Bilateral lingual gyrus
+   - Left inferior temporal/occipital gyrus
+   - Right middle occipital/temporal gyrus
+
+4. **Frontal Areas**
+   - Right parietal cortex
+   - Bilateral frontal areas
+
+5. **Subcortical Regions**
+   - Left cerebellum
+   - Left amygdala
+   - Bilateral putamen
+
+6. **Precentral Gyrus**
+   - Right precentral gyrus
+
+7. **Supplementary Motor Area (SMA)**
+   - Right supplementary motor area
+
+8. **Insula**
+   - Left insula
+   - Left anterior insula
+
+9. **Middle Temporal Gyrus**
+   - Bilateral middle temporal gyrus
+   - Extrastriate body area (EBA)
+
+10. **Other Regions**
+   - Left inferior frontal gyrus (pars Opercularis)
+   - Right precuneus
+   - Right superior parietal lobule
+
+   - These regions are involved in these cognitive functions: emotion processing, motor control, threat perception, and adaptive responses.

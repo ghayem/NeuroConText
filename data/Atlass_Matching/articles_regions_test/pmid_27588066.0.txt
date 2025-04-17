@@ -1,0 +1,31 @@
+## The brain regions:
+
+1. **Prefrontal Cortex**
+   - Left deep prefrontal cortex
+
+2. **Temporal Lobe**
+   - Left temporal lobe
+   - Right deep temporal lobe
+
+3. **Inferior Frontal Gyrus**
+   - White matter of the inferior frontal gyrus
+
+4. **Superior Frontal Gyrus**
+
+5. **Hippocampus**
+   - Hippocampal sulcus
+
+6. **Amygdala**
+
+7. **Entorhinal Cortex**
+
+8. **Corpus Callosum**
+   - Part of the corpus callosum
+
+9. **Cingulate Gyrus**
+
+10. **Frontal Lobe**
+
+11. **Middle Frontal Lobe**
+
+- These regions are involved in various cognitive functions, including executive functions, emotion regulation, memory, and higher-order processing.

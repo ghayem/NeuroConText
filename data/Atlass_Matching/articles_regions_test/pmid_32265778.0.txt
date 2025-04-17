@@ -1,0 +1,22 @@
+Based on the article provided, the brain regions and sub-regions mentioned are:
+
+1. **Cerebellum**
+   - Bilateral cerebellum VI
+     - Left cerebellum VI (lobule VI/Crus I)
+     - Right cerebellum VI
+   - Cerebellum V
+
+2. **Cerebral Regions**
+   - Left fusiform gyrus
+   - Left inferior frontal gyrus
+   - Left lateral temporal cortex
+   - Left precentral gyrus
+   - Pars opercularis of the left inferior frontal gyrus
+   - Posterior part of the left superior temporal gyrus
+   - Left thalamus
+   - Right cerebellum
+   - Left supramarginal gyrus (extended to the postcentral gyrus)
+   - Left insula (extended to the superior temporal gyrus)
+   - Left postcentral gyrus (extended to the supramarginal gyrus)
+
+These regions are involved in various cognitive functions, including reading, phonological processing, visual letter recognition, semantic processing, articulatory processing, automatizing processing, and attention.

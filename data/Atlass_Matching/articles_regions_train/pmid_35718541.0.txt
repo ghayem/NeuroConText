@@ -1,0 +1,19 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Right temporoparietal junction (rTPJ)**
+
+2. **Right dorsolateral prefrontal cortex (DLPFC)**
+
+3. **Insular cortex**
+
+4. **Ventral striatum (VS)**
+
+5. **Dorsal angular gyrus (dAG)**
+
+6. **Ventral angular gyrus (vAG)**
+
+7. **Posterior angular gyrus (pAG)**
+
+8. **Supramarginal gyrus (SMG)**
+
+These regions are involved in various cognitive functions related to decision-making, fairness evaluation, and social cognition.

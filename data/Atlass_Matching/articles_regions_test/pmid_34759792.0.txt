@@ -1,0 +1,61 @@
+## The brain regions:
+
+1. **Caudate Nucleus**
+    - Bilateral caudate nucleus
+    - Left caudate nucleus
+
+2. **Frontal Gyrus**
+    - Left middle frontal gyrus
+    - Superior frontal gyrus
+    - Left superior frontal gyrus
+    - Right medial superior frontal gyrus
+
+3. **Superior Parietal Gyrus**
+    - Right superior parietal gyrus
+
+4. **Anterior Cingulate and Paracingulate Gyri**
+    - Left anterior cingulate and paracingulate gyri
+
+5. **Thalamus**
+    - Left thalamus
+
+6. **Orbital Inferior Frontal Gyrus**
+    - Left orbital inferior frontal gyrus
+
+7. **Middle Frontal Gyrus**
+    - Right middle frontal gyrus
+
+8. **Grey Matter (GM)**
+    - (General reference to grey matter without specific sub-regions)
+
+9. **White Matter (WM)**
+    - (General reference to white matter without specific sub-regions)
+
+10. **Cerebrospinal Fluid (CSF)**
+    - (General reference to cerebrospinal fluid without specific sub-regions)
+
+11. **Superior Frontal Gyrus**
+    - Right superior frontal gyrus
+
+12. **Basal Ganglia**
+    - (General reference to basal ganglia without specific sub-regions)
+
+13. **Posterior Thalamus**
+    - (General reference to posterior thalamus without specific sub-regions)
+
+14. **Anterior Cingulate Cortex**
+    - (General reference to anterior cingulate cortex without specific sub-regions)
+
+15. **Inferior Frontal Orbital Gyrus**
+    - Right inferior frontal orbital gyrus
+
+16. **Angular Gyrus**
+    - Left anterior cingulum angular
+
+17. **Cortico-Basal Ganglia-Thalamic Loops**
+    - (General reference to cortico-basal ganglia-thalamic loops without specific sub-regions)
+
+18. **Superior Parietal Gyrus**
+    - Right superior parietal gyrus
+
+These regions are involved in various cognitive functions and pain modulation processes, as detailed in the article.

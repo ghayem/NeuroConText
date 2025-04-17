@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Hippocampus**
+
+2. **Somatosensory Cortex**
+
+3. **Premotor Cortex**
+
+4. **Prefrontal Cortex**
+
+5. **Parietal Cortex**
+
+6. **Right Superior Temporal Gyrus**
+
+7. **Right Inferior Parietal Lobule**
+
+8. **Orbitofrontal Cortex**
+
+9. **Anterior Cingulum**
+
+10. **Insula**
+
+11. **Pallidum**
+
+12. **Bilateral Caudate Nucleus**
+
+13. **Bilateral Amygdala**
+
+14. **Bilateral Putamen**
+
+15. **Right Insula**
+
+16. **Left Hippocampus**
+
+17. **Left Olfactory Cortex**
+
+18. **Left Middle Cingulum**
+
+19. **Striatum**
+    - Caudate Nucleus
+    - Putamen
+
+20. **Cerebrospinal Fluid (CSF)**
+
+21. **Gray Matter (GM)**
+
+22. **White Matter (WM)**
+
+23. **Basal Ganglia**
+
+24. **Frontal Regions**
+
+These regions are involved in various cognitive and motor functions, including motor control, sensory integration, executive functioning, and emotional regulation.

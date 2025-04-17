@@ -1,0 +1,28 @@
+## Brain Regions and Sub-regions
+
+1. **Brainstem**
+   - **Corticospinal system**
+   - **Dorsal column nuclei**
+   - **Medial lemniscus**
+   - **Periaqueductal grey (PAG)**
+   - **Rubrospinal system**
+   - **Vestibulospinal system**
+   - **Reticular formation**
+   - **Red nucleus (RN)**
+   - **Cerebral crus**
+   - **Corticospinal tracts (CSTs)**
+   - **Substantia nigra**
+   - **Pontine nucleus**
+   - **Vestibular nucleus**
+   - **Cerebellar peduncles**
+   - **Ventromedial brainstem pathways**
+
+2. **Cortex**
+   - **Cortical level**
+
+3. **Spinal Cord**
+   - **Cord**
+   - **Cervical cord**
+   - **Neurological level of injury**
+
+These regions are involved in motor and sensory functions, as well as pain modulation.

@@ -1,0 +1,42 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Inferior Frontal Cortex**
+   - Left inferior frontal gyrus (IFG)
+   - IFG pars triangularis
+   - IFG pars opercularis
+
+2. **Temporoparietal Cortex**
+   - Left temporoparietal areas
+   - Angular gyrus
+   - Supramarginal gyrus (SMG)
+   - Posterior superior temporal gyrus (STG)
+
+3. **Occipitotemporal Cortex**
+   - Left ventral occipitotemporal cortex (VOT)
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+4. **Cingulo-Fronto-Parietal Network**
+   - Lateral frontal pole
+   - Anterior cingulate cortex
+   - Dorsolateral prefrontal cortex
+   - Ventrolateral prefrontal cortex
+   - Inferior parietal lobe
+   - Various subcortical regions
+
+5. **Fronto-Striatal and Fronto-Parietal Pathways**
+   - (Sub-regions not explicitly mentioned)
+
+6. **Additional Regions**
+   - Pulvinar
+   - Cerebellum
+   - Left middle temporal gyrus/superior temporal gyrus (MTG/STG)
+   - Right MTG/STG
+   - Left superior parietal lobule/precuneus
+   - Right supramarginal gyrus
+   - Right superior and inferior parietal lobule
+   - Thalamus
+   - Left cerebellum (VI)
+   - Right inferior frontal gyrus (IFG) pars opercularis/precentral gyrus
+
+These regions are involved in various cognitive functions including reading, attentional control, phonological processing, semantic integration, and executive functioning.

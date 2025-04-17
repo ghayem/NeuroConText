@@ -1,0 +1,80 @@
+## Brain Regions and Sub-Regions
+
+1. **Left Inferior Frontal Gyrus (IFG)**
+   - Frontal operculum
+   - Pars triangularis
+   - Pars opercularis
+   - Orbitalis
+
+2. **Temporal Poles (TP)**
+   - Anterior part of the temporal lobe (aTL)
+   - Bilateral temporal poles
+
+3. **Superior Temporal Gyrus (STG)**
+   - Posterior superior temporal gyrus (pSTG)
+   - Anterior portion of the STG
+   - Posterior superior temporal sulcus (pSTS)
+   - Anterior superior temporal sulcus (aSTS)
+
+4. **Frontal Cortex**
+   - Superior frontal gyrus
+
+5. **Parietal Lobes**
+   - Supramarginal gyrus
+   - Inferior parietal lobule
+
+6. **Occipital Regions**
+   - Ventral occipitotemporal regions
+
+7. **Subcortical Regions**
+   - Right globus pallidus
+   - Left amygdala
+   - Right rolandic operculum
+
+8. **Middle Temporal Gyrus**
+   - Left middle temporal gyrus
+   - Posterior middle temporal gyrus
+
+9. **Supplementary Motor Area**
+   - Bilateral supplementary motor area
+
+10. **Insula**
+    - Bilateral insulae
+
+11. **Visual Cortex**
+
+12. **Temporo-Parietal Junction (TPJ)**
+
+13. **Parietal Lobule**
+    - Left inferior parietal lobule
+
+14. **Subcortical Regions**
+    - Bilateral amygdalae
+
+15. **Ventral Medial Areas**
+
+16. **Anterior Temporal Network**
+    - Right hemisphere (associated with negative beta values)
+
+17. **Left Posterior STS**
+
+18. **Left IFG Opercularis**
+
+19. **Left IFG Triangularis**
+
+20. **Left Posterior Temporal Region**
+
+21. **Right Parietal and Occipital Areas**
+
+22. **Right Supplementary Motor Area**
+
+23. **Left Parietal Lobule**
+
+24. **Left IPL**
+
+25. **Left Posterior Middle Temporal Gyrus**
+
+26. **Temporo-Parieto-Occipital Junction (TPO)**
+
+## Cognitive Functions
+These regions are involved in these cognitive functions: language processing, syntactic and semantic integration, morphological processing, verbal working memory, structural hierarchy processing, and executive functions.

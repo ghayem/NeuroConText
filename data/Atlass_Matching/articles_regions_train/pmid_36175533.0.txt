@@ -1,0 +1,50 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Ventral Striatum (VS)**
+
+2. **Salience Network (SN)**
+   - Anterior Cingulate Cortex (ACC)
+   - Anterior Insula (AIns)
+
+3. **Inferior Parietal Cortex (IPC)**
+
+4. **Medial Prefrontal Cortex (mPFC)**
+
+5. **Right Anterior Insula (AIns)**
+   - Intra Parietal Sulcus (IPS)
+   - Angular Gyrus (AG)
+   - Middle Occipital Gyrus
+   - Fusiform Gyrus (FG)
+   - Middle Temporal Gyrus
+
+6. **Right Inferior Parietal Cortex (IPC)**
+   - Fusiform Gyrus (FG)
+   - Inferior/Middle Temporal Gyrus
+
+7. **Basal Ganglia**
+   - Caudate Nucleus
+   - Putamen
+
+8. **Lingual Gyrus**
+
+9. **Angular Gyrus**
+
+10. **Cuneus**
+
+11. **Precuneus**
+
+12. **Supplementary Motor Area (SMA)**
+
+13. **Middle Frontal Gyrus (MFG)**
+
+14. **Parietal Lobe**
+
+15. **Posterior Cingulate Cortex**
+
+16. **Middle Occipital Gyrus**
+
+17. **Temporal Parietal Junction (TPJ)**
+
+18. **Posterior Superior Temporal Sulcus**
+
+These regions are involved in various cognitive functions, including trust anticipation, social cognition, reward processing, salience detection, executive functions, and decision-making.

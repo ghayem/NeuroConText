@@ -1,0 +1,25 @@
+## Brain Regions and Sub-regions:
+
+1. **Inferior Frontal Gyrus (IFG)**
+
+2. **Frontopolar Cortex**
+
+3. **Dorsolateral Prefrontal Cortex (DLPFC)**
+
+4. **Anterior Dorsolateral Prefrontal Cortex (aDLPFC)**
+
+5. **Posterior Dorsolateral Prefrontal Cortex (pDLPFC)**
+
+6. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+7. **Dorsomedial Prefrontal Cortex (dmPFC)**
+    - Brodmann area (BA) 8/32
+
+8. **Premotor Cortex (PM)**
+
+9. **Inferior Parietal Lobule (IPL)**
+
+10. **Presupplementary Motor Area (preSMA)**
+    - Brodmann area (BA) 6
+
+These regions are involved in these cognitive functions: control processes, semantic retrieval, inhibition of representations, semantic processing, working memory (WM) functions, attentional control, attentional modulation, and switching from external stimuli to internal representations.

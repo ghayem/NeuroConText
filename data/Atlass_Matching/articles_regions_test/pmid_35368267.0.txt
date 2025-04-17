@@ -1,0 +1,39 @@
+1. **Caudate**
+
+2. **Putamen**
+
+3. **Superior frontal gyrus**
+
+4. **Middle frontal gyrus**
+
+5. **Ventrolateral prefrontal cortex (PFC)**
+
+6. **Medial PFC**
+
+7. **Orbitofrontal cortex (OFC)**
+
+8. **Bilateral cerebellum**
+
+9. **Left temporal pole**
+
+10. **Bilateral inferior frontal gyrus**
+
+11. **Left middle temporal cortex**
+
+12. **Left precentral gyrus**
+
+13. **Left cuneus**
+
+14. **Left inferior occipital gyrus**
+
+15. **Left parahippocampal gyrus (PG)**
+
+16. **Right calcarine**
+
+17. **Bilateral supplementary motor area (SMA)**
+
+18. **Right precuneus**
+
+19. **Left middle occipital gyrus (MOG)**
+
+- These regions are involved in these cognitive functions: reward processing, sensorimotor functions, emotional regulation, attentional control, behavioral control, cognitive functions, memory, learning, hedonic processing, feeding, incentive motivation, executive control, movement inhibition, response selection, execution of behavior, visual processing, and sustained attention.

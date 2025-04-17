@@ -1,0 +1,66 @@
+## Brain Regions and Sub-Regions
+
+1. **Occipital Cortex**
+    - Lateral occipital cortex
+    - Medial occipital cortex
+
+2. **Parietal Cortex**
+    - Occipito-parietal cortex
+    - Lateral parietal cortex
+    - Medial parietal cortex
+    - Superior parietal cortex
+    - Parieto-occipital cortex
+    - Supramarginal gyrus
+
+3. **Temporal Cortex**
+    - Occipito-temporal cortex
+    - Lateral temporal cortex
+    - Medial temporal cortex
+    - Superior temporal gyrus
+    - Planum polare of the superior temporal gyrus
+    - Inferior temporal gyrus
+
+4. **Frontal Cortex**
+    - Bilateral frontal eye field
+
+5. **Cerebellum**
+    - Cerebellum (vermis excluded)
+
+6. **Ventricular System**
+    - Vermis of the cerebellum
+
+7. **Other Cortical Areas**
+    - Temporo-parieto-occipital cortices
+    - Parietal associative cortices
+    - Posterior regions of the brain
+    - Frontal areas
+    - Frontal eye field
+    - Posterior cortical atrophy (PCA)
+
+## Cognitive Functions
+- Visuospatial functions
+- Visuoperceptive functions
+- Visual agnosia
+- Prosopagnosia
+- Apraxia
+- Agraphia
+- Optic ataxia
+- Simultagnosia
+- Ocular apraxia
+- Digital agnosia
+- Acalculia
+- Gestural functions
+- Symbolic gestures
+- Pantomimes
+- Global cognitive functions
+- Verbal memory
+- Verbal working memory
+- Phonemic and semantic fluency
+- Abstract verbal conceptualization
+- Agraphia and alexia
+- Mini-Mental Scale Examination (MMSE)
+- Free and Cued Selective Reminding Test (FCSRT)
+- Digit Span Forward and Backward test
+- Similarities test
+- Dictation task
+- Reading task

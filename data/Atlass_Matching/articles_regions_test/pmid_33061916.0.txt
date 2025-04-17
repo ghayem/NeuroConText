@@ -1,0 +1,34 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Somatosensory cortex (SSC)**
+   - Sensorimotor Network (SMN)
+
+2. **Insula**
+   - Salience Network (SN)
+
+3. **Default Mode Network (DMN)**
+   - Midline structures
+     - Perigenual anterior cingulate cortex (pgACC)
+
+4. **Executive Network (EN)**
+   - Dorsal-lateral prefrontal cortex (DLPFC)
+
+5. **Raphe nuclei**
+
+6. **Ventromedial prefrontal cortex (VMPFC)**
+
+7. **Thalamus**
+
+8. **Precuneus**
+
+9. **Inferior frontal gyrus**
+   - Inferior frontal sulcus
+   - Horizontal ramus
+
+10. **Post-central gyrus**
+    - Brodmann areas 1, 2, and 3
+
+11. **Anterior cingulate cortex**
+    - Perigenual anterior cingulate cortex (pgACC)
+
+These regions are involved in various cognitive and emotional processes, including visceral sensory input, affective and interoceptive information integration, and executive functions.

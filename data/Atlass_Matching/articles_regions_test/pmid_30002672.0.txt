@@ -1,0 +1,83 @@
+## Brain Regions and Sub-Regions
+
+1. **Dorsal Cingulate Cortex**
+
+2. **Orbitofrontal Cortex (OFC)**
+
+3. **Ventromedial Prefrontal Cortex (vmPFC)**
+
+4. **Posterior Middle Temporal Gyrus (pMTG)**
+
+5. **Insula**
+
+6. **Anterior Cingulate Cortex**
+
+7. **Frontal Lobe**
+
+8. **Parietal Lobe**
+
+9. **Temporal Lobe**
+
+10. **Hippocampal Cingulum**
+
+11. **Fornix**
+
+12. **Right Amygdala**
+
+13. **Right Lingual Gyrus**
+
+14. **Right Calcarine Gyrus**
+
+15. **Bilateral Supplementary Motor Areas**
+
+16. **Bilateral Posterior Cingulate Cortex (PCC)**
+
+17. **Middle Temporal Gyrus**
+
+18. **Left Dorsolateral Prefrontal Cortex (DLPFC)**
+
+19. **Left Inferior Frontal Gyrus**
+
+20. **Left Precuneus**
+
+21. **Right Precentral Cortex**
+
+22. **Left Medial Prefrontal Cortex (mPFC)**
+
+23. **Right Middle Temporal Gyrus (MTG)**
+
+24. **Right Precentral Gyrus (preCG)**
+
+25. **Medial Prefrontal Cortex (mPFC)**
+
+26. **Posterior Middle Temporal Gyrus (pMTG)**
+
+27. **Subgenual Anterior Cingulate Cortex (sgACC)**
+
+28. **Rostral Anterior Cingulate Cortex (rACC)**
+
+29. **Orbitomedial Prefrontal Cortex**
+
+30. **Posterior Cingulate Cortex (PCC)**
+
+31. **Angular Gyrus**
+
+32. **Hippocampus**
+
+33. **Inferior Frontal Gyrus**
+
+34. **Anterior Cingulate Cortex**
+
+35. **Anterior Temporal Lobe**
+
+36. **Medial Temporal Lobe (MTL)**
+
+37. **Frontal Cortex**
+
+38. **Parietal Cortex**
+
+39. **Temporal Cortex**
+
+40. **Right Cerebellum**
+
+- These regions are involved in various cognitive and emotional functions, including memory, emotion regulation, decision-making, motor control, and self-referential processing.

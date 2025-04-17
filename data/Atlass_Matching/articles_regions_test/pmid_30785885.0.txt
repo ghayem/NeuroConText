@@ -1,0 +1,48 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Striatum**
+   - Dorsal striatum
+   - Ventral striatum
+   - Ventral pallidum
+   - Substantia nigra (SN)
+   - Subthalamic nucleus (STN)
+   - Red nucleus
+   - Parahippocampus
+
+2. **Amygdala**
+
+3. **Frontoparietal regions**
+   - Right frontoparietal regions
+   - Right middle frontal gyrus (MFG)
+   - Right inferior frontal gyrus
+   - Parietal regions
+
+4. **Brainstem nuclei**
+   - Raphe nucleus
+     - Dorsal nucleus
+     - Median nucleus
+   - Locus coeruleus (LC)
+
+5. **Medial septal nuclei**
+
+6. **Hypothalamus**
+
+7. **Basal forebrain**
+
+8. **Parahippocampus**
+
+9. **Anterior insula**
+
+10. **Anterior cingulate cortex (ACC) / Orbitofrontal cortex (OFC)**
+
+11. **Superior temporal**
+
+12. **Precuneus**
+
+13. **Pre/post/paracentral**
+
+14. **Left superior frontal gyrus**
+
+15. **Caudate nucleus**
+
+These regions are involved in various cognitive functions, including reinforcement learning, error detection, post-error adjustment, and emotional regulation, as discussed in the article.

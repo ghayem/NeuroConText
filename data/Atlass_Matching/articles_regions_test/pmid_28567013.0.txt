@@ -1,0 +1,30 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Hippocampus**
+
+2. **Medial Temporal Lobes (MTL)**
+    - Hippocampus
+    - Entorhinal cortex
+    - Perirhinal cortex
+    - Parahippocampal cortex
+
+3. **Parahippocampal Gyrus (PHG)**
+    - Right parahippocampal gyrus (specifically mentioned)
+
+4. **Medial Frontal Cortex**
+
+5. **Dorsolateral Prefrontal Cortex**
+    - Right dorsolateral prefrontal cortex (specifically mentioned)
+
+6. **Parietal Cortex**
+    - Central-parietal regions
+    - Parietal regions
+
+7. **Neocortex**
+    - Pyramidal cells in the neocortex
+
+8. **Cerebral Cortex**
+    - Cerebral amyloid deposition
+    - Cerebral hypometabolism
+
+These regions are involved in various cognitive functions, including memory, working memory, visuospatial working memory, and executive functions.

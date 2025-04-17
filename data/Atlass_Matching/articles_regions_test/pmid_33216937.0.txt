@@ -1,0 +1,103 @@
+## Brain Regions and Sub-regions
+
+1. **Ventral Striatum (VS)**
+
+2. **Supplementary Motor Area (SMA)**
+
+3. **Thalamus**
+
+4. **Medial Prefrontal Cortex (mPFC)**
+
+5. **Posterior Cingulate**
+
+6. **Anterior Cingulate Cortex (ACC)**
+
+7. **Insula**
+
+8. **Putamen**
+
+9. **Caudate**
+
+10. **Middle Temporal Gyrus**
+
+11. **Precuneus**
+
+12. **Amygdala**
+
+13. **Inferior Frontal Gyri (IFGs)**
+
+14. **Bilateral Angular Gyri**
+
+15. **Superior Frontal Gyrus (SFG)**
+
+16. **Bilateral Middle Frontal Gyri**
+
+17. **Bilateral Supramarginal Gyrus**
+
+18. **Bilateral Inferior Parietal Lobule**
+
+19. **Midbrain**
+
+20. **Visual Cortex**
+
+21. **Middle Temporal Gyri**
+
+22. **Lingual Gyrus**
+
+23. **Paracentral Lobule**
+
+24. **Vermis**
+
+25. **Pre-central Gyrus**
+
+26. **Supramarginal Gyrus**
+
+27. **Inferior Parietal Lobule**
+
+28. **Pre-central Gyrus**
+
+29. **Inferior Temporal Gyrus (ITG)**
+
+30. **Posterior Cingulate/Precuneus**
+
+31. **Middle Frontal Gyrus (MFG)**
+
+32. **Superior Temporal Gyrus**
+
+33. **Dorsolateral Prefrontal Cortex**
+
+34. **Superior Marginal Gyrus**
+
+35. **Posterior Insula**
+
+36. **Mid-cingulate/Precuneus**
+
+37. **Dorsal Caudate**
+
+38. **Parietal Lobe**
+
+39. **Lateral Prefrontal Cortex**
+
+40. **Dorsal ACC**
+
+41. **Inferior Occipital Gyrus**
+
+42. **Temporo-parieto-occipital Junction (TPO)**
+
+43. **Temporo-parietal Lobule**
+
+44. **Supramarginal Gyrus**
+
+45. **Parietal Lobe**
+
+46. **Limbic System**
+
+47. **Anterior Insula**
+
+48. **Anterior Portion of the pSTG/S**
+
+49. **Middle Superior Temporal Cortex**
+
+50. **Default Mode Network (DMN)**
+
+These regions are involved in various cognitive functions, including reward processing, decision-making, motivation, performance monitoring, motor integration, and error detection.

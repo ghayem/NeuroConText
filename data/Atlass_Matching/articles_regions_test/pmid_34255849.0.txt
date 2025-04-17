@@ -1,0 +1,29 @@
+## Brain Regions and Sub-Regions:
+
+1. **Cerebellum**
+    - Posterior cerebellar crus (1 and 2)
+    - Lobule IX
+
+2. **Cerebral Cortex**
+    - Temporoparietal junction (TPJ)
+        - Angular gyrus
+    - Medial prefrontal cortex (mPFC)
+        - Superior medial gyrus
+    - Medial precuneus
+    - Middle temporal frontal gyrus
+    - Middle frontal gyrus
+        - Anterior cingulate cortex (ACC)
+    - Superior frontal gyrus
+    - Hippocampus
+
+3. **Other Cortical Areas**
+    - Precuneus
+    - Supramarginal gyrus
+    - Superior temporal gyrus
+    - Fusiform gyrus
+    - Posterior cingulate cortex (PCC)
+    - Precentral gyrus
+    - Cuneus
+
+## Cognitive Functions:
+These regions are involved in cognitive functions such as social mentalizing, prediction of social action sequences, sequencing of social actions, and metacognition.

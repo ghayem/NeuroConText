@@ -1,0 +1,38 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Anterior Cingulate Cortex (ACC)**
+    - Dorsal ACC (dACC)
+    - Pregenual ACC (pgACC)
+
+2. **Medial Frontal Cortex (mFC)**
+
+3. **Habenula**
+    - Right habenula
+
+4. **Nucleus Accumbens**
+    - Bilateral nucleus accumbens
+
+5. **Insula**
+    - Bilateral insula
+    - Bilateral anterior insula
+
+6. **Occipital Cortex**
+    - Bilateral occipital cortex
+    - Bilateral occipital pole
+
+7. **Ventral Striatum**
+    - Bilateral ventral striatum
+
+8. **Inferior Parietal Lobe**
+    - Left inferior parietal lobe
+
+9. **Cerebellum**
+    - Right cerebellum
+
+10. **Lingual Gyrus**
+    - Left lingual gyrus
+
+11. **Lateral Occipital Cortex**
+    - Left lateral occipital cortex
+
+These regions are involved in various cognitive functions, including error monitoring, reward processing, cognitive control, and emotional regulation.

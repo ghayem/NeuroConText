@@ -1,0 +1,48 @@
+## Brain Regions and Sub-Regions:
+
+1. **Anterior Temporal Cortex**
+
+2. **Inferior Frontal Cortex**
+
+3. **Supero-Medial Prefrontal Cortices**
+
+4. **Precuneus**
+
+5. **Posterior Cingulate Cortex**
+
+6. **Hippocampus**
+
+7. **Mesial Temporal Lobe Structures**
+
+8. **Temporoparietal Cortices**
+
+9. **Anterior Cingulate Cortex**
+
+10. **Insula**
+
+11. **Postero-Medial Cortex**
+
+12. **Supplementary Motor Cortex**
+
+13. **Posterior Cortical Atrophy (PCA)**
+    - Parieto-temporal areas
+
+14. **Medial Prefrontal Cortices**
+
+15. **Frontal Operculum**
+
+16. **Anterior Superior Temporal Cortex**
+
+17. **Inferior Frontal Gyrus**
+
+18. **Right Precuneus**
+
+19. **Left Precuneus**
+
+20. **Right Posterior Cingulate Cortex**
+
+21. **Dorsal Medial Prefrontal Cortex**
+
+22. **Hippocampal Outflow**
+
+These regions are involved in various cognitive functions, including memory, language, and executive functions.

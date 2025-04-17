@@ -1,0 +1,75 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned along with their associated cognitive functions:
+
+1. **Hippocampus**
+   - Anterior hippocampus (aHipp)
+   - Posterior hippocampus (pHipp)
+   - Dentate gyrus
+     - Granule cells
+   - CA1
+     - Dorsal CA1
+     - Ventral CA1
+   - Subiculum
+     - Anterior subiculum
+
+   Associated cognitive functions: memory (episodic, spatial, emotional, contextual), emotion regulation, contextual information encoding during fear conditioning, autobiographical memory, episodic future thinking, planning, and navigation.
+
+2. **Prefrontal Cortex**
+   - Medial prefrontal cortex (mPFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Orbitofrontal cortex (OFC)
+     - Lateral orbitofrontal cortex (lOFC)
+   - Dorsal anterior cingulate cortex (dACC)
+
+   Associated cognitive functions: emotion regulation, decision making, fear extinction and retention of extinction, top-down inhibition, multisensory integration, self-related mentation, mind-wandering, personal introspection, spatial planning and navigation.
+
+3. **Default Mode Network (DMN)**
+   - Posterior cingulate cortex (PCC)
+   - Precuneus
+
+   Associated cognitive functions: autobiographical memory retrieval, future thinking, self-related mentation, mental imagery.
+
+4. **Salience Network (SN)**
+   - Amygdala
+   - Anterior insula
+     - Anterior insula cortex (aIC)
+   - Temporal pole (TP)
+   - Dorsal anterior cingulate cortex (dACC)
+
+   Associated cognitive functions: detecting salient external stimuli and internal events, switching between DMN and central executive network (CEN) according to task demands, integrating multisensory information with affect and emotions, assessing potential threats, identifying salient stimuli, emotion processing.
+
+5. **Somatosensory-Motor Network (SMN)**
+   - Pre- and post-central gyri (primary motor cortex and somatosensory cortex, respectively)
+   - Primary sensory cortices
+   - Supplementary motor area (SMA)
+   - Postcentral gyrus
+   - Supramarginal gyrus (SMG)
+
+   Associated cognitive functions: somatosensory and motor processes, bodily self-consciousness, sense of body ownership, peripersonal space coding, visuotactile integration.
+
+6. **Auditory Cortex**
+   - Superior temporal gyrus (STG)
+     - Posterior superior temporal gyrus (pSTG)
+   - Middle temporal gyrus (MTG)
+     - Posterior middle temporal gyrus (pMTG)
+   - Inferior temporal gyrus (ITG)
+     - Posterior inferior temporal gyrus (pITG)
+
+   Associated cognitive functions: auditory perception, language processing, visual recognition, autobiographical episodic memories, socio-emotional processing.
+
+7. **Other Regions**
+   - Periaqueductal gray
+   - Ventral striatum
+   - Midbrain
+   - Parahippocampal cortex
+   - Perirhinal cortex
+   - Entorhinal cortex
+   - Angular gyrus
+
+   Associated cognitive functions: fear response, emotion and stress-related functions, contextual learning, spatial tasks requiring precise spatial representations, memory recall, emotional memory tasks, high state anxiety, goal-directed spatial decision making, mental imagery.
+
+8. **Subcortical Regions**
+   - Thalamus
+     - Pulvinar
+   - Brainstem
+
+   Associated cognitive functions: regulating alpha synchrony and communications between cortical areas, bottom-up subcortical processes, "raw" affective internal sensations and external stimuli dominance.

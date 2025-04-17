@@ -1,0 +1,42 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are as follows:
+
+1. **Parietal Lobe**
+   - Left parietal lobe
+
+2. **Fronto-Parietal Region**
+   - Fronto-parietal region
+
+3. **Occipital Visual Areas**
+   - Bilateral occipital visual areas (BA 17, 18, 19)
+   - Right occipital visual areas (BA 18, 19)
+
+4. **Cerebellum**
+
+5. **Middle Temporal Gyrus**
+   - Right middle temporal gyrus (BA 21, 39)
+
+6. **Temporal Pole**
+   - Temporal pole (BA 38)
+
+7. **Supramarginal Gyrus**
+   - Right supramarginal gyrus
+
+8. **Inferior Parietal Lobule**
+   - Right inferior parietal lobule (BA 40)
+
+9. **Postcentral Gyrus**
+   - Right postcentral gyrus
+
+10. **Precentral Gyrus**
+    - Right precentral gyrus (BA 6)
+
+11. **Medial Frontal Gyrus**
+    - Right medial frontal gyrus (BA 10)
+
+12. **Inferior Frontal Gyrus**
+    - Left inferior frontal gyrus (BA 45)
+
+13. **Putamen**
+    - Left putamen
+
+These regions are involved in various functions including motor performance, sensory processing, and cognitive functions.

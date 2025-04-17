@@ -1,0 +1,35 @@
+## Brain Regions and Sub-Regions:
+
+1. **Middle Cerebral Artery (MCA) territory**
+
+2. **Corticospinal Tract**
+
+3. **Pontine Crossing Tract**
+
+4. **Middle Cerebellar Peduncle**
+
+5. **Superior Cerebellar Peduncle**
+
+6. **Medial Lemniscus**
+
+7. **Inferior Cerebellar Peduncle**
+
+8. **Corpus Callosum**
+   - Body of corpus callosum
+
+9. **Cingulum**
+
+10. **Posterior Thalamic Radiation**
+
+11. **Posterior Corona Radiata**
+
+12. **Internal Capsule**
+   - Posterior limb of the internal capsule
+
+13. **Primary Motor Cortex (M1)**
+
+14. **Supplementary Motor Area (SMA)**
+
+15. **Transcallosal Motor Tract**
+
+These regions are involved in motor functions and structural connectivity relevant to stroke recovery and the effects of rTMS.

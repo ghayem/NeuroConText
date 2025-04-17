@@ -1,0 +1,69 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Default Mode Network**
+
+2. **Salience Network**
+
+3. **Limbic Regions**
+
+4. **Frontal Cortex**
+
+5. **Hippocampus**
+
+6. **Cingulate Cortex**
+   - Anterior cingulate cortex
+
+7. **Amygdala**
+
+8. **Thalamus**
+
+9. **Putamen**
+   - Right putamen
+
+10. **Striatum**
+
+11. **Ventral Median Frontal Gyrus**
+   - Right ventral median frontal gyrus
+
+12. **Forebrain**
+
+13. **Posterior Brain Regions**
+
+14. **Cerebellum**
+   - Cerebellum posterior lobe (CPL)
+     - Left cerebellum posterior lobe
+     - Right cerebellum posterior lobe
+   - Vermis
+
+15. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+
+16. **Middle Frontal Gyrus (MFG)**
+   - Right middle frontal gyrus
+
+17. **Superior Occipital Gyrus/Cuneus**
+   - Left superior occipital gyrus/cuneus
+
+18. **Fusiform Gyri**
+   - Both fusiform gyri
+
+19. **Temporal Pole**
+   - Right temporal pole
+
+20. **Superior Frontal Gyrus (SFG)**
+   - Bilateral superior frontal gyrus
+
+21. **Calcarine**
+   - Left calcarine
+   - Right calcarine
+
+22. **Occipital Lobe**
+   - Left occipital lobe
+
+23. **Fusiform Gyrus**
+   - Left fusiform gyrus
+
+24. **Corticocerebellar–Thalamic–Cortical Circuit (CCTCC)**
+   - Includes bilateral thalamus, bilateral SFG, bilateral CPL, right MFG, and vermis
+
+These regions are involved in various cognitive and emotional functions, as discussed in the article.

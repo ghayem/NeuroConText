@@ -1,0 +1,69 @@
+## Brain Regions and Sub-Regions
+
+1. **Orbitofrontal Cortex (OFC)**
+   - Involved in evaluation and expectancy of reward of stimuli.
+
+2. **Nucleus Accumbens**
+   - Involved in reward processing.
+
+3. **Caudate**
+   - Involved in reward processing.
+
+4. **Anterior Cingulate Cortex (ACC)**
+   - Associated with attention and motivation processes.
+
+5. **Parahippocampus**
+   - Implicated in connecting environmental cues to internal states.
+
+6. **Dorsolateral Prefrontal Cortex (DLPFC)**
+   - Related to processing goal-directed behaviors.
+
+7. **Amygdala**
+   - Associated with initiating conditioned and unconditioned behavior.
+
+8. **Cuneus**
+   - Involved in processing visual memories associated with conditioned stimuli.
+
+9. **Precuneus**
+   - Involved in processing visual memories associated with conditioned stimuli.
+
+10. **Middle Occipital Cortex**
+    - Involved in visual processing.
+
+11. **Temporal Cortex**
+    - Involved in visual processing and motivation.
+
+12. **Primary Auditory Cortex**
+    - Involved in auditory processing.
+
+13. **Superior Temporal Gyrus (STG)**
+    - Involved in auditory processing and affective stimuli.
+
+14. **Insular Cortex**
+    - Involved in salience processing and affective stimuli.
+
+15. **Middle Frontal Cortex**
+    - Involved in cognitive and executive processes.
+
+16. **Inferior Frontal Cortex**
+    - Involved in cognitive and executive processes.
+
+17. **Middle Temporal Gyrus**
+    - Involved in cognitive and executive processes.
+
+18. **Inferior Parietal Lobe (IPL)**
+    - Involved in cognitive and executive processes.
+
+19. **Putamen**
+    - Involved in reward and motivation processing.
+
+20. **Thalamus**
+    - Involved in reward and motivation processing.
+
+21. **Midbrain**
+    - Involved in reward and motivation processing.
+
+22. **Dorsal Anterior Cingulate Cortex (dACC)**
+    - Involved in reward and motivation processing.
+
+These regions are involved in cognitive functions such as visual processing, reward processing, motivation, attention, goal-directed behaviors, and executive functioning.

@@ -1,0 +1,54 @@
+## Brain Regions and Sub-regions:
+
+1. **Central Nervous System**
+
+2. **Spinal Cord**
+
+3. **Motor Cortex**
+
+4. **Posterior Insula**
+
+5. **Default Mode Network (DMN)**
+   - Medial Prefrontal Cortex (mPFC)
+   - Posterior Cingulate Gyrus (PCC)
+   - Anterior Lobe of Cerebellum
+   - Posterior DMN Regions
+
+6. **Cerebrospinal Flow Signals**
+
+7. **White Matter Signals**
+
+8. **Anterior DMN**
+
+9. **Posterior DMN**
+
+10. **Posterior Medial Cortex**
+
+11. **Mediodorsal Nucleus of the Thalamus**
+
+12. **Periaqueductal Gray (PAG)**
+
+13. **Ventral Tegmental Area-Nucleus Accumbens Reward Pathway**
+
+14. **Insular Cortex**
+
+15. **Frontal Cortex**
+
+16. **Limbic Region**
+
+17. **Frontal Lobes of the Cerebellum**
+
+18. **Corpus Callosum Cortex**
+
+19. **Temporal Lobe**
+
+20. **Anterior Cerebellum Lobe**
+   - Cerebellar Motor Regions
+
+21. **Prefrontal Cortex**
+
+22. **Prefrontal Lobe**
+
+23. **Subcortical Connections**
+
+These regions are involved in cognitive functions such as pain processing, emotional regulation, motor control, and executive functions.

@@ -1,0 +1,65 @@
+1. **Prefrontal Cortex (PFC)**
+    - Anterior cingulate
+    - Ventromedial PFC
+    - Rostral PFC (rPFC)
+    - Dorsolateral PFC (DLPFC)
+    - Ventrolateral PFC (VLPFC)
+    - Middle frontal gyrus (DLPFC, BA 44)
+    - Inferior frontal gyrus (IFG) pars triangularis (BA 45)
+    - Superior frontal gyrus (SFG, BA 8)
+
+2. **Somatosensory Cortex**
+    - Primary somatosensory cortex
+
+3. **Inferior Parietal Lobe (IPL)**
+    - Inferior parietal lobule (BA 40)
+    - Supramarginal gyrus
+    - Post-central gyrus
+
+4. **Temporal Cortex**
+    - Middle temporal gyrus (BA 21)
+
+5. **Supplementary Motor Area**
+    - (BA 6)
+
+6. **Middle Frontal Gyrus**
+    - (BA 44)
+
+7. **Inferior Frontal Gyrus**
+    - Pars triangularis (BA 45)
+
+8. **Superior Frontal Gyrus**
+    - (BA 8)
+
+9. **Inferior Parietal Lobule**
+    - (BA 40)
+
+10. **Rostral PFC**
+    - (BA 10)
+
+11. **Dorsolateral PFC**
+    - (BA 10)
+
+12. **Inferior Parietal Lobe (IPL)**
+    - Inferior parietal lobule
+    - Supramarginal gyrus
+    - Post-central gyrus
+
+13. **Left Inferior Frontal Gyrus (BA 45)**
+    - Mid-ventrolateral PFC (VLPFC)
+
+14. **Right Middle Temporal Gyrus (BA 21)**
+
+15. **Left Inferior Parietal Lobule (BA 40)**
+
+16. **Left Middle Frontal Gyrus (DLPFC, BA 44)**
+
+17. **Supplementary Motor Area (BA 6)**
+
+18. **Left Rostral PFC (rPFC, BA 10)**
+
+19. **Left DLPFC (BA 10)**
+
+20. **Left Superior Frontal Gyrus (SFG, BA 8)**
+
+These regions are involved in these cognitive functions: perception, perceptual decision-making, working memory, executive functions, and sensory processing.

@@ -1,0 +1,51 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Frontal Lobe**
+   - Left superior frontal gyrus
+   - Left medial superior frontal gyrus
+   - Dorsolateral prefrontal lobe
+   - Anterior prefrontal cortex
+
+2. **Limbic Lobe**
+   - Right anterior cingulate
+   - Right middle cingulate
+   - Cingulate gyrus
+   - Left parahippocampus
+   - Right parahippocampus
+   - Right hippocampus
+   - Left hippocampus
+
+3. **Parietal Lobe**
+   - Right postcentral gyrus
+   - Left precuneus
+   - Right precuneus
+   - Posterior cingulate cortex (PCC)
+
+4. **Occipital Lobe**
+   - Right calcarine
+   - Right inferior occipital gyrus
+   - Right middle occipital gyrus
+   - Left calcarine
+   - Left cuneus
+
+5. **Subcortical Structures**
+   - Left caudate
+   - Left thalamus
+   - Basal ganglia
+
+6. **Cerebellum**
+   - Right cerebellum_7b
+
+7. **Other**
+   - Anterior insula/frontal operculum
+   - Central anterior gyrus
+   - Central posterior gyrus
+
+These regions are involved in various cognitive functions, including but not limited to:
+- Executive functions ( frontal lobe regions)
+- Memory (hippocampus, parahippocampus)
+- Emotion regulation (cingulate gyrus, anterior cingulate)
+- Motor control (postcentral gyrus, cerebellum)
+- Visual processing (occipital lobe regions)
+- Task execution and monitoring (anterior prefrontal cortex, anterior insula/frontal operculum, basal ganglia, thalamus)
+- Default mode network (precuneus, posterior cingulate cortex)

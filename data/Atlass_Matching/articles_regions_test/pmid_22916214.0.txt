@@ -1,0 +1,29 @@
+1. **Temporo-parietal Region**
+   - **Superior temporal gyrus**
+   - **Supramarginal gyrus**
+   - **Angular gyrus**
+   - **Inferior parietal lobule**
+   - **Planum temporale**
+   - **Planum parietale**
+
+2. **Occipito-temporal Region**
+   - **Fusiform gyrus**
+   - **Inferior temporal gyrus**
+   - **Extrastriate fusiform**
+
+3. **Cerebellum**
+   - **Cerebellar lobule VI**
+
+4. **Inferior Frontal Gyrus**
+   - **Pars triangularis**
+
+5. **Other Regions**
+   - **Parietal operculum**
+   - **Postcentral gyrus**
+   - **Precuneus**
+   - **Thalamus**
+   - **Anterior insula**
+   - **Superior temporal gyrus**
+   - **Primary motor cortex**
+   - **Magnocellular layers of the lateral geniculate nuclei**
+   - **Medial geniculate nucleus**

@@ -1,0 +1,58 @@
+### Brain Regions and Sub-regions:
+
+1. **Frontal Lobe**
+    - Dorsal and medial prefrontal cortex
+    - Left and right anterior prefrontal cortex
+    - Left superior frontal cortex (L SFC)
+    - Left rostral middle frontal cortex (L rMFC)
+    - Presupplementary motor area (pre-SMA)
+
+2. **Parietal Lobe**
+    - Left and right superior parietal cortex
+    - Lateral and medial frontal and parietal lobes
+
+3. **Temporal Lobe**
+    - Auditory cortex
+    - Right inferior frontal gyrus
+
+4. **Default Mode Network (DMN)**
+    - Lateral and medial frontal and parietal lobes
+
+5. **Dorsal Attention Network (DAN)**
+    - Laterally across frontal and parietal lobes
+
+6. **Executive Control Network (ECN)**
+    - Laterally across frontal and parietal lobes
+
+7. **Auditory Attention Network**
+    - Regions involved in auditory attention and salience processing
+
+8. **Salience Network**
+    - Regions involved in salience processing
+
+### Cognitive Functions:
+
+These regions are involved in the following cognitive functions:
+- Attention to intention
+- Goal-directed cognition
+- Internally oriented cognition
+- External environment monitoring
+- Shifts in contextually relevant information
+- Sustained cognitive control
+- Action selection and execution
+- Self-referential processes
+- Context processing
+- Auditory perception
+- Understanding of linguistic instruction
+- Short-term memory
+- Attention to auditory stimuli
+- Attention to intention to make a response
+- Cognitive control over competing mental processes
+- Execution of motor response
+
+### Additional Notes:
+- The dorsolateral prefrontal cortex (DLPFC) and pre-SMA are particularly involved in higher-order attention and intention to move.
+- The frontal and parietal aspects of the ECN are differentially involved in individual differences in response to anaesthesia.
+- The DMN extends partially in lateral and medial frontal and parietal lobes and is involved in internally oriented cognition and external environment monitoring.
+- The DAN and ECN are key to orchestrating stimulus-driven and goal-directed cognition.
+- The auditory cortex and right inferior frontal gyrus are involved in auditory perception and processing.

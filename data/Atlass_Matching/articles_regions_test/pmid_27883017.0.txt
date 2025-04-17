@@ -1,0 +1,48 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Prefrontal Cortex**
+
+2. **Precentral Cortex**
+   - Precentral gyrus
+
+3. **Postcentral Cortex**
+
+4. **Parietal Regions**
+
+5. **Temporo-occipital Cortex**
+   - Middle-inferior temporo-occipital gyrus
+
+6. **Extrastriate Body Area (EBA)**
+
+7. **Supplementary Motor Area (SMA)**
+   - Medial frontal lobe
+
+8. **Premotor Cortex (PMC)**
+   - Precentral gyrus
+
+9. **Basal Ganglia (BG)**
+   - Putamen
+   - Caudate nucleus
+   - Internal capsula
+   - Pallidum
+
+10. **Secondary Somatosensory Cortex (SII)**
+    - Supramarginal gyrus
+    - Inferior parietal lobule
+    - Postcentral gyrus
+
+11. **Middle Occipital Gyrus (MOG)**
+    - Inferior occipital gyrus
+    - Calcarine cortex
+    - Superior occipital gyrus
+
+12. **Fusiform Gyrus (FG)**
+    - Inferior temporal gyrus
+
+13. **Inferior Occipital Gyrus**
+
+14. **Superior Occipital Gyrus**
+
+15. **Cuneus**
+
+These regions are involved in various cognitive functions, including sensorimotor processing, visual processing, and body representation.

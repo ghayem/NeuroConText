@@ -1,0 +1,52 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Occipital Cortex**
+   - Ventral occipital gyrus
+
+2. **Parietal Cortex**
+   - Parietal areas
+   - Superior parietal gyrus
+   - Supramarginal gyrus
+   - Angular gyrus
+   - Superior parietal lobule
+
+3. **Frontal Cortex**
+   - Fronto-parietal areas
+   - Superior frontal gyrus
+   - Middle frontal gyrus
+   - Inferior frontal gyrus (IFG)
+   - Precentral gyrus
+   - Premotor cortex
+   - Ventral premotor cortex (vPMC)
+   - Dorsolateral frontal cortex
+   - Orbitofrontal cortex
+   - Frontal operculum
+
+4. **Temporal Cortex**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Fusiform gyrus
+   - Lingual gyrus
+   - Posterior superior temporal sulcus (pSTS)
+
+5. **Limbic Cortex**
+   - Cingulate gyrus (anterior and posterior)
+   - Parahippocampal gyrus
+
+6. **Subcortical Regions**
+   - Caudate nucleus
+   - Putamen
+   - Midbrain
+   - Pons
+   - Medulla
+   - Cerebellum
+
+7. **Other Regions**
+   - Insula
+   - Thalamus
+   - Basal ganglia
+   - Amygdala
+   - Hippocampus
+
+These regions are involved in various cognitive functions, including sensorimotor processing, visual processing, attentional networks, and more. The article specifically discusses their involvement in presence hallucinations (PH) and visual hallucinations (VH) in dementia with Lewy bodies (DLB) and Parkinson's disease (PD).

@@ -1,0 +1,30 @@
+## Brain Regions and Sub-regions
+
+1. **Prefrontal Cortex**
+    - Dorsolateral prefrontal cortex (dlPFC)
+    - Inferior frontal gyrus (IFG)
+    - Ventromedial prefrontal cortex (vmPFC)
+    - Rostral prefrontal cortex (rPFC)
+
+2. **Frontal Lobe**
+    - Dorsolateral regions
+    - Ventral regions
+    - Medial regions
+    - Anterior—inferior temporal
+
+3. **Parietal Cortex**
+    - Superior parietal lobe
+    - Inferior parietal lobe
+    - Dorsolateral portions of the frontal lobe
+
+4. **Cortical Areas**
+    - Medial and orbital frontal regions
+    - Right insula
+    - Right superior and inferior parietal lobe
+    - Superior temporal lobe
+
+5. **Brodmann Area (BA)**
+    - BA 10 (vmPFC)
+    - BA 11 (vmPFC)
+
+These regions are involved in these cognitive functions: decision-making, social cognition, reasoning, language processing, and executive functions.

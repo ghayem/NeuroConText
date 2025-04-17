@@ -1,0 +1,25 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Prefrontal Cortex (PFC)**
+
+2. **Striatum**
+
+3. **Basal Ganglia**
+
+4. **Left Superior Frontal Gyrus (SFG)**
+
+5. **Right Anterior Cingulate Cortex (ACC)**
+
+6. **Left Posterior Cingulate Cortex (PCC)**
+
+7. **Right Cuneus**
+
+8. **Left Medial Frontal Gyrus (MedFG)**
+
+9. **Left Middle Frontal Gyrus (MFG)**
+
+10. **Left Middle Frontal Gyrus 2 (MFG2)**
+
+11. **Left Occipital Gyrus (OG)**
+
+These regions are involved in cognitive fatigue (CF) and related cognitive functions such as working memory, inhibition, motivation, and executive functions.

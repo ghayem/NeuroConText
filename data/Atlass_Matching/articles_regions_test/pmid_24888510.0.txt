@@ -1,0 +1,45 @@
+## Brain Regions and Sub-Regions
+
+1. **Olfactory Cortex**
+   - Olfactory bulb
+   - Piriform cortex
+   - Agranular insular region
+   - Entorhinal cortex
+   - Hippocampus
+
+2. **Frontal Cortex**
+   - Superior frontal gyrus
+   - Inferior frontal gyrus
+   - Middle frontal gyrus
+   - Medial frontal gyrus
+   - Orbitofrontal cortex (OFC)
+     - Orbital gyrus
+   - Anterior cingulate cortex (ACC)
+
+3. **Limbic System**
+   - Anterior cingulate cortex (ACC)
+   - Orbitofrontal cortex (OFC)
+   - Piriform cortex
+   - Agranular insular region
+
+4. **Parietal Cortex**
+   - Cuneus (Cu)
+
+5. **Temporal Cortex**
+   - Lingual gyrus (LG)
+   - Parahippocampal gyrus (PHG)
+
+6. **Cerebellum**
+   - Declive (DoC)
+   - Lobule VI
+
+7. **Occipital Cortex**
+   - Visual cortex
+
+8. **Default Mode Network (DMN)**
+   - Ventromedial prefrontal cortex (BA 10)
+
+9. **Somatosensory Cortex**
+
+10. **Brodmann Areas (BAs)**
+    - Ventromedial prefrontal cortex (BA 10)

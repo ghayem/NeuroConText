@@ -1,0 +1,33 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+
+2. **Insular Cortex**
+   - Anterior insular cortex (AIC)
+   - Right anterior insula (AI)
+
+3. **Prefrontal Cortex (PFC)**
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsolateral prefrontal cortex (DLPFC)
+
+4. **Frontal Cortex**
+   - Inferior frontal gyrus
+   - Middle frontal gyrus (MFG)
+
+5. **Parietal Cortex**
+   - Inferior parietal lobule (IPL)
+
+6. **Striatum**
+   - Ventral striatum
+
+7. **Thalamus**
+
+8. **Hippocampus**
+
+9. **Amygdala**
+   - Basolateral amygdala
+
+10. **Precuneus**
+
+These regions are involved in various cognitive and emotional processes, including fear conditioning and extinction, anxiety, and cognitive control.

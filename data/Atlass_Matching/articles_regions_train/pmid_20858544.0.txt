@@ -1,0 +1,29 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Premotor cortex**
+2. **Supplementary motor cortex**
+3. **Basal ganglia**
+4. **Cerebellum**
+5. **Superior temporal gyri**
+6. **Inferior frontal cortex (BA 44)**
+7. **Supramarginal gyri (BA 40)**
+8. **Putamen**
+9. **Thalamus**
+10. **Insula**
+    - Right anterior insula
+11. **Cuneus**
+12. **Hippocampi**
+13. **Right inferior frontal cortex**
+14. **Right inferior temporal gyrus (BA 37)**
+15. **Left inferior occipital gyrus (BA 19)**
+16. **Right cerebellum (lobule VIII)**
+17. **Right middle frontal gyrus (BA 46)**
+18. **Occipital cortex**
+19. **Fusiform gyri**
+20. **Superior parietal cortex**
+21. **Right inferior frontal operculum**
+22. **Supramarginal gyri (BA 40)**
+23. **Posterior superior temporal gyri**
+24. **Left insula**
+
+These regions are involved in various cognitive functions, including temporal processing, beat perception, auditory and visual processing, motor functions, and sensory integration.

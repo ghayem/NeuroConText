@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions
+
+1. **Thalamus**
+   - Left thalamic pulvinar
+
+2. **Cerebellum**
+
+3. **Middle Frontal Gyrus (MFG)**
+   - Left middle frontal gyrus
+   - Right middle frontal gyrus
+
+4. **Superior Frontal Gyrus (SFG)**
+   - Right superior frontal gyrus
+
+5. **Posterior Cingulate Gyrus (PCG)**
+
+6. **Middle Temporal Gyrus (MTG)**
+
+7. **Inferior Temporal Gyrus (ITG)**
+
+8. **Superior Temporal Gyrus (STG)**
+
+9. **Middle Occipital Gyrus (MOG)**
+
+10. **Inferior Frontal Gyrus (IFG)**
+
+11. **Inferior Parietal Lobule (IPL)**
+
+12. **White Matter (WM)**
+
+13. **Cerebrospinal Fluid (CSF)**
+
+14. **Amygdala**
+
+15. **Visual Cortex**
+   - Primary visual cortex (V1)
+
+16. **Auditory Cortex**
+
+17. **Premotor Cortex**
+
+18. **Superior Colliculus**
+
+These regions are involved in a wide range of affective, perceptual, mnemotic, executive, and other cognitive functions, as well as sensory processing and emotional regulation.

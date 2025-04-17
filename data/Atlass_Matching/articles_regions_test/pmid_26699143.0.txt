@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Corpus Callosum**
+   - Body
+   - Genu
+
+2. **Internal Capsule**
+   - Left posterior limb
+
+3. **Anterior Cingulate**
+   - Bilateral
+
+4. **Arcuate Bundle**
+   - Left
+
+5. **Corona Radiata**
+   - Left anterior
+
+6. **Sagittal Striatum**
+   - Left
+
+7. **Inferior Fronto-Occipital Fasciculus**
+   - Right
+
+8. **Prefrontal Cortex**
+   - (Connected to the genu of the corpus callosum)
+
+9. **Plana Temporale**
+   - Left and right
+
+10. **Superior Temporal Gyri**
+    - (Part of the plana temporale)
+
+These regions are involved in various cognitive and behavioral functions, including motor coordination, language processing, and social cognition.

@@ -1,0 +1,39 @@
+## Brain Regions and Sub-Regions:
+
+1. **Medial Temporal Lobe (MTL)**
+   - Perirhinal/entorhinal cortex
+   - Hippocampus
+   - Parahippocampal cortex
+
+2. **Frontal Cortex**
+   - Medial posterior frontal cortex
+   - Anterior prefrontal cortex
+   - Prefrontal cortex
+   - Inferior frontal gyrus (IFG)
+
+3. **Parietal Cortex**
+   - Precuneus
+   - Parietal regions
+
+4. **Visual-Processing Regions**
+   - Visual cortex (V1)
+   - Cuneus
+   - Lingual gyrus
+
+5. **Cingulate Cortex**
+   - Cingulate sulcus
+
+6. **Insular Cortex**
+   - Insula
+
+7. **Basal Ganglia**
+   - Putamen
+
+8. **Sensorimotor Regions**
+   - Sensorimotor cortex
+
+9. **Anterior Lateral Prefrontal Cortex**
+
+10. **Default Mode Network**
+
+These regions are involved in these cognitive functions: long-term memory, source memory, item memory, spatial memory, verbal processing, and spatial processing.

@@ -1,0 +1,22 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are:
+
+1. **Cortical Midline Structures (CMS)**
+    - Medial Prefrontal Cortex (mPFC)
+    - Anterior Cingulate Cortex
+    - Orbitofrontal Cortex
+    - Posterior Cingulate Cortex
+    - Thalamus
+    - Left Angular Gyrus
+    - Cerebellum
+    - Right Superior Frontal Gyrus
+    - Left Anterior Premotor Cortex
+    - Right Primary Visual Cortex
+    - Right Intraparietal Sulcus
+
+2. **Other Brain Regions**
+    - Thalamus
+    - Left Angular Gyrus
+    - Cerebellum
+    - Right Superior Frontal Gyrus
+
+These regions are involved in various cognitive functions, including self-referential processing, self-evaluation, affective processing, and mentalizing. The medial prefrontal cortex (mPFC) and adjacent regions of the anterior cingulate cortex are particularly highlighted for their strong associations with self-referential processes, including parenting self-evaluations.

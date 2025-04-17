@@ -1,0 +1,53 @@
+## Brain Regions and Sub-Regions:
+
+1. **Ventral Striatum**
+
+2. **Medial Orbitofrontal Cortex (mOFC)**
+
+3. **Dorsal Anterior Cingulate Cortex (dACC)**
+
+4. **Anterior Insular Cortex (AIC)**
+
+5. **Ventrolateral Prefrontal Cortex (vlPFC)**
+
+6. **Rostral Cingulate Zone (RCZ)**
+
+7. **Midbrain**
+
+8. **Nucleus Accumbens (NAcc)**
+
+9. **Caudate**
+
+10. **Putamen**
+
+11. **Supplementary Motor Area (SMA)**
+
+12. **Dorsolateral Prefrontal Cortex (dlPFC)**
+
+13. **Amygdala**
+
+14. **Anterior Cingulate Cortex (ACC)**
+
+15. **Cerebellum**
+
+16. **Superior Temporal Gyrus**
+
+17. **Parahippocampal Gyrus**
+
+18. **Inferior Parietal Lobule**
+
+19. **Posterior Insula**
+
+20. **Calcarine Sulcus**
+
+21. **Middle Temporal Gyrus**
+
+22. **Cuneus**
+
+23. **Insula**
+
+24. **Rostral Cingulate Zone (RCZ)**
+
+25. **Superior Temporal Gyrus**
+
+26. **Cerebellum**

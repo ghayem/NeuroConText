@@ -1,0 +1,67 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Primary Motor Area**
+   - Primary motor cortex
+   - Precentral gyrus
+
+2. **Cerebellum**
+   - Cerebellar motor circuitry
+   - Cerebellar folia II
+   - Cerebellar folia IV
+   - Cerebellar folia VI
+   - Cerebellar tonsils
+   - Central lobule
+   - Posterior lobe of cerebellum VI
+
+3. **Basal Ganglia**
+   - Substantia nigra
+   - Putamen
+   - Striatum
+   - Lentiform nucleus
+   - Caudate nucleus
+   - Ventrolateral thalamic nucleus
+   - Mediodorsal thalamic nucleus
+
+4. **Frontal Lobe**
+   - Middle frontal gyrus
+   - Inferior frontal gyrus
+   - Superior frontal gyrus
+   - Medial frontal gyrus
+   - Pre-frontal cortex
+   - Dorsolateral pre-frontal cortex (BA 9)
+   - Ventrolateral pre-frontal cortex (BA 45)
+   - Frontoparietal network (FPN)
+
+5. **Parietal Lobe**
+   - Superior parietal lobule
+   - Inferior parietal lobule
+   - Post-central gyrus
+   - Precuneus
+   - Posterior parietal cortex
+
+6. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Transverse temporal gyrus
+   - Posterior cingulate cortex
+   - Anterior lobe
+
+7. **Occipital Lobe**
+   - Lingual gyrus
+
+8. **Limbic System**
+   - Cingulate gyrus
+   - Anterior cingulate cortex (BA24)
+   - Posterior cingulate cortex
+
+9. **Other Regions**
+   - Supplementary motor area
+   - Insula cortex
+   - Thalamus
+   - Sensorimotor cortex
+   - Claustrum nucleus
+   - Corticospinal tract
+   - Proprioceptive pathways
+   - Brodmann areas (BA2, BA32, BA4)
+
+These regions are involved in various cognitive and motor functions, including motor control, motor learning, sensory processing, inhibitory control, attention allocation, and executive functions.

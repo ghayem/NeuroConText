@@ -1,0 +1,33 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Basal Ganglia**
+   - Caudate nucleus
+   - Globus pallidus
+   - Subthalamic nucleus
+   - Substantia nigra (SN)
+     - SN pars compacta
+   - Striatum
+
+2. **Prefrontal Cortex**
+   - Lateral prefrontal cortex
+   - Dorsolateral prefrontal cortex (BA9)
+
+3. **Parietal Cortex**
+   - Posterior parietal cortex
+
+4. **Motor Cortex**
+   - Premotor cortex (BA6)
+   - Supplementary motor area
+
+5. **Thalamus**
+
+6. **Brainstem**
+   - Locus ceruleus (LC)
+
+7. **Cerebral Peduncles**
+
+8. **Pons**
+
+9. **Fourth Ventricle**
+
+These regions are involved in various cognitive functions, including sequential working memory, motor functions, and cognitive control, which are affected in Parkinson's disease.

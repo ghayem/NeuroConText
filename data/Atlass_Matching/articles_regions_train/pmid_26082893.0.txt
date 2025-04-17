@@ -1,0 +1,69 @@
+## Brain Regions and Sub-regions:
+
+1. **Frontal Lobe**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Ventrolateral prefrontal cortex (VLPFC)
+   - Pre-supplementary motor area
+   - Middle frontal gyrus (MFG)
+   - Superior frontal gyrus
+   - Inferior frontal gyrus (IFG)
+   - Anterior cingulate cortex (ACC)
+
+2. **Subcortical Regions**
+   - Caudate (CAU)
+   - Hippocampus (HIPP)
+
+3. **Parietal Lobe**
+   - Parietal cortex
+
+4. **Insular Cortex**
+   - Insula
+
+5. **Temporal Lobe**
+   - Superior temporal gyrus
+   - Middle temporal region
+
+6. **Cingulate Cortex**
+   - Middle cingulate cortex
+   - Paracentral lobule
+
+7. **Precentral Gyrus**
+   - Precentral gyrus
+
+8. **Cerebellum**
+   - Cerebellar tonsils
+
+9. **Orbitofrontal Cortex**
+   - Medial orbitofrontal cortex
+
+10. **Subcortical**
+    - Subcortical (striatal) incentive-motivational circuitry
+
+11. **Amygdala**
+    - Amygdala
+
+12. **Motor Cortex**
+    - Motor cortex
+
+13. **Thalamus**
+    - Thalamus
+
+14. **Globus Pallidus**
+    - Medial globus pallidus
+
+15. **Basal Ganglia**
+    - Basal ganglia
+
+16. **Mid-brain Regions**
+    - Mid-brain regions
+
+17. **Cortico-striatal Networks**
+    - Cortico-striatal networks
+
+18. **Frontocortical Behavioral Control Centers**
+    - Frontocortical behavioral control centers
+
+19. **Fluid-Attenuated Inversion Recovery (FLAIR)**
+    - Fluid-Attenuated Inversion Recovery (FLAIR) MRI scans
+
+These regions are involved in various cognitive functions including response inhibition, impulsivity, executive control, behavioral monitoring, emotional response inhibition, and drug-taking behavior.

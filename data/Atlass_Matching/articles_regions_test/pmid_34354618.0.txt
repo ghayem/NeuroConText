@@ -1,0 +1,58 @@
+### Brain Regions and Sub-regions
+
+1. **Prefrontal Cortex**
+   - Right orbitofrontal cortex
+   - Dorsolateral prefrontal cortex
+   - Middle frontal cortex (MFC)
+   - Medial prefrontal cortex (MPFC)
+
+2. **Superior Temporal Gyrus**
+
+3. **Anterior Cingulate Cortex**
+
+4. **Medial Frontal Cortex**
+
+5. **Hippocampal Subregion**
+
+6. **Inferior Frontal Gyrus**
+
+7. **Bilateral Orbitofrontal Cortex**
+
+8. **Bilateral Superior Temporal Gyrus**
+
+9. **Thalamus**
+
+10. **Amygdala/Parahippocampal Gyrus**
+
+11. **Left Anterior Cingulate Cortex (ACC)**
+   - Right median cingulate cortex (MCC)
+
+12. **Right Medial Superior Frontal Cortex (MSFC)**
+
+13. **Caudal Middle Frontal Cortex (MFC)**
+
+14. **Ventromedial Frontal Cortex**
+
+15. **Supplementary Motor Area**
+
+16. **Posterior Cingulate Cortex**
+
+17. **Precentral Gyrus**
+
+18. **Dorsal Attention Network**
+   - Dorsolateral prefrontal cortex
+   - Supplementary motor area
+   - Posterior cingulate cortex
+
+### Cognitive Functions Involved
+
+- **Executive Function**
+- **Working Memory**
+- **Attention**
+- **Processing Speed**
+- **Verbal Learning**
+- **Visual Learning**
+- **Memory**
+- **Social Cognition**
+- **Reasoning**
+- **Problem Solving**

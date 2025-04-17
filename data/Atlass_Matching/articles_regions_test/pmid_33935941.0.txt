@@ -1,0 +1,23 @@
+## Brain Regions and Sub-Regions
+
+1. **Hemispheres**
+   - Lesioned hemisphere
+   - Intact hemisphere
+   - Ipsilateral hemisphere
+   - Contralateral hemisphere
+
+2. **Insular Cortex**
+   - Anterior insular cortex
+   - Posterior insular cortex
+   - Lesioned insula
+   - Contralesional insula
+
+3. **Temporal Lobe**
+
+4. **Parietal Lobe**
+
+5. **Occipital Lobe**
+
+6. **Frontal Lobe**
+
+These regions are involved in multiple brain functions, including language processing, emotion, cognitive control, and decision making.

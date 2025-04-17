@@ -1,0 +1,66 @@
+## Brain Regions and Sub-regions
+
+1. **Amygdala**
+
+2. **Anterior cingulate cortex**
+
+3. **Anterior insula**
+
+4. **Auditory cortices**
+
+5. **Basal ganglia**
+
+6. **Brainstem**
+
+7. **Calcarine sulcus**
+
+8. **Cerebellum**
+
+9. **Cuneus**
+
+10. **Frontal gyri**
+    - Inferior frontal gyrus (IFG)
+    - Medial frontal gyrus
+    - Superior/middle frontal gyrus
+    - Posterior superior temporal gyrus (pSTG)
+
+11. **Fusiform gyrus**
+
+12. **Inferior occipital gyrus**
+
+13. **Inferior parietal lobule**
+
+14. **Insula**
+
+15. **Lingual cortex**
+    - Lingual gyrus
+
+16. **Middle occipital gyrus**
+
+17. **Occipital cortex**
+    - Superior occipital gyrus
+    - Middle occipital gyrus
+
+18. **Orbitofrontal cortex**
+    - Medial orbitofrontal region
+
+19. **Parietal regions**
+
+20. **Postcentral gyrus**
+
+21. **Precentral gyrus**
+
+22. **Superior temporal gyrus (STG)**
+    - Superior temporal plane (STP)
+    - Planum temporale (PT)
+    - Temporo-parieto-occipital junction (TPO)
+
+23. **Supramarginal gyrus**
+
+24. **Temporal voice areas (TVA)**
+
+25. **Temporo-parietal junction**
+
+26. **Ventral fronto-parietal attention network**
+
+These regions are involved in various cognitive functions including social cognition, voice processing, emotional processing, change detection, and attention mechanisms.

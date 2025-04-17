@@ -1,0 +1,46 @@
+## Brain Regions and Sub-Regions Mentioned in the Article
+
+1. **Inferior Frontal Gyrus (IFG)**
+    - Left IFG
+    - Right IFG
+
+2. **Posterior Middle Temporal Gyrus (pMTG)**
+    - Right pMTG
+    - Left pMTG
+
+3. **Ventral Premotor Cortex (vPMC)**
+    - Bilateral vPMC
+
+4. **Middle Frontal Gyrus**
+    - Right middle frontal gyrus
+
+5. **Medial Superior Frontal Gyrus**
+    - Right medial superior frontal gyrus
+
+6. **Heschl's Gyrus**
+    - Left Heschl's gyrus (part of the superior temporal gyrus)
+
+7. **Putamen**
+    - Left putamen
+
+8. **Lateral Occipital Cortex**
+    - Left lateral occipital cortex (inferior occipital gyrus)
+
+9. **Middle Temporal Gyrus**
+    - Right middle temporal gyrus
+
+10. **Calcarine Sulcus**
+
+11. **Thalamus**
+    - Left thalamus
+
+12. **Middle/Superior Occipital Gyri**
+    - Left and right middle/superior occipital gyri
+
+13. **Default Mode Network (DMN)**
+
+14. **Auditory Network**
+
+15. **Language Network**
+
+These regions are involved in various cognitive functions, including sensorimotor integration, self-monitoring, auditory processing, and bodily self-consciousness.

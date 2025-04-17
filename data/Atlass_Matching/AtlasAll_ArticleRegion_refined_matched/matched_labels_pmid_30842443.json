@@ -1,0 +1,60 @@
+{
+  "AAL": [
+    "Thalamus_L",
+    "Thalamus_R"
+  ],
+  "Harvard_Oxford": [
+    "Cingulate Gyrus, anterior division",
+    "Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)"
+  ],
+  "DiFuMo": [
+    "Anterior cingulate cortex",
+    "Anterior cingulate cortex anterior LH",
+    "Anterior cingulate cortex inferior",
+    "Anterior cingulate cortex inferior LH",
+    "Anterior cingulate cortex superior",
+    "Cingulate anterior",
+    "Cingulate anterior RH",
+    "Cingulate middle anterior RH",
+    "Dorsolateral prefrontal cortex LH",
+    "Dorsomedial prefrontal cortex RH",
+    "Dorsomedial prefrontal cortex anterior LH",
+    "Dorsomedial prefrontal cortex anterior RH",
+    "Dorsomedial prefrontal cortex antero-superior RH",
+    "Dorsomedial prefrontal cortex superior RH",
+    "Inferior temporal sulcus medial LH",
+    "Middle temporal gyrus mid-anterior medial LH",
+    "Middle temporal gyrus mid-posterior medial LH",
+    "Posterior cingulate cortex anterior",
+    "Superior temporal gyrus anterior medial",
+    "Superior temporal gyrus anterior medial RH",
+    "Superior temporal gyrus posterior medial LH",
+    "Temporal pole superior medial LH",
+    "Thalamus LH",
+    "Thalamus anterior RH",
+    "Thalamus antero-superior",
+    "Thalamus inferior",
+    "Thalamus lateral LH",
+    "Thalamus middle",
+    "Thalamus posterior RH",
+    "Thalamus superior",
+    "Ventrolateral prefrontal cortex LH",
+    "Ventrolateral prefrontal cortex RH",
+    "Ventromedial prefrontal cortex",
+    "Ventromedial prefrontal cortex anterior",
+    "Ventromedial prefrontal cortex anterior LH",
+    "Ventromedial prefrontal cortex antero-inferior",
+    "Ventromedial prefrontal cortex posterior ",
+    "Ventromedial prefrontal cortex posterior RH"
+  ],
+  "Juelich": [
+    "GM Broca's area BA44",
+    "GM Broca's area BA45",
+    "GM Premotor cortex BA6",
+    "GM Primary motor cortex BA4a",
+    "GM Primary motor cortex BA4p"
+  ],
+  "MSDL": [
+    "Motor"
+  ]
+}

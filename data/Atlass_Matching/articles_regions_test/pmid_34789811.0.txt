@@ -1,0 +1,44 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Gyrus**
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+2. **Frontal Gyrus**
+   - Inferior frontal gyrus
+     - Opercular part (IFGoperc)
+     - Triangular part
+   - Middle frontal gyrus
+     - Orbital part (ORBmid)
+   - Superior frontal gyrus
+     - Medial part
+
+3. **Parietal Gyrus**
+   - Superior parietal gyrus
+   - Postcentral gyrus
+
+4. **Occipital Gyrus**
+   - Inferior occipital gyrus
+
+5. **Limbic Gyrus**
+   - Anterior cingulate gyrus (ACG)
+   - Posterior cingulate gyrus
+   - Parahippocampal gyrus (PHG)
+
+6. **Other Regions**
+   - Insula
+   - Fusiform gyrus
+   - Rectus gyrus (REC)
+   - Supplementary motor area (SMA)
+   - Precuneus (PCUN)
+   - Thalamus
+   - Putamen
+   - Hippocampus
+   - Orbital gyrus
+   - Lentiform nucleus
+   - Cerebrospinal fluid (CSF)
+   - Grey matter (GM)
+   - White matter (WM)
+
+These regions are involved in various cognitive and emotional processes, including pain modulation, sensory processing, motor control, and emotional regulation.

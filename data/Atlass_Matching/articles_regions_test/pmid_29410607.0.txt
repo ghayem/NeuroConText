@@ -1,0 +1,53 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article, along with their associated functions:
+
+1. **Insular Cortex**
+   - Ventral Anterior Insula (vAI)
+   - Dorsal Anterior Insula (dAI)
+   - Posterior Insula (PI)
+   - Middle-Posterior Insula
+   - Right Anterior Insula
+
+2. **Orbital Frontal Cortex**
+
+3. **Temporoparietal Junction**
+
+4. **Anterior Cingulate Cortex (ACC)**
+
+5. **Middle Cingulate Cortex (MCC)**
+
+6. **Precentral Gyrus**
+   - Left Precentral Gyrus
+   - Right Precentral Gyrus
+
+7. **Supplementary Motor Area**
+
+8. **Basal Ganglia**
+
+9. **Sensorimotor Regions**
+
+10. **Occipital Area**
+
+11. **Rolandic Operculum (ROL)**
+
+12. **Default Mode Network**
+
+13. **Central Executive Network**
+
+14. **Salience Network (SN)**
+
+These regions are involved in various cognitive functions and processes, including:
+
+- **Insular Cortex**: Emotion processing, sensorimotor processing, self-awareness, interoceptive perception, and integration of multisensory information.
+- **Orbital Frontal Cortex**: Decision-making, emotion regulation, and reward processing.
+- **Temporoparietal Junction**: Social cognition, theory of mind, and attention reorienting.
+- **Anterior Cingulate Cortex (ACC)**: Error detection, conflict monitoring, and emotional regulation.
+- **Precentral Gyrus**: Motor function and planning.
+- **Basal Ganglia**: Motor control, learning, and reward processing.
+- **Sensorimotor Regions**: Sensory and motor processing.
+- **Occipital Area**: Visual processing.
+- **Rolandic Operculum (ROL)**: Taste processing and somatosensory functions.
+- **Default Mode Network**: Self-referential processing and mind-wandering.
+- **Central Executive Network**: Cognitive control and working memory.
+- **Salience Network (SN)**: Detection and processing of salient events, as well as switching between the default mode and central executive networks.
+
+The article discusses the role of these brain regions in the context of schizophrenia and the effects of music intervention on their functional connectivity.

@@ -1,0 +1,47 @@
+Based on the neuroscientific article provided, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Cortex**
+   - Orbital and medial prefrontal cortex (OMPFC)
+   - Medial prefrontal cortex (mPFC)
+   - Orbital prefrontal cortex (OFC)
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Dorsal regions of the superior frontal gyrus (BA 10)
+   - Left frontal pole (BA 10)
+
+2. **Anterior Cingulate Cortex**
+   - Subgenual anterior cingulate cortex (sgACC) (BA 24, 32)
+   - Dorsal anterior cingulate cortex (dACC) (BA 24, 32)
+
+3. **Striatum**
+   - Ventral striatum
+   - Nucleus accumbens
+   - Caudate (bilateral)
+
+4. **Motor Cortex**
+   - Supplementary motor area (SMA) (BA 6)
+
+5. **Occipital Cortex**
+   - Ventral occipital cortex (BA 18, 19)
+
+6. **Thalamus**
+   - Right thalamus
+
+7. **Hippocampus**
+   - Right hippocampus
+   - Parahippocampal gyrus
+
+8. **Cerebellum**
+   - Left superior cerebellum (left crus 1 and left lobule VI)
+
+9. **Other Regions**
+   - Ventral tegmental area (VTA)
+   - Substantia nigra
+   - Amygdala
+   - Insula
+   - Default mode network (DMN)
+   - Salience network
+   - Fronto-parietal network
+   - Motor network
+   - Visual network
+
+These regions are involved in various cognitive functions and processes, including reward processing, decision-making, memory, emotion regulation, and motor control. They are also implicated in drug craving and addiction.

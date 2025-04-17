@@ -1,0 +1,79 @@
+1. **Ventral occipitotemporal region**
+   - Fusiform face area (FFA)
+
+2. **Amygdala**
+
+3. **Insula**
+
+4. **Primary and secondary somatosensory cortices**
+   - Right primary somatosensory cortex
+   - Right secondary somatosensory cortex
+
+5. **Inferior frontal cortex**
+
+6. **Orbitofrontal cortex**
+
+7. **Superior temporal sulcus (STS) region**
+
+8. **Primary visual cortex**
+
+9. **Parietofrontal network**
+   - Right parietofrontal regions
+   - Central regions
+   - Inferior frontal regions
+
+10. **Inferior prefrontal cortex**
+
+11. **Left inferior temporal region**
+
+12. **Medial temporal region**
+   - Amygdala
+   - Hippocampus
+   - Parahippocampus
+   - Anterior parts of the fusiform gyri
+
+13. **Left STS**
+
+14. **Right inferior temporal region**
+
+15. **Right medial temporal region**
+
+16. **Left inferior temporal ROI**
+
+17. **Left medial temporal ROI**
+
+18. **Right inferior temporal ROI**
+
+19. **Right medial temporal ROI**
+
+20. **Right central region**
+
+21. **Right inferior frontal region**
+
+22. **Left ventral occipitotemporal ROIs**
+   - ROI C1
+   - ROI C2
+   - ROI F
+
+23. **Right ventral regions**
+   - ROI D1
+   - ROI D2
+
+24. **Right parietofrontal regions**
+   - ROI A2
+   - ROI B
+
+25. **Left STS region**
+
+26. **Right somatosensory cortex**
+
+27. **Right inferior frontal cortex**
+
+28. **Right mirror neuron network**
+   - Inferior frontal regions
+   - Inferior parietal regions
+   - STS regions
+
+29. **Left ventral part of the brain**
+
+These regions are involved in these cognitive functions: facial recognition, emotional processing, and social signal processing.

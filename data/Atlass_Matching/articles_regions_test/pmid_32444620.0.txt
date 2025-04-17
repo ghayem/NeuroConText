@@ -1,0 +1,38 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Anterior Temporal Lobes (ATL)**
+   - Polar ATL
+   - Ventral ATL
+   - Dorsal ATL
+   - Left ATL
+   - Right ATL
+   - Bilateral ATL
+
+2. **Temporal Lobes**
+   - Left temporal lobe
+   - Right temporal lobe
+   - Bilateral temporal lobes
+
+3. **Frontal Lobes**
+   - Orbitofrontal Cortex (OFC)
+   - Left prefrontal speech production systems
+   - Medial frontal cortices
+
+4. **Insula**
+
+5. **Hippocampus**
+   - Bilateral hippocampus
+
+6. **Other Specific Regions**
+   - Fusiform Face Area (FFA)
+   - Occipital Face Area (OFA)
+   - Posterior Superior Temporal Sulcus (pSTS)
+   - Anterior Superior Temporal Sulcus (aSTS)
+   - Ventral Anterior Temporal Lobe (vATL)
+   - Middle cingulate gyri
+   - Posterior temporal regions
+   - Parietal regions
+   - Rectus gyrus
+   - Superior and ventral ATL regions
+
+These regions are involved in various cognitive functions, including semantic memory, language, visual recognition, social-behavioral impairments, and other cognitive-behavioral deficits.

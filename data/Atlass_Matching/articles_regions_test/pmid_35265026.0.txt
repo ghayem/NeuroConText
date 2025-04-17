@@ -1,0 +1,65 @@
+## The brain regions:
+
+1. **Anterior Insula**
+
+2. **Hippocampus**
+
+3. **Amygdala**
+
+4. **Parietal Cortex**
+
+5. **Prefrontal Cortex**
+
+6. **Precuneus**
+
+7. **Insula**
+
+8. **Sensorimotor Network**
+
+9. **Default Mode Network (DMN)**
+
+10. **Left Inferior Temporal Gyrus (ITG)**
+
+11. **Left Temporo-Occipital Junction (TOJ)**
+
+12. **Right Superior Parietal Lobule (SPL)**
+
+13. **Right Postcentral Gyrus (PoG)**
+
+14. **Bilateral Lingual Gyri**
+
+15. **Bilateral Inferior Occipital Gyri (IOG)**
+
+16. **Bilateral Cerebellar Lobule (Crus 1)**
+
+17. **Anterior Cingular Cortex**
+
+18. **Right Anterior Insula**
+
+19. **Right Precuneus**
+
+20. **Right Superior Parietal Lobule (SPL)**
+
+21. **Right Postcentral Gyrus (PoG)**
+
+22. **Bilateral Lingual Gyri**
+
+23. **Bilateral Inferior Occipital Gyri (IOG)**
+
+24. **Bilateral Cerebellar Lobule (Crus 1)**
+
+25. **Ventral Visual Pathway**
+
+26. **Multisensory Emotional Processing Network**
+
+27. **Body Ownership (BO) Network**
+
+28. **Peripersonal Space (PPS) Network**
+
+29. **Self-Agency Network**
+
+30. **Associative Motor Cortices**
+
+31. **Primary and Associative Sensory Cortices**
+
+32. **Negative Agency Network**

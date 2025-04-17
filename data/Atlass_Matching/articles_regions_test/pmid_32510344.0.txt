@@ -1,0 +1,77 @@
+## Brain Regions and Sub-Regions
+
+1. **Orbitofrontal Cortex**
+
+2. **Anterior Cingulate**
+
+3. **Inferior Frontal Gyrus**
+   - Extending into insula
+
+4. **Inferior Frontal Cortex**
+
+5. **Anterior Cingulate**
+
+6. **Temporal Areas**
+
+7. **Parietal Areas**
+
+8. **Superior Frontal Gyrus**
+
+9. **Anterior, Middle, and Posterior Cingulate**
+
+10. **Dorsolateral Prefrontal Cortex**
+
+11. **Caudate**
+
+12. **Thalamus**
+
+13. **Medial Prefrontal Cortex**
+   - Extending into anterior cingulate
+
+14. **Right Prefrontal Cortex**
+
+15. **Posterior Parietal Cortex**
+
+16. **Prefrontal Cortex**
+
+17. **Frontal**
+   - Medial frontal gyrus
+   - Inferior frontal gyrus
+   - Middle frontal gyrus
+
+18. **Temporal**
+   - Superior temporal gyrus
+
+19. **Parietal**
+   - Superior parietal lobule
+
+20. **Occipital**
+   - Fusiform gyrus
+   - Lingual gyrus
+   - Cuneus
+
+21. **Orbital Frontal Cortex (BA 11)**
+
+22. **Inferior Frontal Gyrus (BA 47)**
+
+23. **Occipital Cortex (BAs 18/19)**
+
+24. **Right Dorsolateral Prefrontal Cortex (dlPFC; BA 9/46)**
+
+25. **Bilateral Ventrolateral Prefrontal Cortex (vlPFC; BA 44/45/47)**
+
+26. **Medial Frontal Gyrus (BA 6)**
+   - Supplementary motor area (SMA)
+   - Pre-supplementary motor area (pre-SMA)
+
+27. **Fusiform Gyrus**
+
+28. **Lingual Gyrus**
+
+29. **Cuneus (BA 18/19)**
+
+30. **Inferotemporal Visual Areas**
+
+31. **Right Inferior Frontal Gyrus**
+
+These regions are involved in these cognitive functions: inhibitory control, motor inhibition, cognitive control abilities, and attention.

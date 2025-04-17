@@ -1,0 +1,74 @@
+## Brain Regions and Sub-Regions
+
+1. **Amygdala**
+    - Left amygdala
+
+2. **Inferior Frontal Gyrus**
+
+3. **Ventromedial Prefrontal Cortex**
+
+4. **Striatum**
+
+5. **Hippocampus**
+
+6. **Thalamus**
+
+7. **Insula**
+
+8. **Posterior Cingulate**
+
+9. **Superior Temporal Gyrus (STG)**
+    - Left middle temporal gyrus (MTG)
+    - Temporal pole
+
+10. **Postcentral Gyrus**
+
+11. **Uncinate Fasciculus**
+
+12. **Body of Corpus Callosum**
+
+13. **Inferior Fronto-Occipital Fasciculus**
+
+14. **Inferior Longitudinal Fasciculus**
+
+15. **Corona Radiate**
+
+16. **Prefrontal Cortex**
+    - Medial prefrontal cortex
+    - Left middle frontal gyrus (MFG)
+    - Right superior frontal gyrus (SFG)
+
+17. **Cerebellum**
+
+18. **Putamen**
+    - Right putamen
+
+19. **Posterior Cingulate Cortex (PCC)**
+    - Right posterior cingulate cortex (PCC)
+
+20. **Fear Network**
+
+21. **Basal Ganglia**
+    - Caudate nucleus
+    - Nucleus accumbens
+
+22. **Default Mode Network (DMN)**
+
+## Cognitive Functions and Associations
+
+- **Emotion Regulation**: Amygdala, insula, prefrontal cortex, temporal cortex, thalamus, putamen
+- **Cognitive Deficits**: Inferior frontal gyrus, ventromedial prefrontal cortex, hippocampus
+- **Reward Processing**: Striatum
+- **Memory**: Hippocampus, medial temporal lobe
+- **Salience Network**: Insula
+- **Default Mode Network (DMN)**: Posterior cingulate cortex (PCC)
+- **Sensory Information Transmission**: Thalamus
+- **Motor Regulation and Learning**: Putamen
+- **Attention and Cognitive Control**: Prefrontal cortex
+- **Fear and Anxiety Response**: Amygdala, fear network
+- **Somatic Anxiety Symptoms**: Putamen
+- **Mind-Wandering and Passive Rest**: Default mode network (DMN)
+- **Emotional, Motivational, Associative, and Cognitive Functions**: Basal ganglia
+- **Executive Functions**: Prefrontal cortex, inferior frontal gyrus
+- **Language and Memory**: Superior temporal gyrus (STG), temporal pole
+- **Emotional Arousal and Memory Enhancement**: Medial temporal lobe, amygdala

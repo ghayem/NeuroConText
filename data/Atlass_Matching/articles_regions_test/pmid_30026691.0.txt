@@ -1,0 +1,46 @@
+Based on the text provided, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobe**
+   - Superior temporal gyrus (STG)
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Anterior fusiform
+   - Superior temporal pole
+
+2. **Parietal Lobe**
+   - Inferior parietal lobule (IPL)
+   - Supramarginal gyrus
+   - Angular gyrus (AG)
+   - Superior parietal lobule
+   - Precuneus
+
+3. **Occipital Lobe**
+   - Occipitotemporal regions
+   - Inferior occipital sulcus
+   - Lingual gyrus
+   - Fusiform gyrus
+   - Inferior occipital gyrus
+   - Calcarine
+   - Cuneus gyrus
+
+4. **Frontal Lobe**
+   - Inferior frontal gyrus (IFG)
+     - Pars triangularis
+     - Pars opercularis
+   - Anterior insula cortex
+   - Precentral gyrus
+   - Orbital frontal cortex
+   - Medial aspect of the superior frontal gyrus
+
+5. **Other Regions**
+   - Heschl’s gyrus
+   - Thalamus
+   - Pallidum
+   - Caudate nucleus
+   - Midcingulate gyrus
+   - Ventral occipitotemporal (vOT) cortex
+   - Primary visual cortex
+   - Cerebellum
+   - Ventral occipitotemporal regions
+
+These regions are involved in various cognitive functions related to reading, including visual processing, phonological processing, semantic processing, and articulatory aspects of spoken production.

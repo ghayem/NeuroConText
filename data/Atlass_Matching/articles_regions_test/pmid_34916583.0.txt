@@ -1,0 +1,56 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned along with their associated cognitive functions:
+
+1. **Parietal Lobules**
+   - Left inferior parietal lobule
+     - Left supramarginal gyrus
+     - Left angular gyrus
+   - Left superior parietal lobule
+     - Precuneus
+   - Right inferior parietal lobule
+
+2. **Temporal Cortex**
+   - Bilateral superior temporal gyri
+   - Bilateral middle temporal gyri
+   - Right Heschl’s gyrus
+   - Right fusiform gyrus
+
+3. **Frontal Cortex**
+   - Bilateral superior and middle temporal gyri
+   - Right inferior frontal gyrus (IFG)
+   - Middle frontal gyri
+   - Medial frontal gyri
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Ventromedial prefrontal cortex (VMPFC)
+   - Anterior cingulate cortex (ACC)
+   - Orbitofrontal cortex
+
+4. **Occipital Cortex**
+   - Precunei and cunei
+
+5. **Subcortical Structures**
+   - Amygdala
+   - Thalamus
+   - Striatum
+   - Cerebellum (left dorsomedial cerebellum)
+
+6. **Other Regions**
+   - Postcentral gyri and sulci
+   - Mid- to posterior cingulate gyri
+   - Parahippocampal gyrus
+   - Default mode network (DMN)
+   - Frontoparietal attention network (FPAN)
+   - Frontal control network (FCN)
+
+### Associated Cognitive Functions:
+- **Language Processing**: Left angular gyrus, left supramarginal gyrus, bilateral middle temporal cortex, left IFG, right IFG
+- **Semantic Integration**: Left angular gyrus, middle temporal cortex
+- **Attention and Executive Control**: FPAN, FCN, DLPFC, ACC
+- **Emotion Processing**: Amygdala, striatum, thalamus, orbitofrontal cortex
+- **Social Cognition and Empathy**: Temporo-parietal junction, precuneus, medial prefrontal cortex
+- **Mental Imagery and Episodic Processing**: Precuneus
+- **Event Integration and Coherence**: Precuneus
+- **Sensory Processing and Motor Functions**: Postcentral gyri and sulci, cerebellum
+- **Memory and Learning**: Hippocampus, parahippocampal gyrus
+- **Default Mode Network (DMN)**: Precuneus, medial prefrontal cortex, posterior cingulate cortex
+
+These regions are involved in various cognitive functions including language processing, semantic integration, attention, emotion processing, social cognition, mental imagery, sensory processing, memory, and default mode network activities.

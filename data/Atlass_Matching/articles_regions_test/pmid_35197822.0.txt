@@ -1,0 +1,41 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Central Nervous System (CNS)**
+
+2. **Corticomotor Cortex**
+
+3. **Motor Cortical Cells**
+
+4. **Right Precentral Gyrus**
+
+5. **Right Postcentral Gyrus**
+
+6. **Right Middle Frontal Gyrus**
+
+7. **Right Orbital-Frontal Cortex (OFC)**
+   - Orbital part of the right middle frontal gyrus
+
+8. **Right Superior Frontal Gyrus**
+   - Medial part
+
+9. **Anterior Cingulate Cortex (ACC)**
+   - Left anterior cingulate gyrus
+
+10. **Left Middle Temporal Gyrus**
+
+11. **Left Inferior Parietal Lobule (IPL)**
+
+12. **Primary Somatosensory Cortex (S1)**
+    - Postcentral gyrus (BA 3)
+
+13. **Primary Motor Area (M1)**
+    - Precentral gyrus (BA 4)
+
+14. **Premotor Cortex**
+    - Middle frontal gyrus (BA 6, 8, and 9)
+
+15. **Supplementary Motor Area**
+
+16. **Middle Temporal Cortex**
+
+These regions are involved in various cognitive and motor functions, including sensorimotor processing, pain management, motor planning, and emotional modulation.

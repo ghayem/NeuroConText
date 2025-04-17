@@ -1,0 +1,87 @@
+1. **Orbitofrontal Cortex (OFC)**
+
+2. **Medial Prefrontal Cortex**
+
+3. **Temporo-Parietal Junction**
+
+4. **Posterior and Anterior Cingulate Cortex**
+
+5. **Medial Parietal Cortex**
+
+6. **Superior Temporal Sulcus**
+
+7. **Insula**
+
+8. **Anterior Temporal Cortex**
+
+9. **Frontal Pole**
+
+10. **Frontal Gyri**
+    - Superior frontal gyrus
+    - Inferior frontal gyrus
+
+11. **Temporal Pole**
+
+12. **Temporal Gyri**
+    - Middle temporal gyrus
+    - Inferior temporal gyrus
+
+13. **Fusiform Gyrus**
+
+14. **Amygdala**
+
+15. **Hippocampus**
+
+16. **Parahippocampal Gyrus**
+
+17. **Occipital Cortex**
+
+18. **Putamen**
+
+19. **Temporal Neocortex**
+
+20. **Caudate**
+
+21. **Pallidum Nucleus**
+
+22. **Right Somatosensory Cortex**
+
+23. **Central Opercular Cortex**
+
+24. **Gyrus Rectus**
+
+25. **Temporal Fusiform Cortex**
+
+26. **Parahippocampal Gyri**
+
+27. **Temporal Lobe**
+
+28. **Right Frontal Pole**
+
+29. **Left Medial Temporal Regions**
+    - Left temporal fusiform cortex
+    - Temporal pole
+    - Left inferior temporal gyrus
+
+30. **Right Temporal Lobe**
+
+31. **Left Temporal Regions**
+    - Left temporal poles
+    - Temporal gyrus
+    - Hippocampal regions
+
+32. **Right Inferior Frontal Gyrus**
+
+33. **Left Medial Temporal Lobe (MTL)**
+
+34. **Left Amygdala**
+
+35. **Right Amygdala**
+
+36. **Bilateral Insulae**
+
+37. **Left Fusiform Gyrus**
+
+38. **Right Fusiform Gyrus**
+
+These regions are involved in cognitive functions related to social cognition, awareness, and various domains of social function.

@@ -1,0 +1,39 @@
+Based on the neuroscientific article provided, the brain regions and sub-regions mentioned are as follows:
+
+1. **Inferior Frontal Gyrus (IFG)**
+   - Left IFG
+   - Right IFG
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal ACC (dACC)
+   - Ventral ACC
+
+3. **Insula**
+   - Left insula
+   - Right insula
+
+4. **Posterior Cingulate**
+
+5. **Cerebellum**
+   - Left cerebellum
+   - Right cerebellum
+
+6. **Temporal Pole**
+   - Left temporal pole
+
+7. **Precuneus**
+   - Left precuneus
+
+8. **Medial Prefrontal Cortex (mPFC)**
+
+9. **Middle Occipital Gyrus**
+   - Left middle occipital gyrus
+
+10. **Inferior Parietal Lobule**
+    - Left inferior parietal lobule
+
+11. **Frontal Cortex**
+    - Left frontal_inf_tri_L (Triangular part of the inferior frontal gyrus)
+    - Right frontal_inf_tri_R (Triangular part of the inferior frontal gyrus)
+
+These regions are involved in various cognitive functions including inhibitory control, self-reflective processing, and self-evaluation.

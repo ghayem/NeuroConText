@@ -1,0 +1,61 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article, along with their associated functions where applicable:
+
+1. **Caudate Nucleus**
+   - Right dorsal caudate nucleus
+   - Function: Involved in emotional, cognitive, and motor processing.
+
+2. **Anterior Cingulate Cortex (ACC)**
+   - Dorsal anterior cingulate cortex (dACC)
+   - Function: Involved in reward-based decision making, fear expression, behavioral adaptation, cognitive valuation, and control.
+
+3. **Prefrontal Cortex**
+   - Right dorsolateral prefrontal cortex (DLPFC)
+   - Dorsal medial prefrontal cortex
+   - Function: Involved in cognitive control, working memory, attention, goal maintenance, depression, anxiety, psychosis, and addiction.
+
+4. **Parietal Lobe**
+   - Right inferior parietal lobe
+   - Left precuneus/superior parietal region
+   - Superior parietal region
+   - Inferior parietal region
+   - Function: Involved in maintaining attentive control on current task goals, responding to salient new information, and flexible reconfiguration of behavior.
+
+5. **Occipital Cortex**
+   - Left occipital cortex
+   - Right occipital cortex
+   - Left inferior occipital cortex
+   - Right inferior occipital cortex
+   - Left inferior occipital-temporal region
+   - Right calcarine cortex
+   - Function: Involved in visual processing and perception.
+
+6. **Temporal Cortex**
+   - Left cuneus
+   - Function: Involved in visual processing.
+
+7. **Insula**
+   - Right dorsal insular gyrus
+   - Left insular gyrus
+   - Function: Involved in emotional processing, self-awareness, and cognitive functioning.
+
+8. **Thalamus**
+   - Right premotor thalamus
+   - Function: Involved in motor control, sensory processing, and consciousness.
+
+9. **Postcentral Gyrus**
+   - Left postcentral gyrus
+   - Function: Involved in somatosensory processing.
+
+10. **Precentral Gyrus**
+    - Right precentral gyrus area 4
+    - Function: Involved in motor control.
+
+11. **Cingulate Gyrus**
+    - Caudodorsal area 24
+    - Right cingulate gyrus (caudal area 23)
+    - Function: Involved in emotion regulation, pain processing, and cognitive control.
+
+12. **Amygdala**
+    - Function: Involved in emotional processing, decision-making, and memory.
+
+These regions are involved in various cognitive, neuropsychiatric, and motor functions, as described in the article.

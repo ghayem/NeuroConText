@@ -1,0 +1,56 @@
+Here are the brain regions and sub-regions mentioned in the article:
+
+1. **Anterior Cingulate Cortex (ACC)**
+
+2. **Posterior Cingulate Cortex (PCC)**
+
+3. **Caudate**
+
+4. **Posterior Inferior Frontal Gyrus (IFG)**
+   - Anterior IFG
+
+5. **Orbitofrontal Cortices**
+
+6. **Dorsolateral Prefrontal Cortices (PFCs)**
+
+7. **Premotor Cortices**
+
+8. **Right Fusiform Gyrus (FFG)**
+
+9. **Corpus Callosum**
+   - Body of the corpus callosum
+
+10. **Right Superior Frontal Gyrus**
+
+11. **Right Lateral Orbitofrontal Cortex**
+
+12. **Left Anterior Insula**
+
+13. **Left Inferior Temporal Cortex**
+
+14. **Left Parahippocampal Cortex**
+
+15. **Cingulum**
+
+16. **Subgenual ACC**
+
+17. **Posterior Cingulate Cortex (PCC)**
+
+18. **Angular Gyrus**
+
+19. **Dorsal Prefrontal Cortex**
+
+20. **Dorsomedial Prefrontal Cortex**
+
+These regions are involved in various cognitive functions, including but not limited to:
+
+- **ACC**: Error detection, conflict monitoring, reward anticipation, and emotion regulation.
+- **PCC**: Internally directed cognition, self-reflection, and memory.
+- **Caudate**: Motor control, learning, memory, reward, and emotion.
+- **IFG**: Language processing, response inhibition, and attention.
+- **Orbitofrontal Cortices**: Decision-making, expectation, and reward processing.
+- **Dorsolateral Prefrontal Cortices**: Executive functions, working memory, and attention.
+- **Premotor Cortices**: Motor planning and execution.
+- **FFG**: Face and object recognition, visual processing.
+- **Corpus Callosum**: Interhemispheric communication.
+- **Cingulum**: Part of the limbic system, involved in emotion regulation and cognitive control.

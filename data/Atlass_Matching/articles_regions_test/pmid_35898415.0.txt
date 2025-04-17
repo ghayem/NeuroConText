@@ -1,0 +1,46 @@
+## Brain Regions and Sub-Regions Mentioned in the Article:
+
+1. **Amygdala**
+    - Left amygdala
+    - Right amygdala
+
+2. **Orbitofrontal Cortex (OFC)**
+    - Orbital parts of the superior frontal gyrus (OSFG)
+        - Left orbital part of the superior frontal gyrus
+        - Right orbital part of the superior frontal gyrus
+    - Orbital parts of the middle frontal gyrus (OMFG)
+        - Left orbital part of the middle frontal gyrus
+        - Right orbital part of the middle frontal gyrus
+    - Orbital parts of the inferior frontal gyrus (OIFG)
+        - Left orbital part of the inferior frontal gyrus
+        - Right orbital part of the inferior frontal gyrus
+    - Medial orbital part of the superior frontal gyrus (MOSFG)
+        - Left medial orbital part of the superior frontal gyrus
+        - Right medial orbital part of the superior frontal gyrus
+
+3. **Hippocampus**
+    - Left hippocampus
+    - Right hippocampus
+
+4. **Parahippocampal Gyrus**
+    - Left parahippocampal gyrus
+    - Right parahippocampal gyrus
+
+5. **Insula**
+    - Left insula
+    - Right insula
+
+6. **Olfactory Cortex**
+    - Left olfactory cortex
+    - Right olfactory cortex
+
+7. **Temporal Pole of Middle Temporal Gyrus (TPMTG)**
+    - Left temporal pole of middle temporal gyrus
+
+8. **Caudate**
+    - Bilateral caudate
+
+9. **Putamen**
+    - Left putamen
+
+These regions are involved in various cognitive functions including olfaction, memory, emotion, and higher brain functions.

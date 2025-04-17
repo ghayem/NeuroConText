@@ -1,0 +1,34 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions are mentioned:
+
+1. **Left fronto-temporal network**
+   - Left frontal cortex
+   - Left temporal cortex
+
+2. **Bilateral subsystem**
+   - Broader brain regions
+
+3. **Left frontal cortex**
+   - Dorsolateral prefrontal cortex (DLPFC)
+   - Frontopolar area
+   - Frontal eye fields
+   - Inferior frontal gyrus (IFG)
+
+4. **Left temporal cortex**
+   - Temporo-parieto-occipital junction (TPO)
+
+5. **Centro-parietal cortex**
+   - Centro-parietal regions
+
+6. **Bilateral fronto-temporal cortex**
+   - Left fronto-temporal cortex
+   - Right fronto-temporal cortex
+
+7. **Left hemisphere**
+   - Left frontal region
+   - Left temporal region
+
+8. **Right hemisphere**
+   - Right frontal region
+   - Right temporal region
+
+These regions are involved in various cognitive functions, including language processing, morphological processing, and lexical access.

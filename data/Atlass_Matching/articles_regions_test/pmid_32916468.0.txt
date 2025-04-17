@@ -1,0 +1,26 @@
+Certainly! Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Orbitofrontal Cortex**
+   - Medial orbitofrontal cortex (OFC)
+
+2. **Default Mode Network (DMN)**
+   - (Note: DMN is a network rather than a specific region, but it is mentioned in the context of altered activity in OCD.)
+
+3. **Premotor Cortex**
+
+4. **Inferior Frontal Gyrus (IFG)**
+
+5. **Subthalamic Nucleus**
+
+6. **Frontal Lobe**
+   - Premotor cortex
+   - Inferior frontal gyrus (IFG)
+   - Frontal operculum
+
+7. **Motor Cortex**
+
+8. **Cingulate Cortex**
+
+9. **Caudate**
+
+These regions are involved in various cognitive functions, including value and cue-outcome encoding (orbitofrontal cortex), inhibitory control (premotor cortex, inferior frontal gyrus, subthalamic nucleus), and motor output (motor cortex).

@@ -1,0 +1,136 @@
+### Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Temporal Lobe**
+
+2. **Superior Frontal Regions**
+
+3. **Medial Frontal Regions**
+
+4. **Cingulate Cortex**
+    - Anterior cingulate cortex (ACC)
+    - Posterior cingulate cortex
+
+5. **Parietal Cortex**
+
+6. **Hippocampus**
+
+7. **Insula**
+
+8. **Amygdala**
+
+9. **Left Temporal Pole**
+
+10. **Medial Frontal Gyrus**
+
+11. **Right Middle Temporal Gyrus**
+
+12. **Right Superior Temporal Gyrus**
+
+13. **Left Precuneus**
+
+14. **Left Middle Occipital Gyrus**
+
+15. **Right Insula**
+
+16. **Left Superior Temporal Sulcus**
+
+17. **Left Superior Temporal Gyrus**
+
+18. **Precuneus**
+    - Posterior precuneus
+
+19. **Default Mode Network (DMN)**
+
+20. **Orbitofrontal Cortex**
+
+21. **Basal Ganglia**
+
+22. **Dorsal Anterior Cingulate Cortex**
+
+23. **Frontal Regions**
+
+24. **Medial Prefrontal Cortex (MPFC)**
+
+25. **Left Superior Parietal Lobe**
+
+26. **Precentral Gyrus (Primary Motor Cortex)**
+
+27. **Accumbens (NaC)**
+
+28. **Caudate**
+
+29. **Putamen**
+
+30. **Subcallosal Cortex (SubCalC)**
+
+31. **Supramarginal Gyrus (SMG)**
+
+32. **Superior Parietal Lobe (SPL)**
+
+33. **Supplementary Motor Area (SMA)**
+
+34. **Inferior Middle Temporal Gyrus (iMTG)**
+
+35. **Posterior Cingulate**
+
+36. **Temporo-parieto-occipital Junction (TPO)**
+
+37. **Primary Somatosensory Cortex (Post-central Gyrus)**
+
+38. **Superior Frontal Gyrus (SFG)**
+
+39. **Frontolimbic Circuit**
+
+40. **Middle Temporal Gyrus**
+
+41. **Nucleus Accumbens**
+
+42. **Orbitofrontal Cortex (OFC)**
+
+43. **Putamen**
+
+44. **Subcallosal Cortex**
+
+45. **Superior Frontal Gyrus**
+
+46. **Supramarginal Gyrus**
+
+47. **Superior Parietal Lobe**
+
+48. **Supplementary Motor Area**
+
+49. **Inferior Middle Temporal Gyrus**
+
+50. **Precentral Gyrus**
+
+51. **Caudate**
+
+52. **Putamen**
+
+53. **Subcallosal Cortex**
+
+54. **Orbitofrontal Cortex**
+
+55. **Accumbens**
+
+56. **Caudate**
+
+57. **Putamen**
+
+58. **Subcallosal Cortex**
+
+59. **Orbitofrontal Cortex**
+
+60. **Middle Temporal Gyrus**
+
+61. **Primary Motor Cortex**
+
+62. **Supplementary Motor Area**
+
+63. **Anterior Cingulate Cortex**
+
+64. **Superior Parietal Lobe**
+
+65. **Posterior Cingulate**
+
+66. **Hypothalamic-hypophyseal Axis**

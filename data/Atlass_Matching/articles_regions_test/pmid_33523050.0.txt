@@ -1,0 +1,83 @@
+Based on the neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Cortex**
+   - Frontal lobe
+   - Parietal lobe
+   - Temporal lobe
+   - Occipital lobe
+   - Cingulate cortex
+   - Prefrontal cortex
+   - Superior parietal cortex
+   - Lateral temporal lobe
+   - Medial temporal lobe
+   - Medial prefrontal cortex
+   - Lateral parietal cortex
+   - Posterior cingulate cortex
+
+2. **Gyrus**
+   - Parahippocampal gyrus
+   - Fusiform gyrus
+   - Superior frontal gyrus
+   - Inferior parietal lobule
+   - Angular gyrus
+   - Precuneus
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+   - Lingual gyrus
+   - Occipital gyrus (middle and inferior)
+
+3. **Hippocampus**
+
+4. **Amygdala**
+
+5. **Thalamus**
+
+6. **Insula**
+
+7. **Cerebellum**
+   - Cerebellar peduncles
+   - Cerebellar grey matter
+
+8. **Other Regions**
+   - Hippocampal volume
+   - Amygdalar volume
+   - Temporo-parietal cortex
+   - Inferior parietal lobule
+   - Superior parietal lobule
+   - Lateral prefrontal cortex
+   - Medial orbitofrontal cortex
+   - Anterior cingulate cortex
+   - Posterior cingulate cortex
+   - Parahippocampal area
+   - Occipital areas (primary and secondary visual)
+   - Frontal areas
+   - Frontal cortex
+   - Temporal areas (middle and inferior)
+   - Parietal areas
+   - Occipital areas
+   - Temporal areas
+   - Parietal areas
+   - Frontal areas
+   - Occipital cortex
+   - Temporal cortex (medial)
+   - Parietal cortex (inferior)
+   - Angular region
+   - Temporal cortex (superior)
+   - Temporal cortex (middle)
+   - Temporal cortex (inferior)
+   - Frontal cortex (middle)
+   - Frontal cortex (inferior orbital)
+   - Cingulum (anterior)
+   - Cingulum (posterior)
+   - Parahippocampal region
+   - Amygdalar region
+   - Occipital cortex (middle)
+   - Occipital cortex (inferior)
+   - Parietal cortex (inferior)
+   - Precuneus region
+   - Temporal cortex (superior)
+   - Temporal cortex (middle)
+   - Temporal cortex (inferior)
+
+These regions are involved in various cognitive functions, including memory, language, and executive functions, and are implicated in the pathology of Alzheimer's disease.

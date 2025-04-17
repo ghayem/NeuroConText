@@ -1,0 +1,40 @@
+## Brain Regions and Sub-Regions:
+
+1. **Frontal Lobe**
+    - Inferior frontal gyrus
+    - Middle frontal gyrus
+    - Frontal orbital cortex (OFC)
+    - Anterior cingulate cortex (ACC)
+    - Paracingulate gyrus (PCG)
+    - Medial cortical areas
+
+2. **Cerebellum**
+    - Posterior lobe of the right cerebellum
+
+3. **Parietal Lobe**
+    - Bilateral precuneus
+
+4. **White Matter**
+    - Cerebral white matter
+    - Periventricular white matter
+    - Subcortical white matter
+    - Deep white matter sensory and motor tracts
+
+5. **Grey Matter**
+    - Sensorimotor regions
+    - Frontal parietal regions
+
+6. **Other Regions**
+    - Insula (In)
+
+### Cognitive Functions:
+These regions are involved in the following cognitive functions:
+- Executive functions (including selective attention, response inhibition, and cognitive control)
+- Motor control (especially for lower extremity)
+- Gait and balance
+- Physiological falls risk
+
+### Additional Notes:
+- The article discusses the role of brain structure and function in physiological falls risk, particularly focusing on executive functions and their neural correlates.
+- Neuroimaging studies mentioned in the article highlight the importance of cerebral white matter lesions and their distribution in affecting gait, balance, and motor control.
+- The study uses fMRI to examine brain function during an executive-challenging cognitive task, identifying specific brain regions associated with falls risk.

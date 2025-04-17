@@ -1,0 +1,39 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Medial Prefrontal Cortex (mPFC)**
+
+2. **Posterior Cingulate Cortex (PCC)**
+
+3. **Temporoparietal Junction (TPJ)**
+    - Right TPJ
+    - Left TPJ
+
+4. **Ventrolateral Prefrontal Cortex (vlPFC)**
+
+5. **Dorsolateral Prefrontal Cortex (DLPFC)**
+    - Left DLPFC
+
+6. **Supramarginal Gyrus**
+
+7. **Precuneus**
+
+8. **Supplementary Motor Area (SMA)**
+    - Left SMA
+
+9. **Insula**
+    - Bilateral insula
+
+10. **Calcarine Gyrus**
+    - Bilateral calcarine gyrus
+
+11. **Hippocampus**
+    - Bilateral hippocampus
+
+12. **Fusiform Gyrus**
+    - Calcarine gyrus extending into fusiform gyrus
+
+13. **Dorsomedial Prefrontal Cortex (dmPFC)**
+
+14. **Anterior Cerebellum**
+
+These regions are involved in various cognitive functions, including self-evaluation, perspective-taking, and social cognition.

@@ -1,0 +1,29 @@
+Based on the provided article, here are the brain regions and sub-regions mentioned:
+
+1. **Temporal Lobe**
+   - Hippocampus
+   - Parahippocampal gyrus
+   - Superior temporal gyrus
+   - Middle temporal gyrus
+   - Inferior temporal gyrus
+
+2. **Frontal Lobe**
+   - Middle frontal gyrus
+   - Medial frontal areas
+   - Superior frontal gyrus
+
+3. **Other Regions**
+   - Posterior cingulate gyrus
+   - Precuneus (posterior default mode network (DMN))
+   - Sensorimotor cortex
+   - Occipital lobe
+   - Cerebellum
+
+4. **Specific Nuclei/Structures**
+   - Hippocampal sclerosis (HS)
+   - Focal cortical dysplasia (FCD)
+   - Gray matter (GM)
+   - White matter
+   - Cerebrospinal fluid
+
+These regions are involved in the pathophysiology and surgical treatment of temporal lobe epilepsy (TLE), as well as in the functional connectivity (FC) alterations related to epileptogenic zones (EZ) and their impact on disease progression and postsurgical outcomes.

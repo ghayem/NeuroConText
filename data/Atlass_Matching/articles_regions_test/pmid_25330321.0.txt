@@ -1,0 +1,62 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Insula**
+   - Right insula
+
+2. **Frontal Lobes**
+   - Left superior frontal gyrus
+   - Left inferior frontal gyrus
+
+3. **Hippocampus**
+   - Right hippocampus
+
+4. **Temporal Lobe**
+   - Left temporal lobe
+
+5. **Cerebellum**
+
+6. **Orbito-frontal Cortex**
+   - Right orbito-frontal cortex
+
+7. **Thalamus**
+   - Right thalamus
+
+8. **Dorsal Anterior Cingulate Cortex**
+   - Right dorsal anterior cingulate cortex
+
+9. **Secondary Somatosensory Cortex**
+   - Right somatosensory cortex
+
+10. **Posterior Cingulate Cortex**
+
+11. **Temporal-Parietal Junction**
+
+12. **Fusiform Gyrus**
+   - Left fusiform gyrus
+
+13. **Anterior Cingulate Cortex**
+   - Bilateral anterior cingulate cortex
+
+14. **Precentral Gyrus**
+   - Bilateral precentral gyrus
+
+15. **Temporal Pole**
+   - Bilateral temporal pole
+
+16. **Angular Gyrus**
+   - Bilateral angular gyrus
+
+17. **Parahippocampal Gyrus**
+   - Left parahippocampal gyrus
+
+18. **Cortical Midline Regions**
+   - Medial prefrontal cortex (mPFC)
+
+19. **Lateral Prefrontal Cortex**
+   - Right lateral prefrontal cortex
+
+20. **Viscerosomatic Areas**
+   - Secondary somatosensory cortex
+   - Inferior parietal lobule
+
+These regions are involved in various cognitive functions, including interoception, emotional awareness, sensory-discriminative processing, and cognitive control over emotions.

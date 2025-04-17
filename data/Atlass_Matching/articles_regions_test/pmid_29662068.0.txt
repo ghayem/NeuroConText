@@ -1,0 +1,30 @@
+Based on the provided article, the brain regions and sub-regions mentioned are:
+
+1. **Insula**
+   - Specifically mentioned in the context of experiencing physical warmth and social warmth.
+
+2. **Sensorimotor Cortices**
+   - Primary somatosensory cortex (SI)
+   - Secondary somatosensory cortex (SII)
+   - Primary motor cortex
+   - Premotor cortex
+
+3. **Inferior Frontal Gyrus**
+   - Mentioned in the context of brain responses while participants were giving their recommendations of sentences.
+
+4. **Occipital Lobe**
+   - Mentioned in the context of brain activations during the judgment phase without any priming.
+
+5. **Posterior Parietal Lobe**
+   - Mentioned in the context of brain activations during the judgment phase without any priming.
+
+6. **Frontal Lobe**
+   - Mentioned in the context of brain activations during the judgment phase without any priming.
+
+7. **Inferior Parietal Cortex**
+   - A part of the posterior parietal lobe.
+
+8. **Bilateral insular-opercular cortex**
+   - Mentioned in the context of the effects of cold sensations on neural activation.
+
+These regions are involved in various cognitive functions, including sensory processing, motor control, and higher-order cognitive processes such as judgment and decision-making.

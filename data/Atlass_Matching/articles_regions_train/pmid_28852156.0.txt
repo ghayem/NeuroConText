@@ -1,0 +1,65 @@
+Based on the provided neuroscientific article, the following brain regions and sub-regions were mentioned:
+
+1. **Pre-supplementary motor area (pre-SMA)**
+
+2. **Ventral striatum**
+
+3. **Medial prefrontal cortex**
+
+4. **Caudate**
+
+5. **Putamen**
+
+6. **Nucleus accumbens**
+
+7. **Right inferior frontal gyrus**
+
+8. **Striatum**
+
+9. **Subthalamic nucleus (STN)**
+
+10. **Precentral gyrus**
+
+11. **Premotor cortex**
+
+12. **Supplementary motor areas (SMA)**
+
+13. **Superior temporal cortex**
+
+14. **Right superior parietal cortex**
+
+15. **Cerebellum**
+
+16. **Globus pallidum**
+
+17. **Thalamus**
+
+18. **Medial frontal gyrus**
+
+19. **Anterior cingulate cortex**
+
+20. **Middle prefrontal gyrus**
+
+21. **Inferior parietal cortex**
+
+22. **Middle occipital gyrus**
+
+23. **Basal ganglia**
+
+24. **Postcentral gyrus**
+
+25. **Bilateral cerebellum**
+
+26. **Right premotor**
+
+27. **Right superior parietal lobule**
+
+28. **Anterior caudate**
+
+29. **Posterior inferior frontal gyrus (pIFG)**
+
+30. **Posterior superior temporal sulcus (pSTS)**
+
+31. **Right posterior IFG (BA45)**
+
+These regions are involved in various cognitive functions including action control, motivation, reward processing, cognitive control, and sensory processing.

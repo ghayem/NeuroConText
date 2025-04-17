@@ -1,0 +1,169 @@
+## Brain Regions and Sub-Regions:
+
+1. **Temporal-Occipital Lobe**
+   - Numerosity map (NTO)
+
+2. **Parietal-Occipital Lobe**
+   - Numerosity map (NPO)
+
+3. **Parietal Lobe**
+   - Numerosity map (NPC1)
+   - Numerosity map (NPC2)
+   - Numerosity map (NPC3)
+
+4. **Frontal Lobe**
+   - Numerosity map (NF)
+
+5. **Medial Temporal Lobe**
+
+6. **Ventral Temporal Occipital Cortex (VOT)**
+
+7. **Inferior Temporal Gyrus**
+   - Number form area (NFA)
+
+8. **Superior Parietal Cortex**
+   - Numerosity map (NPC1)
+
+9. **Ventral Stream of the Bilateral Temporal Occipital Cortices**
+
+10. **Number Form Area (NFA)**
+    - Inferior temporal gyrus
+
+11. **Human Cortex**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+12. **Ventral Temporal Occipital Cortex (VOT)**
+
+13. **Left Temporal Cortex**
+    - Left NTO map
+
+14. **Superior Parietal Lobe**
+    - NPC1 map
+
+15. **Temporal Cortex**
+    - Left NTO map
+
+16. **Ventral Stream**
+    - Occipitotemporal region (VOT)
+
+17. **Temporal-Occipital Cortex (NTO)**
+
+18. **Parietal-Occipital Cortex (NPO)**
+
+19. **Parietal Cortex (NPC1, NPC2, NPC3)**
+
+20. **Superior Frontal Cortex (NF)**
+
+21. **Ventral Temporal Occipital Cortex (VOT)**
+
+22. **Left NTO map**
+
+23. **Right NTO map**
+
+24. **Numerosity Maps**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+25. **Ventral Stream of the Temporal Occipital Cortices**
+
+26. **Number Form Area (NFA)**
+
+27. **Ventral Stream**
+    - Occipitotemporal region (VOT)
+
+28. **Left NTO maps**
+
+29. **Right NTO maps**
+
+30. **Numerosity network**
+
+31. **Ventral Temporal Regions**
+
+32. **Parietal and Frontal Regions**
+
+33. **Cortical Surface**
+
+34. **Numerosity Maps**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+35. **Ventral Temporal Occipital Cortex (VOT)**
+
+36. **Left NTO map**
+
+37. **Right NTO map**
+
+38. **Numerosity Maps**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+39. **Ventral Stream of the Temporal Occipital Cortices**
+
+40. **Number Form Area (NFA)**
+
+41. **Ventral Stream**
+    - Occipitotemporal region (VOT)
+
+42. **Left NTO maps**
+
+43. **Right NTO maps**
+
+44. **Numerosity network**
+
+45. **Ventral Temporal Regions**
+
+46. **Parietal and Frontal Regions**
+
+47. **Cortical Surface**
+
+48. **Numerosity Maps**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+49. **Ventral Temporal Occipital Cortex (VOT)**
+
+50. **Left NTO map**
+
+51. **Right NTO map**
+
+52. **Numerosity Maps**
+    - Temporal-occipital lobe (NTO)
+    - Parietal-occipital lobe (NPO)
+    - Parietal lobe (NPC1-3)
+    - Frontal lobe (NF)
+
+53. **Ventral Stream of the Temporal Occipital Cortices**
+
+54. **Number Form Area (NFA)**
+
+55. **Ventral Stream**
+    - Occipitotemporal region (VOT)
+
+56. **Left NTO maps**
+
+57. **Right NTO maps**
+
+58. **Numerosity network**
+
+59. **Ventral Temporal Regions**
+
+60. **Parietal and Frontal Regions**
+
+61. **Cortical Surface**
+
+# These regions are involved in these cognitive functions:
+- Numerosity perception
+- Symbolic number processing
+- Numerical cognition
+- Semantic meaning of numbers

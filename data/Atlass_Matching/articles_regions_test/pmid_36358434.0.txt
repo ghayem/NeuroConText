@@ -1,0 +1,47 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Prefrontal Lobe**
+   - Ventromedial Prefrontal Cortex (vPFC)
+   - Dorsomedial Prefrontal Cortex (DLPFC)
+   - Ventrolateral Prefrontal Cortex (vlPFC)
+   - Rostromedial Prefrontal Cortex (rmPFC)
+
+2. **Temporal Lobe**
+   - Bilateral Middle Temporal Gyrus
+   - Left Middle Temporal Gyrus
+   - Right Middle Temporal Gyrus
+
+3. **Frontal Lobe**
+   - Left Precentral Gyrus
+   - Right Precentral Gyrus
+   - Right Superior Frontal Gyrus
+   - Left Middle Frontal Gyrus
+   - Right Inferior Frontal Gyrus
+
+4. **Parietal Lobe**
+   - Frontoparietal Network
+
+5. **Limbic System**
+   - Bilateral Caudate Nucleus
+   - Posterior Cingulate Gyrus
+   - Amygdala
+   - Orbitofrontal Cortex
+
+6. **Occipital Lobe**
+   - Lingual Gyrus
+
+7. **Cerebellum**
+   - Left Posterior Cerebellar Lobe
+   - Cerebellar Networks
+
+8. **Other Regions**
+   - Right Thalamus
+   - Right Insula
+   - Left Posterior Cerebellar Lobe
+   - Sensorimotor Network
+   - Salience Networks (SNs)
+   - Cognitive Control Networks (CCNs)
+   - Auditory Network
+   - Attention Network
+
+These regions are involved in various cognitive functions, including emotion regulation, attentional memory, top-down cognitive control, somatosensory and motor regulation, and higher centers involved in emotion regulation and executive control.

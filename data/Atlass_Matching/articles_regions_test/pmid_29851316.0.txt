@@ -1,0 +1,59 @@
+## The brain regions and sub-regions:
+
+1. **Subthalamic nucleus (STN)**
+
+2. **Nucleus ruber (NR)**
+   - Red nucleus
+   - Capsule of red nucleus (cr)
+
+3. **Substantia nigra**
+   - Pars compacta (SNC)
+   - Pars reticulata (SNR)
+
+4. **Thalamus**
+   - Central medial thalamic nucleus (CeMe)
+   - Centromedian thalamic nucleus (CM)
+   - Parafascicular thalamic nucleus (PF)
+   - Paraventricular thalamic nucleus (PV)
+   - Reunions thalamic nucleus (Re)
+   - Ventral anterior thalamic nucleus (VA)
+   - Ventral lateral posterior thalamic nucleus (VLP)
+   - Ventral lateral posterior thalamic nucleus, external part (VLPE)
+   - Ventromedial thalamic nucleus (VM)
+   - Ventral posterior medial nucleus, parvocellular part (MCP)
+   - Zona incerta (ZID)
+
+5. **Globus pallidus**
+   - Internal globus pallidus (IG)
+
+6. **Midbrain**
+
+7. **Internal medullary lamina of thalamus (iml)**
+
+8. **Optic tract (opt)**
+
+9. **Ansa lenticularis (al)**
+
+10. **Band of Giacomini (bG)**
+
+11. **Comb system (comb)**
+
+12. **Cerebello-rubro-thalamic fibers (crt)**
+
+13. **Fasciculus retroflexus (fr)**
+
+14. **Thalamic fasciculus (field H1)**
+
+15. **Thalamic fasciculus (field H2)**
+
+16. **Interpeduncular system (IPCi)**
+
+17. **Tenia of fimbria (tfi)**
+
+18. **Third ventricle (3V)**
+
+19. **Anterior commissure (AC)**
+
+20. **Posterior commissure (PC)**
+
+These regions are involved in various motor functions and are targets for deep brain stimulation (DBS) in Parkinson's disease.

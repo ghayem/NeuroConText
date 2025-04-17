@@ -1,0 +1,43 @@
+## Brain Regions and Sub-regions Mentioned in the Article:
+
+1. **Temporal Lobe**
+   - Temporal poles (TPs)
+   - Anterior inferior temporal gyrus (aITG)
+   - Anterior middle temporal gyrus (aMTG)
+   - Anterior superior temporal gyrus (aSTG)
+   - Inferior temporal gyrus (ITG)
+   - Middle temporal gyrus (MTG)
+   - Superior temporal gyrus (STG)
+   - Hippocampal and parahippocampal structures
+   - Subiculum
+   - Entorhinal cortex
+   - Hippocampus proper (CA)
+   - Inferior fusiform gyrus (FFG)
+
+2. **Limbic Regions**
+   - Amygdala
+   - Insular complex
+   - Ventromedial prefrontal cortex (vmPFC)
+   - Orbitofrontal cortex (OFC)
+   - Cingulate cortex
+   - Anterior cingulate cortex (aCG)
+   - Subcallosal gyrus (SCG)
+   - Temporo-parietal junction (TPJ)
+
+3. **Basal Ganglia**
+   - Caudate nuclei
+
+4. **Frontal Lobe**
+   - Frontal operculum
+
+5. **Parietal Lobe**
+   - Inferior parietal lobe (IPL)
+
+6. **White Matter Pathways**
+   - Inferior longitudinal fasciculus (ILF)
+   - Uncinate fasciculus (UF)
+
+7. **Other Regions**
+   - Thalamus
+
+These regions are involved in various cognitive functions, including semantic memory, language, and behavioral alterations.

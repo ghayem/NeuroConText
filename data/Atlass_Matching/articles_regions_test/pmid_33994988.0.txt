@@ -1,0 +1,30 @@
+Based on the provided neuroscientific article, the brain regions and sub-regions mentioned are:
+
+1. **Inferior Parietal Lobule (IPL)**
+    - This region is involved in visuospatial function, sensory-motor processing, executive control, and salience detection.
+
+2. **Transverse Temporal Gyrus**
+    - This region is involved in auditory processing.
+
+3. **Frontal Lobe**
+    - This region is involved in executive functions, motor control, and higher cognitive functions.
+
+4. **Entorhinal Cortex (ERC)**
+    - This region is involved in memory and navigation.
+
+5. **Temporal Lobe**
+    - This region is involved in visual and auditory processing, as well as memory and language functions.
+
+6. **Grey Matter (GM)**
+    - This region is involved in various cognitive functions including memory, emotion, and sensory perception.
+
+7. **White Matter (WM)**
+    - This region is involved in communication between different regions of the brain.
+
+8. **Cerebrospinal Fluid (CSF)**
+    - This region is involved in the protection and support of the brain.
+
+9. **Cerebral Cortex**
+    - This region is involved in higher cognitive functions including perception, memory, and consciousness.
+
+These regions are involved in various cognitive functions including memory, sensory processing, executive functions, and visuospatial functions.

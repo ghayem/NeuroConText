@@ -1,0 +1,30 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Primary Sensorimotor Cortex**
+   - Precentral gyrus
+   - Postcentral gyrus
+
+2. **Supplementary Motor Cortex**
+
+3. **Premotor Cortex**
+
+4. **Secondary Somatosensory Cortex**
+
+5. **Nucleus Subthalamicus (STN)**
+
+6. **Basal Ganglia Circuit**
+
+7. **Thalamus**
+
+8. **Frontal Medial Cortex**
+
+9. **Primary Motor Cortex**
+
+10. **Hand Area of Primary Sensorimotor Cortex**
+    - Pre- and postcentral gyrus
+
+11. **Secondary Sensory Cortex (SII)**
+
+12. **Premotor Area**
+
+These regions are involved in various sensorimotor functions, including movement initiation, execution, termination, and sensory information processing.

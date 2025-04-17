@@ -1,0 +1,37 @@
+Here are the brain regions and sub-regions mentioned in the neuroscientific article:
+
+1. **Thalamus**
+   - Medio-dorsal thalamic nucleus (MDN)
+     - Left MDN
+     - Right MDN
+
+2. **Prefrontal cortex**
+
+3. **Temporal regions**
+
+4. **Parietal regions**
+
+5. **Pallidum**
+   - Right pallidum
+
+6. **Postcentral gyrus**
+   - Right postcentral gyrus
+
+7. **Supramarginal gyrus**
+   - Left supramarginal gyrus
+   - Right supramarginal gyrus
+   - Bilateral supramarginal gyrus
+
+8. **Angular gyrus**
+   - Right supramarginal/angular gyrus
+
+9. **Putamen**
+   - Right putamen
+
+10. **Medial superior frontal gyrus**
+    - Right medial superior frontal gyrus
+
+11. **Middle cingulate cortex**
+    - Left middle cingulate cortex
+
+These regions are involved in a variety of cognitive and emotional processes, including sensory filtering, circadian rhythms, level of alertness and consciousness, mood regulation, cognitive functions, and somatosensory information processing.

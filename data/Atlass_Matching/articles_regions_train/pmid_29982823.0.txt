@@ -1,0 +1,44 @@
+## Brain Regions and Sub-Regions
+
+1. **Reward Network**
+    - **Dorsal Striatum**
+        - Caudate
+        - Putamen
+    - **Ventral Striatum**
+        - Nucleus accumbens (NAcc)
+    - **Ventromedial Prefrontal Cortex (vmPFC)**
+    - **Ventral Tegmental Area (VTA)**
+
+2. **Visual Attention and Processing**
+    - **Primary Visual Cortex**
+    - **Occipital Cortex**
+        - Lateral occipital cortex
+        - Fusiform cortex
+        - Temporooccipital cortex
+    - **Inferior Frontal Gyrus**
+    - **Bilateral Intraparietal Sulcus**
+
+3. **Emotional and Cognitive Processing**
+    - **Thalamus**
+    - **Bilateral Insula**
+    - **Orbitofrontal Cortex**
+    - **Hippocampus**
+    - **Amygdala**
+    - **Anterior Cingulate Cortex**
+    - **Paracingulate Cortex**
+    - **Dorsal Anterior Cingulate Cortex (dACC)**
+
+4. **Motor and Sensory Processing**
+    - **Primary Motor Cortex**
+    - **Supplementary Motor Cortex**
+    - **Cerebellum**
+
+5. **Default Mode Network**
+    - **Precuneus**
+    - **Bilateral Temporoparietal Junction**
+
+6. **Salience Network**
+    - **Anterior Insula**
+    - **Dorsal Anterior Cingulate Cortex (dACC)**
+
+These regions are involved in various cognitive functions, including reward processing, social cognition, self-referential thought, visual attention, emotional processing, and decision-making.

@@ -1,0 +1,27 @@
+Sure, here are the brain regions and sub-regions mentioned in the article:
+
+1. **Default Mode Network (DMN)**
+   - Core brain area (not specified)
+
+2. **Central Executive Network (CEN)**
+   - Dorsolateral prefrontal cortex (dlPFC)
+   - Anterior cingulate cortex
+   - Parietal lobe (parts of)
+
+3. **Salience Network (SN)**
+
+4. **Post DMN**
+
+5. **Right CEN**
+
+6. **Brain Networks**
+   - Alpha-DMN
+   - Beta-DMN
+   - Alpha-CEN
+   - Beta-CEN
+   - Alpha-SN
+   - Beta-SN
+
+7. **Posterior Brain Area**
+
+These regions are involved in various cognitive and emotional functions, including self-reference, self-reflection, emotional management, attention regulation, working memory, executive function, and emotional response.

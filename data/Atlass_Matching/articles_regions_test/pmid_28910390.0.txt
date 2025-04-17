@@ -1,0 +1,56 @@
+Based on the provided neuroscientific article, here are the brain regions and sub-regions mentioned:
+
+1. **Left postcentral gyrus**
+
+2. **Left supplementary motor area**
+
+3. **Left inferior occipital gyrus**
+
+4. **Left calcarine**
+
+5. **Left cerebellar posterior lobe**
+
+6. **Left cerebellar_7b**
+
+7. **Right calcarine**
+
+8. **Right frontoparietal regions**
+   - Middle frontal gyrus
+   - Postcentral gyrus
+
+9. **Right insula**
+
+10. **Left hippocampus**
+
+11. **Right middle occipital gyrus**
+
+12. **Left precuneus**
+
+13. **Right fusiform**
+
+14. **Right parietal lobule**
+
+15. **Default mode network (DMN)**
+   - Bilateral precuneus (PCu)
+   - Posterior cingulate cortex (PCC)
+
+16. **Right inferior parietal lobule**
+
+17. **Right precuneus**
+
+18. **Right angular gyrus**
+
+19. **Right parahippocampus gyrus**
+
+20. **Superior temporal gyrus**
+
+21. **Left supplementary motor area (SMA)**
+
+22. **Left inferior occipital gyrus (IOG)**
+
+23. **Right middle occipital gyrus (MOG)**
+
+24. **Frontoparietal network (FPN)**
+   - Frontoparietal regions
+
+These regions are involved in various cognitive functions, including self-referential activities, consciousness, visual processing, emotional processing, cognitive control, and more.

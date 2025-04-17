@@ -1,0 +1,22 @@
+{
+  "AAL": [],
+  "Harvard_Oxford": [
+    "Occipital Fusiform Gyrus"
+  ],
+  "DiFuMo": [
+    "Entorhinal cortex",
+    "Fusiform gyrus RH",
+    "Fusiform gyrus anterior LH",
+    "Fusiform gyrus anterior RH",
+    "Fusiform gyrus mid-anterior LH",
+    "Fusiform gyrus mid-anterior RH",
+    "Fusiform gyrus mid-posterior LH",
+    "Fusiform gyrus mid-posterior RH",
+    "Fusiform gyrus middle RH",
+    "Fusiform gyrus posterior LH",
+    "Fusiform gyrus posterior RH"
+  ],
+  "Juelich": [
+    "GM Hippocampus entorhinal cortex"
+  ]
+}
