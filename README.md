@@ -2,8 +2,11 @@
 ## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
 
 This repository contains the code for the paper accepted at MICCAI'24:
+
 [Link to the NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
+
 [Link to the NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
+
 [Link to the NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
 
 ### Getting Started
