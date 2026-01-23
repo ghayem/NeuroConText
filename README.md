@@ -1,4 +1,4 @@
-Here is the updated README. I have integrated the **uv** environment ## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
+## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
 
 This repository contains the code for the paper accepted at MICCAI'24:
 
@@ -26,7 +26,7 @@ curl -LsSf https://astral-sh.uv.install.sh | sh
 
 
 2. **Initialize the environment**:
-From the project root, run the following to create a virtual environment with the correct Python version (3.10.9) and install all dependencies:
+Create the virtual environment and install all dependencies:
 ```bash
 uv sync
 
@@ -43,17 +43,17 @@ source .venv/bin/activate
 
 ### 2. Download and Prepare Data
 
-To automate the setup of the ~8GB dataset from Zenodo, we provide a high-performance parallel downloader. This script handles the download, extraction, and directory placement automatically.
+We provide a high-performance parallel downloader to handle the ~8GB dataset from Zenodo. This script automates the download, extraction, and directory placement.
 
 ```bash
-# This script uses pycurl for parallel downloading and unzips to ../data/
+# Uses pycurl for parallel downloading; extracts to the data/ folder
 uv run utils/download_data.py
 
 ```
 
 ### 3. Running the Code
 
-Once the environment is synced and the data is downloaded, you can start the training and evaluation pipeline:
+Once the environment is synced and the data is downloaded, execute the training pipeline:
 
 ```bash
 uv run main.py
@@ -67,22 +67,22 @@ uv run main.py
 ```text
 NeuroConText/
 │
-├── data/               # Automatically populated by download_data.py
+├── data/                # Populated by download_data.py
 │   └── data_NeuroConText/
-│       └── (Extracted .pkl embedding files)
+│       └── (Extracted .pkl files)
 │
-├── src/                # Core utility logic
-│   ├── utils.py
-│   └── ...
+├── src/                 # Core utilities
+│   └── utils.py
+│
 ├── utils/
-│   └── download_data.py # High-performance parallel downloader
+│   └── download_data.py  # Parallel downloader
 │
-├── layers.py           # Model architectures (ClipModel, ResidualHead)
-├── losses.py           # Contrastive Loss functions
-├── main.py             # Main entry point for training/evaluation
-├── metrics.py          # Evaluation metrics (Recall@N, Mix-Match)
-├── plotting.py         # Visualization utilities
-├── training.py         # Training loops and callbacks
+├── layers.py            # Model architectures
+├── losses.py            # Contrastive losses
+├── main.py              # Training entry point
+├── metrics.py           # Evaluation logic
+├── plotting.py          # Visualizations
+├── training.py          # Training loop
 └── README.md
 
 ```
