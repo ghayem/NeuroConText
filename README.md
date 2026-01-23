@@ -1,68 +1,89 @@
-
-## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
+Here is the updated README. I have integrated the **uv** environment ## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
 
 This repository contains the code for the paper accepted at MICCAI'24:
 
-[Link to the NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
+[NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
 
-[Link to the NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
+[NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
 
-[Link to the NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
+[NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
+
+---
 
 ### Getting Started
 
-To get started with this project, follow the steps below.
+Follow these steps to set up the environment, download the data, and run the training pipeline.
 
-### Prerequisites
+### 1. Environment Setup (using `uv`)
 
-Make sure you have Python installed on your system. The code has been tested with Python 3.10.9. 
+We use [uv](https://github.com/astral-sh/uv) for extremely fast and reproducible dependency management.
 
-### Data
+1. **Install uv** (if not already installed):
+```bash
+curl -LsSf https://astral-sh.uv.install.sh | sh
 
-To work with the code, you need to download the dataset from the following link: 
-[data_NeuroConText_MICCAI24](https://zenodo.org/records/14169410?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0NmUwMWZhLWVmYzQtNDUxZS05NTg3LWJjZDdhZGY5MGRiYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDlhYjYwYWYwN2Q1Y2JmYWU0MjE0NTFlNGYzMTQxZiJ9.p7EhGnpNIBN73FOn-L5MmQ9Dz5Cx86Y9x7kZWUyVz_fTp_lLxEEb21c4aBC-wb9Fbyg7dF8r1uHycu2I_dZBXw).
+```
 
-After downloading, save the data in the `data` folder within the working directory of this project.
 
-### Running the Code
+2. **Initialize the environment**:
+From the project root, run the following to create a virtual environment with the correct Python version (3.10.9) and install all dependencies:
+```bash
+uv sync
 
-Once the data is in place, you can run the main script to execute the code. Use the following command:
+```
+
+
+3. **Activate the environment**:
+```bash
+source .venv/bin/activate
+
+```
+
+
+
+### 2. Download and Prepare Data
+
+To automate the setup of the ~8GB dataset from Zenodo, we provide a high-performance parallel downloader. This script handles the download, extraction, and directory placement automatically.
 
 ```bash
-python main.py
+# This script uses pycurl for parallel downloading and unzips to ../data/
+uv run utils/download_data.py
+
 ```
+
+### 3. Running the Code
+
+Once the environment is synced and the data is downloaded, you can start the training and evaluation pipeline:
+
+```bash
+uv run main.py
+
+```
+
+---
 
 ### Directory Structure
 
-The directory structure of the project should look like this:
-
-```
+```text
 NeuroConText/
 │
-├── data/
-│   └── (Downloaded data files from the link provided above.)
+├── data/               # Automatically populated by download_data.py
+│   └── data_NeuroConText/
+│       └── (Extracted .pkl embedding files)
 │
-├── src/
-│   ├── __init__.py
-│   ├── cognitive_atlas.py
-│   ├── constants.py
-│   ├── datasets.py
-│   ├── embeddings.py
-│   ├── load_trained_model.py
-│   ├── loader.py
-│   ├── metrics.py
-│   ├── nnod.py
-│   ├── parallel.py
-│   └── utils.py
+├── src/                # Core utility logic
+│   ├── utils.py
+│   └── ...
+├── utils/
+│   └── download_data.py # High-performance parallel downloader
 │
-├── layers.py
-├── losses.py
-├── main.py
-├── metrics.py
-├── plotting.py
-├── training.py
-└── utils.py
-├── README.md
+├── layers.py           # Model architectures (ClipModel, ResidualHead)
+├── losses.py           # Contrastive Loss functions
+├── main.py             # Main entry point for training/evaluation
+├── metrics.py          # Evaluation metrics (Recall@N, Mix-Match)
+├── plotting.py         # Visualization utilities
+├── training.py         # Training loops and callbacks
+└── README.md
 
 ```
 

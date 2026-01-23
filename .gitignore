@@ -1,0 +1,24 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Ignore the 8GB dataset and unzipped folders)
+data/
+*.zip
+*.pkl
+*.npy
+
+# Model Weights (Ignore large PyTorch checkpoints)
+*.pt
+*.pth
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# UV Lock and Version (Optional: keep if you want reproducible builds)
+# .python-version
+# uv.lock

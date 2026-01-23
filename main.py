@@ -19,31 +19,36 @@ os.chdir(current_folder_path)
 print("Current Working Directory: ", os.getcwd())
 print("sys.path: ", sys.path)
 
-# %% Load data
+# %% Load data (Memory Optimized)
 import os
 import pickle
+import gc # Garbage Collector
 
-# Define the directory where the data files are saved
 current_directory = os.getcwd()
-data_dir = os.path.join(current_directory, 'data')
+data_dir = os.path.join(current_directory, 'data', 'data_NeuroConText')
 
-# List all files in the directory
-files = os.listdir(data_dir)
+if not os.path.exists(data_dir):
+    print(f"❌ Error: Directory not found at {data_dir}")
+    data_dir = os.path.join(current_directory, 'data')
 
-# Dictionary to store the loaded data
-loaded_data = {}
+print(f"🚀 Loading data from {data_dir}...")
 
-# Load each file and store it in the dictionary
-for file in files:
+# Load files one by one directly into globals to save RAM
+for file in os.listdir(data_dir):
     if file.endswith('.pkl'):
         var_name = file.replace('.pkl', '')
-        with open(os.path.join(data_dir, file), 'rb') as f:
-            loaded_data[var_name] = pickle.load(f)
+        file_path = os.path.join(data_dir, file)
+        
+        print(f"📦 Loading {var_name}...")
+        with open(file_path, 'rb') as f:
+            # Direct injection into globals avoids the 'loaded_data' dictionary overhead
+            globals()[var_name] = pickle.load(f)
+        
+        # Force garbage collection after each large file load
+        gc.collect()
 
-# Unpack the loaded data into variables
-globals().update(loaded_data)
+print("✅ Data loaded. Memory freed.")
 
-print("All data files have been loaded.")
 # %% import required modules
 
 from collections import defaultdict
