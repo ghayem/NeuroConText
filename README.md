@@ -64,7 +64,6 @@ uv run main.py
 
 ### Directory Structure
 
-```text
 NeuroConText/
 │
 ├── data/                # Populated by download_data.py
@@ -85,11 +84,13 @@ NeuroConText/
 ├── training.py          # Training loop
 └── README.md
 
-```
+---
 
 ### Contact
 
-For any issues or questions regarding the code, please contact fateme[dot]ghayem[at]gmail[dot]come.
+For any issues or questions regarding the code, please contact fateme[dot]ghayem[at]gmail[dot]com.
+
+---
 
 ### License
 
