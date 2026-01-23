@@ -63,6 +63,7 @@ uv run main.py
 ---
 
 ### Directory Structure
+```
 
 NeuroConText/
 │
@@ -83,7 +84,7 @@ NeuroConText/
 ├── plotting.py          # Visualizations
 ├── training.py          # Training loop
 └── README.md
-
+```
 ---
 
 ### Contact
