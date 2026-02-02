@@ -1,74 +1,97 @@
-
 ## NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature
 
 This repository contains the code for the paper accepted at MICCAI'24:
 
-[Link to the NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
+[NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
 
-[Link to the NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
+[NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
 
-[Link to the NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
+[NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
+
+---
 
 ### Getting Started
 
-To get started with this project, follow the steps below.
+Follow these steps to set up the environment, download the data, and run the training pipeline.
 
-### Prerequisites
+### 1. Environment Setup (using `uv`)
 
-Make sure you have Python installed on your system. The code has been tested with Python 3.10.9. 
+We use [uv](https://github.com/astral-sh/uv) for extremely fast and reproducible dependency management.
 
-### Data
+1. **Install uv** (if not already installed):
+```bash
+curl -LsSf https://astral-sh.uv.install.sh | sh
 
-To work with the code, you need to download the dataset from the following link: 
-[data_NeuroConText_MICCAI24](https://zenodo.org/records/14169410?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0NmUwMWZhLWVmYzQtNDUxZS05NTg3LWJjZDdhZGY5MGRiYyIsImRhdGEiOnt9LCJyYW5kb20iOiI3MDlhYjYwYWYwN2Q1Y2JmYWU0MjE0NTFlNGYzMTQxZiJ9.p7EhGnpNIBN73FOn-L5MmQ9Dz5Cx86Y9x7kZWUyVz_fTp_lLxEEb21c4aBC-wb9Fbyg7dF8r1uHycu2I_dZBXw).
+```
 
-After downloading, save the data in the `data` folder within the working directory of this project.
 
-### Running the Code
+2. **Initialize the environment**:
+Create the virtual environment and install all dependencies:
+```bash
+uv sync
 
-Once the data is in place, you can run the main script to execute the code. Use the following command:
+```
+
+
+3. **Activate the environment**:
+```bash
+source .venv/bin/activate
+
+```
+
+
+
+### 2. Download and Prepare Data
+
+We provide a high-performance parallel downloader to handle the ~8GB dataset from Zenodo. This script automates the download, extraction, and directory placement.
 
 ```bash
-python main.py
+# Uses pycurl for parallel downloading; extracts to the data/ folder
+uv run utils/download_data.py
+
 ```
+
+### 3. Running the Code
+
+Once the environment is synced and the data is downloaded, execute the training pipeline:
+
+```bash
+uv run main.py
+
+```
+
+---
 
 ### Directory Structure
-
-The directory structure of the project should look like this:
-
 ```
+
 NeuroConText/
 │
-├── data/
-│   └── (Downloaded data files from the link provided above.)
+├── data/                # Populated by download_data.py
+│   └── data_NeuroConText/
+│       └── (Extracted .pkl files)
 │
-├── src/
-│   ├── __init__.py
-│   ├── cognitive_atlas.py
-│   ├── constants.py
-│   ├── datasets.py
-│   ├── embeddings.py
-│   ├── load_trained_model.py
-│   ├── loader.py
-│   ├── metrics.py
-│   ├── nnod.py
-│   ├── parallel.py
+├── src/                 # Core utilities
 │   └── utils.py
 │
-├── layers.py
-├── losses.py
-├── main.py
-├── metrics.py
-├── plotting.py
-├── training.py
-└── utils.py
-├── README.md
-
+├── utils/
+│   └── download_data.py  # Parallel downloader
+│
+├── layers.py            # Model architectures
+├── losses.py            # Contrastive losses
+├── main.py              # Training entry point
+├── metrics.py           # Evaluation logic
+├── plotting.py          # Visualizations
+├── training.py          # Training loop
+└── README.md
 ```
+---
 
 ### Contact
 
-For any issues or questions regarding the code, please contact fateme[dot]ghayem[at]gmail[dot]come.
+For any issues or questions regarding the code, please contact fateme[dot]ghayem[at]gmail[dot]com.
+
+---
 
 ### License
 
