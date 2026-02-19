@@ -4,9 +4,9 @@ This repository contains the code for the paper accepted at MICCAI'24:
 
 [NeuroConText paper at MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31).
 
-[NeuroConText paper extended version](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract).
+[NeuroConText paper extended version at Imaging Neuroscience, MIT Press, 2026](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1162/135353/NeuroConText-Contrastive-Learning-for-Neuroscience?searchresult=1).
 
-[NeuroConText Supplementary Material](https://drive.google.com/file/d/17IJ7Jn9cHXbMiBEzCnTepDcleeXHpRN-/view?usp=drive_link).
+[NeuroConText Supplementary Material](https://mitp.silverchair-cdn.com/mitp/content_public/journal/imag/jam/10.1162_imag.a.1162/2/imag.a.1162_supp.pdf?Expires=1774531548&Signature=Z20WiuTvdl6-wdlMQ3Np4e8FMsOzmXZTNVkzrcelLmvI8zdEyhfOojyBKzbOtJ3PNsqPa7zBV4w~4S~EZ6jAGtzSnZaYsPBrPSRHEBhs1p7FzRZwvr4HVxER4GNunqKhO9vy4wx1pTbZZxYztJLur69H00igN3zno0jYD1ekOVWf9du31h771Vu1BRA8ZqekeRfdmS1~eL-iV3xCVh6pEuT9~pxML5DiUC3odxTej4N9xveB0pEqEyj6o63VItm~pmuk6XMHlJVHvjp5JGO0kr4bYZsjTT0vUFbBxfld7Lkc-uOpcTswJnYI~5Djsy40ZfIHeBGmXCEuHB4QQgmyXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA).
 
 ---
 
