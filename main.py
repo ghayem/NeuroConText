@@ -38,12 +38,12 @@ for file in os.listdir(data_dir):
     if file.endswith('.pkl'):
         var_name = file.replace('.pkl', '')
         file_path = os.path.join(data_dir, file)
-        
+
         print(f"📦 Loading {var_name}...")
         with open(file_path, 'rb') as f:
             # Direct injection into globals avoids the 'loaded_data' dictionary overhead
             globals()[var_name] = pickle.load(f)
-        
+
         # Force garbage collection after each large file load
         gc.collect()
 
@@ -240,3 +240,4 @@ for loader_name in ["train", "validation", "test"]:
     print("="*10, loader_name, "="*10)
     for metric_name in ["recall@10", "recall@100", "mix_match"]:
         print(f"{metric_name}: {np.mean(metrics[loader_name][metric_name]):.3f} +- {np.std(metrics[loader_name][metric_name]):.3f}")
+
