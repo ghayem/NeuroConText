@@ -99,4 +99,27 @@ This work is supported by the KARAIB AI chair (ANR-20-CHIA-0025-01), the ANR-22-
 
 ---
 
-Thank you for using NeuroConText!
+## Citation
+
+Thank you for using NeuroConText! If you use this code, please cite:
+
+```bibtex
+@article{ghayem2026neurocontext,
+  title={NeuroConText: Contrastive learning for neuroscience meta-analysis with rich text representation},
+  author={Ghayem, Fateme and Meudec, Rapha{\"e}l and Dock{\`e}s, J{\'e}r{\^o}me and Thirion, Bertrand and Wassermann, Demian},
+  journal={Imaging Neuroscience},
+  volume={4},
+  pages={IMAG--a},
+  year={2026},
+  publisher={MIT Press 255 Main Street, 9th Floor, Cambridge, Massachusetts 02142, USA~…}
+}
+
+@inproceedings{meudec2024neurocontext,
+  title={NeuroConText: Contrastive text-to-brain mapping for neuroscientific literature},
+  author={Meudec, Rapha{\"e}l and Ghayem, Fateme and Dock{\`e}s, J{\'e}r{\^o}me and Wassermann, Demian and Thirion, Bertrand},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={325--335},
+  year={2024},
+  organization={Springer}
+}
+```
