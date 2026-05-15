@@ -38,12 +38,12 @@ for file in os.listdir(data_dir):
     if file.endswith('.pkl'):
         var_name = file.replace('.pkl', '')
         file_path = os.path.join(data_dir, file)
-        
+
         print(f"📦 Loading {var_name}...")
         with open(file_path, 'rb') as f:
             # Direct injection into globals avoids the 'loaded_data' dictionary overhead
             globals()[var_name] = pickle.load(f)
-        
+
         # Force garbage collection after each large file load
         gc.collect()
 
@@ -116,6 +116,7 @@ metrics = {
     "test": defaultdict(list),
 }
 number_of_folds_to_run = 1
+
 for fold, (train_index, val_index) in enumerate(k_fold.split(preprocessed_train_text_embeddings)):
     val_index = val_index[:validation_size]  # Strict 1000 validation samples
     if fold >= number_of_folds_to_run:
@@ -239,3 +240,4 @@ for loader_name in ["train", "validation", "test"]:
     print("="*10, loader_name, "="*10)
     for metric_name in ["recall@10", "recall@100", "mix_match"]:
         print(f"{metric_name}: {np.mean(metrics[loader_name][metric_name]):.3f} +- {np.std(metrics[loader_name][metric_name]):.3f}")
+

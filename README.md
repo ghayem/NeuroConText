@@ -14,6 +14,15 @@ This repository contains the code for the paper accepted at MICCAI'24:
 
 Follow these steps to set up the environment, download the data, and run the training pipeline.
 
+### 0. Clone the Repository
+
+First, ensure you have [Git](https://git-scm.com/install/) installed. Then, clone the repository and navigate into the project directory:
+
+```bash
+git clone https://github.com/ghayem/NeuroConText
+cd NeuroConText
+```
+
 ### 1. Environment Setup (using `uv`)
 
 We use [uv](https://github.com/astral-sh/uv) for extremely fast and reproducible dependency management.
