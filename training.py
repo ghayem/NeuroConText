@@ -7,6 +7,12 @@ from src.utils import plot_training, recall_n
 def count_parameters(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
+def get_voxels_from_difumo__(array, atlas_masked, masker):
+    array = array.detach().cpu()
+    img = masker.inverse_transform(array @ atlas_masked)
+    # img = image.resample_to_img(img, target_img)
+    return img.get_fdata().flatten()
+
 def predict(model, data_loader, device="cpu"):
     model.eval()
 
@@ -93,6 +99,48 @@ def val_autoencoder(model, val_loader, criterion, criterion_mse, beta, alpha, de
             bs = image_embeddings.size(0)
             contrastive_loss = criterion(image_embed, text_embed, model.logit_scale, model.logit_bias)
             mse_loss = criterion_mse(image_embeddings, latent_decoded)
+            min_value = torch.min(torch.cat((image_embeddings, latent_decoded)))
+            max_value = torch.max(torch.cat((image_embeddings, latent_decoded)))
+            range_value = max_value - min_value
+            scaling_factor_MinMax = 1 / range_value
+            scaling_factor_Max = 1 / max_value
+            image_embeddings_norm = torch.norm(image_embeddings, p='fro')
+            latent_decoded_norm = torch.norm(latent_decoded, p='fro')
+            scaling_factor_norm = 1 / (image_embeddings_norm * latent_decoded_norm)
+            scaling_factor_cotrs = contrastive_loss.item() / mse_loss.item()
+            scaling_factor_off = 1
+            scaled_mse_loss = mse_loss * scaling_factor_off
+            loss = alpha * contrastive_loss + beta * scaled_mse_loss
+
+            val_batch.append(loss.item())
+            val_contrastive_batch.append(contrastive_loss.item())
+            val_mse_batch.append(scaled_mse_loss.item())
+    return np.mean(val_batch), np.mean(val_contrastive_batch), np.mean(val_mse_batch)
+
+def val_autoencoder_DiceLoss(model, val_loader, criterion, criterion_mse, beta, alpha, atlas_masked, 
+        masker, device="cpu"):
+    model.eval()
+
+    val_batch = []
+    val_contrastive_batch = []
+    val_mse_batch = []
+    with torch.no_grad():
+        for _, batch in enumerate(val_loader, 0):
+            image_embeddings, text_embeddings = (
+                batch[0].to(device),
+                batch[1].to(device),
+            )
+            image_embed, text_embed, latent_decoded = model(image_embeddings, text_embeddings)
+            
+            bs = image_embeddings.size(0)
+            contrastive_loss = criterion(image_embed, text_embed, model.logit_scale, model.logit_bias)
+            # get voxels from difumo
+            # groundtruth_voxels = get_voxels_from_difumo__(image_embeddings, atlas_masked, masker)
+            # predicted_voxels = get_voxels_from_difumo__(latent_decoded, atlas_masked, masker)
+            
+            # mse_loss = criterion_mse(torch.tensor(groundtruth_voxels).float().to(device), torch.tensor(predicted_voxels).float().to(device))
+            mse_loss = criterion_mse(image_embeddings, latent_decoded)
+            
             min_value = torch.min(torch.cat((image_embeddings, latent_decoded)))
             max_value = torch.max(torch.cat((image_embeddings, latent_decoded)))
             range_value = max_value - min_value
@@ -238,6 +286,7 @@ def train_autoencoder(model, train_loader, val_loader, optimizer_encoder, optimi
 
             # Loss computation
             criterion_mse = nn.MSELoss()
+            # criterion_mse = nn.L1Loss()
             bs = image_embeddings.size(0)
             contrastive_loss = criterion(image_embed, text_embed, model.logit_scale, model.logit_bias)
             mse_loss = criterion_mse(image_embeddings, latent_decoded) 
@@ -312,6 +361,158 @@ def train_autoencoder(model, train_loader, val_loader, optimizer_encoder, optimi
         return model, loss_train, loss_val, loss_contrastive_train, loss_contrastive_val, loss_mse_train, loss_mse_val, callbacks_outputs
 
     return model, loss_train, loss_val, loss_contrastive_train, loss_contrastive_val, loss_mse_train, loss_mse_val
+
+########### DiceLoss and train AE
+
+class DiceLoss(nn.Module):
+    def __init__(self):
+        super(DiceLoss, self).__init__()
+
+    def forward(self, pred, target):
+        smooth = 1.
+        iflat = pred.contiguous().view(-1)
+        tflat = target.contiguous().view(-1)
+        intersection = (iflat * tflat).sum()
+        A_sum = torch.sum(iflat * iflat)
+        B_sum = torch.sum(tflat * tflat)
+        return 1 - ((2. * intersection + smooth) / (A_sum + B_sum + smooth))
+
+def train_autoencoder_DiceLoss(model, train_loader, val_loader, 
+          optimizer_encoder, optimizer_decoder, criterion, beta, alpha,
+          atlas_masked, masker,
+          scheduler=None, num_epochs=100, device="cpu", verbose=False,
+          output_dir=None, callbacks=None, clip_grad_norm=None):
+    loss_train = []
+    loss_val = []
+    loss_contrastive_train = []
+    loss_contrastive_val = []
+    loss_mse_train = []
+    loss_mse_val = []
+    best_state_dict = None
+    best_val_loss = None
+    callbacks_outputs = []
+    model = model.to(device)
+
+    for epoch_index in tqdm.trange(num_epochs, disable=not verbose):
+        model.train()
+
+        batch_loss = []
+        batch_loss_contrastive = []
+        batch_loss_mse = []
+
+        batch_counter = 0
+        for batch in train_loader:
+            batch_counter += 1
+            # Erase previous gradients
+            optimizer_encoder.zero_grad()
+            optimizer_decoder.zero_grad()
+            # Retrieve mini-batch
+            # image_embeddings, text_embeddings, mask = (
+            #     batch[0].to(device),
+            #     batch[1].to(device),
+            #     batch[2].to(device),
+            # )
+
+            image_embeddings, text_embeddings = (
+                batch[0].to(device),
+                batch[1].to(device),
+                # batch[2].to(device),
+            )
+
+            # print(f"extract input data")
+            # Forward pass
+            # print(f"model: {model}")
+            image_embed, text_embed, latent_decoded = model(image_embeddings, text_embeddings)
+
+            # Loss computation
+            criterion_mse = DiceLoss()
+            # criterion_mse = nn.L1Loss()
+            bs = image_embeddings.size(0)
+            contrastive_loss = criterion(image_embed, text_embed, model.logit_scale, model.logit_bias)
+            # convert difumo to voxels
+            # groundtruth_voxels = get_voxels_from_difumo__(image_embeddings.cpu(), atlas_masked, masker)
+            # predicted_voxels = get_voxels_from_difumo__(latent_decoded.cpu(), atlas_masked, masker)
+
+            print("########################")
+            print(f"we are in batch {batch_counter}")
+            print(f"we are in epoch {epoch_index}")
+
+            # mse_loss = criterion_mse(torch.tensor(groundtruth_voxels).float().to(device), torch.tensor(predicted_voxels).float().to(device))
+            mse_loss = criterion_mse(image_embeddings, latent_decoded)
+
+            # Compute the range of embeddings
+            min_value = torch.min(torch.cat((image_embeddings, latent_decoded)))
+            max_value = torch.max(torch.cat((image_embeddings, latent_decoded)))
+            range_value = max_value - min_value
+            scaling_factor_MinMax = 1 / range_value
+            scaling_factor_Max = 1 / max_value
+            image_embeddings_norm = torch.norm(image_embeddings, p='fro')
+            latent_decoded_norm = torch.norm(latent_decoded, p='fro') 
+            scaling_factor_norm = 1 / (image_embeddings_norm * latent_decoded_norm)
+            scaling_factor_cotrs = contrastive_loss.item() / mse_loss.item()
+            scaling_factor_off = 1
+            scaled_mse_loss = mse_loss * scaling_factor_off
+            loss = alpha * contrastive_loss + beta * scaled_mse_loss
+            # loss = alpha * criterion(image_embed, text_embed, model.logit_scale, model.logit_bias) + beta * criterion_mse(image_embeddings, latent_decoded) / bs
+            
+            batch_loss.append(loss.item())
+            batch_loss_contrastive.append(contrastive_loss.item())
+            batch_loss_mse.append(scaled_mse_loss.item())
+
+            # Backpropagation (gradient computation)
+            loss.backward()
+
+            if clip_grad_norm is not None:
+                torch.nn.utils.clip_grad_norm_(model.parameters(), clip_grad_norm)
+
+            # Parameter update
+            optimizer_encoder.step()
+            optimizer_decoder.step()
+            # Scheduler update
+            if scheduler is not None:
+                scheduler.step()
+
+        # Compute mean epoch loss over all batches
+        epoch_train_loss = np.mean(batch_loss)
+        epoch_train_loss_contrastive = np.mean(batch_loss_contrastive)
+        epoch_train_loss_mse = np.mean(batch_loss_mse)
+        if np.isnan(epoch_train_loss):
+            raise ValueError("Training loss is NaN. Consider decreasing the learning rate.")
+        loss_train.append(epoch_train_loss)
+        loss_contrastive_train.append(epoch_train_loss_contrastive)
+        loss_mse_train.append(epoch_train_loss_mse)
+
+        # Compute val loss
+        epoch_val_loss, epoch_val_loss_contrastive, epoch_val_loss_mse = val_autoencoder_DiceLoss(
+            model, val_loader, 
+            criterion, 
+            criterion_mse, 
+            beta, alpha, 
+            atlas_masked, masker, 
+            device=device)
+
+        if callbacks is not None:
+            callbacks_outputs.append([
+                callback(model, epoch_index) for callback in callbacks
+            ])
+
+        if best_val_loss is None or epoch_val_loss < best_val_loss:
+            best_val_loss = epoch_val_loss
+            best_state_dict = model.state_dict()
+        loss_val.append(epoch_val_loss)
+        loss_contrastive_val.append(epoch_val_loss_contrastive)
+        loss_mse_val.append(epoch_val_loss_mse)
+
+    if output_dir is not None:
+        torch.save(best_state_dict, output_dir / "best_val.pt")
+        torch.save(model.state_dict(), output_dir / "last.pt")
+
+    model.load_state_dict(best_state_dict)
+    if callbacks is not None:
+        return model, loss_train, loss_val, loss_contrastive_train, loss_contrastive_val, loss_mse_train, loss_mse_val, callbacks_outputs
+
+    return model, loss_train, loss_val, loss_contrastive_train, loss_contrastive_val, loss_mse_train, loss_mse_val
+
 
 
 def single_input_predict(model, data_loader, device="cpu"):
