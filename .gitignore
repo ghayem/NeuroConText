@@ -11,12 +11,15 @@ data/
 *.npy
 
 # Generated results / embeddings
-results/*
+results/
 results/*.csv
 results/full_text_embeddings/
 results/text_embeddings_mistral/
 results/latent_embeddings/
 results/test_metadata.pkl.gz
+
+# saved output models
+output_full/ 
 
 # Model Weights
 *.pt
