@@ -10,6 +10,10 @@ data/
 *.pkl
 *.npy
 
+# ignore results folder
+results/
+output_full/
+
 # Model Weights (Ignore large PyTorch checkpoints)
 *.pt
 *.pth
