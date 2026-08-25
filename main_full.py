@@ -49,6 +49,18 @@ for file in os.listdir(data_dir):
 
 print("✅ Data loaded. Memory freed.")
 
+# %% Load test-set pmids (row-aligned with preprocessed_test_gaussian_embeddings)
+# This file was generated separately to fix a pre-existing ordering issue --
+# test_pmids.pkl (a set, unordered) cannot be used for this purpose.
+
+with open(os.path.join(current_folder_path, 'pmids_order', 'test_pmids.txt')) as f:
+    test_pmids = [int(line.strip()) for line in f]
+
+assert len(test_pmids) == preprocessed_test_gaussian_embeddings.shape[0], (
+    f"pmid count {len(test_pmids)} != test set size "
+    f"{preprocessed_test_gaussian_embeddings.shape[0]}"
+)
+
 # %% import required modules
 
 import shutil
@@ -57,6 +69,7 @@ from functools import partial
 from pathlib import Path
 
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 import torch
 import torch.nn as nn
@@ -296,6 +309,22 @@ for fold, (train_index, val_index) in enumerate(k_fold.split(preprocessed_train_
         ground_truth_difumo = torch.stack([loader.dataset[i][0] for i in range(len(loader.dataset))])
         reconstruction_mse = nn.functional.mse_loss(latent_decoded, ground_truth_difumo).item()
         metrics[loader_name]["reconstruction_mse"].append(reconstruction_mse)
+
+        # --- Export test-set DiFuMo coefficients for downstream Dice evaluation ---
+        # (evaluation/dice_eval_test.py reads these two CSVs from reconstruction_output/)
+        if loader_name == "test":
+            reconstruction_dir = Path(__file__).parent / "reconstruction_output"
+            reconstruction_dir.mkdir(exist_ok=True)
+
+            test_index = pd.Index(test_pmids, name="pmid")
+
+            pd.DataFrame(latent_decoded.numpy(), index=test_index).to_csv(
+                reconstruction_dir / "test_clip_AE_latent_decoded_difumo.csv"
+            )
+            pd.DataFrame(ground_truth_difumo.numpy(), index=test_index).to_csv(
+                reconstruction_dir / "preprocessed_test_gaussian_embeddings_groundtruth_difumo.csv"
+            )
+            print(f"Test DiFuMo coefficients exported to {reconstruction_dir}")
 
 
 print(f"Metrics after {fold} folds")

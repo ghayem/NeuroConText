@@ -4,13 +4,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data (Ignore the 8GB dataset and unzipped folders)
+# Data
 data/
 *.zip
 *.pkl
 *.npy
 
-# Model Weights (Ignore large PyTorch checkpoints)
+# Generated results / embeddings
+results/*.csv
+results/full_text_embeddings/
+results/text_embeddings_mistral/
+results/latent_embeddings/
+results/test_metadata.pkl.gz
+
+# Model Weights
 *.pt
 *.pth
 
@@ -19,6 +26,6 @@ data/
 .idea/
 .DS_Store
 
-# UV Lock and Version (Optional: keep if you want reproducible builds)
+# UV Lock and Version (Optional)
 # .python-version
 # uv.lock
