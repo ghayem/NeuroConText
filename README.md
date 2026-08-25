@@ -101,7 +101,8 @@ This work is supported by the KARAIB AI chair (ANR-20-CHIA-0025-01), the ANR-22-
 
 ## Citation
 
-Thank you for using NeuroConText! If you use this code, please cite:
+Thank you for using NeuroConText! 
+If you use this code, please cite:
 
 ```bibtex
 @article{ghayem2026neurocontext,
