@@ -1,7 +1,7 @@
 [project]
 name = "neurocontext"
 version = "0.1.0"
-description = "Add your description here"
+description = "Contrastive learning for neuroscience meta-analysis with rich text representation"
 readme = "README.md"
 requires-python = ">=3.10.9"
 
